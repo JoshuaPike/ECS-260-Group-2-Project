@@ -30,11 +30,11 @@ X = sm.add_constant(X)
 ols, summary = simple_linear_regression(X, y)
 print(summary)
 
-plt.rc('figure', figsize=(12, 7))
-plt.text(0.01, 0.05, str(summary), {'fontsize': 10}, fontproperties = 'monospace') # approach improved by OP -> monospace!
-plt.axis('off')
-plt.tight_layout()
-plt.savefig('ownershipSummary.png')
+# plt.rc('figure', figsize=(8, 4.5))
+# plt.text(0.01, 0.05, str(summary), {'fontsize': 10}, fontproperties = 'monospace') # approach improved by OP -> monospace!
+# plt.axis('off')
+# plt.tight_layout()
+# plt.savefig('ownershipSummary.png')
 
 # --------------------- Linear regression on DMM ---------------------
 df_ = df[["average DMM complexity", "10x label churn"]].dropna()
@@ -45,7 +45,7 @@ X = sm.add_constant(X)
 ols, summary = simple_linear_regression(X, y)
 print(summary)
 
-plt.rc('figure', figsize=(12, 7))
+plt.rc('figure', figsize=(8, 4.5))
 plt.text(0.01, 0.05, str(summary), {'fontsize': 10}, fontproperties = 'monospace') # approach improved by OP -> monospace!
 plt.axis('off')
 plt.tight_layout()
@@ -58,11 +58,11 @@ X = sm.add_constant(X)
 ols, summary = simple_linear_regression(X, y)
 print(summary)
 
-plt.rc('figure', figsize=(12, 7))
-plt.text(0.01, 0.05, str(summary), {'fontsize': 10}, fontproperties = 'monospace') # approach improved by OP -> monospace!
-plt.axis('off')
-plt.tight_layout()
-plt.savefig('commentsSummary.png')
+# plt.rc('figure', figsize=(8, 4.5))
+# plt.text(0.01, 0.05, str(summary), {'fontsize': 10}, fontproperties = 'monospace') # approach improved by OP -> monospace!
+# plt.axis('off')
+# plt.tight_layout()
+# plt.savefig('commentsSummary.png')
 
 # --------------------- Trying Multiple regression ---------------------
 X = []
