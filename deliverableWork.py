@@ -8,6 +8,7 @@ import sys
 import numpy as np
 import statsmodels.api as sm
 import csv
+import matplotlib.pyplot as plt
 
 # pip install numpy
 # pip install statsmodels
@@ -117,16 +118,16 @@ url = ['https://github.com/ishepard/pydriller.git', 'https://github.com/terryyin
        'https://github.com/BabylonJS/Babylon.js', 'https://github.com/mrdoob/three.js',
        'https://github.com/KhronosGroup/WebGL']
 
-localPaths = ['../three.js']
+localPaths = ['../three.js', '../WebGL', '../velocity', '../toolkit']
 
 # branch = ['dev']
-
-dates = [datetime(2021, 2, 1, 0, 0, 0), datetime(2021, 11, 5, 0, 0, 0)]
+# Third date is for WebGL
+dates = [datetime(2021, 3, 1, 0, 0, 0), datetime(2021, 11, 5, 0, 0, 0), datetime(2017, 1, 1, 0, 0, 0)]
 # dt1 = datetime(2021, 1, 1, 0, 0, 0)
 # dt2 = datetime(2021, 11, 5, 0, 0, 0)
 
 # curRepo = Repository(url[3], since=dt1, to=dt2)
-curRepo = Repository(localPaths[0], since=dates[0], to=dates[1])
+curRepo = Repository(localPaths[1], since=dates[2], to=dates[1])
 
 # keep track of number of comments added: Need this so we can find average number of comments added per
 # commit for each contributor
@@ -163,14 +164,14 @@ for commit in curRepo.traverse_commits():
         contributorDict[name][0] += lines
         contributorDict[name][1] += 1
         contributorDict[name][3] = commitTime
-    print('Done with contributorDict')
+    # print('Done with contributorDict')
     dmmComp = commit.dmm_unit_complexity
     if dmmComp:
         if name not in dmmComplexityDict:
             dmmComplexityDict[name] = [dmmComp]
         else:
             dmmComplexityDict[name].append(dmmComp)
-    print('Done with dmmComplexityDict')
+    # print('Done with dmmComplexityDict')
     totalCommentsAddedThisCommit = 0
     for modified_file in commit.modified_files:
         # Get comments, only looking at javascript right now
@@ -196,7 +197,7 @@ for commit in curRepo.traverse_commits():
         commentDict[name] = [totalCommentsAddedThisCommit]
     else:
         commentDict[name].append(totalCommentsAddedThisCommit)
-    print('Done with commentDict')
+    # print('Done with commentDict')
 
 totalChurn = 0
 totalCommits = 0
@@ -259,7 +260,7 @@ tenTimesLabelCommitDict = label_10x_engineers_churn(contributorDict, prodCommitA
 # Dont care about complexity right now
 # Dict of all data we want to put into csv for analysis and regression models
 dataToBePutInCSV = {}
-print('putting data in dict for csv')
+# print('putting data in dict for csv')
 for name in tenTimesLabelChurnDict:
     dataToBePutInCSV[name] = [tenTimesLabelChurnDict[name]]
 
@@ -304,8 +305,8 @@ for name in dataToBePutInCSV:
                     'num owned files': dataToBePutInCSV[name][8],
                     'average DMM complexity': dataToBePutInCSV[name][9],
                     'average comments added': dataToBePutInCSV[name][10]})
-
-with open('threejsData.csv', 'w+') as csvfile:
+print(csvDict)
+with open('webGL.csv', 'w+', encoding='utf-8') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=fields)
     writer.writeheader()
     writer.writerows(csvDict)

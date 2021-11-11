@@ -307,7 +307,7 @@ def write_to_csv(dataToBePutInCSV, filename):
                         'average DMM complexity': dataToBePutInCSV[name][9],
                         'average comments added': dataToBePutInCSV[name][10]})
 
-    with open(filename, 'w+') as csvfile:
+    with open(filename, 'w+', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fields)
         writer.writeheader()
         writer.writerows(csvDict)

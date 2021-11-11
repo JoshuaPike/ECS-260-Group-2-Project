@@ -15,10 +15,8 @@ localPaths = ['../pydriller', '../three.js', '../WebGL', '../velocity', '../tool
 
 # branch = ['dev']
 
-# dates for three.js, webGL, and
-dates = [datetime(2021, 9, 1, 0, 0, 0), datetime(2021, 11, 5, 0, 0, 0), datetime(2020, 10, 5, 0, 0, 0)]
-# dt1 = datetime(2021, 1, 1, 0, 0, 0)
-# dt2 = datetime(2021, 11, 5, 0, 0, 0)
+# dates for three.js, webGL
+dates = [datetime(2021, 3, 1, 0, 0, 0), datetime(2021, 11, 5, 0, 0, 0), datetime(2017, 1, 1, 0, 0, 0)]
 
 pydrillerRepo = Repository(localPaths[0])
 
