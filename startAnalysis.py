@@ -34,21 +34,21 @@ toolkitRepo = Repository(localPaths[4])
 # -------------- WARNING MINING FOR THE REPOS WILL TAKE A VERY LONG TIME --------------
 
 
-# print('Starting to mine pydriller...')
-# mine_repo(pydrillerRepo, 'Python', 'pydrillerData.csv')
+print('Starting to mine pydriller...')
+mine_repo(pydrillerRepo, 'Python', 'pydrillerData.csv')
 
 print('Done with pydriller... Starting to mine threejs')
 # From 2/1/2021 to 11/5/2021
 mine_repo(threejsRepo, 'JavaScript', 'threejsData.csv')
-#
-# print('Done with threejs... Starting to mine webGL')
-# # From 10/5/2020 to 11/5/2021
-# mine_repo(webGLRepo, 'JavaScript', 'webGLData.csv')
-#
-# print('Done with webGL... Starting to mine velocity')
-# mine_repo(velocityRepo, 'JavaScript', 'velocityData.csv')
-#
-# print('Done with velocity... Starting to mine toolkit')
-# mine_repo(toolkitRepo, 'JavaScript', 'toolkitData.csv')
-#
-# print('Finished mining')
+
+print('Done with threejs... Starting to mine webGL')
+# From 10/5/2020 to 11/5/2021
+mine_repo(webGLRepo, 'JavaScript', 'webGLData.csv')
+
+print('Done with webGL... Starting to mine velocity')
+mine_repo(velocityRepo, 'JavaScript', 'velocityData.csv')
+
+print('Done with velocity... Starting to mine toolkit')
+mine_repo(toolkitRepo, 'JavaScript', 'toolkitData.csv')
+
+print('Finished mining')

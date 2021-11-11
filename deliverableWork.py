@@ -127,7 +127,8 @@ dates = [datetime(2021, 3, 1, 0, 0, 0), datetime(2021, 11, 5, 0, 0, 0), datetime
 # dt2 = datetime(2021, 11, 5, 0, 0, 0)
 
 # curRepo = Repository(url[3], since=dt1, to=dt2)
-curRepo = Repository(localPaths[1], since=dates[2], to=dates[1])
+# curRepo = Repository(localPaths[1], since=dates[2], to=dates[1])
+curRepo = Repository(localPaths[3])
 
 # keep track of number of comments added: Need this so we can find average number of comments added per
 # commit for each contributor
@@ -306,7 +307,7 @@ for name in dataToBePutInCSV:
                     'average DMM complexity': dataToBePutInCSV[name][9],
                     'average comments added': dataToBePutInCSV[name][10]})
 print(csvDict)
-with open('webGL.csv', 'w+', encoding='utf-8') as csvfile:
+with open('toolkitData.csv', 'w+', encoding='utf-8') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=fields)
     writer.writeheader()
     writer.writerows(csvDict)

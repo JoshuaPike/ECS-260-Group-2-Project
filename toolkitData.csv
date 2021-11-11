@@ -1,0 +1,6 @@
+name,10x label churn,10x label commits,churn,num commits,churn productivity,commit productivity,first commit,last commit,num owned files,average DMM complexity,average comments added
+Miles Johnson,0,1,875240,1674,3052.655705032387,5.838565022421524,10/25/2011,04/23/2017,2074,0.8840623085140763,0.5567502986857825
+Chris Rebert,0,0,8,1,0,0,09/06/2014,09/06/2014,0,,0.0
+Michael White,0,0,4,1,0,0,12/14/2014,12/14/2014,0,,0.0
+Lucas Fernandes da Costa,0,0,7,1,0,0,01/08/2015,01/08/2015,0,,0.0
+wataru,0,0,2,1,0,0,07/13/2015,07/13/2015,0,,0.0
