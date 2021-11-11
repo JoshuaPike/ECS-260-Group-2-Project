@@ -12,6 +12,8 @@ import csv
 # pip install numpy
 # pip install statsmodels
 
+sys.setrecursionlimit(100000)
+
 # Returns number of comments from source code, works for python repos only
 def get_num_comments_python(source_code):
     comCount = 0
