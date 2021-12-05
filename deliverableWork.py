@@ -67,8 +67,7 @@ def get_file_owners(repo):
             lines_authored = modified_file.added_lines + modified_file.deleted_lines
 
             files[filepath] = files.get(filepath, {})
-            files[filepath][author] = files[filepath].get(author, 0) + \
-                                      lines_authored
+            files[filepath][author] = files[filepath].get(author, 0) + lines_authored
 
     for path, contributions in list(files.items()):
         owner = emailToNameDict[max(contributions, key=contributions.get)]
@@ -93,26 +92,15 @@ def calc_num_owned_files(files):
 
 
 # Takes in the contributor dictionary and average churn productivity and returns a dict, name is key, value is 0 if not 10x, 1 if is 10x
-def label_10x_engineers_churn(contribDict, aveChurnProd):
-    tenTimesDict = {}
+def label_10x_engineers_churn(contribDict, aveProd):
     for contributor in contribDict:
-        if contribDict[contributor][4] >= 10*aveChurnProd:
-            tenTimesDict[contributor] = 1
-        else:
-            tenTimesDict[contributor] = 0
-    return tenTimesDict
+        if contribDict[contributor][7] >= 10*aveProd:
+            contribDict[contributor][1] = 1
 
-
-# Takes in the contributor dictionary and average commit productivity and returns a dict, name is key, value is 0 if not 10x, 1 if is 10x
-def label_10x_engineers_commits(contribDict, aveCommitProd):
-    tenTimesDict = {}
+def label_10x_engineers_commits(contribDict, aveProd):
     for contributor in contribDict:
-        if contribDict[contributor][5] >= 10 * aveCommitProd:
-            tenTimesDict[contributor] = 1
-        else:
-            tenTimesDict[contributor] = 0
-    return tenTimesDict
-
+        if contribDict[contributor][8] >= 10*aveProd:
+            contribDict[contributor][2] = 1
 
 url = ['https://github.com/ishepard/pydriller.git', 'https://github.com/terryyin/lizard',
        'https://github.com/BabylonJS/Babylon.js', 'https://github.com/mrdoob/three.js',
@@ -128,53 +116,66 @@ dates = [datetime(2021, 3, 1, 0, 0, 0), datetime(2021, 11, 5, 0, 0, 0), datetime
 
 # curRepo = Repository(url[3], since=dt1, to=dt2)
 # curRepo = Repository(localPaths[1], since=dates[2], to=dates[1])
-curRepo = Repository(localPaths[3])
+curRepo = Repository(localPaths[2])
 
 # keep track of number of comments added: Need this so we can find average number of comments added per
 # commit for each contributor
 # Keep track of cyclomatic complexity of changed methods
 # Keep track of number of owned files
 
-# Uses name as key gives back [churn, num of commits, first commit, last commit, Churn productivity, Commit productivity]
 contributorDict = {}
 
-# Uses name as key gives back [[old complexity, new complexity]]
-complexityDict = {}
-
-# Uses name as key gives back list of the DMM complexity for each of their commits
-dmmComplexityDict = {}
-
-# Uses name as key gives back list of # of comments added for each commit
-commentDict = {}
-
-# Uses name as key gives back number of owned files
-ownerDict = calc_num_owned_files(get_file_owners(curRepo))
+# dicts to get ownership
+renamed_files = {}
+files = {}
+emailToName = {}
 
 commitCount = 0
+
+# contributor dict takes name as key:
+# [[emails], 10x label churn, 10x label commits, churn, number of commits, date of first commit, date of last commit, churn productivity, commit productivity, number of owned files,
+# sum of contributors DMM complexities, number of commits where there is a DMM complexity, number of comments added/removed]
 
 for commit in curRepo.traverse_commits():
     print('Commit #: ', commitCount)
     commitCount+=1
     name = commit.author.name
+    email = commit.author.email.strip()
     lines = commit.lines
     commitTime = commit.committer_date.strftime("%m/%d/%Y")
+
+    if email not in emailToName:
+        emailToName[email] = name
+
     if name not in contributorDict:
-        contributorDict[name] = [lines, 1, commitTime,
-                                                 commitTime]
+        contributorDict[name] = [[email], 0, 0, lines, 1, commitTime, commitTime, 0, 0, 0, 0, 0, 0]
     else:
-        contributorDict[name][0] += lines
-        contributorDict[name][1] += 1
-        contributorDict[name][3] = commitTime
+        contributorDict[name][3] += lines
+        contributorDict[name][4] += 1
+        contributorDict[name][6] = commitTime
+    if email not in contributorDict[name][0]:
+        contributorDict[name][0].append(email)
+
     # print('Done with contributorDict')
     dmmComp = commit.dmm_unit_complexity
     if dmmComp:
-        if name not in dmmComplexityDict:
-            dmmComplexityDict[name] = [dmmComp]
-        else:
-            dmmComplexityDict[name].append(dmmComp)
-    # print('Done with dmmComplexityDict')
+        contributorDict[name][10] += dmmComp
+        contributorDict[name][11] += 1
+
     totalCommentsAddedThisCommit = 0
     for modified_file in commit.modified_files:
+        # Ownership
+        filepath = renamed_files.get(modified_file.new_path,
+                                     modified_file.new_path)
+
+        if modified_file.change_type == ModificationType.RENAME:
+            renamed_files[modified_file.old_path] = filepath
+
+        lines_authored = modified_file.added_lines + modified_file.deleted_lines
+
+        files[filepath] = files.get(filepath, {})
+        files[filepath][email] = files[filepath].get(email, 0) + lines_authored
+
         # Get comments, only looking at javascript right now
         source_code = modified_file.source_code
         source_code_before = modified_file.source_code_before
@@ -187,127 +188,78 @@ for commit in curRepo.traverse_commits():
 
         commentsAdded = commentCountPost - commentCountPre
         totalCommentsAddedThisCommit += commentsAdded
+    contributorDict[name][12] += totalCommentsAddedThisCommit
 
-        # complexities = get_pre_and_post_complexities(modified_file)
-        # for c in complexities:
-        #     if name not in complexityDict:
-        #         complexityDict[name] = [complexities[c]]
-        #     else:
-        #         complexityDict[name].append(complexities[c])
-    if name not in commentDict:
-        commentDict[name] = [totalCommentsAddedThisCommit]
+print('Done getting data from repo')
+
+# Put num of owned files in contributor dict
+for path, contributions in list(files.items()):
+    owner = max(contributions, key=contributions.get)
+    total = sum(contributions.values())
+    if total == 0:
+        del files[path]
     else:
-        commentDict[name].append(totalCommentsAddedThisCommit)
-    # print('Done with commentDict')
+        # add one owned file to contributor dict
+        contributorDict[emailToName[owner]][9] += 1
 
 totalChurn = 0
 totalCommits = 0
-print('Done getting data from repo')
 for name in contributorDict:
-    churn = contributorDict[name][0]
-    commits = contributorDict[name][1]
+    churn = contributorDict[name][3]
+    commits = contributorDict[name][4]
     totalChurn += churn
     totalCommits += commits
-    first = datetime.strptime(contributorDict[name][2], "%m/%d/%Y")
-    last = datetime.strptime(contributorDict[name][3], "%m/%d/%Y")
+    first = datetime.strptime(contributorDict[name][5], "%m/%d/%Y")
+    last = datetime.strptime(contributorDict[name][6], "%m/%d/%Y")
     tenure = abs((last - first).days) / 7
     productivityChurn = 0
     productivityCommit = 0
     if tenure != 0:
         productivityChurn = churn/tenure
         productivityCommit = commits/tenure
-    contributorDict[name].append(productivityChurn)
-    contributorDict[name].append(productivityCommit)
-
-# Average churn and number of commits for all contributors
-averageChurn = totalChurn / len(contributorDict)
-averageCommits = totalCommits / len(contributorDict)
+    contributorDict[name][7] = productivityChurn
+    contributorDict[name][8] = productivityCommit
 
 prodChurnTotal = 0
 prodCommitTotal = 0
 # Calculate average productivity
 for values in contributorDict.values():
-    prodChurnTotal += values[4]
-    prodCommitTotal += values[5]
+    prodChurnTotal += values[7]
+    prodCommitTotal += values[8]
 prodChurnAve = prodChurnTotal / len(contributorDict)
 prodCommitAve = prodCommitTotal / len(contributorDict)
 
-# Get average comments added per commit and average DMM Complexity per commit for each contributor
-# Dict where name is key, average comments added per commit is value
-averageCommentsAdded = {}
-
-for name in commentDict:
-    aveComments = 0
-    for numCommentsAdded in commentDict[name]:
-        aveComments += numCommentsAdded
-    aveComments = aveComments / len(commentDict[name])
-    averageCommentsAdded[name] = aveComments
-
-# Dict where name is key, average DMM complexity is value
-averageDMMComplexity = {}
-for name in dmmComplexityDict:
-    aveDMM = 0
-    for dmmComp in dmmComplexityDict[name]:
-        aveDMM += dmmComp
-    aveDMM = aveDMM / len(dmmComplexityDict[name])
-    averageDMMComplexity[name] = aveDMM
-
 # Now we label who is a 10x engineer as those who have a productivity metric 10x greater than the average
-# Key is name, value is 0 if not 10x engineer, 1 if is 10x engineer
-tenTimesLabelChurnDict = label_10x_engineers_churn(contributorDict, prodChurnAve)
-tenTimesLabelCommitDict = label_10x_engineers_churn(contributorDict, prodCommitAve)
+# I have it where we make an entirely new dict, just add it to contributor dict
+label_10x_engineers_churn(contributorDict, prodChurnAve)
+label_10x_engineers_commits(contributorDict, prodCommitAve)
 
-# We want name: [10x label churn, 10x label commits, churn, num commits, churn productivity, commit productivity, first commit, last commit, num owned files, average DMM complexity, average comments added]
-# Dont care about complexity right now
-# Dict of all data we want to put into csv for analysis and regression models
-dataToBePutInCSV = {}
-# print('putting data in dict for csv')
-for name in tenTimesLabelChurnDict:
-    dataToBePutInCSV[name] = [tenTimesLabelChurnDict[name]]
+# print('Contributor Dict: ', contributorDict)
 
-for name in tenTimesLabelCommitDict:
-    dataToBePutInCSV[name].append(tenTimesLabelCommitDict[name])
+fields = ['name', 'emails', '10x label churn', '10x label commits', 'churn', 'num commits', 'first commit',
+          'last commit', 'churn productivity', 'commit productivity', 'num owned files', 'sum of dmm complexities',
+          'commits with dmm complexity present', 'num comments added/removed']
 
-for name in contributorDict:
-    dataToBePutInCSV[name].extend([contributorDict[name][0], contributorDict[name][1], contributorDict[name][4],
-                                   contributorDict[name][5], contributorDict[name][2], contributorDict[name][3]])
-    dataToBePutInCSV[name].append(0)
-    dataToBePutInCSV[name].append(None)
-
-for name in ownerDict:
-    dataToBePutInCSV[name][-2] = ownerDict[name]
-
-for name in averageDMMComplexity:
-    dataToBePutInCSV[name][-1] = averageDMMComplexity[name]
-
-for name in averageCommentsAdded:
-    dataToBePutInCSV[name].append(averageCommentsAdded[name])
-
-print('Contributor Dict: ', contributorDict)
-print('label churn orig: ', tenTimesLabelChurnDict)
-print('label commit orig: ', tenTimesLabelCommitDict)
-print('Data to be put in CSV: ', dataToBePutInCSV)
-
-fields = ['name', '10x label churn', '10x label commits', 'churn', 'num commits', 'churn productivity',
-          'commit productivity', 'first commit', 'last commit', 'num owned files', 'average DMM complexity',
-          'average comments added']
 csvDict = []
 
-for name in dataToBePutInCSV:
+for name in contributorDict:
     csvDict.append({'name': name,
-                    '10x label churn': dataToBePutInCSV[name][0],
-                    '10x label commits': dataToBePutInCSV[name][1],
-                    'churn': dataToBePutInCSV[name][2],
-                    'num commits': dataToBePutInCSV[name][3],
-                    'churn productivity': dataToBePutInCSV[name][4],
-                    'commit productivity': dataToBePutInCSV[name][5],
-                    'first commit': dataToBePutInCSV[name][6],
-                    'last commit': dataToBePutInCSV[name][7],
-                    'num owned files': dataToBePutInCSV[name][8],
-                    'average DMM complexity': dataToBePutInCSV[name][9],
-                    'average comments added': dataToBePutInCSV[name][10]})
-print(csvDict)
-with open('toolkitData.csv', 'w+', encoding='utf-8') as csvfile:
+                    'emails': '#'.join(contributorDict[name][0]),
+                    '10x label churn': contributorDict[name][1],
+                    '10x label commits': contributorDict[name][2],
+                    'churn': contributorDict[name][3],
+                    'num commits': contributorDict[name][4],
+                    'first commit': contributorDict[name][5],
+                    'last commit': contributorDict[name][6],
+                    'churn productivity': contributorDict[name][7],
+                    'commit productivity': contributorDict[name][8],
+                    'num owned files': contributorDict[name][9],
+                    'sum of dmm complexities': contributorDict[name][10],
+                    'commits with dmm complexity present': contributorDict[name][11],
+                    'num comments added/removed': contributorDict[name][12]})
+
+# print(csvDict)
+with open('newVelocityData.csv', 'w+', encoding='utf-8') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=fields)
     writer.writeheader()
     writer.writerows(csvDict)
