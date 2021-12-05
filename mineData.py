@@ -1,6 +1,6 @@
 from pydriller import *
 from pydriller.metrics.process.contributors_experience import ContributorsExperience
-from datetime import datetime
+from datetime import datetime, timedelta
 import lizard
 from lizard_languages.python import PythonReader
 from lizard_languages.javascript import JavaScriptReader
@@ -8,6 +8,7 @@ import sys
 import numpy as np
 import statsmodels.api as sm
 import csv
+import os
 
 # pip install numpy
 # pip install statsmodels
@@ -102,8 +103,32 @@ def label_10x_engineers_commits(contribDict, aveProd):
         if contribDict[contributor][8] >= 10*aveProd:
             contribDict[contributor][2] = 1
 
-#
-def mine_in_batches(pathToRepo, startDate = None, endDate = None):
+# batch_size is a timeDelta
+def mine_in_batches(path_to_repo, language, start_date, end_date, nameOfRepo, batch_size):
+    # end on the first of a month, start on first of a month
+    if start_date >= end_date:
+        print('Start date is later than or the same as end date')
+
+    # Make the directory if it doesn't exist
+    dir_name = 'Data/Batch Data/' + nameOfRepo + ' Batches'
+    if not os.path.exists(dir_name):
+        os.mkdir(dir_name)
+
+    batch_start_date = start_date
+    batch_end_date = start_date + batch_size    
+    while batch_start_date < end_date:
+        if end_date < batch_end_date:
+            batch_end_date = end_date
+        print('Batch start: ' + batch_start_date.strftime("%m-%d-%Y"))
+        print('Batch end: ' + batch_end_date.strftime("%m-%d-%Y"))
+        cur_batch_repo = Repository(path_to_repo, since=batch_start_date, to=batch_end_date)
+        csv_filename = dir_name + '/' + nameOfRepo + ' ' + batch_start_date.strftime("%m-%d-%Y") + ' to ' + \
+                       batch_end_date.strftime("%m-%d-%Y") + '.csv'
+
+        mine_repo(cur_batch_repo, language, csv_filename)
+
+        batch_start_date += batch_size
+        batch_end_date += batch_size
 
 
 # Function that mines a repo thats written in either Python or JavaScript and puts this data in a csv with given filename

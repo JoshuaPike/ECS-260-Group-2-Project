@@ -1,7 +1,7 @@
 from pydriller import *
-from datetime import datetime
+from datetime import datetime, timedelta
 import csv
-from mineData import mine_repo
+from mineData import mine_repo, mine_in_batches
 import sys
 
 sys.setrecursionlimit(10000)
@@ -31,6 +31,13 @@ velocityRepo = Repository(localPaths[3])
 # toolkit has 1678 total commits
 toolkitRepo = Repository(localPaths[4])
 
+# Testing batches
+test_start_date = datetime(2017, 1, 1)
+test_end_date = datetime(2018, 1, 1)
+batch_size = timedelta(days=30)
+# mine_in_batches(localPaths[2], 'JavaScript', test_start_date, test_end_date, 'WebGL_batch_test_diff_tenure', batch_size)
+repo = Repository(localPaths[2], since=test_start_date, to=datetime(2017, 5, 1, 0, 0, 0))
+mine_repo(repo, 'JavaScript', 'Data/Batch Data/WebGL_batch_test_diff_tenure Batches/First 4 Batches.csv')
 # -------------- WARNING MINING FOR THE REPOS WILL TAKE A VERY LONG TIME --------------
 
 
@@ -46,7 +53,7 @@ toolkitRepo = Repository(localPaths[4])
 # mine_repo(webGLRepo, 'JavaScript', 'webGLData.csv')
 #
 # print('Done with webGL... Starting to mine velocity')
-mine_repo(velocityRepo, 'JavaScript', 'velocityDataTestBeforeBatches.csv')
+# mine_repo(velocityRepo, 'JavaScript', 'velocityDataTestBeforeBatches.csv')
 #
 # print('Done with velocity... Starting to mine toolkit')
 # mine_repo(toolkitRepo, 'JavaScript', 'toolkitData.csv')

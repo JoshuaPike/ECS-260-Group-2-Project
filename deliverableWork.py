@@ -110,13 +110,13 @@ localPaths = ['../three.js', '../WebGL', '../velocity', '../toolkit']
 
 # branch = ['dev']
 # Third date is for WebGL
-dates = [datetime(2021, 3, 1, 0, 0, 0), datetime(2021, 11, 5, 0, 0, 0), datetime(2017, 1, 1, 0, 0, 0)]
+dates = [datetime(2017, 3, 17, 0, 0, 0), datetime(2017, 3, 18, 0, 0, 0), datetime(2017, 7, 10, 0, 0, 0)]
 # dt1 = datetime(2021, 1, 1, 0, 0, 0)
 # dt2 = datetime(2021, 11, 5, 0, 0, 0)
 
 # curRepo = Repository(url[3], since=dt1, to=dt2)
 # curRepo = Repository(localPaths[1], since=dates[2], to=dates[1])
-curRepo = Repository(localPaths[2])
+curRepo = Repository(localPaths[2], since=dates[0], to=dates[2])
 
 # keep track of number of comments added: Need this so we can find average number of comments added per
 # commit for each contributor
@@ -259,7 +259,7 @@ for name in contributorDict:
                     'num comments added/removed': contributorDict[name][12]})
 
 # print(csvDict)
-with open('newVelocityData.csv', 'w+', encoding='utf-8') as csvfile:
+with open('Data/Date Tests/dateTestTotalSecond.csv', 'w+', encoding='utf-8') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=fields)
     writer.writeheader()
     writer.writerows(csvDict)
