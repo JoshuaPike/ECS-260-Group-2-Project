@@ -119,11 +119,11 @@ def mine_in_batches(path_to_repo, language, start_date, end_date, nameOfRepo, ba
     while batch_start_date < end_date:
         if end_date < batch_end_date:
             batch_end_date = end_date
-        print('Batch start: ' + batch_start_date.strftime("%m-%d-%Y"))
-        print('Batch end: ' + batch_end_date.strftime("%m-%d-%Y"))
+        # print('Batch start: ' + batch_start_date.strftime("%m-%d-%Y"))
+        # print('Batch end: ' + batch_end_date.strftime("%m-%d-%Y"))
         cur_batch_repo = Repository(path_to_repo, since=batch_start_date, to=batch_end_date)
-        csv_filename = dir_name + '/' + nameOfRepo + ' ' + batch_start_date.strftime("%m-%d-%Y") + ' to ' + \
-                       batch_end_date.strftime("%m-%d-%Y") + '.csv'
+        csv_filename = dir_name + '/' + nameOfRepo + ' ' + batch_start_date.strftime("%Y-%m-%d") + ' to ' + \
+                       batch_end_date.strftime("%Y-%m-%d") + '.csv'
 
         mine_repo(cur_batch_repo, language, csv_filename)
 
@@ -145,15 +145,15 @@ def mine_repo(repo, language, filename):
     files = {}
     emailToName = {}
 
-    commitCount = 0
+    # commitCount = 0
 
     # contributor dict takes name as key:
     # [[emails], 10x label churn, 10x label commits, churn, number of commits, date of first commit, date of last commit, churn productivity, commit productivity, number of owned files,
     # sum of contributors DMM complexities, number of commits where there is a DMM complexity, number of comments added/removed]
 
     for commit in repo.traverse_commits():
-        print('Commit #: ', commitCount)
-        commitCount += 1
+        # print('Commit #: ', commitCount)
+        # commitCount += 1
         name = commit.author.name
         email = commit.author.email.strip()
         lines = commit.lines
@@ -250,8 +250,12 @@ def mine_repo(repo, language, filename):
     for values in contributorDict.values():
         prodChurnTotal += values[7]
         prodCommitTotal += values[8]
-    prodChurnAve = prodChurnTotal / len(contributorDict)
-    prodCommitAve = prodCommitTotal / len(contributorDict)
+
+    prodChurnAve = -1
+    prodCommitAve = -1
+    if len(contributorDict) != 0:
+        prodChurnAve = prodChurnTotal / len(contributorDict)
+        prodCommitAve = prodCommitTotal / len(contributorDict)
 
     # Now we label who is a 10x engineer as those who have a productivity metric 10x greater than the average
     # I have it where we make an entirely new dict, just add it to contributor dict
