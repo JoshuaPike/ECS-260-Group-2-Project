@@ -1,0 +1,18 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+He Yunchao,yunchao.he@intel.com,0,0,40,1,08/01/2016,08/01/2016,0,0,2,0.8421052631578947,1,-7
+Ken Russell,kbrussel@alum.mit.edu,0,0,3069,24,08/03/2016,08/29/2016,826.2692307692307,6.461538461538462,7,0,0,2
+zhenyao,zmo@chromium.org,0,0,1415,18,08/04/2016,08/29/2016,396.2,5.04,11,0,0,0
+jchen10,jie.a.chen@intel.com,0,0,203,3,08/05/2016,08/27/2016,64.5909090909091,0.9545454545454546,2,0,0,4
+Qiankun Miao,qiankun.miao@intel.com,0,0,474,5,08/06/2016,08/15/2016,368.66666666666663,3.8888888888888884,12,1.0,1,30
+Gregg Tavares,github@greggman.com,0,0,85,1,08/09/2016,08/09/2016,0,0,2,0,0,0
+Kevin Gibbons,bakkot@google.com,0,0,455,1,08/08/2016,08/08/2016,0,0,7,0,0,21
+Yizhou Jiang,yizhou.jiang@intel.com,0,0,327,3,08/09/2016,08/16/2016,327.0,3.0,2,0,0,3
+Zhenyao Mo,zmo@chromium.org,0,0,1006,6,08/10/2016,08/25/2016,469.4666666666667,2.8000000000000003,0,1.5103092783505154,2,24
+jdashg,jdashg@gmail.com,0,0,746,1,08/12/2016,08/12/2016,0,0,2,0,0,2
+Shao,jiawei.shao@intel.com,0,0,295,1,08/16/2016,08/16/2016,0,0,2,0,0,0
+Dongseong Hwang,dongseong.hwang@intel.com,0,0,29,1,08/23/2016,08/23/2016,0,0,1,0,0,4
+Kai Ninomiya,kainino@chromium.org,0,0,224,2,08/25/2016,08/29/2016,392.0,3.5,3,0,0,5
+Geoff Lang,geoff@vonture.net,0,0,2,1,08/25/2016,08/25/2016,0,0,0,1.0,1,1
+Yang Gu,yang.gu@intel.com,0,0,25,1,08/26/2016,08/26/2016,0,0,0,0,0,-2
+Kenneth Russell,kbrussel@alum.mit.edu,0,0,87,1,08/26/2016,08/26/2016,0,0,0,0,0,5
+Olli Etuaho,oetuaho@nvidia.com,0,0,69,1,08/29/2016,08/29/2016,0,0,1,0,0,0

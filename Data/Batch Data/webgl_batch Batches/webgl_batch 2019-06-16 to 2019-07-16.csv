@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+狄学长ShrekShao,shrekshao@google.com,0,0,62,1,06/17/2019,06/17/2019,0,0,1,0.18181818181818182,1,1
+Ken Russell,kbrussel@alum.mit.edu,0,0,10,1,06/28/2019,06/28/2019,0,0,1,0,0,1
+Jeff Gilbert,jgilbert@mozilla.com,0,0,102,3,07/02/2019,07/12/2019,71.39999999999999,2.1,8,1.0,1,0
+Tobin Ehlis,tobine@google.com,0,0,4,1,07/03/2019,07/03/2019,0,0,1,0,0,0

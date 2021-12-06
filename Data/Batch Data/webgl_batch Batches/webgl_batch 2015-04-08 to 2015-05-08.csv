@@ -1,0 +1,14 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ken Russell,kbrussel@alum.mit.edu,1,0,41607,32,04/08/2015,05/05/2015,10787.0,8.296296296296296,8,1.0,1,1
+legend,guanxian.li@intel.com,0,0,695,5,04/09/2015,04/30/2015,231.66666666666666,1.6666666666666667,9,0,0,3
+Olli Etuaho,oetuaho@nvidia.com,0,0,376,11,04/09/2015,05/07/2015,94.0,2.75,18,1.0,1,0
+Brandon Jones,tojiro@gmail.com#bajones@chromium.org,0,0,453,9,04/09/2015,05/07/2015,113.25,2.25,1,0,0,0
+Janusz Sobczak,janusz.sobczak@mobica.com,0,0,4576,1,04/09/2015,04/09/2015,0,0,3,0.6471494607087828,1,-30
+He Yunchao,yunchao.he@intel.com,0,0,523,7,04/10/2015,04/28/2015,203.38888888888889,2.722222222222222,6,2.0,2,6
+キャロウ　マーク,github@erewhon0.net,0,0,49,1,04/12/2015,04/12/2015,0,0,1,0,0,0
+Matthew Ng,matthewn@nvidia.com,0,0,470,5,04/15/2015,05/07/2015,149.54545454545456,1.590909090909091,5,0,0,0
+hendrikw,hendrikw@chromium.org,0,0,115,2,04/15/2015,04/15/2015,0,0,2,0.6226415094339622,1,0
+zhenyao,zmo@chromium.org,0,0,277,5,04/23/2015,04/27/2015,484.75,8.75,0,0,0,0
+jdashg,jdashg+github@gmail.com,0,0,32,3,04/24/2015,04/27/2015,74.66666666666667,7.0,1,0,0,0
+Jamie Madill,jmadill@chromium.org,0,0,124,2,04/27/2015,04/30/2015,289.33333333333337,4.666666666666667,2,0,0,0
+Marco R. Pérez,marco.perez@mobica.com,0,0,34965,1,04/28/2015,04/28/2015,0,0,108,0.6101922217255252,1,1514

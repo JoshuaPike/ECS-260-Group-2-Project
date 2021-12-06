@@ -1,6 +1,29 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import statsmodels.api as sm
+import os
+import glob
+from datetime import datetime, timedelta
+
+def make_batch_data_monthly(nameOfRepo, batch_size, data_end_date):
+    dir_name = 'Data/Batch Data/' + nameOfRepo + ' Batches/Batch Size ' + str(batch_size.days) + '/*.csv'
+    # Don't know if recursive needs to be true for glob. Don't know if files will be sorted when using glob
+    # assume recursive = false and glob returns sorted list
+    file_list = glob.glob(dir_name)
+    if not file_list:
+        print('No csv files in repos directory')
+
+    # file could be empty
+    # Example file name: 2016-11-20 to 2016-12-20.csv
+    running_batch_total = 0
+    for file in file_list:
+        file_start_date = datetime(int(file[0:4]), int(file[5:7]), int(file[8:10]), 0, 0, 0)
+        file_end_date = datetime(int(file[0:4]), int(file[5:7]), int(file[8:10]), 0, 0, 0)
+
+
+
+        # if running_batch_total == 30 or (file_end_date - data_end_date).days == 0
+        # put data in a monthly csv, outside of current directory
 
 # Read in all data
 pydrillerData = pd.read_csv('pydrillerData.csv', encoding = "ISO-8859-1")

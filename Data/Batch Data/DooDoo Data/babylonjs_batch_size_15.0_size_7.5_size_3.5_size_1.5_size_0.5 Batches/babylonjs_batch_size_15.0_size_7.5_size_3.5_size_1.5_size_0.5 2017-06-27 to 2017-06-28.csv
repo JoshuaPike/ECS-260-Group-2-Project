@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+David Rousset,david_rousset@hotmail.com,0,0,36378,2,06/27/2017,06/27/2017,0,0,13,1.0,1,-2
+David Catuhe,david.catuhe@Live.fr#david.catuhe@live.fr,0,0,348,2,06/27/2017,06/27/2017,0,0,1,1.0,1,2
+Julien Moreau-Mathis,moreau-mathis@intechinfo.fr,0,0,64884,7,06/27/2017,06/28/2017,454188.0,49.0,5,3.1746207917129117,4,5
+Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,0,0,39271,3,06/27/2017,06/27/2017,0,0,9,1.3846153846153846,2,10

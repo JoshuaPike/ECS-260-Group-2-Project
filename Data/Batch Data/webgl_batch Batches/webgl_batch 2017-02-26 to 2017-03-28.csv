@@ -1,0 +1,12 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Kai Ninomiya,kainino1@gmail.com#kainino@chromium.org,0,0,330,8,02/27/2017,03/27/2017,82.5,2.0,10,4.0,4,7
+Ken Russell,kbrussel@alum.mit.edu,0,0,30,3,03/01/2017,03/13/2017,17.5,1.75,1,0,0,-1
+Corentin Wallez,corentin@wallez.net,0,0,32,2,03/03/2017,03/03/2017,0,0,1,0,0,0
+James Riordon,webmaster@khronos.org,0,0,195,2,03/06/2017,03/06/2017,0,0,1,0,0,0
+Chen-Han Tsai,chenhan@fullsail.edu,0,0,2,1,03/06/2017,03/06/2017,0,0,1,0,0,0
+zhenyao,zmo@chromium.org,0,0,16,2,03/06/2017,03/06/2017,0,0,4,0,0,0
+JiangYizhou,yizhou.jiang@intel.com,0,0,2,1,03/07/2017,03/07/2017,0,0,1,0,0,0
+Olli Etuaho,olli.etuaho@gmail.com,0,0,618,4,03/08/2017,03/15/2017,618.0,4.0,12,0,0,-2
+Jiajia Qin,jiajia.qin@intel.com,0,0,2,1,03/13/2017,03/13/2017,0,0,1,0,0,0
+Jeff Gilbert,jdashg@gmail.com,0,0,40,1,03/21/2017,03/21/2017,0,0,0,0,0,0
+He Yunchao,yunchao.he@intel.com,0,0,16,1,03/22/2017,03/22/2017,0,0,0,0,0,0

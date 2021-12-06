@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Morton Fox,github@qslw.com,0,0,2,1,03/20/2015,03/20/2015,0,0,0,0,0,1
+Julian Shapiro,julianshapiro@users.noreply.github.com,0,0,10,5,03/20/2015,03/28/2015,8.75,4.375,1,0,0,0
+Jack Wakefield,jack@applinskinner.com,0,0,11,1,03/26/2015,03/26/2015,0,0,1,0,0,0

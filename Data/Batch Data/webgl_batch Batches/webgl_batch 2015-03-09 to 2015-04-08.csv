@@ -1,0 +1,12 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Olli Etuaho,oetuaho@nvidia.com,0,0,993,13,03/09/2015,04/02/2015,289.625,3.791666666666667,17,0,0,14
+zhenyao,zmo@chromium.org,0,0,239,6,03/09/2015,03/11/2015,836.5,21.0,0,0,0,0
+jdashg,jdashg+github@gmail.com,0,0,33,5,03/09/2015,03/11/2015,115.5,17.5,7,0,0,0
+Ken Russell,kbrussel@alum.mit.edu,0,0,82309,45,03/09/2015,04/07/2015,19867.689655172413,10.86206896551724,63,1.5932203389830508,2,168
+Rafael Cintron,rafael.cintron@outlook.com,0,0,15,1,03/09/2015,03/09/2015,0,0,1,0,0,3
+Christophe Riccio,mail@g-truc.net,0,0,542,3,03/10/2015,03/11/2015,3794.0,21.0,2,0,0,0
+He Yunchao,yunchao.he@intel.com,0,0,186,9,03/12/2015,04/07/2015,50.07692307692307,2.423076923076923,5,0.6666666666666666,1,1
+Brandon Jones,tojiro@gmail.com#bajones@chromium.org,0,0,289,8,03/12/2015,04/06/2015,80.92,2.2399999999999998,2,0,0,2
+Janusz Sobczak,janusz.sobczak@mobica.com,0,0,17162,1,03/19/2015,03/19/2015,0,0,32,0.5027783951989331,1,1201
+Dan Glastonbury,dglastonbury@mozilla.com,0,0,26,3,03/24/2015,04/01/2015,22.75,2.625,1,0,0,0
+Matthew Ng,matthewn@nvidia.com,0,0,345,3,03/26/2015,04/01/2015,402.5,3.5,4,0,0,0

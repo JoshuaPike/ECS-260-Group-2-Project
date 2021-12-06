@@ -1,0 +1,11 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Olli Etuaho,olli.etuaho@gmail.com#oetuaho@nvidia.com,0,0,1381,5,09/20/2018,09/26/2018,1611.1666666666667,5.833333333333334,14,0.8137931034482758,1,5
+Ashley (Scirra),ashley@scirra.com,0,0,125,1,09/20/2018,09/20/2018,0,0,0,0,0,0
+Jeff Gilbert,jdashg@gmail.com#jgilbert@mozilla.com,0,0,903,11,09/26/2018,10/17/2018,301.0,3.6666666666666665,19,0,0,-2
+Jiawei Shao,jiawei.shao@intel.com,0,0,138,1,10/03/2018,10/03/2018,0,0,2,0,0,6
+Ilia Mirkin,imirkin@alum.mit.edu,0,0,10,2,10/07/2018,10/07/2018,0,0,1,0,0,0
+Khronos Group Webmaster,webmaster@khronos.org,0,0,1,1,10/10/2018,10/10/2018,0,0,1,0,0,1
+jdashg,jdashg@gmail.com,0,0,126,1,10/16/2018,10/16/2018,0,0,0,0.38095238095238093,1,1
+James Darpinian,jdarpinian@gmail.com,0,0,529,1,10/16/2018,10/16/2018,0,0,3,0,0,2
+Tarek Sherif,tareksherif@protonmail.com,0,0,371,1,10/16/2018,10/16/2018,0,0,6,0,0,0
+Ken Russell,kbrussel@alum.mit.edu,0,0,102,1,10/17/2018,10/17/2018,0,0,1,0,0,4

@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Marco Castelluccio,mcastelluccio@mozilla.com,0,0,30,3,07/26/2019,08/02/2019,30.0,3.0,2,1.0,1,0
+Spadini Davide,spadini.davide@gmail.com,0,0,30,2,07/26/2019,08/03/2019,26.25,1.75,2,0,0,0
+ishepard,spadini.davide@gmail.com,0,0,68,5,07/26/2019,08/01/2019,79.33333333333334,5.833333333333334,0,2.0,2,0

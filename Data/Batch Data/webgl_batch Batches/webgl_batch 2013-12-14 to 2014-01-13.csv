@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ken Russell,kbrussel@alum.mit.edu,0,0,79,4,12/13/2013,01/09/2014,20.48148148148148,1.037037037037037,0,0,0,0
+Olli Etuaho,oetuaho@nvidia.com,0,0,31,2,12/18/2013,01/07/2014,10.85,0.7,2,0,0,1
+Nicolas Capens,nicolascapens@chromium.org#nicolas.capens@gmail.com,0,0,20,2,12/24/2013,12/25/2013,140.0,14.0,2,0,0,0
+Andrew,grizzly33@gmail.com,0,0,370,4,01/10/2014,01/10/2014,0,0,1,0,0,11

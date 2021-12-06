@@ -1,0 +1,13 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+He Yunchao,yunchao.he@intel.com,0,0,720,10,10/31/2016,11/22/2016,229.0909090909091,3.181818181818182,17,1.0,1,8
+Ken Russell,kbrussel@alum.mit.edu,1,0,1152746,24,11/01/2016,11/21/2016,403461.1,8.4,4778,3.4164809486286765,5,11083
+Jeff Gilbert,jdashg@gmail.com,0,0,205,3,11/03/2016,11/22/2016,75.52631578947368,1.1052631578947367,3,0,0,0
+Zhenyao Mo,zmo@chromium.org,0,0,560,6,11/03/2016,11/16/2016,301.53846153846155,3.230769230769231,20,0,0,19
+zhenyao,zmo@chromium.org,0,0,5450,8,11/04/2016,11/17/2016,2934.6153846153843,4.3076923076923075,0,1.0,1,0
+Byungseon Shin,xingri@gmail.com,0,0,123,1,11/08/2016,11/08/2016,0,0,1,0,0,0
+xidachen,xidachen@chromium.org,0,0,4,1,11/08/2016,11/08/2016,0,0,1,0,0,0
+Qiankun Miao,qiankun.miao@intel.com,0,0,117,1,11/09/2016,11/09/2016,0,0,2,0,0,0
+Kai Ninomiya,kainino1@gmail.com#kainino@chromium.org,0,0,630,5,11/10/2016,11/16/2016,735.0,5.833333333333334,5,0.08108108108108109,1,13
+Olli Etuaho,oetuaho@nvidia.com,0,0,228,1,11/11/2016,11/11/2016,0,0,1,0,0,1
+Jiawei Shao,jiawei.shao@intel.com,0,0,4,1,11/22/2016,11/22/2016,0,0,1,0,0,0
+Jamie Madill,jmadill@chromium.org,0,0,66,1,11/24/2016,11/24/2016,0,0,1,0,0,7

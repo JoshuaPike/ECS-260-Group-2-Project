@@ -1,0 +1,24 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+MackeyK24,MackeyK24@gmail.com,0,0,208292,16,03/19/2017,04/10/2017,66274.72727272728,5.090909090909091,4,3.0,3,2
+Benjamin Guignabert,bguignabert@wanadev.fr,0,0,730164,51,03/20/2017,04/18/2017,176246.48275862067,12.310344827586206,37,12.508344797746092,14,603
+Julian,temechon@gmail.com,0,0,1905,14,03/20/2017,04/10/2017,635.0,4.666666666666667,28,2.2777777777777777,3,19
+Temechon,temechon@gmail.com,0,0,19408,32,03/20/2017,04/18/2017,4684.689655172413,7.724137931034482,0,5.552712128054594,7,155
+David Catuhe,david.catuhe@live.fr#davca@microsoft.com#david.catuhe@Live.fr,0,0,1149059,180,03/20/2017,04/18/2017,277359.0689655172,43.44827586206896,160,50.59414665200819,63,5887
+Raanan Weber,info@raananweber.com,0,0,348,15,03/21/2017,04/17/2017,90.22222222222221,3.888888888888889,6,2.8333333333333335,3,8
+NasimiAsl,Nasimiasl@live.com,0,0,913,4,03/22/2017,03/22/2017,0,0,2,1.082262210796915,2,25
+davrous,david_rousset@hotmail.com,0,0,43535,6,03/22/2017,03/24/2017,152372.5,21.0,1,1.5208989648964897,3,0
+nockawa,loic.baumann@outlook.com,0,0,48914,15,03/24/2017,03/30/2017,57066.333333333336,17.5,11,7.666666666666667,8,1
+Loïc Baumann,loic.baumann@outlook.com,0,0,1158,9,03/24/2017,03/30/2017,1351.0,10.5,0,0,0,0
+Jérôme Bousquié,jerome@bousquie.fr,0,0,1,1,03/24/2017,03/24/2017,0,0,2,0,0,1
+yuccai,chanteloup.pierre@gmail.com,0,0,30590,2,03/24/2017,03/24/2017,0,0,0,0,0,0
+Gary Hsu,garyhsu@microsoft.com#bghgary@users.noreply.github.com,0,0,218446,29,03/24/2017,04/17/2017,63713.41666666667,8.458333333333334,16,6.434718051198464,8,101
+sevan,sevan@SEVANSBP,0,0,16547,7,03/25/2017,04/13/2017,6096.263157894737,2.5789473684210527,3,0,0,-4
+jbousquie,jerome@bousquie.fr,0,0,13,1,03/27/2017,03/27/2017,0,0,0,0,0,0
+Mark Lunney (CV Bay Ltd),a-malunn@microsoft.com,0,0,27,2,03/27/2017,03/28/2017,189.0,14.0,1,0,0,0
+Palmer-JC,jeffrey.c.palmer@gmail.com,0,0,885,8,03/30/2017,04/17/2017,344.16666666666663,3.1111111111111107,6,2.5,3,31
+androdlang,johann@langhofer.net,0,0,4,3,04/04/2017,04/04/2017,0,0,0,0,0,0
+Julien Moreau-Mathis,moreau-mathis@intechinfo.fr,0,0,4951,5,04/05/2017,04/11/2017,5776.166666666667,5.833333333333334,4,1.0,1,0
+Jaskar,anthony.gee@live.fr,0,0,41384,15,04/06/2017,04/18/2017,24140.666666666668,8.75,3,4.929919137466307,6,2
+Saurabh Bhatia,saurabh@microsoft.com,0,0,76,5,04/08/2017,04/11/2017,177.33333333333334,11.666666666666668,0,0.2682926829268293,1,2
+Adam Bowman,abowman@gmail.com,0,0,67,1,04/09/2017,04/09/2017,0,0,1,0,0,0
+A. Breust,alexis.breust@gmail.com,0,0,2,1,04/10/2017,04/10/2017,0,0,0,0,0,0

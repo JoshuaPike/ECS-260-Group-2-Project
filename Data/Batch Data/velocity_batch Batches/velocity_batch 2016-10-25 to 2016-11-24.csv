@@ -1,0 +1,6 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Xuehua Cai,pixcai@163.com,0,0,2,1,10/28/2016,10/28/2016,0,0,1,0,0,0
+Aaron Lampros,alampros@gmail.com,0,0,4,1,10/28/2016,10/28/2016,0,0,1,0,0,0
+Ryc O'Chet,rycochet@rycochet.com#Rycochet@users.noreply.github.com,0,0,85,7,10/28/2016,11/21/2016,24.791666666666668,2.041666666666667,5,0.75,1,6
+Sergii Kliuchnyk,redexp@ukr.net,0,0,6,1,10/31/2016,10/31/2016,0,0,0,0,0,0
+Oskar Thornblad,oskar.thornblad@gmail.com,0,0,2,1,11/18/2016,11/18/2016,0,0,0,0,0,0

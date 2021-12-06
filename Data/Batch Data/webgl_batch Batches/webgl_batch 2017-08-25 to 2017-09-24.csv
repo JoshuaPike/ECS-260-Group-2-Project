@@ -1,0 +1,12 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Justin Novosad,justin.novosad@gmail.com,0,0,58,1,08/29/2017,08/29/2017,0,0,2,0.9,1,4
+Ken Russell,kbrussel@alum.mit.edu,0,0,281,3,08/30/2017,09/22/2017,85.52173913043478,0.9130434782608696,5,0,0,16
+Olli Etuaho,olli.etuaho@gmail.com,0,0,93,2,08/31/2017,08/31/2017,0,0,3,0,0,0
+Jiawei Shao,jiawei.shao@intel.com,0,0,105,1,08/31/2017,08/31/2017,0,0,2,0,0,0
+Kai Ninomiya,kainino1@gmail.com#kainino@chromium.org,0,0,3932,6,08/31/2017,09/15/2017,1834.9333333333334,2.8000000000000003,5,1.9666666666666668,3,42
+Kirill Dmitrenko,kdmitrenko@gmail.com,0,0,100,1,09/01/2017,09/01/2017,0,0,2,0,0,5
+Jeff Gilbert,jdashg@gmail.com,0,0,218,2,09/14/2017,09/21/2017,218.0,2.0,1,0,0,-1
+Byungseon Shin,xingri@gmail.com,0,0,47,1,09/16/2017,09/16/2017,0,0,1,0,0,0
+zhenyao,zmo@chromium.org,0,0,371,6,09/17/2017,09/21/2017,649.25,10.5,8,0,0,-1
+Zhenyao Mo,zmo@chromium.org,0,0,6,1,09/19/2017,09/19/2017,0,0,0,0,0,0
+Mark Callow,msc-@users.noreply.github.com,0,0,6,1,09/20/2017,09/20/2017,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Kang Hong Jin,kanghongjin@gmail.com,0,0,56,1,01/17/2019,01/17/2019,0,0,2,1.0,1,-3
+Spadini Davide,spadini.davide@gmail.com,0,0,103,3,01/18/2019,01/21/2019,240.33333333333334,7.0,18,0,0,0
+ishepard,spadini.davide@gmail.com,0,0,448,9,01/18/2019,02/11/2019,130.66666666666669,2.625,0,2.0,2,42

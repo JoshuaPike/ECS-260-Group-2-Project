@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Jiawei Shao,jiawei.shao@intel.com,0,0,4,1,05/17/2019,05/17/2019,0,0,2,0,0,0
+aardgoose,angus.sawyer@gmail.com,0,0,2,1,05/20/2019,05/20/2019,0,0,1,0,0,0
+狄学长ShrekShao,shrekshao@google.com,0,0,410,2,06/07/2019,06/10/2019,956.6666666666667,4.666666666666667,5,1.8928571428571428,2,0
+Kai Ninomiya,kainino@chromium.org,0,0,98,1,06/10/2019,06/10/2019,0,0,1,0,0,12

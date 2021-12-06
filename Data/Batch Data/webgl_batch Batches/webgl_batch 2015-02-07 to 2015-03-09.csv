@@ -1,0 +1,9 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ken Russell,kbrussel@alum.mit.edu,0,0,1424,18,02/06/2015,02/23/2015,586.3529411764706,7.411764705882353,6,0,0,0
+Olli Etuaho,oetuaho@nvidia.com,0,0,1143,6,02/09/2015,03/06/2015,320.03999999999996,1.68,15,1.807843137254902,2,9
+Brandon Jones,tojiro@gmail.com#bajones@chromium.org,0,0,260,7,02/09/2015,02/23/2015,130.0,3.5,2,0,0,7
+David Yen,dyen@chromium.org,0,0,434,2,02/09/2015,02/10/2015,3038.0,14.0,4,0,0,21
+zhenyao,zmo@chromium.org,0,0,315,3,02/10/2015,03/06/2015,91.875,0.875,0,0,0,0
+Zhenyao Mo,zmo@chromium.org,0,0,18,2,02/10/2015,02/11/2015,126.0,14.0,0,0,0,0
+Arun Patole,apatole@nvidia.com,0,0,40,1,02/16/2015,02/16/2015,0,0,0,1.0,1,0
+Rafael Cintron,rafael.cintron@outlook.com,0,0,242,1,03/07/2015,03/07/2015,0,0,3,0,0,4

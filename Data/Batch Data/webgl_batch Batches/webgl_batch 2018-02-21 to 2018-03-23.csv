@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+vikas soni,36902690+vikaschromie@users.noreply.github.com,0,0,180,2,03/01/2018,03/02/2018,1260.0,14.0,2,0,0,12
+James Darpinian,jdarpinian@google.com#jdarpinian@chromium.org#jdarpinian@gmail.com,0,0,1562,14,03/01/2018,03/15/2018,781.0,7.0,5,0,0,5
+Jeff Gilbert,jdashg@gmail.com,0,0,508,3,03/08/2018,03/09/2018,3556.0,21.0,6,1.0,1,4
+Patrick To,patrto@microsoft.com,0,0,17,2,03/13/2018,03/14/2018,119.0,14.0,2,0,0,0

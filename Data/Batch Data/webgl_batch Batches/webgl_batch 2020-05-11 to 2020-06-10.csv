@@ -1,0 +1,10 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+ShrekShao,shrekshao@google.com,0,0,342,3,05/11/2020,05/21/2020,239.4,2.1,2,0,0,11
+"Yan, Shaobo",shaobo.yan@intel.com,0,0,371,4,05/12/2020,05/26/2020,185.5,2.0,3,0.8089887640449438,1,12
+Ken Russell,kbrussel@alum.mit.edu,0,0,305,8,05/13/2020,06/08/2020,82.11538461538461,2.1538461538461537,11,3.0,3,5
+sugoi1,sugoi@google.com,0,0,6,1,05/13/2020,05/13/2020,0,0,3,0,0,0
+Thomas Guilbert,52718142+tguilbert-google@users.noreply.github.com,0,0,304,1,05/14/2020,05/14/2020,0,0,4,1.0,1,6
+Dean Jackson,dino@grorg.org,0,0,4,1,05/21/2020,05/21/2020,0,0,2,0,0,0
+Ray Tran,raytranuk@users.noreply.github.com,0,0,59,1,05/29/2020,05/29/2020,0,0,1,0,0,0
+Jeff Gilbert,jdashg@gmail.com#jgilbert@mozilla.com,0,0,12,2,05/29/2020,06/01/2020,28.0,4.666666666666667,2,0,0,0
+nkronlage,neil.kronlage@gmail.com,0,0,55,1,06/02/2020,06/02/2020,0,0,1,0,0,1

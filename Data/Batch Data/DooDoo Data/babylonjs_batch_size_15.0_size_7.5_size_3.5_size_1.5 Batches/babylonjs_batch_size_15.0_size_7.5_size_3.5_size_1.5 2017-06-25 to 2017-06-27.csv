@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+V!nc3r,Vinc3r@users.noreply.github.com,1,1,88,1,06/26/2017,06/26/2017,0,0,1,0,0,3
+David Catuhe,david.catuhe@live.fr#david.catuhe@Live.fr,1,1,246129,14,06/26/2017,06/26/2017,0,0,32,4.867857142857143,5,-1
+Palmer-JC,jeffrey.c.palmer@gmail.com,1,1,2,1,06/26/2017,06/26/2017,0,0,1,0,0,0
+Gary Hsu,garyhsu@microsoft.com,1,1,343,1,06/26/2017,06/26/2017,0,0,17,1.0,1,0

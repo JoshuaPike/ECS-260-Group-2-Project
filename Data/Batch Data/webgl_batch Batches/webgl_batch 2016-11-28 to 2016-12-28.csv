@@ -1,0 +1,14 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Kenneth Russell,kbrussel@alum.mit.edu,0,0,128,1,11/29/2016,11/29/2016,0,0,13,0,0,4
+Ken Russell,kbrussel@alum.mit.edu,0,0,5124,10,11/29/2016,12/18/2016,1887.7894736842104,3.6842105263157894,0,1.0,1,25
+Qiankun Miao,qiankun.miao@intel.com,0,0,333,5,11/29/2016,12/07/2016,291.375,4.375,8,1.0,1,5
+Olli Etuaho,olli.etuaho@gmail.com,0,0,286,5,12/01/2016,12/21/2016,100.1,1.75,6,0,0,21
+He Yunchao,yunchao.he@intel.com,0,0,573,8,12/02/2016,12/27/2016,160.44,2.2399999999999998,5,0,0,32
+Dean Jackson,dino@grorg.org,0,0,20,1,12/07/2016,12/07/2016,0,0,4,0,0,0
+Jeff Gilbert,jdashg@gmail.com,0,0,236,7,12/07/2016,12/22/2016,110.13333333333334,3.2666666666666666,14,0,0,0
+Kai Ninomiya,kainino1@gmail.com,0,0,772,4,12/08/2016,12/15/2016,772.0,4.0,13,1.0,1,34
+Brandon Jones,bajones@chromium.org,0,0,832841,1,12/08/2016,12/08/2016,0,0,0,0,0,0
+zhenyao,zmo@chromium.org,0,0,58,4,12/09/2016,12/19/2016,40.6,2.8,3,0,0,-15
+David Peicho,david.peicho@epita.fr,0,0,2061,1,12/12/2016,12/12/2016,0,0,2,0,0,18
+xidachen,xidachen@chromium.org,0,0,1855,1,12/16/2016,12/16/2016,0,0,23,0.4822429906542056,1,53
+Jamie Madill,jmadill@chromium.org,0,0,220,1,12/19/2016,12/19/2016,0,0,1,0,0,3

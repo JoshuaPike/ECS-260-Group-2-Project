@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ryc O'Chet,Rycochet@users.noreply.github.com#rycochet@rycochet.com,1,1,9881,26,08/13/2016,08/13/2016,0,0,8,2.319444444444444,3,4
+Khurram Virani,kvirani@gmail.com,1,1,26,1,08/22/2016,08/22/2016,0,0,1,0,0,-8
+Julian Shapiro,julianshapiro@users.noreply.github.com,1,1,16,2,08/22/2016,08/22/2016,0,0,0,0,0,0

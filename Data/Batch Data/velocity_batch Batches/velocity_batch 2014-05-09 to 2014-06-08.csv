@@ -1,0 +1,6 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Julian Shapiro,julianshapiro@users.noreply.github.com#julian@julianshapiro.com,0,0,35690,98,05/08/2014,06/06/2014,8614.827586206895,23.6551724137931,11,11.569074693422518,13,-244
+Jimmy Gaussen,jimmygaussen@gmail.com,0,0,9315,2,05/11/2014,05/12/2014,65205.0,14.0,8,0.4512229406803486,1,250
+Yehonatan Daniv,maggotfish@gmail.com,0,0,176,2,05/23/2014,05/23/2014,0,0,0,2.0,2,0
+Jens Anders Bakke,jens.anders.bakke@gmail.com,0,0,3017,1,05/28/2014,05/28/2014,0,0,0,1.0,1,4
+Jacob Buck,729997@LMACB0023.local,0,0,209,1,06/05/2014,06/05/2014,0,0,0,0,0,0

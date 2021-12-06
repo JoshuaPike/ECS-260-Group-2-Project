@@ -1,0 +1,27 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Adam Bowman,abowman@gmail.com,0,0,13679,38,01/18/2017,02/17/2017,3191.766666666667,8.866666666666667,7,5.071269269416464,7,12
+David Catuhe,david.catuhe@live.fr#david.catuhe@Live.fr,1,0,274100,87,01/18/2017,02/17/2017,63956.66666666667,20.3,97,10.187254225301828,13,1675
+Julian,temechon@gmail.com,0,0,11476,7,01/19/2017,01/23/2017,20083.0,12.25,9,3.0,3,23
+Raanan Weber,raananw+github@gmail.com#info@raananweber.com,0,0,315,4,01/19/2017,02/08/2017,110.25,1.4,2,0,0,0
+Temechon,temechon@gmail.com,0,0,189,8,01/19/2017,02/13/2017,52.919999999999995,2.2399999999999998,0,0,0,10
+nockawa,loic.baumann@outlook.com,0,0,20858,28,01/19/2017,02/17/2017,5034.689655172413,6.758620689655172,22,7.550035914300116,11,198
+Loïc Baumann,loic.baumann@outlook.com#loic.baumann.pro@outlook.com,0,0,8612,42,01/19/2017,02/07/2017,3172.842105263158,15.473684210526315,3,6.794431983111229,7,0
+MackeyK24,MackeyK24@gmail.com,0,0,55284,17,01/19/2017,02/14/2017,14884.153846153846,4.576923076923077,7,2.6666666666666665,4,1
+sevan,sevan@SEVANSBP,0,0,126,3,01/20/2017,01/20/2017,0,0,2,1.0,1,1
+Jacob Schatz,jschatz1@gmail.com,0,0,2,1,01/21/2017,01/21/2017,0,0,1,0,0,0
+Palmer-JC,jeffrey.c.palmer@gmail.com,0,0,29,1,01/23/2017,01/23/2017,0,0,3,1.0,1,0
+Kesshi,Zapology@gmx.net,0,0,129,5,01/24/2017,02/16/2017,39.26086956521739,1.5217391304347827,4,0,0,3
+zhutq,zhutianqian@gmail.com,0,0,4,1,01/24/2017,01/24/2017,0,0,2,0,0,0
+jbousquie,jerome@bousquie.fr,0,0,4961,14,01/24/2017,02/15/2017,1578.5,4.454545454545455,14,2.0,2,11
+Jérôme Bousquié,jerome@bousquie.fr,0,0,38,5,01/24/2017,02/15/2017,12.090909090909092,1.590909090909091,0,0,0,19
+Vousk-prod,vousk@free.fr,0,0,2,1,01/29/2017,01/29/2017,0,0,0,0,0,0
+aWeirdo,thomasbeck@live.dk,0,0,160,34,02/03/2017,02/14/2017,101.81818181818183,21.636363636363637,2,2.0,2,2
+davrous,david_rousset@hotmail.com,0,0,6228,4,02/07/2017,02/07/2017,0,0,4,0,0,0
+KK,wyklion@qq.com,0,0,6,2,02/08/2017,02/08/2017,0,0,0,0,0,0
+kevzettler,kevzettler@gmail.com,0,0,6982,1,02/07/2017,02/07/2017,0,0,0,1.0,1,0
+Julien Moreau-Mathis,moreau-mathis@intechinfo.fr,0,0,13292,6,02/08/2017,02/14/2017,15507.333333333334,7.0,5,4.018481518481519,5,33
+will wong,wongwill86@gmail.com,0,0,10,1,02/12/2017,02/12/2017,0,0,2,0,0,-1
+Simon Matt,simonmatt1999@gmail.com,0,0,6,1,02/12/2017,02/12/2017,0,0,0,0,0,0
+Nicolas Coderre,nicolas.coderre@gmail.com,0,0,162,3,02/15/2017,02/15/2017,0,0,17,0,0,50
+Gary Hsu,garyhsu@microsoft.com,0,0,2553,2,02/16/2017,02/16/2017,0,0,8,0.6991150442477876,1,-25
+Euclyde,euclyde@lomaco.fr,0,0,1011002,2,02/17/2017,02/17/2017,0,0,0,0,0,0

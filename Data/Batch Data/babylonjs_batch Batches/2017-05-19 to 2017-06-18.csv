@@ -1,0 +1,29 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+NasimiAsl,Nasimiasl@live.com,0,0,3615,19,05/19/2017,06/17/2017,872.5862068965516,4.586206896551723,7,4.960769771657536,7,3
+sebavan,vandenberghe.sebastien@gmail.com,0,0,387491,28,05/18/2017,06/13/2017,104324.5,7.538461538461538,35,0,0,0
+Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,0,0,204771,22,05/18/2017,06/14/2017,53088.777777777774,5.703703703703703,0,10.259076136578848,13,385
+Benjamin Guignabert,bguignabert@wanadev.fr#benjamin.guignabert@gmail.com,0,0,420261,14,05/19/2017,05/31/2017,245152.25,8.166666666666668,14,2.2247855859736725,6,-12
+Julien Moreau-Mathis,moreau-mathis@intechinfo.fr,0,0,1946,11,05/20/2017,06/17/2017,486.5,2.75,14,4.5272108843537415,5,36
+David Catuhe,david.catuhe@live.fr#david.catuhe@Live.fr,1,0,2568526,252,05/20/2017,06/17/2017,642131.5,63.0,158,51.904080401623915,63,-8757
+zhutq,zhutianqian@gmail.com,0,0,63,3,05/21/2017,05/25/2017,110.25,5.25,5,0,0,1
+Saurabh Bhatia,sbtron@users.noreply.github.com,0,0,15,1,05/21/2017,05/21/2017,0,0,1,0,0,1
+sevan,sevan@SEVANSBP,0,0,373004,21,05/24/2017,06/08/2017,174068.53333333333,9.8,29,3.8706733126327832,6,13
+Adam Bowman,abowman@gmail.com,0,0,662,22,05/25/2017,06/17/2017,201.47826086956522,6.695652173913044,5,4.165945165945166,5,2
+yuccai,chanteloup.pierre@gmail.com,0,0,42,1,05/29/2017,05/29/2017,0,0,1,0,0,0
+Cubees,cubees.babylon@gmail.com,0,0,13184,6,05/29/2017,06/04/2017,15381.333333333334,7.0,3,1.0,1,3
+Kesshi,Zapology@gmx.net,0,0,69,1,05/31/2017,05/31/2017,0,0,1,0,0,1
+aWeirdo,thomasbeck@live.dk,0,0,11,2,05/31/2017,05/31/2017,0,0,1,0,0,0
+jbousquie,jerome@bousquie.fr,0,0,122,2,05/31/2017,06/01/2017,854.0,14.0,0,0,0,0
+Jérôme Bousquié,jerome@bousquie.fr,0,0,1,1,05/31/2017,05/31/2017,0,0,0,0,0,1
+Aaron (Ron) Tsui,vokoshyv@users.noreply.github.com,0,0,2,1,05/31/2017,05/31/2017,0,0,0,0,0,0
+Brian Zinn,github@wakeskate.com,0,0,27645,2,05/31/2017,05/31/2017,0,0,0,0,0,1
+Gary Hsu,garyhsu@microsoft.com,0,0,133,4,06/02/2017,06/02/2017,0,0,14,1.0,1,0
+Howard Wolosky,HowardWolosky@users.noreply.github.com,0,0,6,1,06/06/2017,06/06/2017,0,0,1,0,0,0
+Palmer-JC,jeffrey.c.palmer@gmail.com,0,0,237,2,06/09/2017,06/13/2017,414.75,3.5,3,2.0,2,-17
+focomoso,jkelly@focomoso.com,0,0,116,1,06/12/2017,06/12/2017,0,0,1,1.0,1,9
+KK,wyklion@qq.com,0,0,3,1,06/13/2017,06/13/2017,0,0,0,0,0,0
+Evgeny Barabanov,meltedspark@users.noreply.github.com,0,0,2,1,06/13/2017,06/13/2017,0,0,0,0,0,0
+davrous,david_rousset@hotmail.com,0,0,54918,8,06/14/2017,06/16/2017,192213.0,28.0,4,5.142601126472094,6,5
+Łukasz Borchmann,borchman@rainfox.org,0,0,29,3,06/15/2017,06/17/2017,101.5,10.5,3,0,0,-1
+Pierre Glibert,i.pierreg@gmail.com,0,0,22,1,06/15/2017,06/15/2017,0,0,1,0,0,0
+David Rousset,davrous@microsoft.com,0,0,7867,2,06/15/2017,06/16/2017,55069.0,14.0,0,0,0,0

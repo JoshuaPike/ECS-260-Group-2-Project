@@ -1,0 +1,9 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Brandon Jones,bajones@chromium.org,0,0,6,1,06/17/2013,06/17/2013,0,0,3,0,0,0
+Ken Russell,kbrussel@alum.mit.edu,0,0,3941,26,06/17/2013,07/16/2013,951.2758620689655,6.275862068965517,22,0.4507042253521127,1,15
+Gregg Tavares,github@greggman.com,0,0,875,2,06/18/2013,06/19/2013,6125.0,14.0,2,0,0,24
+Greggman,github@greggman.com,0,0,875,2,06/18/2013,06/19/2013,6125.0,14.0,0,0,0,0
+Olli Etuaho,oetuaho@nvidia.com,0,0,342,10,06/24/2013,07/16/2013,108.81818181818183,3.181818181818182,7,1.0,1,45
+Guillaume Abadie,gabadie@mozilla.com,0,0,125,3,06/28/2013,07/06/2013,109.375,2.625,2,0,0,3
+msc-hi,callow_mark@hicorp.co.jp,0,0,207768,4,07/08/2013,07/12/2013,363594.0,7.0,4,0,0,-28
+David Sheets,sheets@alum.mit.edu,0,0,50,1,07/10/2013,07/10/2013,0,0,2,0,0,-1

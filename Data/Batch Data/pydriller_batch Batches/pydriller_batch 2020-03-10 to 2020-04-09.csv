@@ -1,0 +1,6 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+ishepard,spadini.davide@gmail.com,0,0,659,7,03/13/2020,03/19/2020,768.8333333333334,8.166666666666668,12,2.125,3,11887
+Davide Spadini,spadini.davide@gmail.com,0,0,627,6,03/16/2020,04/06/2020,209.0,2.0,0,0,0,0
+stefanodallapalma,stefano.dallapalma0@gmail.com,0,0,376,4,03/18/2020,03/20/2020,1316.0,14.0,18,3.0,3,3
+Arie van Deursen,arie.vandeursen@tudelft.nl,0,0,23,3,04/01/2020,04/01/2020,0,0,3,1.0,1,-1
+Evan Casey,evan.casey@allstacks.com,0,0,58,2,04/05/2020,04/05/2020,0,0,0,1.25,2,6

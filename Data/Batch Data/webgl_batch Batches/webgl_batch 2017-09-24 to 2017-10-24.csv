@@ -1,0 +1,7 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Olli Etuaho,olli.etuaho@gmail.com,0,0,373,4,09/25/2017,10/17/2017,118.68181818181819,1.2727272727272727,6,0,0,1
+zhenyao,zmo@chromium.org,0,0,94,1,09/26/2017,09/26/2017,0,0,2,0,0,1
+Ken Russell,kbrussel@alum.mit.edu,0,0,43,1,09/26/2017,09/26/2017,0,0,1,0,0,1
+Jeff Gilbert,jdashg@gmail.com,0,0,104,1,09/28/2017,09/28/2017,0,0,1,0,0,-10
+Yang Gu,yang.gu@intel.com,0,0,1704,1,10/07/2017,10/07/2017,0,0,3,0.24794069192751236,1,8
+Kirill Dmitrenko,kdmitrenko@gmail.com,0,0,30,1,10/16/2017,10/16/2017,0,0,1,0,0,0

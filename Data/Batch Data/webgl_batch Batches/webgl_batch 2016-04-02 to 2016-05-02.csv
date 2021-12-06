@@ -1,0 +1,16 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ken Russell,kbrussel@alum.mit.edu,0,0,4666,23,04/06/2016,04/29/2016,1420.0869565217392,7.0,34,0,0,2
+Web Perf,webperf@Webs-MacBook-Pro.local#webperf@css01cmt841sc01.ccr.corp.intel.com,0,0,266,2,04/07/2016,04/13/2016,310.33333333333337,2.3333333333333335,58,1.0,1,0
+Qiankun Miao,qiankun.miao@intel.com,0,0,233,14,04/07/2016,04/28/2016,77.66666666666667,4.666666666666667,8,1.3888888888888888,2,2
+zhenyao,zmo@chromium.org,0,0,6009,21,04/07/2016,04/29/2016,1911.9545454545455,6.681818181818182,128,0,0,0
+Brandon Jones,bajones@chromium.org#tojiro@gmail.com,0,0,1669,8,04/07/2016,04/26/2016,614.8947368421052,2.9473684210526314,7,2.7626262626262625,3,10
+Corentin Wallez,cwallez@chromium.org#corentin@wallez.net,0,0,288,4,04/12/2016,04/12/2016,0,0,3,0.7586206896551724,1,1
+Zhenyao Mo,zmo@chromium.org,0,0,5804,9,04/13/2016,04/29/2016,2539.25,3.9375,0,1.0,1,6
+Morris Tseng,mtseng@mozilla.com,0,0,6,1,04/14/2016,04/14/2016,0,0,3,0,0,0
+He Yunchao,yunchao.he@intel.com,0,0,23,2,04/14/2016,04/20/2016,26.833333333333336,2.3333333333333335,0,1.0,1,4
+Olli Etuaho,oetuaho@nvidia.com#olli.etuaho@gmail.com,0,0,132,3,04/14/2016,04/27/2016,71.07692307692308,1.6153846153846154,2,0,0,0
+Xinghua Cao,xinghua.cao@intel.com,0,0,94,3,04/18/2016,04/29/2016,59.81818181818182,1.9090909090909092,6,1.0,1,2
+Rafael Cintron,rafael.cintron@outlook.com,0,0,146,1,04/19/2016,04/19/2016,0,0,1,0,0,20
+Kenneth Russell,kbrussel@alum.mit.edu,0,0,551,2,04/19/2016,04/19/2016,0,0,0,1.0,1,10
+jdashg,jdashg@gmail.com,0,0,12,1,04/22/2016,04/22/2016,0,0,0,0,0,0
+Jiawei-Shao,jiawei.shao@intel.com,0,0,119,1,04/27/2016,04/27/2016,0,0,3,0,0,-1

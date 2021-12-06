@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Jaibeer  S Dugal,jaibeer72@gmail.com,0,0,44,1,11/13/2019,11/13/2019,0,0,11,0,0,0
+Jeff Gilbert,jgilbert@mozilla.com,0,0,21,2,11/26/2019,11/27/2019,147.0,14.0,5,0,0,-1
+Dean Jackson,dino@grorg.org#dino@apple.com,0,0,317,3,12/06/2019,12/12/2019,369.83333333333337,3.5,5,0.25,1,-4

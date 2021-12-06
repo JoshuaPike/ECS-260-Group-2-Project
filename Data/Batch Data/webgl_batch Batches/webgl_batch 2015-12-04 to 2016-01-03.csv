@@ -1,0 +1,16 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+He Yunchao,yunchao.he@intel.com,0,0,353,14,12/04/2015,12/31/2015,91.51851851851852,3.6296296296296298,9,7.0,7,2
+xidachen,xidachen@chromium.org,0,0,285,1,12/03/2015,12/03/2015,0,0,5,0,0,0
+xinghua.cao,xinghua.cao@intel.com,0,0,2,1,12/04/2015,12/04/2015,0,0,0,0,0,0
+zhenyao,zmo@chromium.org,0,0,817,27,12/04/2015,12/28/2015,238.29166666666669,7.875,5,0,0,0
+Ken Russell,kbrussel@alum.mit.edu,0,0,862,19,12/04/2015,12/30/2015,232.07692307692307,5.115384615384615,4,0,0,0
+Zhenyao Mo,zmo@chromium.org,0,0,700,8,12/04/2015,12/22/2015,272.22222222222223,3.1111111111111107,0,0,0,11
+Brandon Jones,tojiro@gmail.com,0,0,287,6,12/07/2015,12/14/2015,287.0,6.0,0,0,0,-1
+Qiankun Miao,qiankun.miao@intel.com,0,0,522,13,12/08/2015,12/31/2015,158.8695652173913,3.956521739130435,8,4.0,4,-1
+renchenglei,chenglei.ren@intel.com,0,0,83,3,12/08/2015,12/30/2015,26.40909090909091,0.9545454545454546,1,0,0,0
+Olli Etuaho,oetuaho@nvidia.com,0,0,15,3,12/10/2015,12/11/2015,105.0,21.0,3,0,0,0
+Kenneth Russell,kbrussel@alum.mit.edu,0,0,160,2,12/14/2015,12/28/2015,80.0,1.0,0,0,0,2
+Jeff Muizelaar,jmuizelaar@mozilla.com,0,0,4,1,12/16/2015,12/16/2015,0,0,0,0,0,0
+sugoi1,sugoi@google.com,0,0,2,1,12/18/2015,12/18/2015,0,0,1,0,0,0
+Olivia Lai,xlai@chromium.org,0,0,20,1,12/23/2015,12/23/2015,0,0,1,0,0,0
+Janusz Sobczak,janusz.sobczak@mobica.com,0,0,33,2,12/28/2015,12/30/2015,115.5,7.0,3,1.0,1,0

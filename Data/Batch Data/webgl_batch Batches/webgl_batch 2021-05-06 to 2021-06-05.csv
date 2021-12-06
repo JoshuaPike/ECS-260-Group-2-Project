@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Dean Jackson,dino@grorg.org,0,0,389,1,05/07/2021,05/07/2021,0,0,8,0.43243243243243246,1,15
+Dale Curtis,dalecurtis@chromium.org,0,0,33,2,05/14/2021,06/03/2021,11.549999999999999,0.7,3,0,0,0
+Ken Russell,kbrussel@alum.mit.edu,0,0,153,2,05/18/2021,05/26/2021,133.875,1.75,4,0,0,0
+Jeff Gilbert,jdashg@gmail.com,0,0,457,1,05/26/2021,05/26/2021,0,0,3,1.0,1,7

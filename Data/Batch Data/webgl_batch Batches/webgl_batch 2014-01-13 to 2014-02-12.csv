@@ -1,0 +1,13 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Andrew,grizzly33@gmail.com,0,0,6,2,01/15/2014,01/16/2014,42.0,14.0,2,0,0,0
+Ken Russell,kbrussel@alum.mit.edu,0,0,1778,15,01/16/2014,02/11/2014,478.6923076923077,4.038461538461538,2,0,0,0
+mkziulek,mariusz.k.ziulek@intel.com,0,0,6,2,01/21/2014,02/07/2014,2.4705882352941178,0.823529411764706,3,0,0,0
+Zhenyao Mo,zmo@chromium.org,0,0,10,1,01/21/2014,01/21/2014,0,0,1,0,0,0
+Tibor den Ouden,tibordenouden@gmail.com,0,0,927,1,01/28/2014,01/28/2014,0,0,12,0.5875706214689266,1,65
+Dean Jackson,dino@grorg.org,0,0,54,1,01/28/2014,01/28/2014,0,0,0,0,0,0
+Gregg Tavares,github@greggman.com,0,0,11,1,02/05/2014,02/05/2014,0,0,1,0,0,2
+jdashg,jdashg+github@gmail.com,0,0,11,3,02/05/2014,02/05/2014,0,0,2,0,0,0
+Nicolas Capens,nicolascapens@chromium.org,0,0,165,1,02/06/2014,02/06/2014,0,0,2,0,0,1
+Brandon Jones,bajones@chromium.org#tojiro@gmail.com,0,0,654,7,02/06/2014,02/11/2014,915.6,9.799999999999999,4,3.0,3,4
+Olli Etuaho,oetuaho@nvidia.com,0,0,118,3,02/07/2014,02/10/2014,275.33333333333337,7.0,4,0,0,2
+Florian,pyalot@gmail.com,0,0,105,1,02/11/2014,02/11/2014,0,0,1,0,0,1

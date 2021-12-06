@@ -1,0 +1,8 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Jeff Gilbert,jgilbert@mozilla.com,0,0,118,2,06/16/2020,06/16/2020,0,0,3,0,0,3
+James Darpinian,jdarpinian@chromium.org,0,0,4,1,06/23/2020,06/23/2020,0,0,1,0,0,0
+ShrekShao,shrekshao@google.com,0,0,251,3,06/24/2020,07/08/2020,125.5,1.5,5,1.0,1,6
+Alexey Knyazev,3479527+lexaknyazev@users.noreply.github.com,0,0,137,3,06/26/2020,07/07/2020,87.18181818181819,1.9090909090909092,6,0,0,2
+Ken Russell,kbrussel@alum.mit.edu,0,0,121,2,06/29/2020,06/29/2020,0,0,4,2.0,2,5
+Samuel Surtees,11887457+samsinsane@users.noreply.github.com,0,0,74,1,06/29/2020,06/29/2020,0,0,1,0,0,0
+krogovin,52962495+krogovin@users.noreply.github.com,0,0,8,1,07/01/2020,07/01/2020,0,0,1,0,0,0

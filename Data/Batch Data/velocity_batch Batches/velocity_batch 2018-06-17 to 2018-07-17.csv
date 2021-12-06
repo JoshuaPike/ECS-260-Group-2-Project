@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Pete Cook,pete@cookpete.com,0,0,176,1,06/28/2018,06/28/2018,0,0,3,0,0,44
+snokier,me@snokier.com,0,0,8,1,06/29/2018,06/29/2018,0,0,1,0,0,0
+Julian Shapiro,julianshapiro@users.noreply.github.com,0,0,4,1,06/30/2018,06/30/2018,0,0,1,0,0,0
+Ryc O'Chet,Rycochet@users.noreply.github.com#rycochet@rycochet.com,0,0,65,3,07/05/2018,07/08/2018,151.66666666666669,7.0,2,0,0,0

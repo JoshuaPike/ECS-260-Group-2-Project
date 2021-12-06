@@ -1,0 +1,3 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Peter Dave Hello,PeterDaveHello@users.noreply.github.com,1,1,6,1,12/09/2015,12/09/2015,0,0,1,0,0,0
+Adrian Simmons,adrian@perlucida.com,1,1,8,1,12/14/2015,12/14/2015,0,0,2,0,0,0

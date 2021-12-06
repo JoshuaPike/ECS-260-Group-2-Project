@@ -1,0 +1,14 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+msc-hi,callow.mark@artspark.co.jp,0,0,1683,5,11/21/2012,12/04/2012,906.2307692307692,2.692307692307692,11,0,0,81
+pyalot,pyalot@wintermute.(none),0,0,224,2,11/22/2012,12/12/2012,78.39999999999999,0.7,5,0,0,0
+Ken Russell,kbrussel@alum.mit.edu,0,0,2203,17,11/26/2012,12/17/2012,734.3333333333334,5.666666666666667,0,0,0,0
+Gregg Tavares,github@greggman.com,0,0,604,6,11/27/2012,12/08/2012,384.3636363636364,3.8181818181818183,10,3.32258064516129,4,13
+Greggman,github@greggman.com,0,0,647,9,11/26/2012,12/07/2012,411.72727272727275,5.7272727272727275,0,0,0,0
+John Bauman,jbauman@chromium.org,0,0,104,1,11/27/2012,11/27/2012,0,0,1,0,0,0
+Brandon Jones,bajones@chromium.org#bajones@google.com,0,0,489,6,11/27/2012,12/18/2012,163.0,2.0,9,0.6029411764705882,1,4
+Kenneth Russell,kbr@chromium.org,0,0,413,6,11/28/2012,12/17/2012,152.1578947368421,2.2105263157894735,14,0,0,0
+Benoit Jacob,bjacob@mozilla.com,0,0,75,4,11/29/2012,11/29/2012,0,0,4,1.0,1,0
+David Sheets,sheets@ashimaarts.com,0,0,12,1,12/10/2012,12/10/2012,0,0,6,0,0,0
+Florian Boesch,pyalot@gmail.com,0,0,179,2,12/12/2012,12/16/2012,313.25,3.5,2,0,0,0
+janfre01,jan-harald.fredriksen@arm.com,0,0,20,1,12/17/2012,12/17/2012,0,0,3,0,0,0
+janharaldfredriksen,jan-harald.fredriksen@arm.com,0,0,124,1,12/19/2012,12/19/2012,0,0,0,0,0,0

@@ -1,10 +1,12 @@
 from pydriller import *
 from datetime import datetime, timedelta
 import csv
-from mineData import mine_repo, mine_in_batches
+# from mineData import mine_repo, mine
+from mineData import mine
 import sys
+from playsound import playsound
 
-sys.setrecursionlimit(10000)
+sys.setrecursionlimit(1000)
 startTime = datetime.utcnow()
 # url = ['https://github.com/ishepard/pydriller.git', 'https://github.com/terryyin/lizard',
 #        'https://github.com/BabylonJS/Babylon.js', 'https://github.com/mrdoob/three.js',
@@ -33,61 +35,71 @@ babylonjs_start = datetime(2016, 11, 20, 0, 0, 0)
 # test_start_date = pydrillerStart
 # test_end_date = datetime(2021, 12, 1)
 # test_end_date = datetime(21, 12, 1, 0, 0, 0)
-# mine_in_batches(localPaths[0], 'Python', test_start_date, test_end_date, 'pydriller_batch_test', batch_size)
+# mine(localPaths[0], 'Python', test_start_date, test_end_date, 'pydriller_batch_test', batch_size)
 # repo = Repository(localPaths[2], since=test_start_date, to=datetime(2017, 5, 1, 0, 0, 0))
 # mine_repo(repo, 'JavaScript', 'Data/Batch Data/WebGL_batch_test_diff_tenure Batches/First 4 Batches.csv')
 # -------------- WARNING MINING FOR THE REPOS WILL TAKE A VERY LONG TIME --------------
 
-batch_size = timedelta(days=30)
+batch_size = timedelta(days=10)
 
-print('Starting to mine pydriller...')
+# print('Starting to mine pydriller...\n')
+# mineStartTime = datetime.utcnow()
+# mine(localPaths[0], 'Python', pydriller_start, end_date, 'pydriller_batch', batch_size)
+# mineEndTime = datetime.utcnow()
+#
+# timeElapsed = mineEndTime - mineStartTime
+# playsound('Okaaayyyyy lets go.mp3')
+# print('Done with pydriller... Process took ' + str(timeElapsed.seconds) + ' seconds')
+# print('Starting to mine velocity\n')
+#
+# mineStartTime = datetime.utcnow()
+# mine(localPaths[1], 'JavaScript', velocity_start, end_date, 'velocity_batch', batch_size)
+# mineEndTime = datetime.utcnow()
+# timeElapsed = mineEndTime - mineStartTime
+#
+# print('Done with velocity... Process took ' + str(timeElapsed.seconds) + ' seconds')
+# print('Starting to mine toolkit\n')
+#
+# mineStartTime = datetime.utcnow()
+# mine(localPaths[2], 'JavaScript', toolkit_start, end_date, 'toolkit_batch', batch_size)
+# mineEndTime = datetime.utcnow()
+# timeElapsed = mineEndTime - mineStartTime
+#
+# print('Done with toolkit... Process took ' + str(timeElapsed.seconds) + ' seconds')
+# print('Starting to mine WebGL\n')
+#
+# mineStartTime = datetime.utcnow()
+# mine(localPaths[3], 'JavaScript', webGL_start, end_date, 'webgl_batch', batch_size)
+# mineEndTime = datetime.utcnow()
+# timeElapsed = mineEndTime - mineStartTime
+
+# print('Done with WebGL... Process took ' + str(timeElapsed.seconds) + ' seconds')
+print('Starting to mine Babylon.js\n')
+
+# stopped at 2017-06-18
+# date_babylon_stopped_at = datetime(2017, 6, 18, 0, 0, 0)
+date_babylon_stopped_at_second = datetime(2017, 6, 28, 0, 0, 0)
+test_end_date = date_babylon_stopped_at_second + batch_size
+
 mineStartTime = datetime.utcnow()
-mine_in_batches(localPaths[0], 'Python', pydriller_start, end_date, 'pydriller_batch', batch_size)
-mineEndTime = datetime.utcnow()
-
-timeElapsed = mineEndTime - mineStartTime
-
-print('Done with pydriller... Process took ' + str(timeElapsed.seconds) + ' seconds')
-print('Starting to mine velocity')
-
-mineStartTime = datetime.utcnow()
-mine_in_batches(localPaths[1], 'JavaScript', velocity_start, end_date, 'velocity_batch', batch_size)
-mineEndTime = datetime.utcnow()
-timeElapsed = mineEndTime - mineStartTime
-
-print('Done with velocity... Process took ' + str(timeElapsed.seconds) + ' seconds')
-print('Starting to mine toolkit')
-
-mineStartTime = datetime.utcnow()
-mine_in_batches(localPaths[2], 'JavaScript', toolkit_start, end_date, 'toolkit_batch', batch_size)
-mineEndTime = datetime.utcnow()
-timeElapsed = mineEndTime - mineStartTime
-
-print('Done with toolkit... Process took ' + str(timeElapsed.seconds) + ' seconds')
-print('Starting to mine WebGL')
-
-mineStartTime = datetime.utcnow()
-mine_in_batches(localPaths[3], 'JavaScript', webGL_start, end_date, 'webgl_batch', batch_size)
-mineEndTime = datetime.utcnow()
-timeElapsed = mineEndTime - mineStartTime
-
-print('Done with WebGL... Process took ' + str(timeElapsed.seconds) + ' seconds')
-print('Starting to mine Babylon.js')
-
-mineStartTime = datetime.utcnow()
-mine_in_batches(localPaths[4], 'JavaScript', babylonjs_start, end_date, 'babylonjs_batch', batch_size)
+# mine(localPaths[4], 'JavaScript', babylonjs_start, end_date, 'babylonjs_batch', batch_size)
+mine(localPaths[4], 'JavaScript', date_babylon_stopped_at_second, test_end_date, 'babylonjs_batch', batch_size)
 mineEndTime = datetime.utcnow()
 timeElapsed = mineEndTime - mineStartTime
 
 print('Done with Babylon.js... Process took ' + str(timeElapsed.seconds) + ' seconds')
-print('Starting to mine three.js')
-
-mineStartTime = datetime.utcnow()
-mine_in_batches(localPaths[5], 'JavaScript', threejs_start, end_date, 'threejs_batch', batch_size)
-mineEndTime = datetime.utcnow()
+# print('Starting to mine three.js\n')
+#
+# mineStartTime = datetime.utcnow()
+# mine(localPaths[5], 'JavaScript', threejs_start, end_date, 'threejs_batch', batch_size)
+# mineEndTime = datetime.utcnow()
 
 
 endTime = datetime.utcnow()
 timeElapsed = endTime - startTime
 print('Finished mining')
 print('Process took ' + str(timeElapsed.seconds) + ' seconds')
+playsound('Okaaayyyyy lets go.mp3')
+
+x = datetime.fromisoformat('2011-11-04T01:00:00+04:00')
+print(x.strftime("%m/%d/%Y"))

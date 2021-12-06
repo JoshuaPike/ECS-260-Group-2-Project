@@ -1,0 +1,15 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Olli Etuaho,oetuaho@nvidia.com,0,0,299,4,07/07/2015,07/09/2015,1046.5,14.0,5,0,0,0
+Ken Russell,kbrussel@alum.mit.edu,0,0,12083,19,07/07/2015,08/04/2015,3020.75,4.75,2,0,0,0
+Zhenyao Mo,zmo@chromium.org,0,0,2223,18,07/07/2015,08/05/2015,536.5862068965516,4.344827586206896,277,1.0,1,19
+Brandon Jones,tojiro@gmail.com#bajones@chromium.org,0,0,1718,20,07/07/2015,08/03/2015,445.4074074074074,5.185185185185185,12,0,0,15
+Patrick Kettner,patrickkettner@gmail.com,0,0,11,1,07/07/2015,07/07/2015,0,0,1,0,0,0
+He Yunchao,yunchao.he@intel.com,0,0,17,2,07/08/2015,07/14/2015,19.833333333333336,2.3333333333333335,1,0,0,0
+Matthew Ng,matthewn@nvidia.com,0,0,118,2,07/08/2015,07/13/2015,165.2,2.8,3,0,0,0
+zhenyao,zmo@chromium.org,0,0,698,11,07/09/2015,07/30/2015,232.66666666666666,3.6666666666666665,0,0,0,0
+Dan Glastonbury,dglastonbury@mozilla.com,0,0,29,2,07/16/2015,07/27/2015,18.454545454545453,1.2727272727272727,2,0,0,1
+Khronos Group Webmaster,webmaster@khronos.org,0,0,10,1,07/16/2015,07/16/2015,0,0,1,0,0,0
+Marco R. Pérez,marco.perez@mobica.com,0,0,6481,1,07/20/2015,07/20/2015,0,0,11,0.5854683746997598,1,98
+Qiankun Miao,qiankun.miao@intel.com,0,0,488,3,07/21/2015,08/04/2015,244.0,1.5,3,0,0,-8
+jdashg,jdashg@gmail.com,0,0,12,1,08/05/2015,08/05/2015,0,0,0,0,0,0
+Janusz Sobczak,janusz.sobczak@mobica.com,0,0,18116,1,08/05/2015,08/05/2015,0,0,35,0.483602235579458,1,526

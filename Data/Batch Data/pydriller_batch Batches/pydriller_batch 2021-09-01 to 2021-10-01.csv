@@ -1,0 +1,3 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+k----n,k----n@users.noreply.github.com#9467666+k----n@users.noreply.github.com,0,0,10,4,09/16/2021,09/29/2021,5.384615384615384,2.1538461538461537,2,0,0,0
+Davide Spadini,dspadini@fb.com#spadini.davide@gmail.com,0,0,74,4,09/29/2021,09/29/2021,0,0,6,0,0,-2

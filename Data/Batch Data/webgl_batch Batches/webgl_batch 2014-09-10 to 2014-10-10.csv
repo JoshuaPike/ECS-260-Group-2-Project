@@ -1,0 +1,14 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ken Russell,kbrussel@alum.mit.edu,0,0,2511,24,09/09/2014,10/09/2014,585.9,5.6000000000000005,1,1.0,1,0
+Olli Etuaho,oetuaho@nvidia.com#olli.etuaho@gmail.com,0,0,877,11,09/10/2014,10/09/2014,211.68965517241378,2.655172413793103,15,0,0,3
+Brandon Jones,tojiro@gmail.com#bajones@chromium.org,0,0,1252,17,09/10/2014,10/09/2014,302.2068965517241,4.1034482758620685,22,1.2918054630246503,2,9
+Benoit Jacob,jacob.benoit.1@gmail.com,0,0,771,7,09/15/2014,10/09/2014,224.875,2.041666666666667,5,0,0,32
+Rafael Cintron,rafael.cintron@outlook.com,0,0,536,6,09/15/2014,10/04/2014,197.4736842105263,2.2105263157894735,8,0,0,15
+Nicolas Capens,capn@chromium.org,0,0,145,1,09/18/2014,09/18/2014,0,0,1,0,0,4
+zhenyao,zmo@chromium.org,0,0,1993,13,09/18/2014,10/08/2014,697.55,4.55,38,0,0,0
+RafaelCintron,rafael.cintron@outlook.com,0,0,94,1,09/23/2014,09/23/2014,0,0,0,0,0,3
+Zhenyao Mo,zmo@chromium.org,0,0,1234,17,09/29/2014,10/09/2014,863.8,11.9,0,0,0,-20
+Dean Jackson,dino@apple.com,0,0,17,1,10/01/2014,10/01/2014,0,0,1,0,0,0
+Arun Patole,apatole@nvidia.com#apatole@users.noreply.github.com,0,0,638,4,10/01/2014,10/06/2014,893.1999999999999,5.6,6,0.42735042735042733,1,3
+bjacob,jacob.benoit.1@gmail.com,0,0,264,2,10/08/2014,10/09/2014,1848.0,14.0,0,0,0,0
+David Anderson,danderson@mozilla.com,0,0,7,1,10/08/2014,10/08/2014,0,0,0,0,0,1

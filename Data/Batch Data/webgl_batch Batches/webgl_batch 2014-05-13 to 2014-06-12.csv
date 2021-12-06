@@ -1,0 +1,10 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Florian,pyalot@gmail.com,0,0,14,2,05/13/2014,05/13/2014,0,0,2,0,0,0
+Geoff Lang,geoff@vonture.net,0,0,33,1,05/13/2014,05/13/2014,0,0,1,0,0,0
+Ken Russell,kbrussel@alum.mit.edu,0,0,2129,21,05/13/2014,06/09/2014,551.9629629629629,5.444444444444445,3,0,0,-4
+Brandon Jones,bajones@chromium.org#tojiro@gmail.com,0,0,1198,13,05/14/2014,05/28/2014,599.0,6.5,8,0,0,18
+Tibor den Ouden,tibordenouden@gmail.com,0,0,1677,10,05/19/2014,06/11/2014,510.3913043478261,3.0434782608695654,17,1.6741573033707864,2,96
+msc-hi,callow.mark@artspark.co.jp,0,0,78,1,05/21/2014,05/21/2014,0,0,1,0,0,1
+jdashg,jdashg+github@gmail.com,0,0,418,2,05/23/2014,06/02/2014,292.59999999999997,1.4,1,0,0,12
+Jamie Madill,jmadill@chromium.org,0,0,61,2,05/27/2014,05/29/2014,213.5,7.0,1,0,0,0
+Dean Jackson,dino@apple.com#dino@grorg.org,0,0,368,18,05/29/2014,06/06/2014,322.0,15.75,2,0,0,-2
