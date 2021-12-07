@@ -1,0 +1,11 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Jan Hammerschmidt,jan.hammerschmidt@gmail.com,0,0,54,1,2016-07-12 15:55:53,2016-07-12 15:55:53,0,0,0,0.7857142857142857,1,2
+Wilt,wouter_wiltenburg@hotmail.com,0,0,2,1,2016-07-13 17:53:21,2016-07-13 17:53:21,0,0,0,0,0,0
+Claudio Gamboa,claudiogamboa@sapo.pt,0,0,8,1,2016-07-13 17:56:32,2016-07-13 17:56:32,0,0,1,0,0,0
+Michael Blix,mkeblx@gmail.com,0,0,6,2,2016-07-14 20:22:33,2016-07-16 16:08:04,42.0,14.0,0,0,0,0
+Yannis Gravezas,wizgrav@gmail.com,0,0,86,1,2016-07-15 03:21:51,2016-07-15 03:21:51,0,0,1,0,0,0
+Benjamin Cid Pérez,ben@flying-sheep.com,0,0,2,1,2016-07-15 03:30:51,2016-07-15 03:30:51,0,0,0,0,0,0
+Mr.doob,info@mrdoob.com,0,0,170,2,2016-07-15 05:12:34,2016-07-15 05:16:37,0,0,5,0,0,0
+Benjamin Dobell,benjamin.dobell+github@glassechidna.com.au,0,0,7,2,2016-07-15 16:47:04,2016-07-17 22:38:57,24.5,7.0,1,0,0,0
+Daniel Hritzkiv,daniel.hritzkiv@gmail.com,0,0,59,1,2016-07-18 17:36:05,2016-07-18 17:36:05,0,0,1,1.0,1,-2
+Jaakko Manninen,kschzt@gmail.com,0,0,1,1,2016-07-19 15:58:02,2016-07-19 15:58:02,0,0,0,0,0,0

@@ -1,0 +1,24 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,0,33791,79,2016-12-07 08:23:10,2016-12-18 17:02:16,21503.363636363636,50.27272727272727,69,12.046586258365835,17,72
+Takahiro,hogehoge@gachapin.jp,0,0,33,4,2016-12-07 13:18:12,2016-12-08 14:11:58,231.0,28.0,0,0,0,0
+Charles Flèche,charles.fleche@free.fr,0,0,44,1,2016-12-08 23:39:51,2016-12-08 23:39:51,0,0,5,0,0,0
+Kyle Larson,klarson2@sapient.com#klarson1331@gmail.com,1,0,90300,12,2016-12-08 06:37:42,2016-12-14 11:05:51,105350.0,14.0,1,1.377906976744186,2,9
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,40,4,2016-12-08 04:04:12,2016-12-08 04:49:50,0,0,0,1.0,1,0
+Simon Epskamp,simon@frontwise.com,0,0,2,1,2016-12-09 17:05:21,2016-12-09 17:05:21,0,0,0,0,0,0
+Lewy B,Lewy B,0,0,27792,1,2016-12-10 09:55:48,2016-12-10 09:55:48,0,0,0,0,0,0
+Lewy Blue,looeee@gmail.com,0,0,20645,43,2016-12-10 10:29:23,2016-12-16 11:25:01,24085.833333333336,50.16666666666667,3,0,0,0
+Kevan Stannard,kevanstannard@gmail.com,0,0,36,5,2016-12-11 22:34:07,2016-12-18 04:12:16,42.0,5.833333333333334,2,2.0,2,4
+Ben Houston,ben@exocortex.com,0,0,65,3,2016-12-10 15:36:54,2016-12-10 17:01:25,0,0,0,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,467,20,2016-12-11 23:50:33,2016-12-17 15:47:14,653.8,28.0,8,5.0,5,3
+WestLangley,dat1234@gmail.com#WestLangley@users.noreply.github.com,0,0,9282,2,2016-12-12 11:49:06,2016-12-14 09:20:17,64974.0,14.0,2,0.918918918918919,1,0
+Cecile Muller,git@wildpeaks.fr,0,0,1,1,2016-12-13 12:01:26,2016-12-13 12:01:26,0,0,0,0,0,0
+Louis Brunner,lb@getautomata.com,0,0,315,1,2016-12-13 15:45:08,2016-12-13 15:45:08,0,0,0,0.17391304347826086,1,4
+sunag,contact@sunag.com.br,0,0,212,6,2016-12-13 13:42:45,2016-12-13 14:18:26,0,0,6,1.704761904761905,2,1
+Ludovic Bailly,ludovic.bailly@bionext.com,0,0,4,1,2016-12-14 14:18:49,2016-12-14 14:18:49,0,0,0,0,0,0
+Kevin Schmidt,kevin@eyesopen.com,0,0,46,1,2016-12-14 09:26:25,2016-12-14 09:26:25,0,0,2,0,0,0
+Steven Wittens,steven@acko.net,0,0,163,3,2016-12-15 12:29:28,2016-12-16 19:13:29,1141.0,21.0,1,0.1111111111111111,1,0
+Paul Masson,paulmasson@comcast.net,0,0,17,3,2016-12-15 06:58:08,2016-12-15 07:40:03,0,0,0,0,0,0
+makc,makc.the.great@gmail.com,0,0,4,1,2016-12-16 11:43:13,2016-12-16 11:43:13,0,0,1,0,0,0
+Victor Glindås,glinkis@gmail.com,0,0,4,2,2016-12-16 12:56:34,2016-12-16 13:00:43,0,0,0,0,0,0
+Franklin Ta,fta2012@gmail.com,0,0,73,2,2016-12-16 18:01:39,2016-12-16 18:11:49,0,0,4,1.0,1,-2
+Eevee,eevee.github@veekun.com,0,0,44,1,2016-12-17 07:01:45,2016-12-17 07:01:45,0,0,1,0,0,0

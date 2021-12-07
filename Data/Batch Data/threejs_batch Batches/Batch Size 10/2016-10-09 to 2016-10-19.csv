@@ -1,0 +1,18 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Takahiro,hogehoge@gachapin.jp,0,0,1669,2,2016-10-08 16:48:32,2016-10-17 18:09:45,1298.111111111111,1.5555555555555554,2,0.4512820512820513,1,7
+Michael Herzog,michael.herzog@human-interactive.org,0,0,1259,4,2016-10-09 15:10:50,2016-10-18 01:40:21,1101.625,3.5,9,1.0,1,13
+Nick Powers,nickpowers43@gmail.com,0,0,2,1,2016-10-10 08:28:36,2016-10-10 08:28:36,0,0,0,0,0,0
+martinRenou,martin.renou@isae.fr,0,0,11,1,2016-10-10 09:48:14,2016-10-10 09:48:14,0,0,1,1.0,1,0
+fallenoak,github@fallenoak.me,0,0,8,1,2016-10-10 10:02:18,2016-10-10 10:02:18,0,0,0,0,0,0
+Mr.doob,info@mrdoob.com,0,0,4037,12,2016-10-10 10:06:45,2016-10-18 02:10:53,4037.0,12.0,5,6.007936507936508,7,11
+matthias-w,void15@web.de,0,0,6,1,2016-10-11 10:06:08,2016-10-11 10:06:08,0,0,3,1.0,1,0
+Joshua Koo,zz85nus@gmail.com,0,0,2,1,2016-10-11 10:32:07,2016-10-11 10:32:07,0,0,1,0,0,0
+Andreas Jeppsson,andreas@plan8.se,0,0,21,1,2016-10-12 11:37:45,2016-10-12 11:37:45,0,0,1,1.0,1,0
+Daniel Hritzkiv,daniel.hritzkiv@gmail.com,0,0,2,1,2016-10-12 08:31:50,2016-10-12 08:31:50,0,0,1,0,0,0
+Ludovic Bailly,ludovic.bailly@bionext.com,0,0,4,1,2016-10-14 13:15:24,2016-10-14 13:15:24,0,0,0,1.0,1,0
+mhalle,m@halle.us,0,0,12,1,2016-10-14 06:39:05,2016-10-14 06:39:05,0,0,1,0,0,0
+Jarosław Konik,jarkonik@users.noreply.github.com,0,0,6,1,2016-10-14 07:48:11,2016-10-14 07:48:11,0,0,1,1.0,1,0
+Peter Whidden,all.cows.like.to.moo@gmail.com,0,0,187,1,2016-10-14 09:32:30,2016-10-14 09:32:30,0,0,5,0.4444444444444444,1,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,44,1,2016-10-14 11:50:31,2016-10-14 11:50:31,0,0,1,0.9523809523809523,1,0
+aardgoose,angus.sawyer@gmail.com,0,1,157,5,2016-10-17 02:33:49,2016-10-18 08:46:52,1099.0,35.0,1,1.0,1,0
+Tentone,tentone@outlook.com,0,0,761,1,2016-10-18 09:21:29,2016-10-18 09:21:29,0,0,2,0.8284734133790738,1,0

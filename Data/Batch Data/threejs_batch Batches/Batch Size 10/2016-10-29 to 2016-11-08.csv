@@ -1,0 +1,15 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,0,7218,16,2016-10-28 10:22:38,2016-11-05 11:20:08,6315.75,14.0,18,6.83240532258686,11,15
+Eric Haines,erich@acm.org,0,0,22,1,2016-10-28 10:33:41,2016-10-28 10:33:41,0,0,0,0,0,0
+aardgoose,angus.sawyer@gmail.com,0,0,300,5,2016-10-29 05:39:12,2016-11-07 00:37:33,262.5,4.375,19,0.7019230769230769,2,1
+Takahiro,hogehoge@gachapin.jp,0,0,26818,22,2016-10-30 06:03:03,2016-11-07 05:13:04,26818.0,22.0,14,4.029867868199911,6,43
+Michael Herzog,michael.herzog@human-interactive.org,0,0,511,2,2016-10-31 01:56:43,2016-10-31 06:21:08,0,0,5,1.0,1,9
+Clark Van Oyen,clark@countable.ca,0,0,2,1,2016-10-31 01:57:04,2016-10-31 01:57:04,0,0,0,0,0,0
+Lewy Blue,looeee@gmail.com,0,0,4325,33,2016-10-31 02:00:41,2016-11-07 04:54:37,4325.0,33.0,2,2.0,2,0
+looeee,looeee@gmail.com,0,0,57,2,2016-10-31 22:53:53,2016-11-01 00:06:42,0,0,0,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,36,1,2016-11-03 16:25:22,2016-11-03 16:25:22,0,0,0,0,0,0
+Jacob Schlecht,Dadadah@users.noreply.github.com,0,0,2,1,2016-11-04 08:00:28,2016-11-04 08:00:28,0,0,0,0,0,0
+sehcheese,sehcheese@users.noreply.github.com,0,0,2,1,2016-11-04 08:24:53,2016-11-04 08:24:53,0,0,1,0,0,0
+makc,makc.the.great@gmail.com,0,0,2,1,2016-11-05 06:05:57,2016-11-05 06:05:57,0,0,1,0,0,0
+Brian Sipple,Bsipple57@gmail.com,0,0,7,1,2016-11-05 10:10:15,2016-11-05 10:10:15,0,0,0,0,0,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,71,1,2016-11-05 11:18:20,2016-11-05 11:18:20,0,0,1,1.0,1,0

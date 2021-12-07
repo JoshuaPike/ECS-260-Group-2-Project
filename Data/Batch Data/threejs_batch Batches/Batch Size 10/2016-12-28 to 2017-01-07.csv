@@ -1,0 +1,15 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+sunag,contact@sunag.com.br,0,0,136,4,2016-12-28 11:20:26,2016-12-28 15:09:02,0,0,1,2.0,2,0
+Mr.doob,info@mrdoob.com,0,0,277,11,2016-12-29 21:43:37,2017-01-06 09:59:48,277.0,11.0,5,0,0,-1
+Takahiro,hogehoge@gachapin.jp,0,0,44,2,2016-12-31 04:42:56,2017-01-03 10:50:54,102.66666666666667,4.666666666666667,2,1.0,1,0
+Paul Masson,paulmasson@comcast.net,0,0,2,1,2016-12-31 08:33:46,2016-12-31 08:33:46,0,0,0,0,0,0
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,4,1,2016-12-31 17:07:20,2016-12-31 17:07:20,0,0,0,0,0,0
+Nick,NAThompson@users.noreply.github.com,0,0,5,1,2017-01-02 11:55:17,2017-01-02 11:55:17,0,0,0,0,0,0
+Andreas Plesch,andreasplesch@users.noreply.github.com,1,0,15440,7,2017-01-02 14:31:39,2017-01-04 11:43:08,108080.0,49.0,0,0,0,0
+Kevin Schmidt,kevin@eyesopen.com#kevineschmidt@gmail.com,0,0,40,4,2017-01-03 09:06:21,2017-01-04 04:54:09,0,0,5,0,0,0
+Wai Ting Cheung,waitingcheung@users.noreply.github.com,0,0,8,1,2017-01-05 06:01:01,2017-01-05 06:01:01,0,0,2,0,0,0
+Erich Loftis,erichlof@swbell.net,0,0,140,3,2017-01-04 04:27:55,2017-01-04 17:40:01,0,0,1,0,0,4
+Steven Vergenz,steven@altvr.com,0,0,6,1,2017-01-04 04:48:46,2017-01-04 04:48:46,0,0,0,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,263,5,2017-01-04 22:53:46,2017-01-06 17:16:57,1841.0,35.0,4,1.0,1,18
+Ludovic Bailly,ludovic.bailly@bionext.com,0,0,2,1,2017-01-05 15:31:53,2017-01-05 15:31:53,0,0,1,0,0,0
+Al McElrath,hello@yrns.org,0,0,6,1,2017-01-05 04:55:34,2017-01-05 04:55:34,0,0,0,0,0,0

@@ -1,0 +1,16 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Peter Occil,poccil14@gmail.com,0,0,2,1,2017-03-17 16:26:59,2017-03-17 16:26:59,0,0,0,0,0,0
+Mr.doob,info@mrdoob.com,1,0,12749,40,2017-03-18 02:34:10,2017-03-27 08:58:23,9915.888888888889,31.111111111111107,9,8.171261930010605,9,-2
+Jost Schmithals,jost.schmithals@musikalisches-zentrum-hx.de,0,0,28,4,2017-03-18 16:34:55,2017-03-27 17:38:37,21.777777777777775,3.1111111111111107,0,0,0,0
+Takahiro,hogehoge@gachapin.jp,0,0,1424,15,2017-03-19 18:41:39,2017-03-23 14:54:49,3322.666666666667,35.0,16,2.0257004423846636,3,3
+alejandro,alemures@hotmail.com,0,0,47,1,2017-03-20 18:39:30,2017-03-20 18:39:30,0,0,2,0,0,-2
+gero3,jeroen-876@hotmail.com,0,0,2,1,2017-03-21 11:18:34,2017-03-21 11:18:34,0,0,0,0,0,0
+Andrii Iudin,andrii@ebi.ac.uk,0,0,250,3,2017-03-22 15:39:03,2017-03-23 10:18:30,0,0,1,1.3962264150943398,2,6
+Mugen87,michael.herzog@human-interactive.org,0,0,417,7,2017-03-23 20:37:22,2017-03-27 20:42:29,729.75,12.25,26,5.0,5,-5
+Michael Bond,mbond@box.com,0,0,15,3,2017-03-24 07:25:11,2017-03-26 01:07:40,105.0,21.0,0,1.0,1,0
+jaxry,cabot696@gmail.com,0,0,53,3,2017-03-24 19:31:32,2017-03-25 07:54:48,0,0,1,1.0,1,1
+Kai Salmen,myself@kaisalmen.de,0,0,3725,3,2017-03-25 14:07:42,2017-03-25 14:11:18,0,0,4,1.5751544269045985,2,20
+Michael Herzog,michael.herzog@human-interactive.org,0,0,2,1,2017-03-26 18:29:24,2017-03-26 18:29:24,0,0,0,0,0,0
+Brian A MacIntosh,brianamacintosh@gmail.com,0,0,160,6,2017-03-26 02:10:24,2017-03-26 11:47:01,0,0,0,0,0,0
+makc,makc.the.great@gmail.com,0,0,5,1,2017-03-27 00:19:49,2017-03-27 00:19:49,0,0,1,0,0,1
+WestLangley,dat1234@gmail.com,0,0,49,1,2017-03-26 13:49:28,2017-03-26 13:49:28,0,0,0,0,0,0
