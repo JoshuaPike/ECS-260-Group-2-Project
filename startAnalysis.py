@@ -16,19 +16,20 @@ startTime = datetime.utcnow()
 
 localPaths = ['../pydriller', '../velocity', '../toolkit', '../WebGL', '../Babylon.js', '../three.js']
 
-end_date = datetime(2021, 12, 1, 0, 0, 0)
-
-pydriller_start = datetime(2018, 3, 21, 0, 0, 0)
-
-threejs_start = datetime(2015, 6, 21, 0, 0, 0)
-
-webGL_start = datetime(2012, 8, 21, 0, 0, 0)
-
-velocity_start = datetime(2014, 4, 9, 0, 0, 0)
-
-toolkit_start = datetime(2011, 10, 25, 0, 0, 0)
-
-babylonjs_start = datetime(2016, 11, 20, 0, 0, 0)
+# end_date = datetime(2021, 12, 1, 0, 0, 0)
+end_date = datetime.fromisoformat('2021-12-01T00:00:00+00:00')
+# pydriller_start = datetime(2018, 3, 21, 0, 0, 0)
+pydriller_start = datetime.fromisoformat('2018-03-21T00:00:00+00:00')
+# threejs_start = datetime(2015, 6, 21, 0, 0, 0)
+threejs_start = datetime.fromisoformat('2015-06-21T00:00:00+00:00')
+# webGL_start = datetime(2012, 8, 21, 0, 0, 0)
+webGL_start = datetime.fromisoformat('2012-08-21T00:00:00+00:00')
+# velocity_start = datetime(2014, 4, 9, 0, 0, 0)
+velocity_start = datetime.fromisoformat('2014-04-09T00:00:00+00:00')
+# toolkit_start = datetime(2011, 10, 25, 0, 0, 0)
+toolkit_start = datetime.fromisoformat('2011-10-25T00:00:00+00:00')
+# babylonjs_start = datetime(2016, 11, 20, 0, 0, 0)
+babylonjs_start = datetime.fromisoformat('2016-11-20T00:00:00+00:00')
 
 # Testing batches
 # test_start_date = datetime(2021, 10, 1)
@@ -78,12 +79,13 @@ print('Starting to mine Babylon.js\n')
 
 # stopped at 2017-06-18
 # date_babylon_stopped_at = datetime(2017, 6, 18, 0, 0, 0)
-date_babylon_stopped_at_second = datetime(2017, 6, 28, 0, 0, 0)
+# date_babylon_stopped_at_second = datetime(2017, 6, 28, 0, 0, 0)
+date_babylon_stopped_at_second = datetime.fromisoformat('2017-03-30T00:00:00+00:00')
 test_end_date = date_babylon_stopped_at_second + batch_size
 
 mineStartTime = datetime.utcnow()
-# mine(localPaths[4], 'JavaScript', babylonjs_start, end_date, 'babylonjs_batch', batch_size)
-mine(localPaths[4], 'JavaScript', date_babylon_stopped_at_second, test_end_date, 'babylonjs_batch', batch_size)
+mine(localPaths[4], 'JavaScript', date_babylon_stopped_at_second, end_date, 'babylonjs_batch', batch_size)
+# mine(localPaths[4], 'JavaScript', date_babylon_stopped_at_second, test_end_date, 'babylonjs_batch', batch_size)
 mineEndTime = datetime.utcnow()
 timeElapsed = mineEndTime - mineStartTime
 
@@ -103,3 +105,8 @@ playsound('Okaaayyyyy lets go.mp3')
 
 x = datetime.fromisoformat('2011-11-04T01:00:00+04:00')
 print(x.strftime("%m/%d/%Y"))
+
+
+# x = datetime.fromisoformat('2021-01-01T02:00:00+00:00')
+# y = datetime.fromisoformat('2021-01-01T02:00:00-01:00')
+# print(str(y-x))

@@ -1,0 +1,14 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+MackeyK24,MackeyK24@gmail.com,0,0,6309,15,2017-01-08 07:54:49,2017-01-17 14:23:12,4907.0,11.666666666666666,0,4.0,4,0
+Krisofer Brink,kpgbrink@gmail.com,0,0,11,1,2017-01-09 19:36:12,2017-01-09 19:36:12,0,0,0,0.6,1,0
+nockawa,loic.baumann@outlook.com,0,0,35294,17,2017-01-10 09:38:40,2017-01-19 00:05:26,30882.25,14.875,5,3.106051996783704,5,2
+Loïc Baumann,loic.baumann@outlook.com,0,0,981,6,2017-01-10 09:51:04,2017-01-19 00:06:04,858.375,5.25,0,0,0,0
+David Catuhe,david.catuhe@live.fr#david.catuhe@Live.fr,0,0,34914,24,2017-01-09 23:47:57,2017-01-18 02:07:43,30549.75,21.0,0,0.9242384105960265,2,80
+Adam Bowman,abowman@gmail.com,0,0,538,9,2017-01-10 14:27:47,2017-01-17 14:08:56,627.6666666666667,10.5,0,2.0,2,0
+davrous,david_rousset@hotmail.com,0,0,27451,5,2017-01-11 15:09:47,2017-01-16 23:38:07,38431.4,7.0,1,1.9941520467836256,2,3
+jbousquie,jerome@bousquie.fr,0,0,899,7,2017-01-11 17:36:11,2017-01-16 18:00:42,1258.6,9.799999999999999,0,1.0,1,0
+Julien Moreau-Mathis,moreau-mathis@intechinfo.fr,0,0,308,4,2017-01-11 21:20:23,2017-01-17 20:59:44,431.2,5.6,2,2.4761904761904763,3,-2
+Jérôme Bousquié,jerome@bousquie.fr,0,0,130,4,2017-01-11 21:51:55,2017-01-18 10:54:32,151.66666666666669,4.666666666666667,0,0,0,0
+Palmer-JC,jeffrey.c.palmer@gmail.com,0,0,109,3,2017-01-12 08:18:56,2017-01-13 06:34:33,0,0,0,1.0,1,0
+Raanan Weber,raananw+github@gmail.com,0,0,184,3,2017-01-15 12:48:27,2017-01-17 12:58:44,644.0,10.5,0,0,0,0
+sevan,sevan@SEVANSBP,0,0,9869,2,2017-01-16 10:53:24,2017-01-16 10:53:55,0,0,0,0,0,0

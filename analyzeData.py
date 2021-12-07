@@ -4,26 +4,55 @@ import statsmodels.api as sm
 import os
 import glob
 from datetime import datetime, timedelta
+from mineData import write_to_csv
 
+
+# Takes batch data for batch sizes less than 30 and compiles it into monthly (30 days) data and stores monthly data in
+# csv's outside the working directory
+# Make sure data_end_date that is passed in is a naive datetime object
 def make_batch_data_monthly(nameOfRepo, batch_size, data_end_date):
-    dir_name = 'Data/Batch Data/' + nameOfRepo + ' Batches/Batch Size ' + str(batch_size.days) + '/*.csv'
+    dir_name_for_glob = 'Data/Batch Data/' + nameOfRepo + ' Batches/Batch Size ' + str(batch_size.days) + '/*.csv'
+    dir_name_for_monthly_csv = 'Data/Batch Data/' + nameOfRepo + ' Batches/'
+
     # Don't know if recursive needs to be true for glob. Don't know if files will be sorted when using glob
     # assume recursive = false and glob returns sorted list
-    file_list = glob.glob(dir_name)
+    file_list = glob.glob(dir_name_for_glob)
+    # Checking if file_list is sorted with print statement
+    print(file_list)
     if not file_list:
         print('No csv files in repos directory')
 
     # file could be empty
     # Example file name: 2016-11-20 to 2016-12-20.csv
     running_batch_total = 0
+    monthly_batch_start_date = 0
+    new_monthly_batch = True
+    monthly_contributor_dict = {}
     for file in file_list:
         file_start_date = datetime(int(file[0:4]), int(file[5:7]), int(file[8:10]), 0, 0, 0)
-        file_end_date = datetime(int(file[0:4]), int(file[5:7]), int(file[8:10]), 0, 0, 0)
+        file_end_date = datetime(int(file[14:18]), int(file[19:21]), int(file[22:24]), 0, 0, 0)
 
-
+        if new_monthly_batch:
+            monthly_batch_start_date = file_start_date
+            monthly_contributor_dict = {}
+            new_monthly_batch = False
+        file_dict = pd.read_csv(file, header=0, index_col=0).to_dict()
+        print(file_dict)
 
         # if running_batch_total == 30 or (file_end_date - data_end_date).days == 0
         # put data in a monthly csv, outside of current directory
+        # if file_end_date is greater than or equal to data_end_date
+        # or
+        # the difference between file_end_date and monthly_batch_start_date is greater than or equal to 30 days
+        # put data in a monthly csv, outside of current directory
+        # set new_monthly_batch = True
+        # set monthly_contributor_dict = {}
+        if not (file_end_date < data_end_date) or (file_end_date - monthly_batch_start_date).days >= 30:
+            # Put data in csv
+            filename = dir_name_for_monthly_csv + monthly_batch_start_date.strftime("%Y-%m-%d") + ' to ' \
+                       + file_end_date.strftime("%Y-%m-%d") + '.csv'
+            write_to_csv(monthly_contributor_dict, filename)
+            new_monthly_batch = True
 
 # Read in all data
 pydrillerData = pd.read_csv('pydrillerData.csv', encoding = "ISO-8859-1")

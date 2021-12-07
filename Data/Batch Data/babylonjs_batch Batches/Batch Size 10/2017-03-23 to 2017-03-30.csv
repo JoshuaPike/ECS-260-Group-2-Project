@@ -1,0 +1,15 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+nockawa,loic.baumann@outlook.com,0,0,48878,14,2017-03-24 11:58:46,2017-03-30 01:26:47,68429.2,19.599999999999998,2,6.666666666666667,7,1
+Loïc Baumann,loic.baumann@outlook.com,0,0,1122,8,2017-03-24 11:59:51,2017-03-30 01:27:29,1570.8,11.2,0,0,0,0
+Jérôme Bousquié,jerome@bousquie.fr,0,0,1,1,2017-03-24 16:56:19,2017-03-24 16:56:19,0,0,0,0,0,0
+David Catuhe,david.catuhe@live.fr#david.catuhe@Live.fr,0,0,166279,30,2017-03-24 01:07:16,2017-03-29 09:02:31,232790.6,42.0,52,8.065076620130771,10,93
+yuccai,chanteloup.pierre@gmail.com,0,0,30590,2,2017-03-24 17:23:40,2017-03-24 17:26:10,0,0,0,0,0,0
+davrous,david_rousset@hotmail.com,0,0,17125,3,2017-03-24 17:37:40,2017-03-24 19:53:29,0,0,0,1.4896489648964897,2,0
+Gary Hsu,garyhsu@microsoft.com#bghgary@users.noreply.github.com,0,0,55872,7,2017-03-24 07:19:06,2017-03-29 06:20:46,97776.0,12.25,0,1.0,1,0
+sevan,sevan@SEVANSBP,0,0,269,2,2017-03-24 18:02:40,2017-03-24 18:17:15,0,0,0,0,0,0
+jbousquie,jerome@bousquie.fr,0,0,13,1,2017-03-27 13:02:04,2017-03-27 13:02:04,0,0,0,0,0,0
+Benjamin Guignabert,bguignabert@wanadev.fr,0,0,84383,9,2017-03-27 16:29:23,2017-03-29 18:38:19,295340.5,31.5,4,4.573639126830616,5,3
+Mark Lunney (CV Bay Ltd),a-malunn@microsoft.com,0,0,27,2,2017-03-27 16:12:36,2017-03-28 14:48:38,0,0,0,0,0,0
+Julian,temechon@gmail.com,0,0,996,10,2017-03-28 13:55:59,2017-03-28 19:30:49,0,0,2,1.2777777777777777,2,5
+Temechon,temechon@gmail.com,0,0,939,4,2017-03-28 17:24:32,2017-03-28 19:31:18,0,0,0,0,0,0
+MackeyK24,MackeyK24@gmail.com,0,0,22747,3,2017-03-29 01:52:17,2017-03-29 03:26:28,0,0,0,1.0,1,0

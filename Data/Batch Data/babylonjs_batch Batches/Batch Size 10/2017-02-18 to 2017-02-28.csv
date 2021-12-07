@@ -1,0 +1,12 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+sevan,sevan@SEVANSBP,0,0,116,1,2017-02-17 12:49:20,2017-02-17 12:49:20,0,0,0,0.05263157894736842,1,0
+MackeyK24,MackeyK24@gmail.com,0,0,57367,9,2017-02-17 19:23:03,2017-02-27 02:03:23,44618.777777777774,6.999999999999999,0,2.7142857142857144,3,0
+David Catuhe,david.catuhe@live.fr#david.catuhe@Live.fr,0,0,159938,36,2017-02-18 01:49:36,2017-02-27 07:24:34,124396.22222222222,27.999999999999996,10,6.8462455997238045,10,14
+Raanan Weber,raananw+github@gmail.com,0,0,10,2,2017-02-20 02:25:11,2017-02-20 02:26:11,0,0,0,0,0,0
+jbousquie,jerome@bousquie.fr,0,0,202,7,2017-02-20 15:39:32,2017-02-27 12:42:11,235.66666666666669,8.166666666666668,0,0,0,0
+Jérôme Bousquié,jerome@bousquie.fr,0,0,6,2,2017-02-21 11:16:59,2017-02-23 10:44:20,42.0,14.0,0,0,0,0
+Gary Hsu,garyhsu@microsoft.com,0,0,111,2,2017-02-21 03:30:06,2017-02-25 15:58:57,194.25,3.5,0,2.0,2,0
+nockawa,loic.baumann@outlook.com,0,0,127246,21,2017-02-22 03:01:38,2017-02-27 15:43:32,178144.4,29.4,2,8.063492063492063,10,75
+Loïc Baumann,loic.baumann@outlook.com,0,0,4765,10,2017-02-22 03:20:01,2017-02-24 14:54:55,16677.5,35.0,0,0,0,0
+Adam Bowman,abowman@gmail.com,0,0,54,3,2017-02-22 03:32:05,2017-02-23 16:40:49,378.0,21.0,0,0,0,0
+Rasmus Israelsson,israelssonrasmusraz@gmail.com,0,0,3,1,2017-02-27 23:19:56,2017-02-27 23:19:56,0,0,0,0,0,0

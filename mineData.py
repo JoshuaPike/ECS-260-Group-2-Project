@@ -112,6 +112,7 @@ def mine(repoPath, lang, start, end, repoName, batchSize):
     # batch_size is a timeDelta
     # tzinfo.utcoffset to get utc time for aware datetime objects
     # datetime.utcoffset()
+
     def mine_in_batches(path_to_repo, language, start_date, end_date, nameOfRepo, batch_size):
         nonlocal most_recent_hash, most_recent_date, commits_to_skip
         # end on the first of a month, start on first of a month
@@ -139,27 +140,28 @@ def mine(repoPath, lang, start, end, repoName, batchSize):
             csv_filename = dir_name + '/' + batch_start_date.strftime("%Y-%m-%d") + ' to ' + \
                            batch_end_date.strftime("%Y-%m-%d") + '.csv'
 
-            mineStartTime = datetime.utcnow()
+            # mineStartTime = datetime.utcnow()
             try:
                 mine_repo(cur_batch_repo, language, csv_filename)
-                batch_start_date += batch_size
+                batch_start_date = batch_end_date
                 batch_end_date += batch_size
             except Exception as e:
                 # if str(e) == 'maximum recursion depth exceeded while calling a Python object':
                 #     print('ballsack')
                 commits_to_skip.append(most_recent_hash)
-                print('Most recent date: ' + most_recent_date.strftime("%Y-%m-%d"))
-                time_of_error = datetime.utcnow()
-                timeElapsed = time_of_error - mineStartTime
-                logging.error('Ran into error while trying to mine batch: ' + batch_start_date.strftime("%Y-%m-%d") +
-                              ' to ' + batch_end_date.strftime("%Y-%m-%d") + '\nError Type: ' + str(e) +
-                              '\nMining took ' + str(timeElapsed.seconds) + ' seconds\n')
-                # mine_in_batches(path_to_repo, language, batch_start_date, batch_end_date, nameOfRepo,
-                #                 batch_size*0.5)
+                print('Exception Caught')
+                # print('Pre mine most recent date: ' + most_recent_date.strftime("%Y-%m-%d %H:%M:%S"))
+                # time_of_error = datetime.utcnow()
+                # timeElapsed = time_of_error - mineStartTime
+                # logging.error('Ran into error while trying to mine batch: ' + batch_start_date.strftime("%Y-%m-%d") +
+                #               ' to ' + batch_end_date.strftime("%Y-%m-%d") + '\nError Type: ' + str(e) +
+                #               '\nMining took ' + str(timeElapsed.seconds) + ' seconds\n')
                 cur_batch_repo = Repository(path_to_repo, since=batch_start_date, to=most_recent_date)
+                csv_filename = dir_name + '/' + batch_start_date.strftime("%Y-%m-%d") + ' to ' + \
+                               most_recent_date.strftime("%Y-%m-%d") + '.csv'
                 batch_start_date = most_recent_date
                 mine_repo(cur_batch_repo, language, csv_filename)
-                print('Post mine most recent date: ' + most_recent_date.strftime("%Y-%m-%d"))
+                # print('Post mine most recent date: ' + most_recent_date.strftime("%Y-%m-%d %H:%M:%S"))
 
     # Function that mines a repo thats written in either Python or JavaScript and puts this data in a csv with given filename
     def mine_repo(repo, language, filename):
@@ -168,8 +170,6 @@ def mine(repoPath, lang, start, end, repoName, batchSize):
         # commit for each contributor
         # Keep track of cyclomatic complexity of changed methods
         # Keep track of number of owned files
-
-        # commits_to_skip is list of hashes to skip
 
         contributorDict = {}
 
@@ -185,20 +185,21 @@ def mine(repoPath, lang, start, end, repoName, batchSize):
         # sum of contributors DMM complexities, number of commits where there is a DMM complexity, number of comments added/removed]
 
         for commit in repo.traverse_commits():
-            print('Commit #: ', commitCount)
-            commitCount += 1
+            # print('Commit #: ', commitCount)
+            # commitCount += 1
             most_recent_hash = commit.hash
-            print(most_recent_hash)
+            # print(most_recent_hash)
             if most_recent_hash in commits_to_skip:
-                print('Skipping')
+                print('Skipping commit with hash: ' + str(most_recent_hash))
                 continue
             name = commit.author.name
             email = commit.author.email.strip()
             lines = commit.lines
             most_recent_date = commit.committer_date
-            print(str(most_recent_date))
-            commitTime = most_recent_date.strftime("%m/%d/%Y")
-            print(commitTime)
+            utc_offset = most_recent_date.utcoffset()
+            # print(str(most_recent_date))
+            commitTime = (most_recent_date + utc_offset).strftime("%Y-%m-%d %H:%M:%S")
+            # print(commitTime)
             if email not in emailToName:
                 emailToName[email] = name
 
@@ -278,8 +279,8 @@ def mine(repoPath, lang, start, end, repoName, batchSize):
             commits = contributorDict[name][4]
             totalChurn += churn
             totalCommits += commits
-            first = datetime.strptime(contributorDict[name][5], "%m/%d/%Y")
-            last = datetime.strptime(contributorDict[name][6], "%m/%d/%Y")
+            first = datetime.strptime(contributorDict[name][5], "%Y-%m-%d %H:%M:%S")
+            last = datetime.strptime(contributorDict[name][6], "%Y-%m-%d %H:%M:%S")
             tenure = abs((last - first).days) / 7
             productivityChurn = 0
             productivityCommit = 0

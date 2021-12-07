@@ -1,0 +1,11 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+David Catuhe,david.catuhe@Live.fr#david.catuhe@live.fr,0,0,27136,13,2017-01-28 09:29:36,2017-02-07 01:28:12,21105.777777777777,10.11111111111111,8,2.2727272727272725,3,3
+nockawa,loic.baumann@outlook.com,0,0,1420,13,2017-01-29 03:30:29,2017-02-07 14:56:50,1104.4444444444443,10.11111111111111,2,1.7256885090218423,3,10
+Loïc Baumann,loic.baumann@outlook.com#loic.baumann.pro@outlook.com,0,0,3371,35,2017-01-29 03:31:07,2017-02-07 15:48:16,2621.8888888888887,27.22222222222222,0,6.794431983111229,7,0
+Vousk-prod,vousk@free.fr,0,0,2,1,2017-01-29 17:15:49,2017-01-29 17:15:49,0,0,0,0,0,0
+Adam Bowman,abowman@gmail.com,0,0,12464,18,2017-01-29 13:32:18,2017-02-07 09:51:16,10906.0,15.75,0,1.51954513148543,3,0
+jbousquie,jerome@bousquie.fr,0,0,757,2,2017-01-30 10:26:48,2017-02-07 16:29:57,662.375,1.75,0,0,0,0
+Temechon,temechon@gmail.com,0,0,168,6,2017-02-01 22:12:42,2017-02-01 23:50:23,0,0,1,0,0,10
+aWeirdo,thomasbeck@live.dk,0,0,18,5,2017-02-03 13:08:29,2017-02-04 19:16:12,126.0,35.0,0,0,0,0
+MackeyK24,MackeyK24@gmail.com,0,0,5,1,2017-02-06 16:16:31,2017-02-06 16:16:31,0,0,0,0,0,0
+davrous,david_rousset@hotmail.com,0,0,6228,4,2017-02-07 17:16:10,2017-02-07 19:29:40,0,0,3,0,0,0

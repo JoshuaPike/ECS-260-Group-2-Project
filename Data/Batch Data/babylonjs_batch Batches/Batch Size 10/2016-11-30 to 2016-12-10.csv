@@ -1,0 +1,14 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Adam Bowman,abowman@gmail.com,0,0,412,14,2016-11-29 16:12:21,2016-12-05 13:10:42,576.8,19.599999999999998,0,1.0,1,0
+sevan,sevan@SEVANSBP,0,0,178522,30,2016-11-29 13:18:24,2016-12-09 02:01:30,138850.44444444444,23.333333333333332,40,10.71927961810613,13,-3648
+David Catuhe,david.catuhe@live.fr#David Catuhe#david.catuhe@Live.fr,0,0,464003,61,2016-11-30 00:58:01,2016-12-09 06:59:31,360891.2222222222,47.44444444444444,11,12.351365424681733,16,3335
+David Rousset,davrous@microsoft.com,0,0,83,1,2016-12-01 15:46:07,2016-12-01 15:46:07,0,0,0,0,0,0
+Palmer-JC,jeffrey.c.palmer@gmail.com,0,0,193,1,2016-12-01 08:29:20,2016-12-01 08:29:20,0,0,0,1.0,1,0
+Julien Moreau-Mathis,moreau-mathis@intechinfo.fr,0,0,10830,8,2016-12-01 22:39:57,2016-12-07 21:22:22,15162.0,11.2,2,2.0,2,2
+Temechon,temechon@pixelcodr.com#temechon@gmail.com,0,0,305646,20,2016-12-02 16:59:05,2016-12-10 01:30:10,305646.0,20.0,51,7.723363860380481,9,4368
+KK,wyklion@qq.com,0,0,4,1,2016-12-06 22:16:36,2016-12-06 22:16:36,0,0,0,0,0,0
+Wink Saville,wink@saville.com,0,0,2,1,2016-12-06 04:35:55,2016-12-06 04:35:55,0,0,0,0,0,0
+tolkanabroski,timo_shenko@msn.com,0,0,4,1,2016-12-07 21:17:45,2016-12-07 21:17:45,0,0,1,0,0,0
+Kesshi,Zapology@gmx.net,0,0,12,1,2016-12-08 11:15:22,2016-12-08 11:15:22,0,0,0,0,0,0
+Jeff Palmer,jeffrey.c.palmer@gmail.com,0,0,14,3,2016-12-08 10:01:56,2016-12-08 10:09:41,0,0,0,0,0,0
+Vousk-prod,vousk@free.fr,0,0,29,1,2016-12-09 18:57:24,2016-12-09 18:57:24,0,0,0,0,0,0

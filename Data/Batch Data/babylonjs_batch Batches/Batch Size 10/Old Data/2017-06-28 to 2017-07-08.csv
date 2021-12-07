@@ -1,0 +1,43 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+,,,,,,,,,,,,,
+Gary Hsu,garyhsu@microsoft.com,0,0,736,6,2017-28-06 07:52:16,1/7/2017 4:43,2576,21,0,4,4,0
+,,,,,,,,,,,,,
+jbousquie,jerome@bousquie.fr,0,0,8,1,2017-29-06 12:03:46,2017-29-06 12:03:46,0,0,0,0,0,0
+,,,,,,,,,,,,,
+Jérôme Bousquié,jbousquie@users.noreply.github.com,0,0,3,1,2017-29-06 12:10:48,2017-29-06 12:10:48,0,0,0,0,0,0
+,,,,,,,,,,,,,
+Julien Moreau-Mathis,moreau-mathis@intechinfo.fr,0,0,23676,8,2017-29-06 16:52:36,3/7/2017 1:01,55244,18.66666667,0,1,1,0
+,,,,,,,,,,,,,
+David Catuhe,david.catuhe@live.fr#david.catuhe@Live.fr,1,0,1025372,88,2017-28-06 23:53:12,7/7/2017 9:47,897200.5,77,45,14.19384601,19,-112
+,,,,,,,,,,,,,
+David Rousset,david_rousset@hotmail.com#davrous@microsoft.com,0,0,7008,2,2017-29-06 20:51:33,2017-29-06 20:53:23,0,0,0,1,1,0
+,,,,,,,,,,,,,
+Mohamed Mansour,hello@mohamedmansour.com,0,0,12,1,2017-29-06 13:00:18,2017-29-06 13:00:18,0,0,0,0,0,0
+,,,,,,,,,,,,,
+ameuleman,andreasmeu@gmail.com,0,0,591,8,2017-30-06 11:32:44,4/7/2017 18:02,1034.25,14,1,6,6,3
+,,,,,,,,,,,,,
+Temechon,temechon@gmail.com,0,0,554,5,2017-30-06 11:51:07,4/7/2017 18:31,969.5,8.75,0,0,0,0
+,,,,,,,,,,,,,
+Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,0,0,209781,34,2017-30-06 18:42:40,7/7/2017 9:31,244744.5,39.66666667,2,5.708893387,8,3
+,,,,,,,,,,,,,
+Adam Bowman,abowman@gmail.com,0,0,918,9,1/7/2017 6:19,7/7/2017 2:52,1285.2,12.6,1,4.402173913,5,2
+,,,,,,,,,,,,,
+SvenFrankson,sven.frankson@gmail.com,0,0,30,1,1/7/2017 19:09,1/7/2017 19:09,0,0,0,0,0,0
+,,,,,,,,,,,,,
+Ben Adams,thundercat@illyriad.co.uk,0,0,24,1,2/7/2017 1:45,2/7/2017 1:45,0,0,0,1,1,0
+,,,,,,,,,,,,,
+Josh Langley,josh@funfetched.com,0,0,4243,2,3/7/2017 10:08,3/7/2017 10:15,0,0,0,0,0,0
+,,,,,,,,,,,,,
+NasimiAsl,Nasimiasl@live.com,0,0,1397,4,4/7/2017 17:39,4/7/2017 18:08,0,0,3,2,3,0
+,,,,,,,,,,,,,
+Ivan Repin,repin@alternativaplatform.com,0,0,8,1,5/7/2017 15:48,5/7/2017 15:48,0,0,0,0,0,0
+,,,,,,,,,,,,,
+Benjamin Guignabert,bguignabert@wanadev.fr,0,0,69420,1,5/7/2017 19:30,5/7/2017 19:30,0,0,0,0,0,0
+,,,,,,,,,,,,,
+FunFetched,flimflamboyant@gmail.com,0,0,7,1,5/7/2017 8:34,5/7/2017 8:34,0,0,0,0,0,0
+,,,,,,,,,,,,,
+Jason Ayre,jasonayre@gmail.com,0,0,37469,2,5/7/2017 13:55,5/7/2017 14:21,0,0,0,0,0,2
+,,,,,,,,,,,,,
+A. Breust,alexis.breust@gmail.com,0,0,12,1,7/7/2017 17:42,7/7/2017 17:42,0,0,0,0,0,0
+,,,,,,,,,,,,,
+Palmer-JC,jeffrey.c.palmer@gmail.com,0,0,90,2,7/7/2017 5:44,7/7/2017 9:38,0,0,0,1,1,0
