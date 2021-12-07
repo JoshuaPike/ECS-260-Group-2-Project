@@ -1,0 +1,16 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Takahiro,hogehoge@gachapin.jp,0,0,5,1,2017-07-12 22:55:42,2017-07-12 22:55:42,0,0,1,1.0,1,0
+zregos,zoltanregos@gmail.com,0,0,93,2,2017-07-12 13:34:37,2017-07-17 19:33:07,130.2,2.8,1,0,0,0
+zrgs,zoltanregos@gmail.com,0,0,1,1,2017-07-12 23:01:21,2017-07-12 23:01:21,0,0,0,0,0,0
+Wittmann Tobias,twittmann@cadenas.internal,0,0,14,2,2017-07-13 11:52:33,2017-07-14 17:02:51,98.0,14.0,0,1.0,1,1
+Mr.doob,info@mrdoob.com,1,0,16481,65,2017-07-13 09:06:21,2017-07-20 07:40:02,19227.833333333336,75.83333333333334,16,15.323778195488721,18,-1
+WestLangley,WestLangley@users.noreply.github.com#dat1234@gmail.com,0,0,299,7,2017-07-13 19:46:38,2017-07-20 13:15:21,348.83333333333337,8.166666666666668,5,0.9743589743589743,1,0
+Mugen87,michael.herzog@human-interactive.org,0,0,205,5,2017-07-15 17:51:01,2017-07-21 00:28:16,287.0,7.0,3,1.0,1,1
+Ben Miller,benmiller179@gmail.com,0,0,2,1,2017-07-15 08:33:09,2017-07-15 08:33:09,0,0,0,0,0,0
+Daniel Del Core,daniel.delcore.92@gmail.com,0,0,75,1,2017-07-16 23:52:42,2017-07-16 23:52:42,0,0,1,0,0,0
+nevermakeport,nevermakeport@users.noreply.github.com,0,0,6,2,2017-07-16 20:10:58,2017-07-16 20:26:36,0,0,0,0,0,0
+Don McCurdy,don.r.mccurdy@gmail.com#donmccurdy@google.com,0,0,40,4,2017-07-17 13:47:08,2017-07-19 13:54:57,140.0,14.0,0,0,0,0
+satori99,satori.developer@gmail.com,0,0,3,1,2017-07-19 22:27:24,2017-07-19 22:27:24,0,0,0,0,0,0
+Nikolay Safin,safin@charge.auto,0,0,8,1,2017-07-19 13:39:17,2017-07-19 13:39:17,0,0,1,1.0,1,0
+Kai Salmen,myself@kaisalmen.de,0,0,40,2,2017-07-19 14:35:57,2017-07-19 23:41:00,0,0,3,0.42857142857142855,1,-1
+manthrax,manthrax@gmail.com,0,0,49,1,2017-07-19 14:27:30,2017-07-19 14:27:30,0,0,0,0,0,0

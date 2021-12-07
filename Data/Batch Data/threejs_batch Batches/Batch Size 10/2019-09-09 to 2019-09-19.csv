@@ -1,0 +1,20 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mugen87,michael.herzog@human-interactive.org,0,0,20977,32,2019-09-09 15:15:58,2019-09-18 23:44:00,16315.444444444443,24.888888888888886,44,3.1239520035758725,5,-20
+Michael Herzog,michael.herzog@human-interactive.org,0,0,2267,19,2019-09-09 17:00:29,2019-09-18 23:45:41,1763.2222222222222,14.777777777777777,0,0,0,0
+aardgoose,angus.sawyer@gmail.com,0,0,159,6,2019-09-09 17:02:38,2019-09-09 17:55:26,0,0,5,2.0,2,0
+Mr.doob,info@mrdoob.com,0,0,27125,54,2019-09-09 03:51:45,2019-09-18 17:50:15,21097.22222222222,42.0,20,5.1252059528650955,9,-324
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,46,2,2019-09-09 12:48:22,2019-09-09 12:51:21,0,0,2,0,0,0
+wemamawe,warma@lzb.ac.cn,0,0,6,1,2019-09-10 19:02:35,2019-09-10 19:02:35,0,0,1,0,0,0
+Atsushi,,0,0,10,3,2019-09-11 09:03:55,2019-09-12 09:44:50,70.0,21.0,0,0,0,0
+Fernando Serrano,fernandojsg@gmail.com,0,0,14,3,2019-09-11 00:05:04,2019-09-11 14:49:24,0,0,2,0,0,0
+Dinesh Salunke,Dinesh.Salunke@ubisoft.com#sdinesh86@bitbucket.org,0,0,8807,10,2019-09-11 21:55:36,2019-09-14 04:05:56,30824.5,35.0,3,2.675324675324675,3,8
+gero3,jeroen-876@hotmail.com,0,0,132,6,2019-09-11 17:57:24,2019-09-17 11:33:30,184.79999999999998,8.4,2,3.0,3,-1
+Kai Salmen,myself@kaisalmen.de,0,0,723,4,2019-09-13 01:19:25,2019-09-17 00:22:07,1687.0,9.333333333333334,7,1.4545454545454546,2,2
+supereggbrt,me@paulbrunt.co.uk,0,0,2,1,2019-09-13 09:41:01,2019-09-13 09:41:01,0,0,0,0,0,0
+James Baicoianu,james_github@baicoianu.com,0,0,2,1,2019-09-12 19:31:55,2019-09-12 19:31:55,0,0,1,0,0,0
+Elias Hasle,elias.hasle@gmail.com,0,0,13,3,2019-09-13 16:10:11,2019-09-16 10:15:35,45.5,10.5,1,1.0,1,0
+Michael Bürge,mib@orino.ch,0,0,18,1,2019-09-13 21:07:40,2019-09-13 21:07:40,0,0,0,0,0,0
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,64,1,2019-09-14 15:31:11,2019-09-14 15:31:11,0,0,2,0.2,1,8
+Bug-Reaper,llama@soundsafari.io,0,0,1245,4,2019-09-15 15:34:27,2019-09-16 10:08:59,0,0,1,1.0,1,4
+Jorge Nuricumbo,jorge.nuricumbo@heidelberg.com,0,0,85,3,2019-09-16 19:37:12,2019-09-17 12:41:22,0,0,0,0,0,0
+sunag,sunag@users.noreply.github.com,0,0,62,3,2019-09-18 09:18:44,2019-09-18 09:28:10,0,0,6,2.0,2,0

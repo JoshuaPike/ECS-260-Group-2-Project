@@ -1,0 +1,17 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,0,6203,46,2017-08-29 11:18:03,2017-09-08 09:46:13,4824.555555555555,35.77777777777778,8,5.0,5,4
+Mugen87,michael.herzog@human-interactive.org,0,0,553,13,2017-08-30 12:34:43,2017-09-08 22:36:45,430.1111111111111,10.11111111111111,5,2.0,2,0
+Ben Copeland,bscopeland@gmail.com,0,0,6,1,2017-08-30 04:08:49,2017-08-30 04:08:49,0,0,0,0,0,0
+happy2discover,happy2discover@users.noreply.github.com,0,0,2,1,2017-08-30 01:40:58,2017-08-30 01:40:58,0,0,0,0,0,0
+Tentone,tentone@outlook.com,0,0,99,4,2017-08-30 23:39:34,2017-08-31 23:01:09,0,0,1,0,0,2
+Alexander Fields,infodiver@users.noreply.github.com,0,0,6,3,2017-08-31 05:21:38,2017-08-31 23:47:51,0,0,0,0,0,0
+gero3,gero3@users.noreply.github.com,0,0,27,11,2017-08-31 14:12:48,2017-09-06 21:47:48,31.5,12.833333333333334,2,2.0,2,1
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,25,2,2017-08-31 13:46:51,2017-09-05 13:23:24,43.75,3.5,0,1.0,1,0
+Lewy Blue,looeee@gmail.com,0,0,17,3,2017-09-01 20:50:26,2017-09-01 23:36:08,0,0,0,0,0,0
+Daniel Hritzkiv,daniel.hritzkiv@gmail.com,0,0,36,1,2017-09-01 10:31:59,2017-09-01 10:31:59,0,0,1,1.0,1,0
+WestLangley,dat1234@gmail.com,0,0,104,2,2017-09-02 19:41:59,2017-09-04 20:02:24,364.0,7.0,1,1.0,1,0
+Kai Salmen,myself@kaisalmen.de,1,0,5510,5,2017-09-03 21:33:18,2017-09-07 01:31:40,12856.666666666668,11.666666666666668,4,3.898936170212766,5,-4
+chubei,chubei@oppentech.com,0,0,1,1,2017-09-04 20:25:52,2017-09-04 20:25:52,0,0,1,0,0,0
+Zachary Keeping,ZKeeping@users.noreply.github.com,0,0,2,1,2017-09-05 01:53:39,2017-09-05 01:53:39,0,0,0,0,0,0
+kkruups,kkruups@gmail.com,0,0,396,4,2017-09-05 03:20:32,2017-09-07 20:08:24,1386.0,14.0,2,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,4,1,2017-09-06 22:14:29,2017-09-06 22:14:29,0,0,0,0,0,0

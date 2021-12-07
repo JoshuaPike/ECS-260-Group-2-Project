@@ -1,0 +1,24 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+FMS-Cat,yutaka.obuchi@gmail.com,0,0,67,12,2019-03-28 20:19:19,2019-03-29 20:41:55,469.0,84.0,0,0,0,0
+Mr.doob,info@mrdoob.com,0,0,2441,32,2019-03-27 14:29:12,2019-04-06 22:26:43,1708.7,22.4,5,2.0,2,0
+John DeCorato,john.decorato@houzz.com,0,0,10,2,2019-03-28 04:08:03,2019-04-01 01:29:17,23.333333333333336,4.666666666666667,1,1.0,1,0
+yomboprime,yomboprime@users.noreply.github.com,0,0,865,4,2019-03-29 00:47:24,2019-03-29 20:53:24,0,0,2,0.48186528497409326,1,7
+zhaoy,yaoyao_cn@foxmail.com,0,0,5,1,2019-03-29 17:38:06,2019-03-29 17:38:06,0,0,0,0,0,0
+Yutaka Obuchi,yutaka.obuchi@gmail.com,0,0,2,1,2019-03-29 19:49:52,2019-03-29 19:49:52,0,0,0,0,0,0
+James Baicoianu,james_github@baicoianu.com,0,0,26,1,2019-03-28 16:31:59,2019-03-28 16:31:59,0,0,1,1.0,1,0
+Guilherme Avila,guilhermebav@gmail.com,0,0,23,2,2019-03-29 19:32:11,2019-03-31 10:04:16,161.0,14.0,1,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,309,6,2019-03-30 11:39:26,2019-04-06 17:17:39,309.0,6.0,0,0,0,0
+Dinesh Salunke,sdinesh86@bitbucket.org,0,0,732291,1,2019-03-30 21:04:58,2019-03-30 21:04:58,0,0,0,0,0,0
+Takahiro,hogehoge@gachapin.jp,0,0,803,4,2019-03-31 06:26:24,2019-04-07 13:51:17,803.0,4.0,1,0,0,0
+adrs2002,adrs2002@hotmail.com,0,0,178,2,2019-03-31 06:48:35,2019-04-01 02:39:31,0,0,1,0.49056603773584906,1,5
+Lewy Blue,looeee@gmail.com,0,0,61,7,2019-03-31 18:00:09,2019-04-03 22:26:22,142.33333333333334,16.333333333333336,1,1.0434782608695652,2,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,118,5,2019-03-30 19:35:52,2019-04-06 08:42:25,137.66666666666669,5.833333333333334,5,0,0,0
+PrincessGod,jihongjiang@outlook.com,0,0,4,1,2019-04-01 04:28:04,2019-04-01 04:28:04,0,0,1,0,0,0
+Temdog007,37945129+Temdog007@users.noreply.github.com#temdog007@yahoo.com,1,0,24780,22,2019-03-31 07:20:21,2019-04-06 09:43:13,28910.0,25.666666666666668,6,3.0,3,2
+Diego Marcos,diego.marcos@gmail.com,0,0,213,3,2019-03-31 08:50:08,2019-03-31 10:24:38,0,0,2,1.2105263157894737,2,-1
+error,error@error-unlimited.net,0,0,1,1,2019-04-01 05:52:17,2019-04-01 05:52:17,0,0,0,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,11,2,2019-04-02 15:30:53,2019-04-05 19:22:03,25.666666666666668,4.666666666666667,0,0,0,0
+Wojciech Zielonka,wojtas.zielonka@gmail.com,0,0,3,1,2019-04-02 16:55:12,2019-04-02 16:55:12,0,0,0,0,0,0
+linbingquan,695601626@qq.com,0,0,77,2,2019-04-03 07:35:30,2019-04-05 10:31:12,269.5,7.0,2,1.0,1,0
+Asutekku,asutekku@protonmail.com,0,0,233,1,2019-04-05 02:23:42,2019-04-05 02:23:42,0,0,1,1.0,1,0
+Andy,Sunstradamus@users.noreply.github.com,0,0,8,1,2019-04-05 19:21:39,2019-04-05 19:21:39,0,0,1,0,0,0

@@ -1,0 +1,20 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,0,63653,34,2019-06-15 14:47:21,2019-06-20 07:56:01,111392.75,59.5,5,3.1256617184318665,5,-17
+sunag,sunag@users.noreply.github.com,0,0,26610,15,2019-06-15 22:57:43,2019-06-19 10:55:01,62090.0,35.0,28,4.031957639634994,5,-300
+Mugen87,michael.herzog@human-interactive.org,0,0,36681,30,2019-06-16 14:41:54,2019-06-20 20:12:07,64191.75,52.5,22,6.52926674281513,9,9
+Michael Herzog,michael.herzog@human-interactive.org,0,0,29952,24,2019-06-16 19:49:09,2019-06-20 20:13:04,52416.0,42.0,0,0,0,0
+Eric Sherouse,sherousee@gmail.com,0,0,2,1,2019-06-16 18:47:53,2019-06-16 18:47:53,0,0,0,0,0,0
+Gero3,jeroen-876@hotmail.com,0,0,694,13,2019-06-17 15:18:12,2019-06-20 15:03:46,2429.0,45.5,10,9.333333333333332,10,2
+sherousee,sherousee@gmail.com,0,0,2,1,2019-06-17 04:01:29,2019-06-17 04:01:29,0,0,0,0,0,0
+Olli Etuaho,olli.etuaho@gmail.com,0,0,25,1,2019-06-17 19:57:31,2019-06-17 19:57:31,0,0,0,0,0,0
+Valentin Lenhart,vlaube-de@users.noreply.github.com,0,0,2,1,2019-06-17 23:22:03,2019-06-17 23:22:03,0,0,0,0,0,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,725,5,2019-06-17 11:43:58,2019-06-19 07:10:05,5075.0,35.0,2,0.2643171806167401,1,-17
+zacaj,github2@zacaj.com,0,0,12,1,2019-06-18 11:34:31,2019-06-18 11:34:31,0,0,0,0,0,0
+HypnosNova,601670314@qq.com,0,0,263197,1,2019-06-19 22:52:52,2019-06-19 22:52:52,0,0,0,0,0,0
+yomboprime,yomboprime@users.noreply.github.com,0,0,214,1,2019-06-20 01:07:39,2019-06-20 01:07:39,0,0,2,0.8421052631578947,1,6
+Fernando Serrano,fernandojsg@gmail.com,0,0,1,1,2019-06-19 09:06:40,2019-06-19 09:06:40,0,0,1,0,0,0
+Mike,qifeidong@yahoo.com,0,0,4,2,2019-06-20 20:37:12,2019-06-21 01:20:44,0,0,0,0,0,0
+Takahiro,hogehoge@gachapin.jp,0,0,2,1,2019-06-21 00:26:27,2019-06-21 00:26:27,0,0,1,0,0,0
+palortoff,github@larsflitter.de,0,0,8,1,2019-06-20 21:08:59,2019-06-20 21:08:59,0,0,2,0.9516279069767442,1,0
+Yuin Chien,yuin@google.com,0,0,20,1,2019-06-20 06:10:07,2019-06-20 06:10:07,0,0,0,0,0,0
+Emmett Lalish,elalish@chromium.org,0,0,7,1,2019-06-20 09:01:16,2019-06-20 09:01:16,0,0,0,0,0,0

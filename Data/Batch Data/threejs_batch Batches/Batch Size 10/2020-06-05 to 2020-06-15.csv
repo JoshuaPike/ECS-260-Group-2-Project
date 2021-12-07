@@ -1,0 +1,21 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,0,11655,103,2020-06-04 12:50:37,2020-06-14 08:49:06,9065.0,80.1111111111111,101,17.522860962566845,21,5
+Takahiro,hogehoge@gachapin.jp,1,0,282813,10,2020-06-04 15:38:22,2020-06-10 14:34:41,395938.2,14.0,7,1.1704545454545454,2,0
+linbingquan,695601626@qq.com,0,0,12,4,2020-06-06 04:11:00,2020-06-13 09:22:10,12.0,4.0,1,1.0,1,0
+gero3,jeroen-876@hotmail.com,0,0,214,8,2020-06-05 20:07:05,2020-06-12 00:42:44,249.66666666666669,9.333333333333334,1,0,0,-1
+Evan Harwin,evanharwin@gmail.com,0,0,2,1,2020-06-05 21:05:10,2020-06-05 21:05:10,0,0,0,0,0,0
+Marquizzo,marco@dyadstudios.com,0,0,2,1,2020-06-05 05:57:09,2020-06-05 05:57:09,0,0,0,0,0,0
+munrocket@pm.me,munrocket@pm.me,0,0,37,1,2020-06-06 16:42:43,2020-06-06 16:42:43,0,0,2,0,0,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,54092,15,2020-06-06 21:22:14,2020-06-13 15:29:23,63107.333333333336,17.5,9,5.666666666666666,6,11
+duma,s.gombi@gruppofood.com,0,0,41,2,2020-06-07 19:22:03,2020-06-08 18:23:00,0,0,0,1.0,1,0
+Mugen87,michael.herzog@human-interactive.org,0,0,752,12,2020-06-08 14:18:00,2020-06-14 14:59:35,877.3333333333334,14.0,10,3.4285714285714284,4,0
+06wj,06wj@163.com,0,0,7,1,2020-06-09 06:47:37,2020-06-09 06:47:37,0,0,0,0,0,0
+Senya Pugach,upisfree@artlebedev.ru,0,0,54,2,2020-06-09 01:58:31,2020-06-10 18:40:20,378.0,14.0,2,1.0,1,-8
+Nicolas Lelong,rotoglup@gmail.com,0,0,18,1,2020-06-09 01:31:37,2020-06-09 01:31:37,0,0,0,0,0,0
+Brandon Jones,tojiro@gmail.com,0,0,120,5,2020-06-09 02:09:58,2020-06-09 02:13:14,0,0,3,1.6666666666666665,2,4
+ycw,ycw7788@gmail.com,0,0,8,4,2020-06-11 05:04:33,2020-06-11 06:14:05,0,0,0,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,18,3,2020-06-10 18:59:04,2020-06-12 23:17:54,63.0,10.5,0,0,0,0
+Don McCurdy,donmccurdy@google.com,0,0,469,2,2020-06-10 12:28:22,2020-06-10 15:03:50,0,0,0,0,0,0
+Guilherme Avila,guilhermebav@gmail.com,0,0,2,2,2020-06-11 00:04:19,2020-06-11 00:20:24,0,0,0,1.0,1,0
+martinRenou,martin.renou@gmail.com,0,0,18,2,2020-06-12 19:54:14,2020-06-12 20:06:13,0,0,0,0,0,0
+Paul Henschel,drcmda@gmail.com,0,0,4,2,2020-06-13 02:56:43,2020-06-13 13:10:05,0,0,0,0,0,0

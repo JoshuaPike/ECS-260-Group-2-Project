@@ -1,0 +1,18 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Richard Monette,richard.monette@shopify.com,0,0,0,1,2018-03-27 18:50:28,2018-03-27 18:50:28,0,0,0,0,0,0
+Takahiro,hogehoge@gachapin.jp,0,0,937,44,2018-03-29 02:05:16,2018-04-06 15:30:39,819.875,38.5,14,11.591666666666667,16,2
+Mugen87,michael.herzog@human-interactive.org,0,0,309,14,2018-03-28 12:28:05,2018-04-05 21:33:56,270.375,12.25,8,1.2857142857142856,2,-3
+aardgoose,angus.sawyer@gmail.com,0,0,19,4,2018-03-28 11:52:23,2018-04-03 11:54:00,22.166666666666668,4.666666666666667,0,0,0,1
+WestLangley,WestLangley@users.noreply.github.com,0,0,291,11,2018-03-28 09:40:49,2018-04-04 21:06:44,291.0,11.0,4,2.0,2,1
+Mr.doob,info@mrdoob.com,0,0,17780,57,2018-03-28 05:41:14,2018-04-05 13:03:16,15557.5,49.875,7,3.2555555555555555,5,2
+Don McCurdy,don.r.mccurdy@gmail.com#donmccurdy@google.com,0,0,6339,9,2018-03-28 14:10:12,2018-04-05 12:38:08,6339.0,9.0,1,0.25,1,0
+Dan Kaplun,dbkaplun@gmail.com,0,0,9,3,2018-03-29 06:31:23,2018-03-29 06:35:09,0,0,1,0,0,0
+Farhad Ghayour,me@farhadg.com,0,0,4,1,2018-04-02 05:58:32,2018-04-02 05:58:32,0,0,0,0,0,0
+Nick Nikoliuk,mykola.nikoliuk@gmail.com,0,0,8,1,2018-04-03 12:52:01,2018-04-03 12:52:01,0,0,1,0,0,0
+Matt Hova,matthova87@gmail.com,0,0,2,1,2018-04-03 09:46:57,2018-04-03 09:46:57,0,0,0,0,0,0
+Sunny Luo,sunnylqm@qq.com,0,0,2,1,2018-04-04 04:37:15,2018-04-04 04:37:15,0,0,0,0,0,0
+vlucendo,vicen@vlucendo.com,0,0,7,2,2018-04-04 16:42:16,2018-04-04 17:12:05,0,0,1,1.0,1,0
+Michael Bond,mbond@adobe.com,1,0,75774,2,2018-04-04 06:24:10,2018-04-05 09:18:47,530418.0,14.0,0,0,0,0
+Aron Adler,Arrow7000@users.noreply.github.com,0,0,2,1,2018-04-04 14:59:30,2018-04-04 14:59:30,0,0,0,0,0,0
+Nicolas Debeissat,ndebeiss@gmail.com,0,0,159,1,2018-04-06 17:39:58,2018-04-06 17:39:58,0,0,0,0,0,0
+yomotsu,oyamada@pxgrid.com,0,0,140,2,2018-04-07 13:14:12,2018-04-07 13:20:11,0,0,1,0,0,0

@@ -1,0 +1,22 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+WestLangley,WestLangley@users.noreply.github.com,0,0,613,15,2020-01-06 15:50:03,2020-01-16 11:51:08,476.7777777777777,11.666666666666666,18,1.5,2,0
+LeonYuanYao,yaoyuan@suitbim.com,0,0,18,1,2020-01-07 20:17:53,2020-01-07 20:17:53,0,0,1,1.0,1,0
+P. Douglas Reeder,reeder.29@gmail.com,0,0,53,4,2020-01-06 20:33:04,2020-01-10 17:56:15,123.66666666666667,9.333333333333334,0,3.0,3,0
+yomboprime,yomboprime@users.noreply.github.com,0,0,706,2,2020-01-07 09:58:47,2020-01-10 17:55:21,1647.3333333333335,4.666666666666667,2,0.6756756756756757,1,14
+gonnavis,gonnavis@163.com,0,0,6,2,2020-01-08 01:59:36,2020-01-10 20:16:55,21.0,7.0,0,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,870,19,2020-01-07 12:17:50,2020-01-16 11:58:35,761.25,16.625,17,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,3261,21,2020-01-07 19:11:38,2020-01-16 12:01:23,2853.375,18.375,0,4.620250492541514,6,91
+Emmett Lalish,elalish@google.com,0,0,79,2,2020-01-07 02:05:58,2020-01-07 05:48:02,0,0,2,0,0,0
+Mr.doob,info@mrdoob.com,0,0,3472,31,2020-01-08 02:41:49,2020-01-15 23:00:05,3472.0,31.0,0,2.935483870967742,3,2
+David Peicho,davidhenri.peicho@siemens-healthineers.com,0,0,163,6,2020-01-08 14:22:29,2020-01-09 11:19:33,0,0,3,1.0,1,14
+Will Cassella,cassew@google.com,0,0,4,1,2020-01-08 07:53:35,2020-01-08 07:53:35,0,0,0,0,0,0
+Guilherme Avila,guilhermebav@gmail.com,0,0,2283,4,2020-01-08 23:46:37,2020-01-16 02:09:24,2283.0,4.0,5,2.4761904761904763,3,40
+Jesper van den Ende,jespertheend@gmail.com,0,0,7,2,2020-01-09 11:08:26,2020-01-10 10:26:20,0,0,0,0,0,0
+Kai Salmen,myself@kaisalmen.de,0,0,119,1,2020-01-09 22:39:14,2020-01-09 22:39:14,0,0,3,1.0,1,0
+Benjamin MICHEL,119354+SBRK@users.noreply.github.com,0,0,1,1,2020-01-10 17:06:07,2020-01-10 17:06:07,0,0,0,0,0,0
+Brandon Jones,tojiro@gmail.com,0,0,134,2,2020-01-10 06:57:09,2020-01-10 07:28:04,0,0,1,0.5384615384615384,1,0
+Scrubs,45501180+njarraud@users.noreply.github.com,0,0,25,2,2020-01-12 04:54:30,2020-01-12 04:55:23,0,0,2,1.0,1,0
+Ondřej Španěl,OndrejSpanel@users.noreply.github.com,0,0,30,7,2020-01-11 10:32:43,2020-01-15 10:44:21,52.5,12.25,0,0,0,0
+Mateusz Charytoniuk,mateusz.charytoniuk@protonmail.com,0,0,2,1,2020-01-11 21:50:49,2020-01-11 21:50:49,0,0,0,0,0,0
+Philip Rideout,philiprideout@gmail.com,0,0,6,1,2020-01-14 07:34:33,2020-01-14 07:34:33,0,0,3,0,0,0
+tiptopanonymous,metipton@ncsu.edu,0,0,7,2,2020-01-15 08:14:50,2020-01-16 06:41:05,0,0,1,0,0,0

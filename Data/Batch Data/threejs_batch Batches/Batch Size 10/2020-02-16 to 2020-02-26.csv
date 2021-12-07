@@ -1,0 +1,24 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+iamcastelli,sowed@cyberdude.com,0,0,4,2,2020-02-16 18:02:47,2020-02-16 18:14:52,0,0,0,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,570,22,2020-02-16 14:59:40,2020-02-25 17:52:26,443.3333333333333,17.11111111111111,23,6.0,6,1
+munrocket@pm.me,munrocket@pm.me,0,0,678,6,2020-02-16 22:58:37,2020-02-23 20:03:44,791.0,7.0,1,1.0,1,2
+linbingquan,695601626@qq.com,0,0,12,2,2020-02-17 20:47:38,2020-02-21 05:07:48,28.0,4.666666666666667,1,0,0,0
+Miguel Sánchez de León Peque,peque@neosit.es,0,0,110,1,2020-02-17 15:18:24,2020-02-17 15:18:24,0,0,3,1.0,1,0
+Mr.doob,info@mrdoob.com,0,0,6950,60,2020-02-17 02:46:38,2020-02-25 07:33:24,6081.25,52.5,7,3.586666666666667,4,1
+Wojciech,wojtas.zielonka@gmail.com,0,0,15,1,2020-02-18 12:13:36,2020-02-18 12:13:36,0,0,1,1.0,1,0
+Tristan VALCKE,valcketristan@gmail.com,0,0,4,2,2020-02-18 12:19:29,2020-02-18 13:03:04,0,0,1,0,0,0
+kinolaev,kinolaev@gmail.com,0,0,46,1,2020-02-19 18:35:12,2020-02-19 18:35:12,0,0,2,0,0,0
+Ricardo Reiter,rreiter@idearoominc.com,0,0,1,1,2020-02-19 14:28:47,2020-02-19 14:28:47,0,0,1,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,320,4,2020-02-19 23:10:42,2020-02-23 13:47:07,746.6666666666667,9.333333333333334,0,0,0,0
+Frank Olivier,frankolivier@fb.com,1,0,100683,9,2020-02-19 09:49:26,2020-02-25 03:21:12,140956.19999999998,12.6,2,3.6098786616006864,4,1750
+Yutaka Obuchi,yutaka.obuchi@gmail.com,0,0,8,1,2020-02-20 15:40:56,2020-02-20 15:40:56,0,0,1,0,0,0
+Ondřej Španěl,OndrejSpanel@users.noreply.github.com,0,0,2,1,2020-02-20 17:57:00,2020-02-20 17:57:00,0,0,0,0,0,0
+gogoend,gogoend@qq.com,0,0,11,1,2020-02-22 07:43:22,2020-02-22 07:43:22,0,0,0,0,0,0
+Senya Pugach,upisfree@outlook.com,0,0,2,1,2020-02-22 02:15:23,2020-02-22 02:15:23,0,0,0,0,0,0
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,11,2,2020-02-21 14:09:07,2020-02-21 14:13:16,0,0,1,0,0,2
+Garrett Johnson,garrett.kjohnson@gmail.com,0,1,1496,26,2020-02-21 14:55:19,2020-02-24 13:44:17,5236.0,91.0,5,4.0,4,1
+Meli Harvey,harveydee87@gmail.com,0,0,7,1,2020-02-22 07:58:23,2020-02-22 07:58:23,0,0,1,1.0,1,0
+Shai Ghelberg,37291459+bergden-resonai@users.noreply.github.com,0,0,2,1,2020-02-24 13:15:18,2020-02-24 13:15:18,0,0,0,0,0,0
+Olli Etuaho,olli.etuaho@gmail.com,0,0,16,1,2020-02-24 14:51:18,2020-02-24 14:51:18,0,0,2,0,0,0
+François Chabbey,fjchabbey@lbl.gov,0,0,4,1,2020-02-24 06:02:27,2020-02-24 06:02:27,0,0,0,0,0,0
+frankolivier,frankolivier@gmail.com,0,0,50325,1,2020-02-25 02:47:38,2020-02-25 02:47:38,0,0,1,0.3900894644389068,1,-1749

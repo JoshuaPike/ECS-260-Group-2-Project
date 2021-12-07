@@ -1,0 +1,13 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+paulmasson,paulmasson@comcast.net,0,0,172,1,2018-05-26 11:52:00,2018-05-26 11:52:00,0,0,0,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,7076,22,2018-05-27 16:54:53,2018-06-05 12:22:42,6191.5,19.25,15,4.5,5,-8
+Takahiro,hogehoge@gachapin.jp,0,0,96,5,2018-05-28 15:44:50,2018-06-06 03:43:05,84.0,4.375,2,0,0,0
+Mr.doob,info@mrdoob.com,0,0,20374,31,2018-05-27 21:08:37,2018-06-05 13:51:52,17827.25,27.125,4,0.5425531914893617,1,2
+Don McCurdy,don.r.mccurdy@gmail.com#donmccurdy@google.com,0,0,20,3,2018-05-28 14:41:08,2018-05-30 05:59:45,140.0,21.0,0,0,0,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,181,6,2018-05-29 09:47:59,2018-06-04 16:31:14,211.16666666666669,7.0,5,1.0,1,1
+Moroine Bentefrit,moroine.bentefrit@adactive.com,0,0,1298,1,2018-06-01 19:31:35,2018-06-01 19:31:35,0,0,1,0.7545909849749582,1,96
+haolly,andyhaolly@gmail.com,0,0,20,2,2018-06-02 09:30:42,2018-06-02 09:39:38,0,0,0,0,0,0
+Kevin,titansoftime@gmail.com,0,0,30,1,2018-06-01 12:03:13,2018-06-01 12:03:13,0,0,0,0,0,0
+Alan Chambers,alan.chambers@kickblade.com,0,0,58,4,2018-06-03 07:35:41,2018-06-04 08:16:43,406.0,28.0,1,1.0,1,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,12,1,2018-06-02 11:36:43,2018-06-02 11:36:43,0,0,0,0,0,0
+sunag,contact@sunag.com.br,0,0,143,16,2018-06-03 23:38:27,2018-06-05 16:17:27,1001.0,112.0,3,3.033333333333333,5,0

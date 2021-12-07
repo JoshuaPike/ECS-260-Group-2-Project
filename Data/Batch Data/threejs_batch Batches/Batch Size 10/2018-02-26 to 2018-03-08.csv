@@ -1,0 +1,22 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Jason Wang,JasonWang0421@gmail.com,0,0,18,1,2018-02-26 23:34:19,2018-02-26 23:34:19,0,0,0,0,0,0
+servinlp,servin.nissen@gmail.com,0,0,4,1,2018-02-26 15:09:13,2018-02-26 15:09:13,0,0,0,0,0,0
+Don McCurdy,donmccurdy@google.com#don.r.mccurdy@gmail.com,0,0,1396,18,2018-02-25 23:50:41,2018-02-26 11:46:35,0,0,6,6.836660176213851,10,2
+Mr.doob,info@mrdoob.com,0,0,48287,88,2018-02-26 04:24:25,2018-03-07 06:14:26,37556.555555555555,68.44444444444444,12,6.983079954954956,9,2
+Mugen87,michael.herzog@human-interactive.org,0,0,537,18,2018-02-26 22:38:20,2018-03-08 00:11:21,417.66666666666663,13.999999999999998,11,3.3220779220779217,5,2
+WestLangley,WestLangley@users.noreply.github.com,1,0,532276,12,2018-02-26 11:07:25,2018-03-07 11:37:08,413992.44444444444,9.333333333333332,16,4.8,5,0
+sunag,contact@sunag.com.br#sunag@users.noreply.github.com,0,0,41058,4,2018-02-27 10:17:57,2018-02-28 20:12:27,287406.0,28.0,0,1.0,1,0
+Takahiro,hogehoge@gachapin.jp,0,0,206,11,2018-02-28 10:56:43,2018-03-08 13:58:21,180.25,9.625,3,2.2608695652173916,3,1
+Fernando Serrano,fernandojsg@gmail.com,0,0,2,1,2018-02-28 00:13:06,2018-02-28 00:13:06,0,0,0,0,0,0
+aardgoose,angus.sawyer@gmail.com,0,0,44,5,2018-02-28 19:24:47,2018-03-03 15:38:48,154.0,17.5,6,1.0,1,-1
+Victor Glindås,glinkis@gmail.com,0,0,3,1,2018-03-02 11:28:08,2018-03-02 11:28:08,0,0,0,0,0,0
+Matt Simpson,matt.simpson@alextom.com,0,0,2,1,2018-03-02 07:17:02,2018-03-02 07:17:02,0,0,1,0,0,0
+jfpferreira,jfp.ferreira96@gmail.com,0,0,2,1,2018-03-04 17:16:15,2018-03-04 17:16:15,0,0,0,0,0,0
+Toni Röyhy,toni.royhy@designhouseilo.fi,0,0,2,1,2018-03-04 20:18:45,2018-03-04 20:18:45,0,0,0,0,0,0
+Jordan Danford,jordandanford@gmail.com,0,0,2,1,2018-03-04 09:02:45,2018-03-04 09:02:45,0,0,0,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,1,1,2018-03-05 19:00:07,2018-03-05 19:00:07,0,0,0,0,0,0
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,233,1,2018-03-05 09:56:58,2018-03-05 09:56:58,0,0,1,0.3790322580645161,1,12
+Ivo Elbert,ivogamebot@gmail.com,0,0,36,1,2018-03-06 12:17:28,2018-03-06 12:17:28,0,0,1,0,0,0
+Lewy Blue,looeee@gmail.com,0,0,30,4,2018-03-08 01:23:25,2018-03-08 02:11:10,0,0,1,1.625,3,3
+Michael Bond,mbond@adobe.com,0,0,9,1,2018-03-07 01:59:36,2018-03-07 01:59:36,0,0,0,0,0,0
+Kai Salmen,myself@kaisalmen.de,0,0,2068,1,2018-03-08 00:03:59,2018-03-08 00:03:59,0,0,2,0,0,0
