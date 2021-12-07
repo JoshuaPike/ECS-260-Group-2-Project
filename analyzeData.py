@@ -32,6 +32,12 @@ def make_batch_data_monthly(nameOfRepo, batch_size, data_end_date):
         file_start_date = datetime(int(file[0:4]), int(file[5:7]), int(file[8:10]), 0, 0, 0)
         file_end_date = datetime(int(file[14:18]), int(file[19:21]), int(file[22:24]), 0, 0, 0)
 
+        # Check if file goes backwards in time
+        # skip if so
+        if (file_end_date - file_start_date).days < 0:
+            continue
+            # os.remove('Data/Batch Data/' + nameOfRepo + ' Batches/Batch Size ' + str(batch_size.days) + '/' + file)
+
         if new_monthly_batch:
             monthly_batch_start_date = file_start_date
             monthly_contributor_dict = {}
