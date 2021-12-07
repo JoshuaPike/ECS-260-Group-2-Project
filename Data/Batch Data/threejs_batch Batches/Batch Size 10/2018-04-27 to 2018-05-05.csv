@@ -1,0 +1,17 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Takahiro,hogehoge@gachapin.jp,1,0,40474,29,2018-04-28 14:32:21,2018-05-06 07:01:01,40474.0,29.0,6,7.186115766041982,9,58
+etr2460,erik.ritter@caffeine.tv,0,0,6,1,2018-04-27 07:43:22,2018-04-27 07:43:22,0,0,2,0,0,0
+Mr.doob,info@mrdoob.com,0,0,8605,32,2018-04-27 14:48:22,2018-05-04 09:54:28,10039.166666666668,37.333333333333336,9,2.586492317175186,3,16
+06wj,06wj@163.com,0,0,16,2,2018-04-29 01:04:35,2018-04-29 01:08:00,0,0,1,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,1037,16,2018-04-28 15:21:03,2018-05-05 20:24:06,1037.0,16.0,8,2.0,2,0
+Jaume Sanchez,the.spite@gmail.com,0,0,42,3,2018-04-29 19:50:18,2018-04-30 17:41:31,0,0,0,2.0,2,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,30,5,2018-04-29 18:43:37,2018-05-04 22:44:20,42.0,7.0,2,0,0,-2
+yomotsu,oyamada@pxgrid.com,0,0,232,4,2018-04-30 22:39:31,2018-05-01 04:27:17,0,0,2,1.0,1,0
+Nicolas Debeissat,ndebeiss@gmail.com,0,0,3,1,2018-04-30 15:47:21,2018-04-30 15:47:21,0,0,0,0,0,0
+Erik Ritter,erik.ritter@caffeine.tv,0,0,20,2,2018-04-30 01:39:10,2018-04-30 04:07:26,0,0,0,1.0,1,0
+Ross Kirsling,rkirsling@gmail.com,0,0,50,1,2018-05-01 03:56:58,2018-05-01 03:56:58,0,0,1,1.0,1,0
+Daosheng Mu,daoshengmu@gmail.com,0,0,57,2,2018-05-02 14:14:58,2018-05-02 14:21:47,0,0,0,0,0,0
+theo,tatheodor@gmail.com,0,0,4,1,2018-05-03 13:49:29,2018-05-03 13:49:29,0,0,0,0,0,0
+MikiAlex,18516340862@163.com,0,0,108,2,2018-05-05 07:13:41,2018-05-05 07:17:29,0,0,1,1.0,1,-9
+Mingle,MingleGu@gmail.com,0,0,2,1,2018-05-05 17:08:46,2018-05-05 17:08:46,0,0,1,0,0,1
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,162,3,2018-05-05 04:24:19,2018-05-05 04:24:19,0,0,2,2.0,2,-1

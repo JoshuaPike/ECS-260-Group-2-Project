@@ -1,0 +1,15 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,1,0,39413,62,2017-12-27 08:34:23,2018-01-06 02:07:08,30654.555555555555,48.22222222222222,11,3.9538461538461536,5,0
+Lewy Blue,looeee@gmail.com,0,0,226,6,2017-12-28 18:09:59,2018-01-05 19:30:02,197.75,5.25,1,2.445945945945946,3,-16
+Takahiro,hogehoge@gachapin.jp,0,0,2613,6,2017-12-29 00:43:41,2017-12-29 18:32:33,0,0,3,1.0,1,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,8,2,2017-12-28 14:53:38,2017-12-29 15:20:00,56.0,14.0,12,0,0,0
+gero3,gero3@users.noreply.github.com#jeroen-876@hotmail.com,0,0,1528,28,2017-12-28 15:23:19,2018-01-05 10:58:34,1528.0,28.0,10,15.0,15,2
+Steven Lu (PuTTY Win10 on Centos 7 hydra1[tmux]),stevenlu443+hydra1@gmail.com,0,0,2,1,2017-12-28 19:00:29,2017-12-28 19:00:29,0,0,1,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,905,15,2017-12-29 12:12:05,2018-01-06 12:25:09,791.875,13.125,0,2.0,3,1
+Harold Iedema,harold@iedema.me,0,0,2,1,2017-12-29 20:03:33,2017-12-29 20:03:33,0,0,0,0,0,0
+Don McCurdy,don.r.mccurdy@gmail.com#donmccurdy@google.com,0,0,144,4,2017-12-29 16:54:01,2018-01-04 08:39:26,201.6,5.6,2,1.0,1,0
+Paul Masson,paulmasson@comcast.net,0,0,2,1,2017-12-30 05:54:49,2017-12-30 05:54:49,0,0,0,0,0,0
+WestLangley,dat1234@gmail.com,0,0,314,6,2017-12-30 12:07:47,2018-01-05 18:06:49,366.33333333333337,7.0,6,2.388888888888889,3,-4
+Matt57,Matt_Webster57@yahoo.com,0,0,2,2,2017-12-30 19:07:05,2017-12-30 19:10:29,0,0,0,0,0,0
+Daniel Hritzkiv,daniel.hritzkiv@gmail.com,0,0,159,8,2018-01-03 06:20:38,2018-01-03 09:50:53,0,0,2,2.0,2,0
+Yannis Gravezas,wizgrav@gmail.com,0,0,347,1,2018-01-05 23:39:43,2018-01-05 23:39:43,0,0,0,0,0,0

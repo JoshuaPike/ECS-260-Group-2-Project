@@ -1,0 +1,7 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Don McCurdy,don.r.mccurdy@gmail.com,1,1,162,3,2018-05-05 04:24:19,2018-05-05 04:24:19,0,0,2,2.0,2,-1
+Ross Kirsling,rkirsling@gmail.com,1,1,70,1,2018-05-05 06:31:08,2018-05-05 06:31:08,0,0,1,0,0,1
+Mr.doob,info@mrdoob.com,1,1,3170,6,2018-05-05 09:26:03,2018-05-05 11:03:11,0,0,0,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,1,1,66,1,2018-05-06 12:32:46,2018-05-06 12:32:46,0,0,2,0,0,0
+Mugen87,michael.herzog@human-interactive.org,1,1,1862,1,2018-05-06 13:02:10,2018-05-06 13:02:10,0,0,0,0,0,0
+Takahiro,hogehoge@gachapin.jp,1,1,117,6,2018-05-07 12:58:41,2018-05-07 13:15:57,0,0,3,0.125,1,1

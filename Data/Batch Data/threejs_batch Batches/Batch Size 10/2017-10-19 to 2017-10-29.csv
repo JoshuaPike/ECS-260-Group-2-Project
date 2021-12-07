@@ -1,0 +1,16 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,0,7980,51,2017-10-18 11:44:56,2017-10-26 16:19:39,6982.5,44.625,5,4.661904761904762,6,3
+Lewy Blue,looeee@gmail.com,0,0,19030,66,2017-10-19 16:09:38,2017-10-27 19:49:02,16651.25,57.75,1,16.620513470295254,24,30
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,75,4,2017-10-18 12:55:41,2017-10-25 00:16:36,87.5,4.666666666666667,3,2.0,2,0
+Kevin Ngo,me@ngokevin.com,0,0,58,2,2017-10-19 04:04:00,2017-10-19 04:04:00,0,0,0,0.25,1,3
+WestLangley,dat1234@gmail.com,0,0,17,2,2017-10-19 16:46:56,2017-10-26 07:41:46,19.833333333333336,2.3333333333333335,2,0,0,0
+taseenb,taseenb@users.noreply.github.com,0,0,156,1,2017-10-20 02:56:36,2017-10-20 02:56:36,0,0,0,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,4046,10,2017-10-20 19:55:40,2017-10-28 03:27:07,4046.0,10.0,15,6.0,6,1
+Takahiro,hogehoge@gachapin.jp,0,0,72,3,2017-10-22 06:23:13,2017-10-26 22:12:41,126.0,5.25,1,1.2307692307692308,2,-1
+Paul Masson,paulmasson@comcast.net,0,0,10,3,2017-10-22 07:22:59,2017-10-28 07:33:03,11.666666666666668,3.5,0,0,0,0
+Antonio Gomez,hello@antoniogomez.me,0,0,1527,5,2017-10-22 07:51:34,2017-10-24 07:30:43,10689.0,35.0,1,0,0,0
+Kai Salmen,myself@kaisalmen.de,0,0,231,2,2017-10-25 00:48:26,2017-10-27 01:56:05,808.5,7.0,2,0,0,2
+攻伤菊菊长,yangyj19931231@gmail.com,0,0,2,1,2017-10-25 00:02:13,2017-10-25 00:02:13,0,0,0,0,0,0
+Tyler Lindberg,tlindberg@ucla.edu,0,0,40,4,2017-10-25 16:41:32,2017-10-26 09:21:13,0,0,0,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,2,1,2017-10-27 00:08:22,2017-10-27 00:08:22,0,0,0,0,0,0
+kchapelier,kevin.chapelier@gmail.com,0,0,113,2,2017-10-27 16:38:18,2017-10-27 16:42:08,0,0,1,0,0,0

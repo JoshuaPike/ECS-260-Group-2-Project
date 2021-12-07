@@ -1,0 +1,20 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,5072,12,2018-04-06 11:00:16,2018-04-12 14:52:20,5917.333333333334,14.0,0,0.47058823529411764,1,1
+yomotsu,oyamada@pxgrid.com,0,0,205,11,2018-04-07 22:19:04,2018-04-16 13:16:05,179.375,9.625,1,3.6785714285714284,5,0
+Takahiro,hogehoge@gachapin.jp,0,0,31493,34,2018-04-08 06:16:27,2018-04-17 15:16:24,24494.555555555555,26.444444444444443,5,9.047619047619047,10,15
+Nicolas Debeissat,ndebeiss@gmail.com,0,0,174,6,2018-04-07 16:55:39,2018-04-08 00:23:13,0,0,0,1.0,1,0
+Mugen87,michael.herzog@human-interactive.org,0,0,3076,18,2018-04-07 18:30:40,2018-04-17 01:02:15,2392.4444444444443,13.999999999999998,15,5.4986449864498645,6,0
+Mr.doob,info@mrdoob.com,0,0,41770,59,2018-04-07 01:09:26,2018-04-16 08:59:04,32487.777777777774,45.888888888888886,5,3.830170777988615,5,-11
+Lewy Blue,looeee@gmail.com,0,0,17296,21,2018-04-08 20:23:40,2018-04-15 19:05:01,20178.666666666668,24.5,1,6.495925419609629,8,5
+vlucendo,vicen@vlucendo.com,0,0,9,1,2018-04-08 14:30:20,2018-04-08 14:30:20,0,0,1,0,0,0
+meatbags,jxburrow@gmail.com,0,0,1713,8,2018-04-10 00:41:06,2018-04-14 04:19:43,2997.75,14.0,2,4.0,4,17
+WestLangley,WestLangley@users.noreply.github.com,0,0,282,6,2018-04-09 13:01:20,2018-04-13 18:15:46,493.5,10.5,7,2.0,2,0
+Tim Knip,tim@floorplanner.com,0,0,7,1,2018-04-10 14:56:50,2018-04-10 14:56:50,0,0,1,0,0,1
+Anton Bergman,abergman@rapidimages.se,0,0,349,6,2018-04-10 16:10:30,2018-04-12 10:03:15,2443.0,42.0,0,3.6875,4,0
+Richard Monette,richard.monette@shopify.com,0,0,14,1,2018-04-10 10:24:12,2018-04-10 10:24:12,0,0,0,0,0,0
+Pelle Johnsen,p.johnsen@globalscanning.com,0,0,2,1,2018-04-12 10:54:38,2018-04-12 10:54:38,0,0,1,0,0,0
+NicekDev,38126874+NicekDev@users.noreply.github.com,0,0,38,3,2018-04-12 23:07:22,2018-04-13 15:56:04,0,0,0,0,0,0
+Paul Masson,paulmasson@comcast.net,0,0,4,2,2018-04-12 11:41:20,2018-04-12 11:43:56,0,0,0,0,0,0
+Julien Maulny,julien.maulny@protonmail.com,0,0,2,1,2018-04-13 13:52:21,2018-04-13 13:52:21,0,0,0,0,0,0
+ndebeiss,ndebeiss@gmail.com,0,0,24,1,2018-04-13 17:21:34,2018-04-13 17:21:34,0,0,0,0,0,0
+LEE JAE HO,spectrick@gmail.com,0,0,2,1,2018-04-17 12:24:40,2018-04-17 12:24:40,0,0,0,0,0,0

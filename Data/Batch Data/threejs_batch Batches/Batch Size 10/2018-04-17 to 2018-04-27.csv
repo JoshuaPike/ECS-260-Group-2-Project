@@ -1,0 +1,19 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,0,2919,41,2018-04-16 10:24:37,2018-04-26 03:23:49,2270.333333333333,31.888888888888886,6,4.4423076923076925,6,3
+Lewy Blue,looeee@gmail.com,0,0,12,2,2018-04-17 20:55:39,2018-04-25 01:40:45,12.0,2.0,1,1.0,1,0
+LEE JAE HO,spectrick@gmail.com,0,0,2,1,2018-04-18 06:48:19,2018-04-18 06:48:19,0,0,0,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,951,14,2018-04-17 16:56:30,2018-04-26 11:50:46,832.125,12.25,6,0,0,1
+Henrique Ferrolho,henriqueferrolho@gmail.com,0,0,80,1,2018-04-17 20:21:56,2018-04-17 20:21:56,0,0,1,1.0,1,2
+raub,raubtierxxx@gmail.com,0,0,201804,8,2018-04-18 11:22:45,2018-04-18 16:38:06,0,0,7,0,0,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,63,4,2018-04-17 23:18:01,2018-04-23 11:48:01,88.2,5.6,2,1.8,2,1
+Mauro Ghini,mghini@users.noreply.github.com,0,0,4,1,2018-04-18 14:07:13,2018-04-18 14:07:13,0,0,0,0,0,0
+vlucendo,vicen@vlucendo.com,0,0,2,1,2018-04-18 14:08:40,2018-04-18 14:08:40,0,0,1,0,0,0
+sunag,contact@sunag.com.br,0,0,6,1,2018-04-18 13:31:46,2018-04-18 13:31:46,0,0,1,1.0,1,0
+Geoff Whatley,me@geoffwhatley.com,0,0,7,1,2018-04-20 07:12:08,2018-04-20 07:12:08,0,0,1,1.0,1,2
+Takahiro,hogehoge@gachapin.jp,0,0,303,22,2018-04-20 14:53:28,2018-04-27 14:03:04,353.5,25.666666666666668,4,4.5,6,1
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,47,2,2018-04-21 07:31:39,2018-04-21 16:16:52,0,0,1,1.0,1,0
+HypnosNova,601670314@qq.com,0,0,339,9,2018-04-23 02:38:26,2018-04-24 05:36:06,2373.0,63.0,2,1.0,1,0
+Nicolas Debeissat,ndebeiss@gmail.com,0,0,81,2,2018-04-22 19:41:35,2018-04-24 18:11:03,567.0,14.0,0,1.6666666666666665,2,7
+06wj,06wj@163.com,0,0,36,4,2018-04-24 00:49:43,2018-04-24 07:19:29,0,0,4,0,0,0
+gero3,gero3@users.noreply.github.com,0,0,2,1,2018-04-26 12:36:07,2018-04-26 12:36:07,0,0,0,0,0,0
+etr2460,erik.ritter@caffeine.tv,0,0,3,1,2018-04-26 05:08:39,2018-04-26 05:08:39,0,0,1,1.0,1,0

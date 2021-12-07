@@ -1,0 +1,23 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+duhaime,douglas.duhaime@gmail.com,0,0,8,2,2017-11-27 14:02:53,2017-11-27 15:34:32,0,0,0,0,0,0
+Lewy Blue,looeee@gmail.com,0,0,1114,6,2017-11-28 14:45:22,2017-12-08 09:38:30,866.4444444444443,4.666666666666666,1,4.274725274725275,5,-3
+Don McCurdy,don.r.mccurdy@gmail.com#donmccurdy@google.com,0,0,3418,9,2017-11-27 09:39:42,2017-12-06 23:16:15,2658.4444444444443,6.999999999999999,233,1.1111111111111112,2,-14
+Mr.doob,info@mrdoob.com,0,0,8379,40,2017-11-28 15:58:25,2017-12-07 19:05:00,6516.999999999999,31.111111111111107,9,5.472222222222222,6,-1
+Pascal Häusler,p.haeusler@cadenas.de,0,0,7130,3,2017-11-28 08:33:27,2017-12-07 11:29:35,5545.555555555555,2.333333333333333,0,1.0,1,0
+Takahiro,hogehoge@gachapin.jp,0,0,1247,4,2017-11-29 08:21:19,2017-11-30 20:04:00,8729.0,28.0,1,1.3174603174603174,2,6
+Mugen87,michael.herzog@human-interactive.org,0,0,812,14,2017-11-28 20:07:40,2017-12-05 20:29:34,812.0,14.0,19,4.364102564102565,5,3
+Luigi De Rosa,lurukee@gmail.com,0,0,4,1,2017-11-28 23:13:11,2017-11-28 23:13:11,0,0,0,0,0,2
+Ondřej Španěl,OndrejSpanel@users.noreply.github.com,0,0,258,16,2017-11-29 12:55:27,2017-12-04 10:49:10,451.5,28.0,10,5.333333333333334,6,1
+WestLangley,dat1234@gmail.com,0,0,147,4,2017-11-29 15:51:11,2017-12-03 17:30:11,257.25,7.0,4,1.75,2,0
+gam0022,gam0022@gmail.com,0,0,133,9,2017-12-03 19:08:38,2017-12-05 11:50:07,931.0,63.0,0,0,0,0
+Daniel Hritzkiv,daniel.hritzkiv@gmail.com,0,0,18,5,2017-12-04 10:37:32,2017-12-07 06:24:51,63.0,17.5,1,0,0,0
+dmarcos,diego.marcos@gmail.com,0,0,2,1,2017-12-04 10:57:32,2017-12-04 10:57:32,0,0,0,0,0,0
+Stuart Campbell,stuart@harto.org,0,0,2,1,2017-12-04 13:20:51,2017-12-04 13:20:51,0,0,0,0,0,0
+jason chen,cjx89807@alibaba-inc.com,0,0,26,1,2017-12-06 01:17:35,2017-12-06 01:17:35,0,0,4,0,0,0
+keqingrong,keqingrong1992@gmail.com,0,0,286,3,2017-12-06 06:04:42,2017-12-06 17:37:33,0,0,2,0,0,0
+mattdesl,dave.des@gmail.com,0,0,6852,2,2017-12-05 12:58:49,2017-12-05 13:02:49,0,0,0,0,0,0
+Mauro Ghini,mghini@users.noreply.github.com,0,0,198,3,2017-12-06 13:19:13,2017-12-06 13:35:41,0,0,0,0,0,0
+adrs2002,adrs2002@hotmail.com,0,0,107,1,2017-12-07 10:13:41,2017-12-07 10:13:41,0,0,1,0,0,2
+Tyler Lindberg,tlindberg@ucla.edu,0,0,6,1,2017-12-06 08:28:56,2017-12-06 08:28:56,0,0,0,1.0,1,1
+Jey-en,adrs2002@users.noreply.github.com,0,0,19,2,2017-12-07 19:43:01,2017-12-07 20:10:33,0,0,0,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,2,1,2017-12-07 21:18:49,2017-12-07 21:18:49,0,0,0,0,0,0

@@ -1,0 +1,24 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,1,1,303822,85,2018-02-05 09:52:13,2018-02-15 00:53:09,236305.99999999997,66.1111111111111,13,9.171177911597853,12,1
+Mugen87,michael.herzog@human-interactive.org,0,0,1345,21,2018-02-06 14:23:19,2018-02-15 16:50:47,1046.111111111111,16.333333333333332,14,3.5384615384615383,4,2
+sunag,contact@sunag.com.br,0,0,719,20,2018-02-06 11:10:57,2018-02-14 13:47:35,629.125,17.5,10,4.0,4,2
+Aaron Krajeski,ak@aaronk.is,0,0,16,1,2018-02-06 06:05:26,2018-02-06 06:05:26,0,0,0,0,0,0
+Lewy Blue,looeee@gmail.com,0,0,129801,21,2018-02-07 21:05:22,2018-02-15 20:21:58,129801.0,21.0,6,2.0,2,-1
+Pierre Fritsch,PierreFritsch@users.noreply.github.com,0,0,2,1,2018-02-07 14:54:13,2018-02-07 14:54:13,0,0,0,0,0,0
+Max Wagner,maxwagner@gmail.com,0,0,54,2,2018-02-07 01:55:30,2018-02-08 00:33:10,0,0,1,1.5714285714285714,2,0
+Don McCurdy,don.r.mccurdy@gmail.com#donmccurdy@google.com,0,0,17868,12,2018-02-08 01:39:07,2018-02-08 01:40:42,0,0,4,4.377450980392156,5,15
+FanZhang,zhafang@google.com,0,0,7981,1,2018-02-08 01:40:42,2018-02-08 01:40:42,0,0,0,1.0,1,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,6,3,2018-02-09 16:28:26,2018-02-11 13:49:33,42.0,21.0,0,0,0,0
+Kai Salmen,myself@kaisalmen.de,0,0,2499,2,2018-02-10 00:51:26,2018-02-10 14:49:07,0,0,4,1.0,1,9
+Luis Blanco,raubtierxxx@gmail.com,0,0,206138,3,2018-02-10 21:44:44,2018-02-11 03:41:45,0,0,4,1.5147058823529411,2,0
+cx20,y-shimano@hondarer-soft.com,0,0,2,1,2018-02-12 09:27:06,2018-02-12 09:27:06,0,0,0,0,0,0
+Magnuz Binder,MagnuzBinder@users.noreply.github.com,0,0,10,5,2018-02-12 12:45:18,2018-02-13 09:29:58,0,0,0,0,0,0
+AntoineC,aecz@gft.com,0,0,16,1,2018-02-12 14:14:33,2018-02-12 14:14:33,0,0,0,0,0,0
+David Lochhead,dave@defmech.com,0,0,2,1,2018-02-12 14:58:35,2018-02-12 14:58:35,0,0,0,0,0,0
+raub,raubtierxxx@gmail.com,0,0,736,2,2018-02-13 14:27:10,2018-02-13 14:27:26,0,0,0,0,0,0
+Diego Marcos,diego.marcos@gmail.com,0,0,83,5,2018-02-13 07:24:37,2018-02-13 08:43:04,0,0,3,1.2941176470588236,2,0
+Brian Peiris,brianpeiris@gmail.com,0,0,25,1,2018-02-13 07:25:11,2018-02-13 07:25:11,0,0,0,0,0,0
+selimbek,selim.bekkar@gmail.com,0,0,2,1,2018-02-14 15:02:40,2018-02-14 15:02:40,0,0,1,0,0,0
+Adam,twite.adam@gmail.com,0,0,2,1,2018-02-15 21:49:50,2018-02-15 21:49:50,0,0,1,0,0,0
+Alan Millman,alan.millman@here.com,0,0,116,1,2018-02-15 08:45:04,2018-02-15 08:45:04,0,0,1,0,0,0
+Michael Bond,mbond@adobe.com,0,0,4607,1,2018-02-15 07:09:48,2018-02-15 07:09:48,0,0,0,1.0,1,1

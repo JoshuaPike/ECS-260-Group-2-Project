@@ -1,0 +1,21 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mugen87,michael.herzog@human-interactive.org,0,0,332,19,2018-01-28 18:33:10,2018-02-05 18:13:02,332.0,19.0,5,5.0,5,1
+Alex Kempton,alex@funwithtriangles.net,0,0,3,1,2018-01-29 20:39:02,2018-01-29 20:39:02,0,0,0,0,0,0
+Luis Blanco,raubtierxxx@gmail.com,0,0,16,1,2018-01-30 02:41:19,2018-01-30 02:41:19,0,0,1,0,0,0
+Mr.doob,info@mrdoob.com,1,0,42305,34,2018-01-29 22:53:04,2018-02-05 04:27:26,49355.833333333336,39.66666666666667,5,2.5454545454545454,3,-1
+Pascal Häusler,p.haeusler@cadenas.de,0,0,6,3,2018-01-30 08:18:52,2018-02-01 09:09:37,21.0,10.5,1,0,0,0
+brunnerh,brunnerh@users.noreply.github.com,0,0,43,2,2018-01-30 16:45:44,2018-01-31 11:27:04,0,0,1,2.0,2,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,38,3,2018-01-30 11:37:15,2018-02-03 15:26:31,66.5,5.25,2,1.0,1,0
+Xander Luciano,vipercodegames@gmail.com,0,0,2,1,2018-01-30 13:26:01,2018-01-30 13:26:01,0,0,0,0,0,0
+Christopher Cook,christopher.cook@webprofusion.com,0,0,40,5,2018-01-31 22:14:46,2018-02-04 19:43:33,93.33333333333334,11.666666666666668,1,0.8571428571428571,1,2
+finscn,finscn@gmail.com,0,0,23,2,2018-02-01 00:40:44,2018-02-01 13:25:43,0,0,1,2.0,2,0
+Remus M,RemusMar@users.noreply.github.com,0,0,2,1,2018-01-31 19:13:30,2018-01-31 19:13:30,0,0,0,0,0,0
+Lewy Blue,looeee@gmail.com,0,0,8323,3,2018-02-02 08:10:37,2018-02-02 19:40:18,0,0,1,0,0,1
+Nicholas Beerbower,nbeerbower@gmail.com,0,0,4,1,2018-02-01 11:43:40,2018-02-01 11:43:40,0,0,0,0,0,0
+Brunner,hbrunner@RSU-LAN.local,0,0,25,1,2018-02-02 11:40:24,2018-02-02 11:40:24,0,0,0,0,0,0
+andts,and.tsarenko@gmail.com,0,0,467108,2,2018-02-03 12:27:47,2018-02-03 12:44:58,0,0,0,0,0,0
+Yui Kita,arcoyk@users.noreply.github.com,0,0,8,1,2018-02-04 02:40:19,2018-02-04 02:40:19,0,0,0,0,0,0
+sunag,contact@sunag.com.br,0,0,309,12,2018-02-03 08:54:54,2018-02-05 16:00:20,1081.5,42.0,18,3.772486772486772,4,1
+Pierfrancesco Soffritti,soffritti.pierfrancesco@gmail.com,0,0,2,1,2018-02-04 18:47:28,2018-02-04 18:47:28,0,0,0,0,0,0
+wuweiweiwu,wuxx1045@umn.edu,0,0,5,1,2018-02-04 15:07:24,2018-02-04 15:07:24,0,0,2,0.5,1,0
+Niels,nielspausma@gmail.com,0,0,69,3,2018-02-05 18:20:05,2018-02-06 00:14:31,0,0,1,0.2,1,0
