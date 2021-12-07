@@ -174,13 +174,14 @@ threejs_end_5 = datetime.fromisoformat('2020-06-21T00:00:00+00:00')
 # print('Process took ' + str(timeElapsed.seconds) + ' seconds')
 
 # ------------------- UNCOMMENT BELOW THIS LINE TO MINE FIFTH YEAR OF THREE.JS -----------------------------------
-# ------------------- WILLIAM IS RUNNING THIS IF HE HAS TIME ------------------------------------
+# ------------------- WILLIAM IS RUNNING ------------------------------------
 # threejs_end_5 = datetime.fromisoformat('2020-06-21T00:00:00+00:00')
 # print('Starting to mine fifth year of three.js\n')
 # mineStartTime = datetime.utcnow()
 # # UNCOMMENT LINE BELOW TO MINE USING LOCAL REPO.. HAVE TO PULL THREE.JS TO LOCAL
 # mine(localPaths[5], 'JavaScript', threejs_end_4, threejs_end_5, 'threejs_batch', batch_size)
 # # UNCOMMENT LINE BELOW TO MINE USING URL.. HAVE TO UNCOMMENT "url" VARIABLE AT THE TOP
+# mine(url[3], 'JavaScript', threejs_end_4, threejs_end_5, 'threejs_batch', batch_size)
 # mineEndTime = datetime.utcnow()
 # timeElapsed = mineEndTime - mineEndTime
 # print('Finished mining fifth year of three.js')
