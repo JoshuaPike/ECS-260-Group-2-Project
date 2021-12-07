@@ -1,0 +1,11 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Maxime Rouyrre,rouyrre+github@gmail.com,0,0,1,1,2018-07-01 06:37:44,2018-07-01 06:37:44,0,0,1,0,0,0
+Mr.doob,info@mrdoob.com,0,0,23768,35,2018-07-01 21:18:59,2018-07-11 06:45:41,18486.222222222223,27.22222222222222,13,5.589473684210526,6,8
+WestLangley,WestLangley@users.noreply.github.com,0,0,80,8,2018-06-30 20:37:56,2018-07-09 16:52:16,70.0,7.0,4,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,815,15,2018-07-01 20:45:26,2018-07-09 01:39:47,815.0,15.0,14,3.5735294117647056,4,-8
+Don McCurdy,donmccurdy@google.com,0,0,40,1,2018-07-02 01:00:20,2018-07-02 01:00:20,0,0,1,1.0,1,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,73,6,2018-07-04 19:14:23,2018-07-10 16:16:56,102.2,8.4,0,0,0,-2
+sunag,contact@sunag.com.br,0,0,7952,13,2018-07-04 19:16:52,2018-07-10 11:23:19,11132.8,18.2,76,4.523809523809524,5,19
+yomboprime,yomboprime@users.noreply.github.com,0,0,1859,8,2018-07-05 07:15:27,2018-07-11 03:58:00,2602.6,11.2,1,2.025760965358281,3,9
+samirah,samirah@microsoft.com,0,0,2,1,2018-07-06 04:38:52,2018-07-06 04:38:52,0,0,1,0,0,0
+Gregg Tavares,github@greggman.com,0,0,12,1,2018-07-08 06:19:53,2018-07-08 06:19:53,0,0,0,0,0,0

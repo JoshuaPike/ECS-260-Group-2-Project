@@ -1,0 +1,20 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,0,25990,61,2018-06-20 10:06:57,2018-06-30 02:07:21,20214.44444444444,47.44444444444444,12,3.962384920549344,11,-41
+Don McCurdy,donmccurdy@google.com,0,0,208,3,2018-06-21 03:43:50,2018-06-27 00:58:45,291.2,4.2,5,2.511111111111111,3,0
+Tobin Bell,tobin.bell@stanford.edu,0,0,2,1,2018-06-21 15:27:21,2018-06-21 15:27:21,0,0,0,0,0,0
+marcatec,marcatec@users.noreply.github.com,0,0,2,1,2018-06-22 10:37:35,2018-06-22 10:37:35,0,0,1,0,0,0
+Mathieu Brédif,mathieu.bredif@ign.fr,0,0,18,3,2018-06-22 11:22:21,2018-06-25 17:17:26,42.0,7.0,2,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,1019,12,2018-06-22 13:25:24,2018-06-29 19:06:40,1019.0,12.0,6,3.317073170731707,4,-26
+Michael Herzog,michael.herzog@human-interactive.org,0,0,43,2,2018-06-22 13:26:12,2018-06-25 17:42:53,100.33333333333334,4.666666666666667,0,0,0,0
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,611,3,2018-06-22 00:50:01,2018-06-30 07:10:39,534.625,2.625,3,0.8049645390070922,2,39
+WestLangley,WestLangley@users.noreply.github.com,0,0,24,2,2018-06-24 13:49:11,2018-06-29 19:40:17,33.6,2.8,2,2.0,2,1
+Ivo Monti,ivo.monti@youbim.com,0,0,2,1,2018-06-25 11:17:25,2018-06-25 11:17:25,0,0,0,0,0,0
+Brian Peiris,brianpeiris@gmail.com,0,0,11,3,2018-06-26 07:04:01,2018-06-26 07:46:02,0,0,0,0,0,0
+Marshall Quander,marshall@quander.me,0,0,237,3,2018-06-26 13:15:47,2018-06-27 17:46:47,1659.0,21.0,2,1.0,1,12
+Matthew Harris,rtpharry@hotmail.com,0,0,9,3,2018-06-27 17:17:16,2018-06-28 04:11:12,0,0,0,0,0,0
+zhaoy,yaoyao_cn@foxmail.com,1,0,14687,6,2018-06-27 21:24:45,2018-06-28 22:03:36,102809.0,42.0,1,0.8333333333333334,1,0
+Korijn van Golen,k.vangolen@clinicalgraphics.com,0,0,4,1,2018-06-27 12:54:06,2018-06-27 12:54:06,0,0,0,0,0,0
+Berend Klein Haneveld,berendkleinhaneveld@clinicalgraphics.com,0,0,470,2,2018-06-27 13:23:41,2018-06-27 14:59:05,0,0,0,1.0,2,0
+Lewy Blue,looeee@gmail.com,0,0,233,4,2018-06-28 04:29:03,2018-06-29 14:32:21,1631.0,28.0,1,2.0,2,5
+Paul Masson,paulmasson@comcast.net,0,0,12,1,2018-06-27 07:18:34,2018-06-27 07:18:34,0,0,1,0,0,0
+K.Himeno,k.himeno314@gmail.com,0,0,2,1,2018-06-30 01:27:43,2018-06-30 01:27:43,0,0,0,0,0,0

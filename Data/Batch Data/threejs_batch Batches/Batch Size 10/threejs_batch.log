@@ -6,3 +6,11 @@ ERROR:playsound:
     Error 305 for command:
         close "C:\Users\ericy\AppData\Local\Temp\PStznnh9dm.mp3"
     Cannot specify extra characters after a string enclosed in quotation marks.
+ERROR:playsound:
+    Error 305 for command:
+        open "C:\Users\ericy\AppData\Local\Temp\PSzjptfrd7.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks.
+ERROR:playsound:
+    Error 305 for command:
+        close "C:\Users\ericy\AppData\Local\Temp\PSzjptfrd7.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks.

@@ -1,0 +1,17 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+林炳权,695601626@qq.com,0,0,28,2,2019-01-08 00:18:26,2019-01-08 01:31:36,0,0,0,0,0,0
+Riccardo Padovani,rpadovani@nextbit.it,0,0,26,1,2019-01-07 10:59:43,2019-01-07 10:59:43,0,0,1,1.0,1,0
+Mr.doob,info@mrdoob.com,0,0,3488,27,2019-01-07 06:02:10,2019-01-16 02:24:44,3052.0,23.625,3,0.1116751269035533,1,4
+Mugen87,michael.herzog@human-interactive.org,0,0,1194,18,2019-01-07 21:29:58,2019-01-16 21:02:21,1044.75,15.75,15,4.6567567567567565,6,-2
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,510,13,2019-01-07 11:30:11,2019-01-14 11:35:48,510.0,13.0,11,1.0,1,-1
+HypnosNova,601670314@qq.com,0,0,6,1,2019-01-09 05:02:21,2019-01-09 05:02:21,0,0,0,0,0,0
+Don McCurdy,donmccurdy@google.com#don.r.mccurdy@gmail.com,0,0,20,5,2019-01-08 13:22:17,2019-01-13 14:57:19,28.0,7.0,1,0,0,2
+Tomasz Dysinski,oz@bunnybones.com,0,0,97,2,2019-01-10 10:14:36,2019-01-10 11:08:32,0,0,3,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,392,3,2019-01-11 12:24:38,2019-01-13 20:15:15,1372.0,10.5,0,0,0,0
+Marc-Sefan Cassola,maccesch@gmail.com,0,0,575,3,2019-01-13 09:26:21,2019-01-14 10:03:27,4025.0,21.0,41,0.5405405405405406,1,0
+Takahiro,hogehoge@gachapin.jp,0,0,38,1,2019-01-14 18:31:37,2019-01-14 18:31:37,0,0,0,0,0,0
+linbingquan,695601626@qq.com,0,0,3780,1,2019-01-16 00:28:51,2019-01-16 00:28:51,0,0,0,0,0,0
+Kevin Ngo,me@ngokevin.com,0,0,9,1,2019-01-15 03:04:17,2019-01-15 03:04:17,0,0,1,1.0,1,0
+ivojager,ivojager@devbox2.1,0,0,40,1,2019-01-16 23:24:00,2019-01-16 23:24:00,0,0,3,0,0,0
+Atul Mourya,atul.mourya@gmail.com,0,0,12,1,2019-01-16 22:17:18,2019-01-16 22:17:18,0,0,0,0,0,0
+lu wang,Canada_wl@aliyun.com,0,0,9455,1,2019-01-16 06:14:04,2019-01-16 06:14:04,0,0,0,1.0,1,0

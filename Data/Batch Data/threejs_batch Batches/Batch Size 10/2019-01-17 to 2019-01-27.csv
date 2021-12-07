@@ -1,0 +1,18 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,0,11864,19,2019-01-16 11:49:09,2019-01-26 06:00:16,9227.555555555555,14.777777777777777,4,0.8571428571428571,1,6
+Mugen87,michael.herzog@human-interactive.org,0,0,175,7,2019-01-17 16:59:51,2019-01-26 12:45:54,153.125,6.125,5,3.0,3,-2
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,91,4,2019-01-17 02:08:12,2019-01-21 12:14:50,159.25,7.0,4,2.0,2,0
+ivojager,ivojager@devbox2.1,0,0,4,1,2019-01-18 22:52:18,2019-01-18 22:52:18,0,0,0,0,0,0
+Jimmie,cross-express@live.com,0,0,2,1,2019-01-18 21:03:58,2019-01-18 21:03:58,0,0,0,0,0,0
+gogoend,gogoend@qq.com,0,0,1170,12,2019-01-19 06:17:23,2019-01-26 21:21:58,1170.0,12.0,0,0,0,0
+gilnoycloudinary,32837055+gilnoycloudinary@users.noreply.github.com,0,0,5,1,2019-01-20 16:12:00,2019-01-20 16:12:00,0,0,0,0,0,1
+Gregg Tavares,github@greggman.com,0,0,11,2,2019-01-22 02:21:00,2019-01-22 02:32:34,0,0,1,1.0,1,4
+linbingquan,695601626@qq.com,1,0,12150,4,2019-01-22 05:41:31,2019-01-27 04:07:18,21262.5,7.0,0,0,0,0
+Riccardo Padovani,riccardo@rpadovani.com,0,0,16,1,2019-01-21 15:48:44,2019-01-21 15:48:44,0,0,1,1.0,1,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,231,2,2019-01-21 20:52:24,2019-01-21 20:57:37,0,0,0,0,0,0
+angus,lang@zjxu.org,0,0,4,2,2019-01-23 02:13:57,2019-01-23 03:29:46,0,0,1,0,0,0
+06wj,06wj@163.com,0,0,5,1,2019-01-24 08:11:37,2019-01-24 08:11:37,0,0,0,0,0,0
+Luis Blanco,luisblanco1337@gmail.com,0,0,183869,1,2019-01-23 22:26:41,2019-01-23 22:26:41,0,0,0,0,0,0
+lu wang,Canada_wl@aliyun.com,0,0,936,5,2019-01-23 12:27:46,2019-01-24 11:13:22,0,0,0,1.0,1,0
+Don McCurdy,donmccurdy@google.com,0,0,6,1,2019-01-25 01:03:50,2019-01-25 01:03:50,0,0,1,0,0,0
+mixture,turkeevm@gmail.com,0,0,9,1,2019-01-27 02:12:35,2019-01-27 02:12:35,0,0,1,0,0,0
