@@ -121,6 +121,9 @@ def mine(repoPath, lang, start, end, repoName, batchSize):
             return
 
         # Make the directory if it doesn't exist
+        dir_name = 'Data/Batch Data/' + nameOfRepo + ' Batches/'
+        if not os.path.exists(dir_name):
+            os.mkdir(dir_name)
         dir_name = 'Data/Batch Data/' + nameOfRepo + ' Batches/Batch Size ' + str(batch_size.days)
         if not os.path.exists(dir_name):
             os.mkdir(dir_name)

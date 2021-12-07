@@ -1,0 +1,11 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Gianni,gianni@solidshield.com,0,0,126269,3,2017-08-17 12:29:38,2017-08-17 23:14:04,0,0,0,1.0,1,0
+David Catuhe,david.catuhe@live.fr#david.catuhe@Live.fr,0,0,1896951,71,2017-08-17 01:16:53,2017-08-26 02:42:19,1475406.3333333333,55.22222222222222,22,16.79192906359009,24,76
+noalak,tambrun.fabrice@gmail.com,0,0,2462,1,2017-08-18 19:02:06,2017-08-18 19:02:06,0,0,0,0.3233458177278402,1,0
+Gary Hsu,garyhsu@microsoft.com,0,0,47,2,2017-08-18 03:57:08,2017-08-18 09:58:27,0,0,0,1.0,1,0
+Alexander Chamberlain,alxchamberlain@gmail.com,0,0,13,1,2017-08-18 10:30:14,2017-08-18 10:30:14,0,0,0,1.0,1,0
+DESKTOP-QJU4N0L\mityh,ibraheem.osama@gmail.com,0,0,559618,19,2017-08-21 06:12:52,2017-08-25 22:01:38,979331.5,33.25,0,5.240269605253798,8,6
+Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,0,0,7235,2,2017-08-21 05:09:57,2017-08-21 06:45:06,0,0,3,1.375,2,-25
+Carlos Landeras Martínez,clanderas@plainconcepts.com,0,0,22,2,2017-08-22 11:53:39,2017-08-23 14:04:40,154.0,14.0,0,0,0,0
+Brian Zinn,github@wakeskate.com,0,0,8,2,2017-08-24 12:40:03,2017-08-25 13:40:06,56.0,14.0,0,1.0,1,0
+Taton Sven,sven.taton@versusmind.eu,0,0,2,1,2017-08-25 11:47:38,2017-08-25 11:47:38,0,0,0,0,0,0
