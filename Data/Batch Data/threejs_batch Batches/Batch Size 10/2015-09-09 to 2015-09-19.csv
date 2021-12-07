@@ -1,0 +1,14 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Daniel,dforrer@gmail.com,0,0,252,5,2015-09-09 09:10:53,2015-09-16 17:16:10,252.0,5.0,8,0,0,1
+tinaun,tinagma@gmail.com,0,0,18,1,2015-09-09 01:54:10,2015-09-09 01:54:10,0,0,1,0,0,0
+Mr.doob,info@mrdoob.com,0,0,3146,50,2015-09-09 15:10:11,2015-09-18 10:43:44,2752.75,43.75,34,6.952136752136752,8,2
+WestLangley,dat1234@gmail.com,0,0,310,4,2015-09-09 15:29:28,2015-09-15 19:04:04,361.6666666666667,4.666666666666667,1,0,0,0
+Elisée,elisee@sparklinlabs.com,0,0,2,1,2015-09-14 17:43:25,2015-09-14 17:43:25,0,0,1,0,0,0
+Elisée Maurer,elisee@sparklinlabs.com,0,0,175,3,2015-09-14 18:24:50,2015-09-17 21:39:59,408.33333333333337,7.0,0,1.2222222222222223,2,0
+tschw,tschwinger@isonews2.com,0,0,159,3,2015-09-15 00:12:40,2015-09-15 16:11:08,0,0,3,1.0,1,1
+simonThiele,simon.thiele@instana.com,0,0,616,9,2015-09-16 10:35:44,2015-09-17 20:18:16,4312.0,63.0,5,5.160391742904059,6,40
+Nicolas Rannou,npm.rannou@gmail.com,0,0,2,1,2015-09-17 19:29:17,2015-09-17 19:29:17,0,0,1,0,0,0
+Luke Moody,luke.t.moody@googlemail.com,0,0,143,4,2015-09-17 21:57:42,2015-09-17 22:10:06,0,0,0,0,0,0
+mataron,mataron6@gmail.com,0,0,2,1,2015-09-18 13:48:56,2015-09-18 13:48:56,0,0,0,0,0,0
+jackcaron,jacquelin.caron@gmail.com,0,0,62,2,2015-09-18 10:45:20,2015-09-18 10:45:26,0,0,0,1.0,1,0
+Ben Houston,ben@exocortex.com,0,0,5715,2,2015-09-18 10:45:29,2015-09-18 10:45:32,0,0,23,1.0,1,-4

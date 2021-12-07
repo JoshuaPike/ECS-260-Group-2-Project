@@ -1,0 +1,16 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Daniel,dforrer@gmail.com,0,0,7967,26,2015-09-29 14:17:33,2015-10-08 23:07:04,6196.555555555555,20.22222222222222,32,8.102693602693602,11,4
+Mr.doob,info@mrdoob.com,0,0,6867,85,2015-09-29 05:10:07,2015-10-07 21:26:08,6008.625,74.375,54,18.944381214017973,26,13
+Marius Kintel,marius@kintel.net,0,0,4015,5,2015-09-29 10:39:40,2015-10-03 20:31:24,7026.25,8.75,1,1.0,1,6
+Pontus Leitzler,leitzler@users.noreply.github.com,0,0,201,13,2015-09-30 09:21:56,2015-10-04 01:50:09,469.0,30.333333333333336,1,0,0,0
+Dag Holmberg,holmberd@gmail.com,0,0,1,1,2015-09-30 13:04:10,2015-09-30 13:04:10,0,0,0,0,0,0
+mkkellogg,mkkellogg@gmail.com,0,0,501,2,2015-09-30 12:39:07,2015-10-01 07:18:47,0,0,1,1.0,1,4
+Jaume Sanchez,the.spite@gmail.com,0,0,241212,3,2015-09-30 15:30:35,2015-09-30 15:41:55,0,0,0,0,0,0
+Daniel Phillips,dphildev@gmail.com,0,0,2,1,2015-10-01 22:53:58,2015-10-01 22:53:58,0,0,0,0,0,0
+Mario Schuettel,github@lxxxvi.ch#mario@schuettel.ch,0,0,1338,8,2015-10-02 16:21:21,2015-10-06 20:40:19,2341.5,14.0,9,3.0,3,-6
+makc,makc.the.great@gmail.com,0,0,8,1,2015-10-03 16:18:22,2015-10-03 16:18:22,0,0,1,1.0,1,0
+Nicolas Raynaud,nraynaud@gmail.com#github@nraynaud.com,0,0,505,8,2015-10-03 19:40:34,2015-10-04 21:55:56,3535.0,56.0,0,1.0,1,0
+Pontus,pontus@qiau.leitzler.net,0,0,0,1,2015-10-04 01:33:24,2015-10-04 01:33:24,0,0,0,0,0,0
+Aki Rodic,aleksandar.xyz@gmail.com,0,0,15,1,2015-10-05 19:19:11,2015-10-05 19:19:11,0,0,0,0,0,0
+Martin Naumann,martin@geekonaut.de,0,0,8,1,2015-10-07 19:25:52,2015-10-07 19:25:52,0,0,1,1.0,1,0
+aarman,armanmtgh@gmail.com,0,0,11,1,2015-10-07 17:36:04,2015-10-07 17:36:04,0,0,1,1.0,1,0

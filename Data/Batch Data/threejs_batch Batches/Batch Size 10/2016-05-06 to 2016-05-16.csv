@@ -1,0 +1,13 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+tschw,tschw@users.noreply.github.com,0,0,688,6,2016-05-07 07:48:39,2016-05-12 07:40:49,1204.0,10.5,5,1.0,1,-1
+Mr.doob,info@mrdoob.com,1,0,12272,13,2016-05-07 08:59:13,2016-05-14 17:16:51,12272.0,13.0,15,5.991356655990803,8,-14
+Abel Allison,abel.allison@gmail.com,0,0,326,2,2016-05-07 19:06:51,2016-05-07 19:35:15,0,0,6,0.8974358974358975,1,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,25,1,2016-05-08 10:18:15,2016-05-08 10:18:15,0,0,1,0,0,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,23,2,2016-05-08 20:17:03,2016-05-11 11:34:43,80.5,7.0,1,1.0,1,0
+oomarsmanoo,julian.ehrenstrasser@gmail.com,0,0,264,1,2016-05-09 10:16:31,2016-05-09 10:16:31,0,0,0,0,0,0
+rfm1201,rfm1201@users.noreply.github.com,0,0,2,1,2016-05-09 18:24:23,2016-05-09 18:24:23,0,0,0,0,0,0
+ThomasPahler,tp@ipdd.com,0,0,28,1,2016-05-13 16:48:33,2016-05-13 16:48:33,0,0,1,1.0,1,1
+aardgoose,angus.sawyer@gmail.com,0,0,8,1,2016-05-14 04:48:37,2016-05-14 04:48:37,0,0,1,0,0,0
+Ben Houston (Clara.io),ben@exocortex.com,0,0,37,2,2016-05-14 05:25:49,2016-05-14 13:25:27,0,0,1,0.5,1,0
+gero3,gero3@users.noreply.github.com,0,0,2,1,2016-05-14 05:32:27,2016-05-14 05:32:27,0,0,1,0,0,1
+SUNAG,sunagbrasil@gmail.com,0,0,784,1,2016-05-14 17:05:10,2016-05-14 17:05:10,0,0,22,0.4523809523809524,1,4

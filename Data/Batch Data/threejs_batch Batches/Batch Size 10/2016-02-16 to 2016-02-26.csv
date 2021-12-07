@@ -1,0 +1,17 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ben Houston,ben@exocortex.com,0,0,13666,58,2016-02-15 14:22:30,2016-02-25 05:43:53,10629.11111111111,45.11111111111111,15,7.811842231151933,11,-10
+Mr.doob,info@mrdoob.com,0,0,12397,71,2016-02-17 07:40:31,2016-02-26 01:31:28,10847.375,62.125,14,7.997802197802198,9,66
+David Lyons,david.scott.lyons@gmail.com,0,0,13,2,2016-02-16 04:36:10,2016-02-16 07:15:32,0,0,0,0,0,0
+WestLangley,dat1234@gmail.com,0,0,100,4,2016-02-16 16:40:22,2016-02-22 18:53:21,116.66666666666667,4.666666666666667,1,0,0,0
+Coder2012,neilbrown08@hotmail.com,0,0,132,2,2016-02-19 07:54:33,2016-02-19 10:37:14,0,0,0,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,982,8,2016-02-19 11:59:41,2016-02-25 13:01:49,1145.6666666666667,9.333333333333334,6,3.676190476190476,5,46
+mattdesl,dave.des@gmail.com,0,0,28,1,2016-02-19 08:20:30,2016-02-19 08:20:30,0,0,0,0,0,0
+Wilt,wouter_wiltenburg@hotmail.com,0,0,4,2,2016-02-19 20:32:44,2016-02-19 21:47:38,0,0,1,1.0,1,0
+makc,makc.the.great@gmail.com,0,0,14,1,2016-02-21 18:22:35,2016-02-21 18:22:35,0,0,1,0,0,0
+Raymond Zhou,razh@users.noreply.github.com,0,0,3,1,2016-02-21 11:44:52,2016-02-21 11:44:52,0,0,1,0,0,0
+Bao Pham,gbaopham@gmail.com,0,0,2,1,2016-02-21 13:33:21,2016-02-21 13:33:21,0,0,0,0,0,0
+kampfgnu,feinahabl@gmx.at,0,0,117,1,2016-02-22 17:37:22,2016-02-22 17:37:22,0,0,1,0.37254901960784315,1,1
+Marius Kintel,marius@kintel.net,0,0,44,1,2016-02-23 10:41:48,2016-02-23 10:41:48,0,0,1,1.0,1,2
+Valentin Demeusy,valentin.demeusy@imavie.fr,0,0,3575,3,2016-02-23 19:15:33,2016-02-23 21:54:25,0,0,0,1.0784313725490196,2,22
+Brandon Jones,tojiro@gmail.com,0,0,177,1,2016-02-24 07:22:09,2016-02-24 07:22:09,0,0,2,0,0,6
+m_valvano,m.valvano@bookingshow.com,0,0,8,1,2016-02-25 15:47:15,2016-02-25 15:47:15,0,0,0,0,0,0

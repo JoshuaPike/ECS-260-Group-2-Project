@@ -1,0 +1,16 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Michael Herzog,michael.herzog@human-interactive.org,0,0,17,1,2015-12-28 02:45:21,2015-12-28 02:45:21,0,0,3,0.46153846153846156,1,0
+anvaka,anvaka@gmail.com,0,0,55,1,2015-12-27 11:36:10,2015-12-27 11:36:10,0,0,0,0,0,0
+gam0022,gam0022@gmail.com,0,0,40,3,2015-12-28 23:14:16,2015-12-30 03:13:08,280.0,21.0,0,0,0,0
+yamahigashi,yamahigashi+github@gmail.com,0,0,36584,4,2015-12-28 23:26:35,2015-12-29 01:14:16,0,0,1,0.6569387052341598,2,193
+mkkellogg,mkkellogg@gmail.com,0,0,9423,2,2015-12-28 02:51:43,2015-12-28 02:53:21,0,0,8,1.009281763411675,2,0
+SUNAG,contact@sunag.com.br,0,0,373,9,2015-12-28 18:52:43,2015-12-30 18:30:12,2611.0,63.0,5,1.0,1,1
+Mr.doob,info@mrdoob.com,1,0,45257,52,2015-12-29 00:12:45,2016-01-07 00:49:39,35199.88888888888,40.44444444444444,37,13.338186877721762,16,-14
+WestLangley,dat1234@gmail.com,0,0,105,2,2015-12-28 15:13:04,2016-01-05 18:46:54,91.875,1.75,4,0.6666666666666666,1,0
+takahiro,hogehoge@gachapin.jp,0,0,60,4,2015-12-28 09:38:56,2016-01-05 14:51:52,52.5,3.5,2,1.4285714285714286,2,-4
+paulmasson,paulmasson@comcast.net,0,0,2,1,2015-12-31 05:33:30,2015-12-31 05:33:30,0,0,0,0,0,0
+tschw,tschwinger@isonews2.com,0,0,3,2,2016-01-01 19:24:39,2016-01-01 19:27:07,0,0,2,1.0,1,0
+Samuel Carlsson,samuel.carlsson@gmail.com,0,0,22,4,2016-01-01 20:57:30,2016-01-02 15:43:19,0,0,1,1.0,1,-1
+makc,makc.the.great@gmail.com,0,0,96,2,2016-01-03 02:58:03,2016-01-03 07:40:32,0,0,2,0,0,6
+centerionware,roguestar191@comcast.net,0,0,80,1,2016-01-03 15:19:21,2016-01-03 15:19:21,0,0,1,0.27586206896551724,1,0
+Patrick Chilton,chpatrick@gmail.com,0,0,26,1,2016-01-05 02:32:05,2016-01-05 02:32:05,0,0,5,0,0,1

@@ -1,0 +1,12 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+ostolop,sheep.gage@gmail.com,0,0,7,2,2015-08-10 15:14:47,2015-08-17 17:09:45,7.0,2.0,1,0,0,0
+Ian Kerr,ikerr@box.com,0,0,28,1,2015-08-10 06:52:39,2015-08-10 06:52:39,0,0,0,0,0,0
+Mr.doob,info@mrdoob.com,0,0,90403,102,2015-08-10 12:49:07,2015-08-19 08:56:40,79102.625,89.25,50,42.76119694827814,49,-132
+Daniel Hritzkiv,daniel.hritzkiv@gmail.com,0,0,1097,10,2015-08-10 23:01:14,2015-08-13 04:50:23,3839.5,35.0,61,5.0,5,0
+neko,neko1235@users.noreply.github.com,0,0,22,1,2015-08-11 17:28:23,2015-08-11 17:28:23,0,0,2,0.875,1,1
+N Halloran,neil@highermedia.com,0,0,3,1,2015-08-12 11:57:51,2015-08-12 11:57:51,0,0,0,0,0,0
+Toni Alatalo,toni@playsign.net,0,0,8,1,2015-08-13 13:16:59,2015-08-13 13:16:59,0,0,0,0,0,0
+Ben Houston,ben@exocortex.com,0,0,21641,5,2015-08-17 10:14:50,2015-08-19 11:37:50,75743.5,17.5,11,0.967741935483871,1,18
+tschw,tschwinger@isonews2.com,0,0,4,2,2015-08-18 23:21:14,2015-08-18 23:21:46,0,0,1,0,0,0
+WestLangley,dat1234@gmail.com#WestLangley@users.noreply.github.com,0,0,208,2,2015-08-19 04:06:43,2015-08-19 10:36:11,0,0,1,1.0,1,1
+rfm1201,rfm1201@laposte.net,0,0,18,1,2015-08-19 18:59:47,2015-08-19 18:59:47,0,0,2,0,0,0

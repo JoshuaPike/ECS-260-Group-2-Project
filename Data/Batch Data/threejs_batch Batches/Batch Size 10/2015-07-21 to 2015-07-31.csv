@@ -1,0 +1,12 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+dubejf,dubejf@gmail.com,0,0,1509,8,2015-07-20 17:49:12,2015-07-25 06:49:53,2640.75,14.0,25,3.935483870967742,5,18
+gero3,jeroen-876@hotmail.com,0,0,10575,7,2015-07-21 10:46:23,2015-07-24 23:37:49,24675.0,16.333333333333336,197,2.312255301412461,4,0
+Mr.doob,info@mrdoob.com,0,0,24105,90,2015-07-21 06:30:37,2015-07-30 14:12:55,18748.333333333332,70.0,24,25.480924836872695,31,-8
+haeric,hakon.erichsen@gmail.com,0,0,18,1,2015-07-21 17:24:07,2015-07-21 17:24:07,0,0,1,0,0,0
+Ben Houston,ben@exocortex.com,0,0,23474,53,2015-07-22 11:05:35,2015-07-30 11:44:17,20539.75,46.375,20,24.567542187525095,30,127
+Jean Carlo Deconto,sunagbrasil@gmail.com,0,0,2954,8,2015-07-22 14:23:44,2015-07-27 12:25:05,5169.5,14.0,4,2.221374045801527,3,4
+Greg Tatum,tatum.creative@gmail.com,0,0,45792,5,2015-07-22 16:32:42,2015-07-28 11:17:38,64108.799999999996,7.0,2,1.0,2,0
+Jarvis Niu,jarvisniu@gmail.com,0,0,2,2,2015-07-25 00:57:29,2015-07-25 00:59:06,0,0,0,0,0,0
+Pim Schreurs,pimschreurs@gmail.com,0,0,28,1,2015-07-24 22:01:24,2015-07-24 22:01:24,0,0,0,0,0,-1
+SET,settydark@gmail.com,0,0,2,1,2015-07-25 21:06:16,2015-07-25 21:06:16,0,0,0,0,0,0
+Pontus Persson,pom@spotify.com,0,0,10,1,2015-07-29 16:09:32,2015-07-29 16:09:32,0,0,0,0,0,0

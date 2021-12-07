@@ -1,0 +1,16 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,1,0,105810,23,2016-06-14 10:25:13,2016-06-20 06:12:16,148134.0,32.199999999999996,13,6.7153284671532845,7,-9
+Ben Houston (Clara.io),ben@exocortex.com,0,0,405,4,2016-06-15 08:09:40,2016-06-17 04:25:28,2835.0,28.0,5,2.0,2,0
+Jaume Sanchez,the.spite@gmail.com,0,0,46,2,2016-06-15 08:10:34,2016-06-16 07:01:03,0,0,0,0,0,0
+Juan Jose Luna Espinosa,yomboprime@users.noreply.github.com,0,0,1975,1,2016-06-16 04:35:19,2016-06-16 04:35:19,0,0,2,0,0,0
+Zhongrui Li,godlzr@gmail.com,0,0,15,1,2016-06-16 04:43:34,2016-06-16 04:43:34,0,0,0,1.0,1,0
+aardgoose,angus.sawyer@gmail.com,0,0,8,2,2016-06-16 04:46:57,2016-06-16 04:48:41,0,0,2,0,0,0
+Junior Rojas,jrojasdavalos@gmail.com,0,0,2,1,2016-06-16 04:57:31,2016-06-16 04:57:31,0,0,0,0,0,0
+David Lyons,david.scott.lyons@gmail.com,0,0,103480,1,2016-06-16 05:01:50,2016-06-16 05:01:50,0,0,0,0,0,0
+sunag,sunagbrasil@gmail.com,0,0,38,2,2016-06-16 05:25:34,2016-06-20 05:35:23,66.5,3.5,1,0,0,0
+Joshua Koo,zz85nus@gmail.com,0,0,1186,2,2016-06-16 05:27:49,2016-06-17 02:11:50,0,0,8,1.2625968992248062,2,40
+makc,makc.the.great@gmail.com,0,0,10,1,2016-06-17 02:58:26,2016-06-17 02:58:26,0,0,0,0,0,0
+Brian Chirls,brian@chirls.com,0,0,4,1,2016-06-17 03:29:42,2016-06-17 03:29:42,0,0,0,0,0,0
+SUNAG,contact@sunag.com.br,0,0,2,1,2016-06-20 05:12:47,2016-06-20 05:12:47,0,0,1,0,0,0
+pandakub,coxjart@gmail.com,0,0,4,1,2016-06-20 05:39:04,2016-06-20 05:39:04,0,0,0,0,0,0
+Yannis Gravezas,wizgrav@gmail.com,0,0,8,1,2016-06-20 05:41:56,2016-06-20 05:41:56,0,0,1,0,0,0

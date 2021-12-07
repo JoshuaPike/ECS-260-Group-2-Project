@@ -1,0 +1,22 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+yomotsu,oyamada@pxgrid.com,0,0,22,1,2015-10-19 21:59:30,2015-10-19 21:59:30,0,0,0,0.1111111111111111,1,0
+Mr.doob,info@mrdoob.com,0,0,51882,172,2015-10-18 21:20:25,2015-10-28 14:48:58,40352.666666666664,133.77777777777777,49,26.387147565106105,31,260
+Mugen87,michael.herzog@human-interactive.org,0,0,150,4,2015-10-19 19:33:54,2015-10-26 01:17:49,175.0,4.666666666666667,4,4.0,4,9
+Ben Houston,ben@exocortex.com,1,0,104832,52,2015-10-19 08:41:34,2015-10-22 06:03:17,366912.0,182.0,4,3.5,4,0
+WestLangley,dat1234@gmail.com,0,0,855,3,2015-10-19 18:02:21,2015-10-27 15:19:55,855.0,3.0,3,1.0357142857142858,2,12
+Daniel,dforrer@gmail.com,0,0,14227,7,2015-10-20 14:51:05,2015-10-22 10:18:12,99589.0,49.0,64,0,0,-12
+Ruofei Du,ruofei@cs.umd.edu,0,0,2,1,2015-10-20 12:35:04,2015-10-20 12:35:04,0,0,0,0,0,0
+Mario Schuettel,github@lxxxvi.ch,0,0,102,2,2015-10-22 11:15:58,2015-10-22 20:39:09,0,0,0,0,0,0
+Shaw,shshaw@gmail.com,0,0,43,4,2015-10-22 06:36:07,2015-10-23 05:46:26,0,0,1,0,0,-1
+tschw,tschwinger@isonews2.com,0,0,10281,33,2015-10-23 00:44:29,2015-10-28 23:32:57,14393.4,46.199999999999996,40,14.490348382993279,17,275
+sjando,sjando@users.noreply.github.com,0,0,16,1,2015-10-23 22:32:43,2015-10-23 22:32:43,0,0,0,0,0,0
+Ando Yasushi,andyjpn@gmail.com,0,0,773,2,2015-10-24 11:44:46,2015-10-25 08:03:28,0,0,1,0.4788732394366197,1,0
+Liam Magee,liam.magee@gmail.com,0,0,78,4,2015-10-24 20:54:04,2015-10-25 22:27:52,546.0,28.0,2,1.2946428571428572,2,3
+Al McElrath,hello@yrns.org,0,0,2,1,2015-10-23 14:13:47,2015-10-23 14:13:47,0,0,1,1.0,1,0
+Jens Arps,mail@jensarps.de,0,0,4,1,2015-10-24 22:09:11,2015-10-24 22:09:11,0,0,1,0,0,0
+mikaelgramont,mgramont@gmail.com,0,0,33,2,2015-10-24 05:12:57,2015-10-25 02:01:52,0,0,0,0.9166666666666666,1,0
+omgitsraven,omgitsraven@gmail.com,0,0,16,7,2015-10-24 15:28:44,2015-10-25 15:13:50,0,0,0,0,0,0
+Oleg Apostol,apostol@yandex-team.ru,0,0,3,1,2015-10-25 20:21:18,2015-10-25 20:21:18,0,0,0,0,0,0
+J Berg,jberg@pepractice.com,0,0,2,1,2015-10-26 07:23:32,2015-10-26 07:23:32,0,0,1,0,0,0
+Joan Leon,joan.leon@gmail.com,0,0,88,1,2015-10-27 11:24:24,2015-10-27 11:24:24,0,0,0,0,0,0
+paulmasson,paulmasson@comcast.net,0,0,2,1,2015-10-27 05:35:35,2015-10-27 05:35:35,0,0,0,0,0,0

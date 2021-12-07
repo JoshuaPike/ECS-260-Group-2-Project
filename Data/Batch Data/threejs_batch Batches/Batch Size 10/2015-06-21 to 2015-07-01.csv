@@ -1,0 +1,16 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+WestLangley,dat1234@gmail.com,0,0,863,8,2015-06-22 02:42:42,2015-06-29 19:54:25,863.0,8.0,10,0.3333333333333333,1,-6
+prafullit,sukhwant.p@samsung.com,0,0,64,4,2015-06-22 22:21:47,2015-06-24 14:05:05,448.0,28.0,3,1.0,1,0
+Neha Agarwal,a.neha@samsung.com,1,0,62681,4,2015-06-22 22:56:55,2015-06-25 19:26:29,219383.5,14.0,0,0,0,0
+Ricardo Cabello,info@mrdoob.com,0,0,1228,21,2015-06-22 14:47:51,2015-06-30 08:55:04,1228.0,21.0,9,0,0,0
+Mr.doob,info@mrdoob.com,0,0,3302,21,2015-06-22 14:54:38,2015-06-30 12:45:57,3302.0,21.0,0,11.24034359034359,14,-5
+Fordy,fordy@smartsparrow.com,0,0,78610,19,2015-06-23 23:42:46,2015-06-30 22:39:01,91711.66666666667,22.166666666666668,9,3.0,4,3
+dubejf,dubejf@users.noreply.github.com#dubejf@gmail.com,0,0,107,3,2015-06-22 20:36:04,2015-06-29 20:51:58,107.0,3.0,12,1.0,1,0
+Vitaly Ovchinnikov,vitaly.ovchinnikov@gmail.com,0,0,31,2,2015-06-24 05:12:58,2015-06-24 05:12:58,0,0,0,2.0,2,0
+hena-3,agarwal.neha3@gmail.com,0,0,2133,3,2015-06-23 17:23:12,2015-06-23 18:22:22,0,0,4,1.0,1,0
+gero3,jeroen-876@hotmail.com,0,0,8,1,2015-06-23 21:20:16,2015-06-23 21:20:16,0,0,1,1.0,1,0
+Elisée,elisee@sparklinlabs.com,0,0,4,2,2015-06-24 13:43:43,2015-06-24 13:51:02,0,0,1,0,0,0
+Chen Pang,chen.pang@autodesk.com,0,0,23,1,2015-06-25 09:23:17,2015-06-25 09:23:17,0,0,0,0,0,0
+Amir Ebrahimi,github@aebrahimi.com,0,0,1,1,2015-06-26 04:51:43,2015-06-26 04:51:43,0,0,0,0,0,0
+Jeremy Bernier,jeremy.s.bernier@gmail.com,0,0,16,1,2015-06-27 13:57:52,2015-06-27 13:57:52,0,0,1,0,0,0
+Markus Lanner,contact@markus-lanner.com,0,0,56,1,2015-06-29 21:46:27,2015-06-29 21:46:27,0,0,2,0.45161290322580644,1,0

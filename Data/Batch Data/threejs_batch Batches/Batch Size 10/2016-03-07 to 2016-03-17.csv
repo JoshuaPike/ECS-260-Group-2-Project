@@ -1,0 +1,17 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ben Houston,ben@exocortex.com,0,0,526,25,2016-03-06 15:21:20,2016-03-14 11:22:40,526.0,25.0,9,3.0,3,3
+Mr.doob,info@mrdoob.com,1,0,27134,83,2016-03-07 07:59:01,2016-03-16 16:46:18,21104.22222222222,64.55555555555556,34,13.539661319073083,16,60
+Mugen87,michael.herzog@human-interactive.org,0,0,644,12,2016-03-07 15:24:22,2016-03-15 23:38:16,563.5,10.5,15,3.924653405666064,5,28
+Sagar Dwibhashyam,dvenkatsagar@gmail.com,0,0,233,1,2016-03-07 05:54:26,2016-03-07 05:54:26,0,0,1,0,0,-1
+gero3,gero3@users.noreply.github.com,0,0,47,3,2016-03-07 19:51:12,2016-03-07 22:54:44,0,0,0,0,0,0
+Tony Parisi,tparisi@gmail.com,0,0,18972,1,2016-03-07 06:45:50,2016-03-07 06:45:50,0,0,6,0.5800524934383202,1,31
+WestLangley,dat1234@gmail.com#WestLangley@users.noreply.github.com,0,0,32,4,2016-03-09 17:24:39,2016-03-15 19:47:51,37.333333333333336,4.666666666666667,1,1.0,1,0
+Christopher Van,cvan@mozilla.com,0,0,14,1,2016-03-09 14:37:59,2016-03-09 14:37:59,0,0,0,0,0,0
+michael,insominx@yahoo.com,0,0,30,1,2016-03-10 03:46:15,2016-03-10 03:46:15,0,0,0,0,0,0
+Jesse van den Kieboom,jkieboom@esri.com,0,0,3,1,2016-03-12 10:34:44,2016-03-12 10:34:44,0,0,0,1.0,1,0
+yomotsu,oyamada@pxgrid.com,0,0,11,1,2016-03-15 09:33:17,2016-03-15 09:33:17,0,0,2,0,0,0
+Valentin Demeusy,valentin.demeusy@gmail.com,0,0,36889,2,2016-03-14 12:58:09,2016-03-14 13:01:18,0,0,4,0.40602409638554215,1,42
+Reece Lecrivain,reece@amentrix.com,0,0,295,9,2016-03-15 12:58:00,2016-03-16 23:21:18,2065.0,63.0,3,3.0,3,0
+Sébastien Valette,sebastien.valette@creatis.insa-lyon.fr,0,0,2,1,2016-03-16 11:36:40,2016-03-16 11:36:40,0,0,1,0,0,0
+Ben Jenkinson,ben@benjenkinson.com,0,0,3,1,2016-03-16 11:37:14,2016-03-16 11:37:14,0,0,0,0,0,0
+Jaume Sanchez,the.spite@gmail.com,0,0,41528,1,2016-03-16 23:35:18,2016-03-16 23:35:18,0,0,0,0,0,0
