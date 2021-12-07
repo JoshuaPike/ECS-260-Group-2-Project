@@ -1,0 +1,15 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Gary Hsu,garyhsu@microsoft.com,0,0,311730,16,2018-03-25 07:17:44,2018-04-02 09:58:41,272763.75,14.0,4,4.858333333333333,5,1
+Bloadrick,aurelien.feret@viacesi.fr,0,0,143,2,2018-03-26 14:01:37,2018-03-28 18:35:01,500.5,7.0,1,2.0,2,0
+David Catuhe,david.catuhe@live.fr,0,0,1303643,76,2018-03-25 23:57:56,2018-04-03 05:31:47,1140687.625,66.5,37,11.404377357630647,14,47
+Trevor Baron,trbaron@microsoft.com#trevorjbaron@gmail.com,0,0,212940,14,2018-03-26 03:42:48,2018-04-02 08:55:21,212940.0,14.0,0,3.0,3,0
+sebavan,vandenberghe.sebastien@gmail.com,0,0,70838,8,2018-03-26 03:49:10,2018-04-03 04:27:42,61983.25,7.0,3,0,0,0
+Kacey Coley,kcoley@users.noreply.github.com,0,0,60,2,2018-03-26 04:46:13,2018-03-26 07:01:28,0,0,0,0,0,0
+sebastien,vandenberghe.sebastien@gmail.com,0,0,21,4,2018-03-26 13:25:27,2018-04-03 02:02:09,21.0,4.0,0,2.0,2,0
+MackeyK24,MackeyK24@gmail.com,0,0,611945,6,2018-03-26 15:10:48,2018-04-02 07:42:08,713935.8333333334,7.0,0,1.0,1,0
+Julien MOREAU-MATHIS,moreau-mathis@intechinfo.fr,0,0,377,11,2018-03-28 03:22:38,2018-04-01 20:43:27,659.75,19.25,0,1.8888888888888888,2,0
+Raanan Weber,info@raananweber.com#raananw+github@gmail.com,0,0,289713,19,2018-03-28 14:17:56,2018-04-02 14:51:00,405598.2,26.599999999999998,8,2.3704870134922738,3,3561
+Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,0,0,237468,9,2018-03-28 09:22:18,2018-04-03 09:50:16,277046.0,10.5,0,1.0442459493144993,2,-3
+Guide,babylonjsguide@gmail.com,0,0,599,2,2018-04-03 16:49:48,2018-04-03 17:02:17,0,0,0,0,0,0
+Ben Adams,thundercat@illyriad.co.uk,0,0,5,1,2018-04-03 19:10:24,2018-04-03 19:10:24,0,0,0,0,0,0
+Katrina Cruz,kacruz@microsoft.com,0,0,21,2,2018-04-03 03:49:07,2018-04-03 04:15:09,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Gary Hsu,garyhsu@microsoft.com,1,1,318,3,2017-11-13 09:46:16,2017-11-13 10:01:21,0,0,1,2.0,2,0
+Julian,temechon@gmail.com,1,1,792,3,2017-11-14 10:46:21,2017-11-14 11:58:41,0,0,1,0,0,-21
+jbousquie,jerome@bousquie.fr,1,1,85,3,2017-11-14 10:51:34,2017-11-14 12:21:33,0,0,0,0,0,0

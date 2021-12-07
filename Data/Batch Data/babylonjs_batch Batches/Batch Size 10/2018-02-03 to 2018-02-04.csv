@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Trevor Baron,trevorjbaron@gmail.com,1,1,2,1,2018-02-02 09:02:15,2018-02-02 09:02:15,0,0,0,0,0,0
+Gary Hsu,garyhsu@microsoft.com,1,1,315,3,2018-02-04 02:56:22,2018-02-04 08:03:24,0,0,0,1.8181818181818183,2,0
+David Catuhe,david.catuhe@live.fr,1,1,315,2,2018-02-04 08:39:24,2018-02-04 08:42:45,0,0,0,0,0,0

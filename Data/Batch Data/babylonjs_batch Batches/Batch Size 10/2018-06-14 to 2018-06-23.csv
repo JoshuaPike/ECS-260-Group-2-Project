@@ -1,0 +1,17 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+David Catuhe,david.catuhe@live.fr,0,0,717243,51,2018-06-14 09:51:24,2018-06-22 09:41:26,717243.0,51.0,9,7.7976134691741965,12,-64
+Trevor Baron,trbaron@microsoft.com#trevorjbaron@gmail.com,0,0,32445,27,2018-06-14 10:06:49,2018-06-22 03:24:19,32445.0,27.0,0,10.069254658385093,14,0
+ssaket,contact@saketsaurabh.me,0,0,336,2,2018-06-15 23:03:48,2018-06-19 04:03:25,784.0,4.666666666666667,0,1.0,1,0
+Agustin Mendez,agustin.mz.92@gmail.com,0,0,54592,3,2018-06-15 07:42:51,2018-06-15 08:13:03,0,0,0,0,0,0
+Raanan Weber,info@raananweber.com#raananw+github@gmail.com,0,0,137565,42,2018-06-15 19:37:56,2018-06-22 19:27:42,160492.5,49.0,1,6.3332046729452935,9,9
+Kacey Coley,kcoley@users.noreply.github.com#kcoley@g.clemson.edu,0,0,3032,7,2018-06-15 03:58:23,2018-06-21 04:46:39,3537.3333333333335,8.166666666666668,1,2.206896551724138,3,0
+sebastien,vandenberghe.sebastien@gmail.com,0,0,323608,7,2018-06-16 03:38:32,2018-06-16 09:15:09,0,0,8,0.5,1,0
+sebavan,vandenberghe.sebastien@gmail.com,0,0,412294,18,2018-06-16 03:52:33,2018-06-20 05:19:37,721514.5,31.5,0,0,0,0
+Deltakosh,david.catuhe@live.fr,0,0,50,1,2018-06-18 02:13:51,2018-06-18 02:13:51,0,0,0,0,0,0
+Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,0,0,58165,3,2018-06-18 04:31:53,2018-06-20 05:18:23,203577.5,10.5,0,1.0825054182921543,2,6
+Gary Hsu,garyhsu@microsoft.com,0,0,50,3,2018-06-18 07:15:26,2018-06-20 02:25:45,350.0,21.0,0,0,0,0
+Taton Sven,sven.taton@versusmind.eu,0,0,18,4,2018-06-20 12:10:05,2018-06-20 13:12:19,0,0,0,0,0,0
+Nicolas,buecher.nicolas@gmail.com,0,0,7,3,2018-06-20 21:52:27,2018-06-21 16:51:12,0,0,0,0,0,0
+Julien MOREAU-MATHIS,moreau-mathis@intechinfo.fr,0,0,31,2,2018-06-21 01:13:20,2018-06-21 01:23:02,0,0,0,0,0,0
+Kalpesh Deepak,kalpesh[dot]deepak@ymail.com,0,0,19,2,2018-06-21 19:08:55,2018-06-21 19:17:38,0,0,0,1.0,1,0
+David Rousset,davrous@microsoft.com,0,0,4,1,2018-06-22 20:00:59,2018-06-22 20:00:59,0,0,0,0,0,0

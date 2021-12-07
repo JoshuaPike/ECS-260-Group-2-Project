@@ -128,8 +128,8 @@ def mine(repoPath, lang, start, end, repoName, batchSize):
         if not os.path.exists(dir_name):
             os.mkdir(dir_name)
 
-        log_filename = dir_name + '/' + nameOfRepo +'.log'
-        logging.basicConfig(filename=log_filename, encoding='utf-8', level=logging.ERROR)
+        # log_filename = dir_name + '/' + nameOfRepo +'.log'
+        # logging.basicConfig(filename=log_filename, encoding='utf-8', level=logging.ERROR)
 
         batch_start_date = start_date
         batch_end_date = start_date + batch_size

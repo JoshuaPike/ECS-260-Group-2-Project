@@ -1,0 +1,3 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Max Limper,max.limper@igd.fraunhofer.de,1,1,48715,4,2018-02-07 21:44:26,2018-02-07 22:19:25,0,0,0,0,0,0
+David Catuhe,david.catuhe@live.fr,1,1,98,1,2018-02-07 05:21:27,2018-02-07 05:21:27,0,0,0,0,0,0

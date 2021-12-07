@@ -1,0 +1,13 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+sebastien,vandenberghe.sebastien@gmail.com,0,0,135720,3,2018-03-14 13:51:56,2018-03-23 14:21:56,105559.99999999999,2.333333333333333,4,1.9285714285714286,2,20
+Gary Hsu,garyhsu@microsoft.com,0,0,373,3,2018-03-14 16:21:11,2018-03-21 02:16:45,435.1666666666667,3.5,1,1.78125,2,1
+Raanan Weber,info@raananweber.com#raananw+github@gmail.com,0,0,1394953,68,2018-03-15 11:41:24,2018-03-25 00:04:36,1084963.4444444443,52.888888888888886,12,20.4362339790806,24,-215
+David Rousset,davrous@microsoft.com,0,0,322,3,2018-03-15 14:58:10,2018-03-15 17:35:56,0,0,0,1.0,1,0
+David Catuhe,david.catuhe@live.fr,0,0,1952242,50,2018-03-14 23:43:33,2018-03-24 07:29:51,1518410.4444444443,38.888888888888886,32,14.839103633941615,19,-7239
+Trevor Baron,trevorjbaron@gmail.com#trbaron@microsoft.com,0,0,1888723,25,2018-03-15 03:16:00,2018-03-23 07:45:46,1652632.625,21.875,0,7.4399999999999995,8,0
+Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,0,0,158710,3,2018-03-16 07:55:16,2018-03-21 10:35:10,222194.0,4.2,0,0.26732673267326734,1,-5
+MackeyK24,MackeyK24@gmail.com,0,0,941035,1,2018-03-16 07:41:42,2018-03-16 07:41:42,0,0,0,0,0,0
+sebavan,vandenberghe.sebastien@gmail.com,0,0,56507,4,2018-03-18 16:30:14,2018-03-23 10:10:43,98887.25,7.0,0,0,0,0
+Borut,bobalazek124@gmail.com,0,0,67201,9,2018-03-21 16:45:59,2018-03-22 21:53:57,470407.0,63.0,0,0,0,0
+Guide,babylonjsguide@gmail.com,0,0,295617,10,2018-03-21 16:12:24,2018-03-23 15:22:50,2069319.0,70.0,0,0,0,0
+V!nc3r,Vinc3r@users.noreply.github.com,0,0,15,1,2018-03-23 13:04:56,2018-03-23 13:04:56,0,0,0,0,0,0

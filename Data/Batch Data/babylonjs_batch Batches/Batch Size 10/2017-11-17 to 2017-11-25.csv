@@ -1,0 +1,19 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+David Rousset,davrous@microsoft.com,0,0,388027,12,2017-11-18 00:18:08,2017-11-23 20:27:14,543237.7999999999,16.8,0,1.4901842647438093,4,25
+Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,0,0,68271,7,2017-11-17 07:17:53,2017-11-24 05:18:34,79649.5,8.166666666666668,0,1.5803782505910164,3,9
+David Catuhe,david.catuhe@live.fr,0,0,317746,45,2017-11-17 08:42:53,2017-11-22 07:41:49,556055.5,78.75,25,7.9418078963245025,9,31
+Fabian Iwand,mootari@users.noreply.github.com,0,0,2,1,2017-11-19 02:17:28,2017-11-19 02:17:28,0,0,0,0,0,0
+MackeyK24,MackeyK24@gmail.com,0,0,12,1,2017-11-18 16:09:41,2017-11-18 16:09:41,0,0,0,1.0,1,0
+Cubees,cubees.babylon@gmail.com,0,0,74398,5,2017-11-19 14:57:53,2017-11-23 13:02:01,173595.33333333334,11.666666666666668,1,1.5223880597014925,2,1
+Temechon,temechon@gmail.com,0,0,1367,5,2017-11-19 21:02:36,2017-11-21 23:19:01,4784.5,17.5,1,1.0,1,1
+Borut,bobalazek124@gmail.com,0,0,240066,21,2017-11-19 21:36:53,2017-11-24 21:38:48,336092.39999999997,29.4,0,7.795454545454545,8,0
+Ben Adams,thundercat@illyriad.co.uk,0,0,272,7,2017-11-20 11:49:03,2017-11-20 17:41:53,0,0,0,1.176470588235294,2,0
+Raanan Weber,info@raananweber.com#raananw+github@gmail.com,0,0,76530,14,2017-11-20 16:59:05,2017-11-24 18:55:24,133927.5,24.5,1,0.7297915607524148,2,26
+pierre,pierre.lespingal@gmail.com,0,0,4,1,2017-11-20 17:54:43,2017-11-20 17:54:43,0,0,0,0,0,0
+Trevor Baron,trbaron@microsoft.com,0,0,33,3,2017-11-20 03:25:30,2017-11-22 09:30:30,115.5,10.5,0,0,0,0
+Adam Bowman,abowman@gmail.com,0,0,136,6,2017-11-20 13:07:36,2017-11-21 14:43:49,952.0,42.0,0,0,0,0
+Andrew Butt,Pryme8@gmail.com,0,0,28,2,2017-11-21 03:05:31,2017-11-21 05:06:08,0,0,0,0,0,0
+jbousquie,jerome@bousquie.fr,0,0,11,1,2017-11-22 10:49:45,2017-11-22 10:49:45,0,0,0,1.0,1,0
+Borut Balazek,bobalazek124@gmail.com,0,0,11375,2,2017-11-22 11:09:42,2017-11-23 13:45:34,79625.0,14.0,0,0,0,0
+QuentinRillet,quentin.rillet@gmail.com,0,0,10,2,2017-11-23 16:44:53,2017-11-23 16:45:14,0,0,0,0,0,0
+sebavan,vandenberghe.sebastien@gmail.com,0,0,41567,3,2017-11-23 03:49:33,2017-11-24 05:21:00,290969.0,21.0,0,0,0,0

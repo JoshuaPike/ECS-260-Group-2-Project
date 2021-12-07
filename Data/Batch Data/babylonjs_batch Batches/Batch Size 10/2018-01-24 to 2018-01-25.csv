@@ -1,0 +1,12 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+David Catuhe,david.catuhe@live.fr,1,1,69713,4,2018-01-24 05:23:39,2018-01-24 23:04:17,0,0,0,0,0,0
+Trevor Baron,trbaron@microsoft.com#trevorjbaron@gmail.com,1,1,52720,6,2018-01-24 05:34:56,2018-01-24 08:39:59,0,0,0,1.0,1,0
+lostink,94bluefire@gmail.com,1,1,21,1,2018-01-24 16:37:41,2018-01-24 16:37:41,0,0,0,0,0,0
+sebavan,vandenberghe.sebastien@gmail.com,1,1,628,2,2018-01-24 06:11:32,2018-01-24 06:11:54,0,0,0,0,0,0
+Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,1,1,16008,3,2018-01-24 06:16:42,2018-01-24 10:23:14,0,0,0,0,0,0
+Gary Hsu,bghgary@users.noreply.github.com,1,1,52398,1,2018-01-24 06:22:19,2018-01-24 06:22:19,0,0,0,0,0,0
+MiiBond,MiiBond@users.noreply.github.com,1,1,52877,1,2018-01-24 06:27:22,2018-01-24 06:27:22,0,0,0,0,0,0
+sebastien,vandenberghe.sebastien@gmail.com,1,1,1162,13,2018-01-24 13:07:58,2018-01-24 15:56:08,0,0,0,0,0,0
+Raanan Weber,info@raananweber.com#raananw+github@gmail.com,1,1,48016,13,2018-01-25 13:15:52,2018-01-25 19:46:26,0,0,1,5.304347826086957,6,0
+jbousquie,jerome@bousquie.fr,1,1,31,1,2018-01-25 16:29:28,2018-01-25 16:29:28,0,0,0,0,0,0
+Jérôme Bousquié,jbousquie@users.noreply.github.com,1,1,3,1,2018-01-25 17:05:32,2018-01-25 17:05:32,0,0,0,0,0,0

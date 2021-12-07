@@ -1,0 +1,18 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Kacey Coley,kcoley@users.noreply.github.com,0,0,607,1,2018-04-13 11:11:53,2018-04-13 11:11:53,0,0,0,0,0,0
+Gary Hsu,garyhsu@microsoft.com,0,0,588,8,2018-04-13 11:15:16,2018-04-20 05:18:09,686.0,9.333333333333334,0,4.242105263157895,5,-1
+David Catuhe,david.catuhe@live.fr,0,0,715015,62,2018-04-13 12:06:31,2018-04-22 03:23:58,625638.125,54.25,22,8.452187678810251,11,37
+MackeyK24,MackeyK24@gmail.com,0,0,112688,2,2018-04-13 07:44:30,2018-04-22 11:49:07,87646.22222222222,1.5555555555555554,0,1.0,1,0
+Royi Bernthal,royibernthal@gmail.com,0,0,91605,4,2018-04-14 21:31:51,2018-04-17 19:25:37,320617.5,14.0,0,0,0,0
+finscn,finscn@gmail.com,0,0,4,2,2018-04-16 19:23:13,2018-04-16 21:19:26,0,0,0,0,0,0
+Raanan Weber,info@raananweber.com#raananw+github@gmail.com,0,0,238033,50,2018-04-16 11:32:29,2018-04-23 17:48:03,238033.0,50.0,8,18.037556250135808,23,61
+Vinc3r,Vinc3r@users.noreply.github.com,0,0,0,2,2018-04-16 16:08:47,2018-04-16 16:09:58,0,0,0,0,0,0
+V!nc3r,Vinc3r@users.noreply.github.com,0,0,0,2,2018-04-17 22:50:22,2018-04-17 23:03:07,0,0,0,0,0,0
+Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,0,0,419009,21,2018-04-18 09:24:05,2018-04-23 08:41:58,733265.75,36.75,2,5.847528707341835,8,-158
+sebastien,vandenberghe.sebastien@gmail.com,0,0,200441,11,2018-04-19 03:46:58,2018-04-20 16:45:44,1403087.0,77.0,0,2.523144440602078,5,0
+sebavan,vandenberghe.sebastien@gmail.com,0,0,421509,18,2018-04-19 15:29:10,2018-04-23 09:23:24,983521.0,42.0,0,0,0,0
+Rémi Louvat,remi.louvat@hotmail.com,0,0,99088,7,2018-04-20 18:48:57,2018-04-23 17:14:12,346808.0,24.5,1,1.9290322580645163,2,15
+Guide,babylonjsguide@gmail.com,0,0,30347,3,2018-04-20 16:08:24,2018-04-20 16:13:21,0,0,0,0,0,0
+Trevor Baron,trbaron@microsoft.com#trevorjbaron@gmail.com,0,0,50,2,2018-04-20 10:32:38,2018-04-23 06:57:30,175.0,7.0,0,0.9,1,0
+Julien MOREAU-MATHIS,moreau-mathis@intechinfo.fr,0,0,84,3,2018-04-22 20:11:10,2018-04-22 20:35:20,0,0,0,1.0,1,0
+Saurabh Bhatia,saurabh@microsoft.com,0,0,22,5,2018-04-23 07:40:28,2018-04-23 09:06:41,0,0,0,0,0,0

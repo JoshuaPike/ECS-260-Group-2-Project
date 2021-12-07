@@ -1,0 +1,7 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Raanan Weber,info@raananweber.com,1,1,18269,3,2017-11-30 18:11:11,2017-11-30 20:17:38,0,0,4,0.6666666666666666,1,1
+Trevor Baron,trbaron@microsoft.com,1,1,16,1,2017-11-30 03:13:22,2017-11-30 03:13:22,0,0,0,0,0,0
+sebavan,vandenberghe.sebastien@gmail.com,1,1,65109,7,2017-11-30 03:23:08,2017-11-30 08:35:43,0,0,7,0,0,0
+Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,1,1,23312,5,2017-11-30 03:29:17,2017-11-30 14:46:50,0,0,0,0,0,0
+Gary Hsu,garyhsu@microsoft.com,1,1,109,1,2017-11-30 04:36:53,2017-11-30 04:36:53,0,0,0,1.0,1,0
+David Rousset,davrous@microsoft.com,1,1,41952,3,2017-11-30 23:14:29,2017-11-30 23:33:52,0,0,0,0.7586206896551724,1,0

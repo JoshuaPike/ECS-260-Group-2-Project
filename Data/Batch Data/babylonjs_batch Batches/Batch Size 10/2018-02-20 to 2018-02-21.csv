@@ -1,0 +1,2 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Trevor Baron,trbaron@microsoft.com,1,1,26,3,2018-02-20 07:15:47,2018-02-20 09:57:08,0,0,0,0,0,0

@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+sebastien,vandenberghe.sebastien@gmail.com,1,1,189547,5,2018-01-15 07:17:56,2018-01-16 01:29:27,0,0,3,1.0,1,1
+Raanan Weber,raananw+github@gmail.com,1,1,189290,1,2018-01-16 09:41:11,2018-01-16 09:41:11,0,0,0,0,0,0
+pixelscommander,digitalarchitects,1,1,46,1,2018-01-16 11:22:55,2018-01-16 11:22:55,0,0,0,1.0,1,0
+Jean-Philippe Côté,jp@cote.cc,1,1,15,2,2018-01-16 05:01:38,2018-01-16 05:38:18,0,0,0,0,0,0

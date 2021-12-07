@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+sebastien,vandenberghe.sebastien@gmail.com,1,1,75,2,2018-01-19 17:01:47,2018-01-19 18:05:16,0,0,1,2.0,2,4
+MackeyK24,MackeyK24@gmail.com,1,1,309899,1,2018-01-20 17:38:21,2018-01-20 17:38:21,0,0,0,0,0,0
+Raanan Weber,info@raananweber.com,1,1,128,7,2018-01-22 13:04:56,2018-01-22 18:18:59,0,0,1,4.0588235294117645,5,0
+David Catuhe,david.catuhe@live.fr,1,1,28,1,2018-01-21 22:06:38,2018-01-21 22:06:38,0,0,0,0,0,0

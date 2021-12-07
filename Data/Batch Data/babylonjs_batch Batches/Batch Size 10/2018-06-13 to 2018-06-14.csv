@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+David Catuhe,david.catuhe@live.fr,1,1,33876,1,2018-06-13 09:49:14,2018-06-13 09:49:14,0,0,0,0,0,0
+kalpesh.awathare,kalpesh@decorasystems.com,1,1,5,1,2018-06-14 18:46:30,2018-06-14 18:46:30,0,0,0,0,0,0
+Raanan Weber,info@raananweber.com#raananw+github@gmail.com,1,1,46,3,2018-06-14 12:18:11,2018-06-14 14:47:45,0,0,0,0,0,0

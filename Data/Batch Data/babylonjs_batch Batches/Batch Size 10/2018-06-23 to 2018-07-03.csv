@@ -1,0 +1,12 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Trevor Baron,trbaron@microsoft.com#trevorjbaron@gmail.com,0,0,91781,24,2018-06-22 10:20:37,2018-07-02 06:22:27,71385.22222222222,18.666666666666664,0,2.7384937238493725,4,0
+David Catuhe,david.catuhe@live.fr#david.catuhe@Live.fr,0,0,2302863,64,2018-06-25 02:38:47,2018-07-02 09:35:09,2302863.0,64.0,24,9.946734989169174,15,-14192
+Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,0,0,718496,13,2018-06-25 03:21:29,2018-06-27 12:02:42,2514736.0,45.5,0,2.0,2,56
+sebastien,vandenberghe.sebastien@gmail.com,0,0,87345,10,2018-06-25 16:12:38,2018-06-29 11:35:40,203805.0,23.333333333333336,0,4.0,4,0
+Raanan Weber,raananw+github@gmail.com#info@raananweber.com,0,0,509554,20,2018-06-26 16:06:08,2018-07-02 16:59:27,594479.6666666667,23.333333333333336,0,6.0,6,0
+Gary Hsu,garyhsu@microsoft.com,0,0,482828,12,2018-06-26 07:38:51,2018-07-02 06:22:37,675959.2,16.8,1,2.935064935064935,3,0
+Julien Hamaide,julien.hamaide@gmail.com,0,0,11,1,2018-06-27 01:50:41,2018-06-27 01:50:41,0,0,0,0,0,0
+quocsinh,quocsinh82@gmail.com,0,0,11,1,2018-06-28 06:38:14,2018-06-28 06:38:14,0,0,0,0,0,0
+Kacey Coley,kcoley@users.noreply.github.com,0,0,19,1,2018-06-27 06:28:51,2018-06-27 06:28:51,0,0,0,1.0,1,0
+sebavan,vandenberghe.sebastien@gmail.com,0,0,143493,4,2018-06-27 12:03:14,2018-06-29 12:43:03,502225.5,14.0,0,0,0,0
+fmmoret,fmmoret2@gmail.com,0,0,50,4,2018-06-29 14:45:46,2018-06-30 09:22:47,0,0,0,1.0,1,0

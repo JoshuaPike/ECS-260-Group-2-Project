@@ -1,0 +1,11 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,0,0,188,1,2018-01-05 07:51:02,2018-01-05 07:51:02,0,0,4,1.0,1,-13
+sebavan,vandenberghe.sebastien@gmail.com,0,0,188,1,2018-01-05 07:58:06,2018-01-05 07:58:06,0,0,0,0,0,0
+David Catuhe,david.catuhe@live.fr,1,1,202461,9,2018-01-05 08:01:06,2018-01-08 01:29:46,708613.5,31.5,0,0,0,0
+Xu Chen,xuchen126@gmail.com,0,0,2,1,2018-01-06 17:00:00,2018-01-06 17:00:00,0,0,0,0,0,0
+Trevor Baron,trbaron@microsoft.com,0,0,44729,2,2018-01-05 09:21:14,2018-01-05 09:23:23,0,0,0,1.0,1,0
+Adam Bowman,abowman@gmail.com,0,0,10,1,2018-01-07 05:15:44,2018-01-07 05:15:44,0,0,0,0,0,0
+MackeyK24,MackeyK24@gmail.com,0,0,323879,1,2018-01-07 05:21:32,2018-01-07 05:21:32,0,0,0,0,0,0
+Carlos Landeras Martínez,clanderas@plainconcepts.com,0,0,54,3,2018-01-08 10:31:53,2018-01-08 19:13:49,0,0,0,0,0,0
+Raanan Weber,info@raananweber.com#raananw+github@gmail.com,0,0,242391,12,2018-01-08 11:37:24,2018-01-08 19:25:41,0,0,141,3.443982343193728,4,7086
+Carlos Landeras,carlos.landeras@gmail.com,0,0,9,1,2018-01-08 13:19:13,2018-01-08 13:19:13,0,0,0,0,0,0

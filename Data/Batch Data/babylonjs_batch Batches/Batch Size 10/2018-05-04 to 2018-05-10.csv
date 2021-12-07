@@ -1,0 +1,10 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Szeyin Lee,szlee@microsoft.com,0,0,10,2,2018-05-03 10:03:56,2018-05-03 10:09:13,0,0,0,0,0,0
+David Catuhe,david.catuhe@live.fr,0,0,260721,18,2018-05-03 10:14:34,2018-05-10 06:42:13,304174.5,21.0,11,3.4677039848197344,4,103
+sebastien,vandenberghe.sebastien@gmail.com,0,0,80558,6,2018-05-03 12:00:43,2018-05-08 15:53:28,112781.2,8.4,2,2.8779342723004695,3,14
+sebavan,vandenberghe.sebastien@gmail.com,0,0,60754,2,2018-05-03 12:02:07,2018-05-05 11:17:32,425278.0,14.0,0,0,0,0
+Raanan Weber,info@raananweber.com#raananw+github@gmail.com,0,0,71748,30,2018-05-04 14:12:10,2018-05-09 14:13:38,100447.2,42.0,2,11.482758620689655,12,5
+Gary Hsu,garyhsu@microsoft.com,0,0,127,1,2018-05-04 07:53:38,2018-05-04 07:53:38,0,0,0,1.0,1,0
+Christopher Yovanovitch,yovano_c@outlook.com,0,0,1023217,4,2018-05-05 14:33:54,2018-05-11 00:44:39,1432503.8,5.6,49,0.9825691337110182,2,-14649
+Trevor Baron,trevorjbaron@gmail.com#trbaron@microsoft.com,0,0,998086,5,2018-05-05 10:03:43,2018-05-10 06:36:22,1746650.5,8.75,1,1.4,2,2
+Eddie Willett,edwill@microsoft.com,0,0,1,1,2018-05-09 03:15:30,2018-05-09 03:15:30,0,0,0,0,0,0

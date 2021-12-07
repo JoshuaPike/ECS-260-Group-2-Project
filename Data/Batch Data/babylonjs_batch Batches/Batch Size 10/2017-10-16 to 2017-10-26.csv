@@ -1,0 +1,13 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+David Catuhe,david.catuhe@live.fr#david.catuhe@Live.fr,0,0,1699116,64,2017-10-16 04:02:01,2017-10-25 09:27:37,1321534.6666666665,49.77777777777777,61,8.313343860795467,16,-65
+jbousquie,jerome@bousquie.fr,0,0,75,4,2017-10-17 11:05:16,2017-10-23 16:01:27,87.5,4.666666666666667,0,0,0,0
+Jérôme Bousquié,jbousquie@users.noreply.github.com,0,0,1,1,2017-10-17 11:17:08,2017-10-17 11:17:08,0,0,0,0,0,0
+Raanan Weber,info@raananweber.com#raananw+github@gmail.com,0,0,763022,52,2017-10-17 19:47:21,2017-10-25 16:45:38,763022.0,52.0,4,11.765693860826417,18,5153
+Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,0,0,33308,5,2017-10-18 03:02:59,2017-10-25 09:00:51,33308.0,5.0,4,1.233206470028544,2,90
+sebavan,vandenberghe.sebastien@gmail.com,0,0,32936,2,2017-10-18 03:03:48,2017-10-25 08:36:56,32936.0,2.0,0,0,0,0
+Adina Shanholtz,ashanhol@gmail.com,0,0,2,1,2017-10-18 10:39:45,2017-10-18 10:39:45,0,0,0,0,0,0
+Lewis Weaver,leweaver@microsoft.com,0,0,0,1,2017-10-18 04:55:36,2017-10-18 04:55:36,0,0,0,0,0,0
+Gary Hsu,garyhsu@microsoft.com,0,0,734,7,2017-10-18 09:38:46,2017-10-25 09:13:58,856.3333333333334,8.166666666666668,0,2.5,3,0
+David Rousset,davrous@microsoft.com,0,0,88370,2,2017-10-20 20:46:20,2017-10-20 21:01:37,0,0,0,0,0,-6
+MackeyK24,MackeyK24@gmail.com,0,0,381742,2,2017-10-21 11:05:16,2017-10-22 16:29:52,2672194.0,14.0,0,0,0,0
+noalak,tambrun.fabrice@gmail.com,0,0,218029,5,2017-10-24 16:17:24,2017-10-25 14:10:28,0,0,1,0.5,1,2

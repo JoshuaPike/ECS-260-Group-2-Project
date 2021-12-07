@@ -1,0 +1,3 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+David Catuhe,david.catuhe@live.fr,1,1,900,1,2017-11-13 22:39:28,2017-11-13 22:39:28,0,0,0,0,0,0
+David Rousset,davrous@microsoft.com,1,1,1286,1,2017-11-14 16:39:34,2017-11-14 16:39:34,0,0,0,0,0,0

@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Michael Schlotfeldt,michael@plaudit.com,1,1,23,2,2017-12-31 07:21:54,2017-12-31 08:53:14,0,0,0,0,0,0
+Jean Philippe,jeanphilippe02666592@outlook.fr,1,1,190,1,2017-12-31 19:04:11,2017-12-31 19:04:11,0,0,0,1.0,1,0
+Jacob Ferrero,jacobaferrero@gmail.com,1,1,8,1,2018-01-01 07:34:06,2018-01-01 07:34:06,0,0,0,0,0,0
+Raanan Weber,info@raananweber.com,1,1,615,3,2018-01-02 13:58:15,2018-01-02 18:52:05,0,0,3,1.8708015522547838,3,1

@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+David Catuhe,david.catuhe@live.fr,1,1,313642,8,2018-04-04 09:02:35,2018-04-05 07:43:54,0,0,25,1.8837209302325582,2,0
+Gary Hsu,garyhsu@microsoft.com,1,1,76929,2,2018-04-05 06:20:08,2018-04-05 06:21:07,0,0,1,0,0,0
+Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,1,1,12905,1,2018-04-05 06:26:43,2018-04-05 06:26:43,0,0,1,1.0,1,0
