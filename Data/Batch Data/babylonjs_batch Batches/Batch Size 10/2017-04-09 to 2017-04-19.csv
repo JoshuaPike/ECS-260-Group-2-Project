@@ -1,0 +1,15 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+David Catuhe,david.catuhe@Live.fr#david.catuhe@live.fr,0,0,199563,59,2017-04-08 10:53:24,2017-04-18 01:40:52,155215.66666666666,45.888888888888886,14,17.254347560300875,21,261
+Saurabh Bhatia,saurabh@microsoft.com,0,0,76,5,2017-04-08 16:07:47,2017-04-11 07:34:02,266.0,17.5,0,0.2682926829268293,1,2
+Adam Bowman,abowman@gmail.com,0,0,67,1,2017-04-09 18:24:14,2017-04-09 18:24:14,0,0,0,0,0,0
+Jaskar,anthony.gee@live.fr,0,0,41166,8,2017-04-10 10:46:08,2017-04-18 12:48:12,36020.25,7.0,2,4.0,4,-1
+Julian,temechon@gmail.com,0,0,31,1,2017-04-10 10:56:53,2017-04-10 10:56:53,0,0,8,0,0,0
+Temechon,temechon@gmail.com,0,0,17553,23,2017-04-10 11:13:18,2017-04-18 12:38:15,15358.875,20.125,0,5.552712128054594,7,154
+Benjamin Guignabert,bguignabert@wanadev.fr,0,0,455183,31,2017-04-10 13:49:10,2017-04-18 19:40:54,398285.125,27.125,0,4.184705670915475,5,19
+A. Breust,alexis.breust@gmail.com,0,0,2,1,2017-04-10 16:45:11,2017-04-10 16:45:11,0,0,0,0,0,0
+sevan,sevan@SEVANSBP,0,0,16275,4,2017-04-10 09:44:33,2017-04-13 04:21:20,56962.5,14.0,0,0,0,0
+MackeyK24,MackeyK24@gmail.com,0,0,13168,2,2017-04-10 04:30:07,2017-04-10 06:10:16,0,0,0,1.0,1,0
+Raanan Weber,info@raananweber.com,0,0,81,4,2017-04-11 23:58:38,2017-04-17 02:43:37,113.39999999999999,5.6,0,1.0,1,0
+Julien Moreau-Mathis,moreau-mathis@intechinfo.fr,0,0,72,1,2017-04-12 00:08:23,2017-04-12 00:08:23,0,0,23,0,0,0
+Palmer-JC,jeffrey.c.palmer@gmail.com,0,0,126,5,2017-04-11 12:19:58,2017-04-17 11:22:31,176.4,7.0,1,1.5,2,0
+Gary Hsu,garyhsu@microsoft.com,0,0,162512,17,2017-04-11 11:07:12,2017-04-17 10:52:02,227516.8,23.8,0,4.434718051198464,6,8

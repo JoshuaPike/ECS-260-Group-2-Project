@@ -1,0 +1,11 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+NasimiAsl,Nasimiasl@live.com,0,0,2203,9,2017-05-19 13:54:42,2017-05-24 14:36:14,3084.2,12.6,2,1.9646764912151753,3,-2
+sebavan,vandenberghe.sebastien@gmail.com,0,0,277359,20,2017-05-18 15:42:39,2017-05-26 09:58:51,277359.0,20.0,6,0,0,0
+Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,0,0,27403,5,2017-05-18 16:00:12,2017-05-24 03:43:17,38364.2,7.0,0,1.8760866415531732,2,3
+Benjamin Guignabert,bguignabert@wanadev.fr,0,0,351875,8,2017-05-19 18:29:08,2017-05-22 19:33:16,821041.6666666667,18.666666666666668,2,1.9161678239816957,4,12
+Julien Moreau-Mathis,moreau-mathis@intechinfo.fr,0,0,1055,7,2017-05-20 20:16:48,2017-05-23 23:26:12,2461.666666666667,16.333333333333336,3,3.5272108843537415,4,21
+David Catuhe,david.catuhe@live.fr,0,0,37252,15,2017-05-20 21:16:08,2017-05-28 01:32:56,37252.0,15.0,12,1.8812154696132597,2,12
+zhutq,zhutianqian@gmail.com,0,0,63,3,2017-05-21 22:47:03,2017-05-26 00:23:51,110.25,5.25,2,0,0,0
+Saurabh Bhatia,sbtron@users.noreply.github.com,0,0,15,1,2017-05-21 04:30:24,2017-05-21 04:30:24,0,0,0,0,0,0
+sevan,sevan@SEVANSBP,0,0,216019,6,2017-05-24 14:06:47,2017-05-26 09:56:13,1512133.0,42.0,1,1.6,2,2
+Adam Bowman,abowman@gmail.com,0,0,84,5,2017-05-25 13:21:04,2017-05-27 08:00:31,588.0,35.0,0,0,0,0

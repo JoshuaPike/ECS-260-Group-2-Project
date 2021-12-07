@@ -75,26 +75,28 @@ batch_size = timedelta(days=10)
 # timeElapsed = mineEndTime - mineStartTime
 
 # print('Done with WebGL... Process took ' + str(timeElapsed.seconds) + ' seconds')
-print('Starting to mine Babylon.js\n')
-
-# stopped at 2017-06-18
-# date_babylon_stopped_at = datetime(2017, 6, 18, 0, 0, 0)
-# date_babylon_stopped_at_second = datetime(2017, 6, 28, 0, 0, 0)
-date_babylon_stopped_at_second = datetime.fromisoformat('2017-03-30T00:00:00+00:00')
-test_end_date = date_babylon_stopped_at_second + batch_size
-
-mineStartTime = datetime.utcnow()
-mine(localPaths[4], 'JavaScript', date_babylon_stopped_at_second, end_date, 'babylonjs_batch', batch_size)
-# mine(localPaths[4], 'JavaScript', date_babylon_stopped_at_second, test_end_date, 'babylonjs_batch', batch_size)
-mineEndTime = datetime.utcnow()
-timeElapsed = mineEndTime - mineStartTime
-
-print('Done with Babylon.js... Process took ' + str(timeElapsed.seconds) + ' seconds')
-# print('Starting to mine three.js\n')
+# print('Starting to mine Babylon.js\n')
+#
+# # stopped at 2017-06-18
+# # date_babylon_stopped_at = datetime(2017, 6, 18, 0, 0, 0)
+# # date_babylon_stopped_at_second = datetime(2017, 6, 28, 0, 0, 0)
+# date_babylon_stopped_at_second = datetime.fromisoformat('2017-03-30T00:00:00+00:00')
+# test_end_date = date_babylon_stopped_at_second + batch_size
 #
 # mineStartTime = datetime.utcnow()
-# mine(localPaths[5], 'JavaScript', threejs_start, end_date, 'threejs_batch', batch_size)
+# mine(localPaths[4], 'JavaScript', date_babylon_stopped_at_second, end_date, 'babylonjs_batch', batch_size)
+# # mine(localPaths[4], 'JavaScript', date_babylon_stopped_at_second, test_end_date, 'babylonjs_batch', batch_size)
 # mineEndTime = datetime.utcnow()
+# timeElapsed = mineEndTime - mineStartTime
+#
+# print('Done with Babylon.js... Process took ' + str(timeElapsed.seconds) + ' seconds')
+
+# ---------------------- UNCOMMENT BELOW THIS LINE TO MINE DATA FOR THREE.JS ----------------------------------------
+print('Starting to mine three.js\n')
+
+mineStartTime = datetime.utcnow()
+mine(localPaths[5], 'JavaScript', threejs_start, end_date, 'threejs_batch', batch_size)
+mineEndTime = datetime.utcnow()
 
 
 endTime = datetime.utcnow()
@@ -105,8 +107,3 @@ playsound('Okaaayyyyy lets go.mp3')
 
 x = datetime.fromisoformat('2011-11-04T01:00:00+04:00')
 print(x.strftime("%m/%d/%Y"))
-
-
-# x = datetime.fromisoformat('2021-01-01T02:00:00+00:00')
-# y = datetime.fromisoformat('2021-01-01T02:00:00-01:00')
-# print(str(y-x))

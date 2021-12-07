@@ -1,0 +1,12 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+David Catuhe,david.catuhe@live.fr#david.catuhe@Live.fr,0,0,150108,18,2017-05-09 02:46:26,2017-05-17 06:42:00,131344.5,15.75,9,2.891891891891892,3,-12
+Gary Hsu,garyhsu@microsoft.com,0,0,97820,13,2017-05-09 04:40:54,2017-05-11 08:58:46,342370.0,45.5,0,2.5555555555555554,3,0
+Jaskar,anthony.gee@live.fr,0,0,23397,8,2017-05-10 12:06:51,2017-05-10 19:27:33,0,0,2,1.5476190476190477,2,9
+sevan,sevan@SEVANSBP,0,0,7498,2,2017-05-09 19:46:24,2017-05-11 04:38:14,52486.0,14.0,1,0.8676678445229682,1,51
+Temechon,temechon@gmail.com,0,0,1337,3,2017-05-10 17:21:42,2017-05-10 19:28:05,0,0,0,0,0,0
+zhutq,zhutianqian@gmail.com,0,0,43,1,2017-05-12 22:27:23,2017-05-12 22:27:23,0,0,0,0,0,0
+Benjamin Guignabert,bguignabert@wanadev.fr,0,0,136401,12,2017-05-12 18:40:21,2017-05-18 20:48:20,159134.5,14.0,0,6.609840609840609,8,29
+Palmer-JC,jeffrey.c.palmer@gmail.com,0,0,151,1,2017-05-16 09:01:39,2017-05-16 09:01:39,0,0,0,0.2804878048780488,1,0
+Adam Bowman,abowman@gmail.com,0,0,51,2,2017-05-16 14:18:41,2017-05-16 15:33:02,0,0,0,0,0,0
+Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,0,0,231525,9,2017-05-16 10:11:43,2017-05-18 06:44:18,1620675.0,63.0,16,1.8937142311462822,4,1688
+sebavan,vandenberghe.sebastien@gmail.com,0,0,131220,3,2017-05-17 02:48:44,2017-05-17 05:19:17,0,0,0,0,0,0
