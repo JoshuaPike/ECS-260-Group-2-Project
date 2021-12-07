@@ -1,0 +1,15 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,1,0,180785,29,2018-12-28 19:41:21,2019-01-04 01:14:22,210915.83333333334,33.833333333333336,10,2.780703147050522,4,383
+Mugen87,michael.herzog@human-interactive.org,0,0,1039,15,2018-12-28 21:25:19,2019-01-06 21:18:42,909.125,13.125,12,4.3125,5,4
+Brett Alistair Kromkamp,brettkromkamp@gmail.com,0,0,4,1,2019-01-01 09:17:33,2019-01-01 09:17:33,0,0,0,0,0,0
+Olli Etuaho,olli.etuaho@gmail.com,0,0,734,2,2019-01-01 19:09:32,2019-01-01 20:29:25,0,0,7,0,0,0
+Theo Armour,theo-armour@users.noreply.github.com,0,0,2,1,2019-01-01 13:42:12,2019-01-01 13:42:12,0,0,0,0,0,0
+HypnosNova,601670314@qq.com,0,0,926516,2,2019-01-03 04:30:13,2019-01-03 06:25:08,0,0,0,0,0,0
+sunxueqing,sunxueqing@baidu.com,0,0,19,1,2019-01-03 05:10:33,2019-01-03 05:10:33,0,0,0,0,0,0
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,197,5,2019-01-02 13:44:34,2019-01-03 16:13:30,1379.0,35.0,3,1.0,1,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,36,2,2019-01-03 13:30:16,2019-01-03 15:41:30,0,0,0,0,0,0
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,845936,9,2019-01-03 10:52:01,2019-01-04 03:35:03,0,0,2,2.0,2,12
+林炳权,695601626@qq.com,0,0,12,2,2019-01-05 00:52:58,2019-01-05 02:13:20,0,0,1,0,0,0
+Marc-Sefan Cassola,maccesch@gmail.com,0,0,12,3,2019-01-04 12:37:56,2019-01-05 01:38:40,0,0,1,2.0,2,0
+Aki Rodic,aleksandar.xyz@gmail.com,0,0,100,1,2019-01-04 08:48:44,2019-01-04 08:48:44,0,0,1,1.0,1,0
+aardgoose,angus.sawyer@gmail.com,0,0,34,4,2019-01-06 14:42:00,2019-01-06 15:28:34,0,0,0,0,0,0

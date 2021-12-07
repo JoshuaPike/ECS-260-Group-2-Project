@@ -1,0 +1,22 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,1,0,28276,109,2017-02-15 08:46:02,2017-02-24 09:40:44,21992.44444444444,84.77777777777777,59,27.140467577331755,34,47
+Jay Weisskopf,jay@jayschwa.net,0,0,33,4,2017-02-16 13:46:14,2017-02-20 07:36:08,77.0,9.333333333333334,2,1.0,1,0
+Don McCurdy,don.r.mccurdy@gmail.com#donmccurdy@google.com,0,0,3630,10,2017-02-16 18:15:18,2017-02-25 13:48:13,3176.25,8.75,15,2.946588746942104,4,41
+Paul Booker,paul@equa.co.uk,0,0,516,10,2017-02-18 18:19:03,2017-02-20 07:39:06,3612.0,70.0,0,0,0,0
+Dusan Bosnjak,bodu3d@gmail.com,0,0,49420,1,2017-02-18 04:19:08,2017-02-18 04:19:08,0,0,0,0,0,0
+Takahiro,hogehoge@gachapin.jp,0,0,455,12,2017-02-18 11:00:24,2017-02-25 05:24:24,530.8333333333334,14.0,3,1.6666666666666665,2,1
+yomotsu,oyamada@pxgrid.com,0,0,4,1,2017-02-20 00:24:45,2017-02-20 00:24:45,0,0,0,0,0,0
+steel1990,lbbsteel@gmail.com,0,0,4,1,2017-02-20 20:49:32,2017-02-20 20:49:32,0,0,0,0,0,2
+06wj,06wj@github.com#06wj@163.com,0,0,41,3,2017-02-20 21:03:28,2017-02-21 23:57:07,287.0,21.0,1,0,0,-4
+Jing Ma,mjingm87@qq.com,0,0,120,7,2017-02-20 22:42:00,2017-02-21 23:01:38,840.0,49.0,0,0,0,0
+Jack Le Hamster,jacklehamster@gmail.com,0,0,65842,2,2017-02-19 18:55:15,2017-02-19 19:34:34,0,0,0,1.0,1,0
+Andriy Vedilin,andriy.vedilin@logivations.com,0,0,8,1,2017-02-20 16:54:28,2017-02-20 16:54:28,0,0,1,0,0,0
+Brian Burke,brian.burke@geotoolkit.net,0,0,18,2,2017-02-20 02:40:18,2017-02-20 04:50:19,0,0,1,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,1044,6,2017-02-20 21:09:27,2017-02-25 13:04:17,1827.0,10.5,5,2.9661584792019573,4,24
+WestLangley,WestLangley@users.noreply.github.com#dat1234@gmail.com,0,0,9,2,2017-02-20 18:23:49,2017-02-21 16:32:52,0,0,2,1.0,1,0
+takahiro,hogehoge@gachapin.jp,0,0,6280,1,2017-02-22 06:58:38,2017-02-22 06:58:38,0,0,0,0,0,0
+Vivek Patel,vvivek.patel@gmail.com,0,0,8,2,2017-02-23 11:21:01,2017-02-23 11:59:10,0,0,0,0,0,0
+Remus M,RemusMar@users.noreply.github.com,0,0,3,1,2017-02-23 13:28:52,2017-02-23 13:28:52,0,0,1,0,0,1
+BrianSipple,brsipple42@gmail.com,0,0,48,1,2017-02-23 19:53:32,2017-02-23 19:53:32,0,0,0,0,0,0
+Björn Steinbrink,steinbrink@saltation.de,0,0,26,1,2017-02-24 16:11:38,2017-02-24 16:11:38,0,0,2,0,0,0
+James Baicoianu,james_github@baicoianu.com,0,0,17,3,2017-02-24 11:08:33,2017-02-24 18:24:02,0,0,1,1.0,1,0

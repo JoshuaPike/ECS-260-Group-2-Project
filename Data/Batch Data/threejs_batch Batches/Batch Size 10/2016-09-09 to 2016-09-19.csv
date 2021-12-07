@@ -1,0 +1,16 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Benjamin Dobell,benjamin.dobell+github@glassechidna.com.au,0,0,2,1,2016-09-08 16:06:39,2016-09-08 16:06:39,0,0,1,1.0,1,0
+Brandon Jones,tojiro@gmail.com,0,0,305,1,2016-09-08 16:09:19,2016-09-08 16:09:19,0,0,2,1.0,1,-5
+sunag,sunag@users.noreply.github.com,0,0,2129,2,2016-09-10 10:23:03,2016-09-13 00:53:51,7451.5,7.0,44,1.613953488372093,2,0
+Mr.doob,info@mrdoob.com,1,1,24862,37,2016-09-10 12:22:24,2016-09-16 07:22:54,34806.799999999996,51.8,56,8.947712418300654,10,-2
+Roc,rocwind@gmail.com,0,0,8,1,2016-09-11 03:04:51,2016-09-11 03:04:51,0,0,0,1.0,1,0
+Takahiro,hogehoge@gachapin.jp,0,0,191,5,2016-09-11 03:06:54,2016-09-15 08:36:06,334.25,8.75,3,0.6728971962616822,1,-2
+Alan Wu,alan.wu@auckland.ac.nz,0,0,7,1,2016-09-12 10:00:09,2016-09-12 10:00:09,0,0,0,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,314,4,2016-09-12 10:52:27,2016-09-17 04:47:37,549.5,7.0,4,2.0,2,0
+"Peter ""Coburn"" Fornari",minimalist37@gmail.com,0,0,2,1,2016-09-13 12:42:52,2016-09-13 12:42:52,0,0,0,0,0,0
+Nick Powers,nickpowers43@gmail.com,0,0,8,1,2016-09-14 02:31:35,2016-09-14 02:31:35,0,0,0,0,0,0
+aardgoose,angus.sawyer@gmail.com,0,0,16,1,2016-09-14 07:58:42,2016-09-14 07:58:42,0,0,2,0,0,0
+Ian Kerr,ian.kerr@verold.com,0,0,39,1,2016-09-15 08:32:42,2016-09-15 08:32:42,0,0,1,0.05555555555555555,1,0
+michaldybizbanski,michal.dybizbanski@gmail.com,0,0,36,1,2016-09-15 08:35:31,2016-09-15 08:35:31,0,0,0,0,0,0
+Tiago Cardoso,tcardoso@nuxeo.com,0,0,6,1,2016-09-16 09:59:49,2016-09-16 09:59:49,0,0,1,0,0,0
+Martin Schuhfuss,m.schuhfuss@gmail.com,0,0,1,1,2016-09-16 14:43:19,2016-09-16 14:43:19,0,0,0,0,0,0

@@ -1,0 +1,14 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,0,7087,82,2016-01-27 21:27:08,2016-02-06 11:06:55,5512.11111111111,63.77777777777777,24,15.254537595012966,21,6
+XavCo7,xcossettini@rogers.com,0,0,401,1,2016-01-27 10:58:16,2016-01-27 10:58:16,0,0,0,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,199,3,2016-01-28 12:04:20,2016-01-29 18:46:34,1393.0,21.0,16,0.1,1,-1
+Jørgen Borgesen,joergen.borgesen@gmail.com,0,0,23,1,2016-01-28 13:10:57,2016-01-28 13:10:57,0,0,0,0.75,1,0
+Daosheng Mu,daoshengmu@gmail.com,0,0,355,3,2016-01-30 06:37:08,2016-02-05 06:03:18,497.0,4.2,1,0.2,1,2
+Filipe Caixeta,filipecaixeta@gmail.com,0,0,501,1,2016-01-31 23:08:37,2016-01-31 23:08:37,0,0,1,0.40860215053763443,1,5
+rNix,rnix@yandex.ru,0,0,4018,3,2016-02-02 06:47:36,2016-02-02 06:58:17,0,0,2,0.8810526315789474,1,113
+takahiro,hogehoge@gachapin.jp,0,0,2,1,2016-02-01 03:35:08,2016-02-01 03:35:08,0,0,0,0,0,0
+RunninglVlan,RedCapShortCut@gmail.com,0,0,3,1,2016-02-02 01:19:40,2016-02-02 01:19:40,0,0,0,0,0,0
+Qinsi ZHU,qszhu@sightp.com,0,0,2,1,2016-02-02 22:38:30,2016-02-02 22:38:30,0,0,0,0,0,0
+Matt Hirsch,matt@lumiidisplay.com,0,0,59,3,2016-02-03 11:42:52,2016-02-03 22:00:07,0,0,0,2.0,2,0
+Prayag Verma,prayag.verma@gmail.com,0,0,2,1,2016-02-04 16:11:42,2016-02-04 16:11:42,0,0,0,0,0,0
+s9k,s9k0@yandex.ru,0,0,16,1,2016-02-05 20:52:51,2016-02-05 20:52:51,0,0,0,0,0,0

@@ -1,0 +1,11 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Gregg Tavares,github@greggman.com,1,1,112304,290,2021-11-09 07:21:49,2021-11-09 07:24:02,0,0,41,52.25311743311878,56,136
+Gregg (Greggman/GMan) Tavares,github@greggman.com,1,1,2038,12,2021-11-09 07:21:51,2021-11-09 07:21:52,0,0,0,2.967741935483871,3,12
+nikolas,nnyby@columbia.edu,1,1,12,5,2021-11-09 07:21:51,2021-11-09 07:21:52,0,0,0,0,0,0
+Shuichi Aizawa,shu@studio-mercato.com,1,1,2,1,2021-11-09 07:21:52,2021-11-09 07:21:52,0,0,0,0,0,0
+NikitaIT,NIKITA2008-101@yandex.ru,1,1,4627,22,2021-11-09 07:21:55,2021-11-09 07:23:55,0,0,0,0,0,0
+Paul Kusisto,PaulKusisto@users.noreply.github.com,1,1,4,1,2021-11-09 07:23:59,2021-11-09 07:23:59,0,0,0,0,0,0
+Greggman,github@greggman.com,1,1,50,2,2021-11-09 07:24:00,2021-11-09 07:24:00,0,0,0,0,0,0
+Eugene Karataev,eugene.karataev@gmail.com,1,1,2,1,2021-11-09 07:24:00,2021-11-09 07:24:00,0,0,0,0,0,0
+Waj,agentwaj@gmail.com,1,1,496,14,2021-11-09 07:24:01,2021-11-09 07:24:01,0,0,0,0,0,0
+chenlei,791563973@qq.com,1,1,1026,2,2021-11-09 07:24:02,2021-11-09 07:24:02,0,0,0,0,0,0

@@ -1,0 +1,16 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,2109,10,2021-07-26 12:13:39,2021-08-03 22:49:49,1845.375,8.75,1,2.968037746458214,6,-21
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,43,1,2021-07-26 12:24:07,2021-07-26 12:24:07,0,0,2,0,0,5
+Michael Herzog,michael.herzog@human-interactive.org,0,0,578,12,2021-07-26 13:05:39,2021-08-04 13:37:56,449.55555555555554,9.333333333333332,15,2.4123376623376624,4,1
+puxiao,yangpuxiao@gmail.com,0,0,12,1,2021-07-26 13:07:27,2021-07-26 13:07:27,0,0,0,0,0,0
+Mr.doob,info@mrdoob.com,1,0,79257,35,2021-07-26 13:18:23,2021-08-04 21:52:00,61644.33333333333,27.22222222222222,34,12.829842304934198,17,36
+Hugo Locurcio,hugo.locurcio@hugo.pro,0,0,4,1,2021-07-26 16:20:23,2021-07-26 16:20:23,0,0,0,0,0,0
+Rik Cabanier,cabanier@fb.com,0,0,203,3,2021-07-27 15:47:22,2021-08-04 21:23:58,177.625,2.625,1,2.1492822966507177,3,3
+SxP,sigmaxipi@users.noreply.github.com,0,0,292,1,2021-07-27 18:00:12,2021-07-27 18:00:12,0,0,0,0,0,0
+Takahiro,hogehoge@gachapin.jp,0,0,246,2,2021-07-28 10:55:22,2021-07-30 09:10:08,1722.0,14.0,11,0.3424657534246575,1,2
+linbingquan,695601626@qq.com,0,0,50,2,2021-07-29 21:23:04,2021-07-30 09:19:23,0,0,0,0,0,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,450,9,2021-07-30 09:12:45,2021-08-04 21:21:18,630.0,12.6,21,1.0,1,0
+camnewnham,camnewnham@gmail.com,0,0,2,1,2021-08-02 11:52:27,2021-08-02 11:52:27,0,0,0,0,0,0
+sunag,sunag@users.noreply.github.com,0,0,7,1,2021-08-02 23:47:16,2021-08-02 23:47:16,0,0,1,0,0,0
+Servin Nissen,servin.nissen@gmail.com,0,0,25,1,2021-08-03 21:02:31,2021-08-03 21:02:31,0,0,0,0,0,0
+Marco Fugaro,marco.fugaro@gmail.com,0,0,2329,2,2021-08-04 13:43:49,2021-08-04 16:25:27,0,0,5,0,0,0

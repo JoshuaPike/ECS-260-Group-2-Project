@@ -1,0 +1,26 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,1,11247,73,2019-12-07 11:45:52,2019-12-17 06:46:13,8747.666666666666,56.77777777777777,16,11.10240252416083,13,-43
+Arseny Kapoulkine,arseny.kapoulkine@gmail.com,0,0,301,3,2019-12-07 12:49:28,2019-12-11 11:53:29,702.3333333333334,7.0,4,0,0,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,293,13,2019-12-07 19:19:45,2019-12-17 12:15:52,227.88888888888889,10.11111111111111,10,1.0,1,2
+martinRenou,martin.renou@gmail.com,0,0,82,2,2019-12-08 10:20:40,2019-12-16 11:49:31,71.75,1.75,0,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,1421,15,2019-12-08 21:44:41,2019-12-17 21:35:58,1243.375,13.125,19,4.0,4,5
+LeonYuanYao,yaoyuan@suitbim.com,1,0,95179,5,2019-12-09 17:42:19,2019-12-14 01:18:00,166563.25,8.75,3,1.5499355076469503,3,20
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,43,2,2019-12-09 03:16:26,2019-12-16 07:01:09,43.0,2.0,0,0,0,0
+Emmett Lalish,elalish@google.com,0,0,1074,12,2019-12-09 06:28:22,2019-12-17 01:29:16,1074.0,12.0,3,1.9868432991561564,3,5
+黄敏,hm291277058@gmail.com,0,0,2,1,2019-12-11 17:58:54,2019-12-11 17:58:54,0,0,0,0,0,0
+yomboprime,yomboprime@users.noreply.github.com,0,0,52,2,2019-12-11 08:30:08,2019-12-11 10:29:34,0,0,2,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,5223,14,2019-12-11 12:10:26,2019-12-17 20:45:40,6093.5,16.333333333333336,0,0,0,0
+Bastien Robert,bastienrobert@outlook.com,0,0,15,3,2019-12-12 12:21:41,2019-12-12 12:42:01,0,0,0,0,0,0
+Don McCurdy,donmccurdy@google.com,0,0,149,4,2019-12-12 15:42:49,2019-12-17 00:23:58,260.75,7.0,3,0,0,14
+Fernando Serrano,fernandojsg@gmail.com,0,0,2,1,2019-12-12 23:27:20,2019-12-12 23:27:20,0,0,0,1.0,1,0
+Yomotsu,admin@yomotsu.net,0,0,4,2,2019-12-13 18:38:25,2019-12-14 03:26:17,0,0,1,1.0,1,0
+Aki Rodic,aleksandar.xyz@gmail.com,0,0,60,1,2019-12-13 12:46:26,2019-12-13 12:46:26,0,0,2,0.26666666666666666,1,0
+Paul Henschel,drcmda@gmail.com,0,0,8,2,2019-12-13 13:58:57,2019-12-13 16:23:11,0,0,2,0,0,-2
+Diego Marcos,diego.marcos@gmail.com,0,0,2,1,2019-12-13 03:58:52,2019-12-13 03:58:52,0,0,0,0,0,0
+gogoend,gogoend@qq.com,0,0,332,1,2019-12-15 12:16:24,2019-12-15 12:16:24,0,0,0,0,0,0
+sunag,sunag@users.noreply.github.com,0,0,573,2,2019-12-14 19:29:39,2019-12-14 19:31:05,0,0,4,1.0,1,-2
+FunFetched,flimflamboyant@gmail.com,0,0,2,1,2019-12-15 06:48:24,2019-12-15 06:48:24,0,0,1,0,0,0
+Ondřej Španěl,OndrejSpanel@users.noreply.github.com,0,0,2,1,2019-12-16 15:55:16,2019-12-16 15:55:16,0,0,0,0,0,0
+ranbuch,ranbuch@gmail.com,0,0,2,1,2019-12-17 05:20:17,2019-12-17 05:20:17,0,0,0,0,0,0
+Artem Bolgar,artem.bolgar@oculus.com,0,0,9,1,2019-12-16 13:12:49,2019-12-16 13:12:49,0,0,0,0,0,0
+AnHongpeng,roc.anhongpeng@gmail.com,0,0,16,3,2019-12-18 01:48:17,2019-12-18 05:47:42,0,0,0,0,0,0

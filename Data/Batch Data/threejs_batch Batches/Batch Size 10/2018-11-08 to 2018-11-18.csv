@@ -1,0 +1,13 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+06wj,06wj@163.com,0,0,25,4,2018-11-08 21:07:38,2018-11-09 19:16:26,0,0,2,0,0,4
+Yomotsu,admin@yomotsu.net,0,0,91,1,2018-11-09 12:19:12,2018-11-09 12:19:12,0,0,5,0,0,0
+Mr.doob,info@mrdoob.com,0,0,2417,22,2018-11-08 03:25:37,2018-11-16 08:07:17,2114.875,19.25,3,0,0,0
+Anaranjo97,42073764+Anaranjo97@users.noreply.github.com,0,0,2,1,2018-11-08 12:49:25,2018-11-08 12:49:25,0,0,0,0,0,0
+"Ji,Chang",jichang@baidu.com,0,0,105,1,2018-11-09 23:55:12,2018-11-09 23:55:12,0,0,0,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,2883,12,2018-11-09 14:11:07,2018-11-17 15:19:13,2522.625,10.5,19,2.847972972972973,4,-9
+Peter Varga,soadzoor@gmail.com,0,0,9,1,2018-11-10 18:00:15,2018-11-10 18:00:15,0,0,1,0,0,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,11,3,2018-11-10 15:43:33,2018-11-16 07:01:19,15.4,4.2,3,0,0,0
+Leven,475563418@qq.com,0,0,8,1,2018-11-12 18:28:11,2018-11-12 18:28:11,0,0,1,1.0,1,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,58,5,2018-11-15 13:22:57,2018-11-17 15:21:21,203.0,17.5,0,0,0,0
+Dinesh Salunke,sdinesh86@gmail.com,0,0,6,1,2018-11-17 02:39:36,2018-11-17 02:39:36,0,0,1,1.0,1,0
+moraxy,moraxy@users.noreply.github.com,0,0,6,1,2018-11-16 21:54:22,2018-11-16 21:54:22,0,0,0,0,0,0

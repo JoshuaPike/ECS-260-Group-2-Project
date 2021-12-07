@@ -1,0 +1,19 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Jonathan Brandel,jono@with.in,0,0,259,4,2018-03-17 10:00:58,2018-03-17 10:37:56,0,0,1,2.4631786627694554,4,5
+Mugen87,michael.herzog@human-interactive.org,0,0,598,18,2018-03-18 13:27:18,2018-03-27 15:15:12,465.1111111111111,13.999999999999998,11,2.0,2,0
+aardgoose,angus.sawyer@gmail.com,0,0,11,1,2018-03-18 11:38:01,2018-03-18 11:38:01,0,0,0,0,0,0
+Mr.doob,info@mrdoob.com,0,0,2809,52,2018-03-18 03:32:36,2018-03-27 07:07:38,2184.777777777778,40.44444444444444,5,1.0,1,0
+Takahiro,hogehoge@gachapin.jp,0,0,215,11,2018-03-19 14:32:35,2018-03-28 15:24:49,167.2222222222222,8.555555555555555,3,1.0,1,2
+Lewy Blue,looeee@gmail.com,0,0,218,5,2018-03-19 16:48:40,2018-03-23 18:21:33,381.5,8.75,1,0,0,0
+Don McCurdy,don.r.mccurdy@gmail.com#donmccurdy@google.com,0,0,110,5,2018-03-18 13:19:08,2018-03-24 09:52:34,154.0,7.0,0,2.0,2,0
+selimbek,selim.bekkar@gmail.com,0,0,5,1,2018-03-19 12:55:57,2018-03-19 12:55:57,0,0,0,0,0,0
+sunag,contact@sunag.com.br,0,0,6,1,2018-03-19 19:57:19,2018-03-19 19:57:19,0,0,1,0,0,0
+Giorgio Marcias,marcias.giorgio@gmail.com,0,0,6,1,2018-03-23 11:39:10,2018-03-23 11:39:10,0,0,2,0,0,0
+Michael Blix,mkeblx@gmail.com,0,0,2,1,2018-03-23 10:07:11,2018-03-23 10:07:11,0,0,0,0,0,0
+Fernando Serrano,fernandojsg@gmail.com,0,0,236,9,2018-03-25 05:33:20,2018-03-27 21:56:29,826.0,31.5,2,2.0,2,2
+Wentao Lyu,lvwt@shanghaitech.edu.cn,0,0,4,1,2018-03-26 10:09:20,2018-03-26 10:09:20,0,0,1,0,0,0
+Nick Coutsos,nick@coutsos.com,0,0,1,1,2018-03-25 19:30:09,2018-03-25 19:30:09,0,0,0,0,0,0
+Andrew Clemens,wikipedianerd@gmail.com,0,0,14,1,2018-03-26 05:45:42,2018-03-26 05:45:42,0,0,0,0,0,0
+Richard Monette,richard.monette@shopify.com,0,0,402,7,2018-03-26 12:19:15,2018-03-27 14:06:08,2814.0,49.0,1,1.0,1,0
+John Barounis,jbqwerty@gmail.com,0,0,6,1,2018-03-27 05:07:59,2018-03-27 05:07:59,0,0,0,0,0,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,115,1,2018-03-27 12:55:00,2018-03-27 12:55:00,0,0,1,1.0,1,-5

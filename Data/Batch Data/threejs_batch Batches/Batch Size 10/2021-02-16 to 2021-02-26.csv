@@ -1,0 +1,20 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,1,0,24904,105,2021-02-16 08:41:05,2021-02-25 13:15:43,19369.777777777777,81.66666666666666,88,19.00167098576035,25,-154
+gonnavis,gonnavis@163.com,0,0,178,6,2021-02-17 04:28:10,2021-02-22 07:24:30,249.2,8.4,6,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,2512,17,2021-02-17 12:28:49,2021-02-25 13:11:32,2198.0,14.875,25,5.403162055335969,7,-23
+linbingquan,695601626@qq.com,0,0,2144,6,2021-02-18 02:35:44,2021-02-22 09:11:21,3752.0,10.5,18,1.0,1,0
+David Peicho,david.peicho@gmail.com,0,0,380,3,2021-02-17 15:32:17,2021-02-17 15:33:02,0,0,1,0,0,-6
+DefinitelyMaybe,rekked.noraa@gmail.com,0,0,87,3,2021-02-19 01:34:25,2021-02-20 03:00:24,609.0,21.0,9,0.25,1,0
+Arseny Kapoulkine,arseny.kapoulkine@gmail.com,0,0,25,2,2021-02-17 13:48:28,2021-02-17 14:14:53,0,0,1,0,0,0
+Gianmarco,gianmarcosimone89@gmail.com,0,0,3,2,2021-02-18 14:49:20,2021-02-18 14:49:44,0,0,0,0,0,0
+Ian Purvis,ian.c.purvis@gmail.com#ian@purvisresearch.com,0,0,634,8,2021-02-18 00:47:01,2021-02-23 00:01:53,1109.5,14.0,4,1.0,1,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,58,8,2021-02-18 20:30:48,2021-02-25 15:28:34,67.66666666666667,9.333333333333334,0,0,0,-1
+Josh Ellis,joshua.ellis18@gmail.com,0,0,4,1,2021-02-20 15:03:57,2021-02-20 15:03:57,0,0,0,0,0,0
+Yomotsu,admin@yomotsu.net,0,0,46,1,2021-02-21 17:24:47,2021-02-21 17:24:47,0,0,2,0.6153846153846154,1,0
+heqiang,531364804@qq.com,0,0,27,1,2021-02-22 00:24:21,2021-02-22 00:24:21,0,0,4,0,0,0
+Takahiro,hogehoge@gachapin.jp,0,0,7,2,2021-02-21 21:34:03,2021-02-21 21:34:58,0,0,1,0.3333333333333333,1,0
+Vis,gonnavis@163.com,0,0,1616,1,2021-02-23 16:49:49,2021-02-23 16:49:49,0,0,0,1.0,1,21
+sunag,sunag@users.noreply.github.com,0,0,1163,9,2021-02-23 12:01:40,2021-02-24 05:56:36,0,0,5,0,0,0
+Brandon Jones,tojiro@gmail.com,0,0,412,1,2021-02-23 18:09:46,2021-02-23 18:09:46,0,0,2,1.0,1,16
+Luis E. Fraguada,fraguada@gmail.com,0,0,26,1,2021-02-24 09:20:57,2021-02-24 09:20:57,0,0,1,0,0,1
+jj-plane,9252685+jj-plane@users.noreply.github.com,0,0,2,1,2021-02-24 04:49:41,2021-02-24 04:49:41,0,0,0,0,0,0

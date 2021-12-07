@@ -1,0 +1,19 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,0,18126,96,2015-11-17 14:02:12,2015-11-27 05:17:40,14097.999999999998,74.66666666666666,63,23.28969696969697,24,4
+Pim Schreurs,pimschreurs@gmail.com,0,0,2,1,2015-11-18 02:14:51,2015-11-18 02:14:51,0,0,0,0,0,0
+yomotsu,oyamada@pxgrid.com,0,0,17,3,2015-11-19 14:34:35,2015-11-22 10:14:11,59.5,10.5,0,2.0,2,0
+WestLangley,WestLangley@users.noreply.github.com#dat1234@gmail.com,0,0,228,8,2015-11-18 15:02:02,2015-11-27 13:32:54,199.5,7.0,5,1.0,1,-5
+simonThiele,simon.thiele@instana.com,0,0,582,22,2015-11-19 09:03:41,2015-11-23 14:09:39,1018.5,38.5,10,2.9415584415584415,4,5
+Pontus Leitzler,leitzler@users.noreply.github.com,0,0,3,2,2015-11-19 16:46:40,2015-11-20 16:29:15,0,0,1,1.0,1,0
+evantron3000,evandulaney@me.com,0,0,4,2,2015-11-19 00:42:23,2015-11-19 00:48:08,0,0,0,1.0,1,0
+George Tavares,george.tavares@sabiax.com.br,0,0,11,1,2015-11-19 13:34:29,2015-11-19 13:34:29,0,0,0,0.6666666666666666,1,0
+paulmasson,paulmasson@comcast.net,0,0,2,1,2015-11-21 09:51:11,2015-11-21 09:51:11,0,0,0,0,0,0
+kaypikun,krishnaprahasithj@gmail.com,1,0,50398,8,2015-11-22 05:42:54,2015-11-23 07:08:45,352786.0,56.0,2,2.0,2,16
+Pontus,pontus@qiau.leitzler.net,0,0,20,2,2015-11-22 20:37:29,2015-11-22 20:49:45,0,0,1,0,0,0
+Daniel Nienhaus,daniel@flying-sheep.com,0,0,7,1,2015-11-23 12:45:39,2015-11-23 12:45:39,0,0,0,0,0,0
+leitzler,leitzler@gmail.com,0,0,16,2,2015-11-23 19:06:32,2015-11-23 19:16:04,0,0,0,0,0,0
+Joshua Koo,zz85nus@gmail.com,0,0,3942,24,2015-11-25 06:10:24,2015-11-27 15:44:01,13797.0,84.0,9,9.524917891025801,12,12
+Ben Houston,ben@exocortex.com,0,0,2,1,2015-11-24 07:57:01,2015-11-24 07:57:01,0,0,0,0,0,0
+Michael Bond,mbond@box.com,0,0,4,1,2015-11-24 04:58:26,2015-11-24 04:58:26,0,0,0,0,0,0
+Andrew Ray,delvarworld@gmail.com,0,0,3,1,2015-11-25 08:21:40,2015-11-25 08:21:40,0,0,0,0,0,0
+takahiro,hogehoge@gachapin.jp,0,0,8791,1,2015-11-26 15:45:45,2015-11-26 15:45:45,0,0,2,0.8374836173001311,1,21

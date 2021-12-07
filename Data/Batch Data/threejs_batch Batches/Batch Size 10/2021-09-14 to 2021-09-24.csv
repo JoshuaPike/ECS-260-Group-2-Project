@@ -1,0 +1,10 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Michael Herzog,michael.herzog@human-interactive.org,0,0,1239,13,2021-09-14 18:20:28,2021-09-23 20:46:56,963.6666666666666,10.11111111111111,27,3.2333333333333334,4,-17
+sunag,jcdeconto@igalia.com,0,0,1024,4,2021-09-15 14:52:10,2021-09-23 11:20:55,1024.0,4.0,38,2.88,3,19
+Mr.doob,info@mrdoob.com,0,0,14611,12,2021-09-15 17:54:16,2021-09-23 18:37:58,12784.625,10.5,4,3.4540872687103015,5,-27
+Rik Cabanier,cabanier@fb.com,0,0,43190,4,2021-09-18 00:27:36,2021-09-23 03:20:16,60466.0,5.6,7,0.503968253968254,2,2
+Sebastian W,37211584+wolzenbug@users.noreply.github.com,0,0,4,1,2021-09-21 12:21:09,2021-09-21 12:21:09,0,0,0,0,0,0
+Takahiro,hogehoge@gachapin.jp,0,0,82,1,2021-09-21 21:21:16,2021-09-21 21:21:16,0,0,2,0.8372093023255814,1,0
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,2,1,2021-09-22 16:24:38,2021-09-22 16:24:38,0,0,0,0,0,0
+B3epBo0p,31015533+B3epBo0p@users.noreply.github.com,0,0,45,1,2021-09-22 16:26:54,2021-09-22 16:26:54,0,0,3,1.0,1,0
+linbingquan,695601626@qq.com,0,0,16893,2,2021-09-22 19:22:08,2021-09-23 20:32:20,118251.0,14.0,6,1.4409448818897639,2,87

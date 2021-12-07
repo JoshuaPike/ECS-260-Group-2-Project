@@ -1,0 +1,10 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Marco Fugaro,marco.fugaro@gmail.com,0,0,12,1,2021-08-27 11:19:39,2021-08-27 11:19:39,0,0,0,1.0,1,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,191,10,2021-08-27 12:24:49,2021-09-03 14:35:45,191.0,10.0,8,3.0,3,-4
+Mr.doob,info@mrdoob.com,0,0,2358,12,2021-08-27 14:34:23,2021-09-03 18:26:25,2358.0,12.0,28,2.9107142857142856,4,3
+WestLangley,WestLangley@users.noreply.github.com,0,0,205,11,2021-08-29 15:43:08,2021-09-01 08:31:09,717.5,38.5,21,1.1318681318681318,2,1
+artificial-jon,56368498+artificial-jon@users.noreply.github.com,0,0,4,1,2021-08-30 15:39:25,2021-08-30 15:39:25,0,0,1,0,0,0
+linbingquan,695601626@qq.com,0,0,106,2,2021-08-30 20:36:48,2021-09-02 17:34:25,371.0,7.0,5,1.0,1,0
+sunag,jcdeconto@igalia.com,0,0,603,6,2021-09-01 15:53:48,2021-09-04 00:46:50,2110.5,21.0,9,3.687074829931973,4,4
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,543,1,2021-09-02 11:38:44,2021-09-02 11:38:44,0,0,2,0.634020618556701,1,13
+Ondřej Španěl,OndrejSpanel@users.noreply.github.com,0,0,2,1,2021-09-03 18:27:39,2021-09-03 18:27:39,0,0,1,0,0,0

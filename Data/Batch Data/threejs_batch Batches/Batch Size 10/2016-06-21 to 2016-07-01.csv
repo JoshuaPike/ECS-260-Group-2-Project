@@ -1,0 +1,21 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,1,1,2119,53,2016-06-20 11:25:25,2016-06-30 07:54:43,1648.111111111111,41.22222222222222,20,9.875,10,2
+Tej Qu Nair,tej.q.nair@gmail.com,0,0,2,1,2016-06-20 17:02:59,2016-06-20 17:02:59,0,0,0,0,0,0
+Ivo Herzig,ivoherzig@gmail.com,0,0,1395,1,2016-06-22 11:16:25,2016-06-22 11:16:25,0,0,1,0.2229299363057325,1,21
+Joshua Koo,zz85nus@gmail.com,0,0,39,1,2016-06-22 12:51:01,2016-06-22 12:51:01,0,0,2,1.0,1,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,327,6,2016-06-23 03:03:52,2016-06-27 15:02:50,572.25,10.5,3,1.6923076923076923,2,0
+Atrahasis,Astrak@users.noreply.github.com,0,0,13,1,2016-06-23 13:22:25,2016-06-23 13:22:25,0,0,1,0,0,0
+renliv,renliv@foxmail.com,0,0,7,1,2016-06-23 14:44:50,2016-06-23 14:44:50,0,0,1,1.0,1,0
+Enric Sala,sinh32.enric@gmail.com,0,0,6,1,2016-06-24 02:48:11,2016-06-24 02:48:11,0,0,1,0,0,0
+gero3,gero3@users.noreply.github.com,0,0,2,1,2016-06-24 05:12:38,2016-06-24 05:12:38,0,0,0,0,0,0
+sunag,sunagbrasil@gmail.com,0,0,7,2,2016-06-24 06:09:51,2016-06-28 05:54:28,16.333333333333336,4.666666666666667,1,0,0,0
+kilida,kilidapatch@gmail.com,0,0,2,1,2016-06-24 06:28:17,2016-06-24 06:28:17,0,0,1,0,0,0
+Dvad,Dvad@users.noreply.github.com,0,0,182,1,2016-06-24 06:43:40,2016-06-24 06:43:40,0,0,1,1.0,1,0
+verteAzur,jfgrangier@gmail.com,0,0,11,1,2016-06-26 03:08:39,2016-06-26 03:08:39,0,0,0,0,0,0
+ShynRou,dustin.hagemeier@web.de,0,0,147,1,2016-06-27 04:04:38,2016-06-27 04:04:38,0,0,1,1.0,1,0
+Olli Etuaho,olli.etuaho@gmail.com,0,0,6,1,2016-06-27 05:53:31,2016-06-27 05:53:31,0,0,1,1.0,1,1
+thmasn,thomaspahler@t-online.de,0,0,41,1,2016-06-28 05:07:31,2016-06-28 05:07:31,0,0,2,0.7894736842105263,1,2
+Abel Allison,abel.allison@gmail.com,0,0,101,1,2016-06-28 05:58:57,2016-06-28 05:58:57,0,0,1,1.0,1,1
+Richard Davey,rich@photonstorm.com,0,0,2,1,2016-06-29 12:22:30,2016-06-29 12:22:30,0,0,0,0,0,0
+Michael Blix,mkeblx@gmail.com,0,0,40,1,2016-06-30 03:27:12,2016-06-30 03:27:12,0,0,0,1.0,1,0
+James Baicoianu,james_github@baicoianu.com,0,0,4,1,2016-06-30 07:48:41,2016-06-30 07:48:41,0,0,1,0,0,1

@@ -1,0 +1,20 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+sunag,contact@sunag.com.br,0,0,11,2,2018-06-06 01:29:56,2018-06-06 02:07:03,0,0,2,1.0,1,0
+Mugen87,michael.herzog@human-interactive.org,0,0,2292,16,2018-06-06 20:22:28,2018-06-15 13:26:19,2005.5,14.0,10,1.690572164371291,3,-24
+Mr.doob,info@mrdoob.com,0,0,1591,21,2018-06-06 08:14:00,2018-06-15 09:47:38,1237.4444444444443,16.333333333333332,3,0,0,0
+Takahiro,hogehoge@gachapin.jp,0,0,6,1,2018-06-07 14:14:19,2018-06-07 14:14:19,0,0,1,0,0,0
+Diego F. Goberna,github@feiss.be,0,0,2,1,2018-06-08 01:53:41,2018-06-08 01:53:41,0,0,0,0,0,0
+Don McCurdy,donmccurdy@google.com,0,0,37,2,2018-06-07 16:26:41,2018-06-09 21:26:27,129.5,7.0,2,1.0,1,-2
+WestLangley,WestLangley@users.noreply.github.com,0,0,426,3,2018-06-07 20:34:27,2018-06-12 10:00:29,745.5,5.25,10,0.6,1,0
+Harold Iedema,harold@iedema.me,0,0,5,2,2018-06-08 23:32:01,2018-06-13 19:46:33,8.75,3.5,1,0,0,0
+SET001,settydark@gmail.com,0,0,1659202,4,2018-06-09 02:48:35,2018-06-09 22:30:42,0,0,0,0,0,0
+Marquizzo,marco@dyadstudios.com,0,0,13,1,2018-06-08 08:23:34,2018-06-08 08:23:34,0,0,0,0,0,0
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,46607,2,2018-06-08 08:52:22,2018-06-08 08:53:30,0,0,0,0,0,0
+paulmasson,paulmasson@comcast.net,0,0,2,1,2018-06-08 10:56:42,2018-06-08 10:56:42,0,0,1,0,0,0
+Ben Taylor,me@taybenlor.com,0,0,221,2,2018-06-10 05:40:27,2018-06-10 07:57:37,0,0,2,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,1,0,1224,4,2018-06-11 13:41:59,2018-06-13 12:49:19,8568.0,28.0,0,0,0,0
+Jonathan Brandel,jono@with.in,0,0,170,3,2018-06-11 15:01:19,2018-06-12 06:01:15,0,0,1,0,0,1
+Gerdon Abbink,gerdon262@gmail.com,0,0,2,1,2018-06-12 11:59:33,2018-06-12 11:59:33,0,0,0,0,0,0
+Paul Hornsey,paul@1partcarbon.co.uk,0,0,2,1,2018-06-12 23:41:13,2018-06-12 23:41:13,0,0,0,0,0,0
+luis Wang,lovemormot@gmail.com,0,0,27600,3,2018-06-15 06:03:46,2018-06-16 03:42:44,0,0,1,1.0,1,0
+06wj,06wj@163.com,0,0,4,1,2018-06-15 22:31:11,2018-06-15 22:31:11,0,0,1,0,0,0

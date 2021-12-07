@@ -1,0 +1,18 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,0,22364,80,2018-03-07 08:52:35,2018-03-17 05:10:47,17394.222222222223,62.222222222222214,10,4.259541984732825,5,3
+WestLangley,WestLangley@users.noreply.github.com,0,0,751,8,2018-03-07 18:23:51,2018-03-14 17:29:54,876.1666666666667,9.333333333333334,8,3.88,4,13
+大龙猫,yangzoucn@163.com,0,0,2,1,2018-03-08 21:55:59,2018-03-08 21:55:59,0,0,0,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,5066,42,2018-03-08 13:08:48,2018-03-17 17:10:25,3940.2222222222217,32.666666666666664,68,13.993548387096775,15,-4
+Takahiro,hogehoge@gachapin.jp,0,0,2199,26,2018-03-09 12:31:32,2018-03-18 15:04:46,1710.3333333333333,20.22222222222222,3,5.0,5,2
+Alan Millman,alan.millman@here.com,0,0,1299,3,2018-03-08 10:10:06,2018-03-08 11:16:13,0,0,2,1.0,2,3
+Kevin Ngo,me@ngokevin.com,0,0,19,1,2018-03-08 13:17:50,2018-03-08 13:17:50,0,0,1,0,0,0
+wcoebergh,woutercoebergh@gmail.com,0,0,2,1,2018-03-09 12:25:34,2018-03-09 12:25:34,0,0,0,0,0,0
+Xander Luciano,ViperCodeGames@gmail.com,0,0,894,5,2018-03-10 13:28:46,2018-03-14 00:37:29,2086.0,11.666666666666668,0,0,0,0
+Don McCurdy,don.r.mccurdy@gmail.com#donmccurdy@google.com,0,0,9201,8,2018-03-11 12:39:07,2018-03-16 03:43:38,16101.75,14.0,0,2.0,2,2
+Daosheng Mu,daoshengmu@gmail.com,0,0,4696,2,2018-03-14 08:40:02,2018-03-14 17:37:01,0,0,1,1.0,1,3
+gbath,gavin.b@cadpro.co.nz,0,0,128,2,2018-03-15 01:02:03,2018-03-15 02:29:10,0,0,1,1.0,1,0
+Johan Karlsson,DonKarlssonSan@gmail.com,0,0,4,1,2018-03-14 22:38:14,2018-03-14 22:38:14,0,0,0,0,0,0
+levilime,levilime@gmail.com,0,0,172,3,2018-03-15 23:33:36,2018-03-16 18:19:31,0,0,1,1.0,1,-1
+raub,raubtierxxx@gmail.com,0,0,28,1,2018-03-16 14:04:10,2018-03-16 14:04:10,0,0,3,0,0,0
+bth,contactbth@gmail.com,0,0,2,1,2018-03-17 19:19:28,2018-03-17 19:19:28,0,0,0,0,0,0
+sunag,contact@sunag.com.br,0,0,4,1,2018-03-17 17:51:54,2018-03-17 17:51:54,0,0,1,1.0,1,0

@@ -1,0 +1,10 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mugen87,michael.herzog@human-interactive.org,0,0,594,6,2015-12-18 15:07:58,2015-12-22 11:10:06,1386.0,14.0,5,3.5384615384615383,5,0
+Mr.doob,info@mrdoob.com,0,0,8122,59,2015-12-18 00:37:41,2015-12-26 08:33:21,7106.75,51.625,23,13.208333333333334,14,10
+SUNAG,contact@sunag.com.br,0,0,1438,40,2015-12-18 17:50:21,2015-12-26 18:10:13,1258.25,35.0,37,5.501369863013699,7,7
+WestLangley,dat1234@gmail.com,0,0,159,6,2015-12-18 19:36:30,2015-12-23 08:11:54,278.25,10.5,6,1.5636363636363635,2,2
+cx20,y-shimano@hondarer-soft.com,0,0,8,1,2015-12-21 02:05:22,2015-12-21 02:05:22,0,0,0,0,0,0
+Tobias Gurdan,tobias@gurdan.de,0,0,2,1,2015-12-22 16:02:26,2015-12-22 16:02:26,0,0,1,0,0,0
+anvaka,anvaka@gmail.com,0,0,2,1,2015-12-22 14:52:35,2015-12-22 14:52:35,0,0,1,0,0,0
+takahiro,hogehoge@gachapin.jp,0,0,38,1,2015-12-25 10:24:04,2015-12-25 10:24:04,0,0,1,0.14285714285714285,1,0
+gam0022,gam0022@gmail.com,0,0,378,3,2015-12-27 07:57:57,2015-12-27 21:16:44,0,0,0,0,0,0

@@ -1,0 +1,12 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+WestLangley,WestLangley@users.noreply.github.com,0,0,507,14,2021-08-05 11:08:47,2021-08-13 10:25:25,507.0,14.0,20,1.0,1,0
+Mr.doob,info@mrdoob.com,1,0,41162,20,2021-08-05 11:19:38,2021-08-11 20:03:46,48022.333333333336,23.333333333333336,26,4.076923076923077,5,-18
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,85,3,2021-08-05 11:28:40,2021-08-14 11:42:03,66.1111111111111,2.333333333333333,4,1.3636363636363638,2,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,11,4,2021-08-05 11:53:25,2021-08-14 11:48:33,9.625,3.5,2,0,0,0
+camnewnham,camnewnham@gmail.com,0,0,11,1,2021-08-07 14:36:49,2021-08-07 14:36:49,0,0,1,0,0,0
+sunag,sunag@users.noreply.github.com,0,0,14,1,2021-08-10 12:10:08,2021-08-10 12:10:08,0,0,1,0,0,0
+Marco Fugaro,marco.fugaro@gmail.com,0,0,3088,5,2021-08-10 12:27:04,2021-08-10 16:47:22,0,0,11,3.0,3,4
+DeepKolos,ouyanghaozhu@oppentech.com,0,0,743,1,2021-08-10 16:10:59,2021-08-10 16:10:59,0,0,4,0.35377358490566035,1,8
+puxiao,yangpuxiao@gmail.com,0,0,129,3,2021-08-11 11:45:12,2021-08-13 11:57:48,451.5,10.5,0,0,0,0
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,6,1,2021-08-11 19:01:17,2021-08-11 19:01:17,0,0,0,1.0,1,0
+Mugen87,michael.herzog@human-interactive.org,0,0,56,3,2021-08-13 19:08:02,2021-08-14 11:43:56,0,0,0,0.34782608695652173,1,0

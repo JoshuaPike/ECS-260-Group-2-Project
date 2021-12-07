@@ -1,0 +1,17 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Michael Herzog,michael.herzog@human-interactive.org,0,0,3292,8,2016-09-19 03:37:52,2016-09-25 06:01:20,3840.666666666667,9.333333333333334,15,4.0,4,-33
+Brandon Jones,tojiro@gmail.com,0,0,112,2,2016-09-19 12:37:31,2016-09-20 04:04:25,0,0,1,0.43478260869565216,2,-6
+Mr.doob,info@mrdoob.com,1,0,56781,38,2016-09-19 12:44:44,2016-09-27 09:14:36,56781.0,38.0,12,9.976539589442815,11,5
+Rich Tibbett,rich.tibbett@gmail.com,0,0,138,3,2016-09-20 03:27:09,2016-09-22 04:35:38,483.0,10.5,2,1.0,1,1
+Paul Masson,paulmasson@comcast.net,0,0,2,1,2016-09-20 03:33:08,2016-09-20 03:33:08,0,0,1,0,0,0
+Brian Chirls,brian@chirls.com,0,0,301,6,2016-09-21 08:57:57,2016-09-27 00:16:03,421.4,8.4,1,1.0,1,18
+Eric Berberich,eric.berberich@gmail.com,0,0,70,1,2016-09-22 02:43:45,2016-09-22 02:43:45,0,0,4,0,0,0
+Abhishek Sharma,shaabhishek@users.noreply.github.com,0,0,2,1,2016-09-23 07:21:55,2016-09-23 07:21:55,0,0,0,0,0,0
+Aswin S,aswin-s@users.noreply.github.com,0,0,2,1,2016-09-23 07:24:38,2016-09-23 07:24:38,0,0,0,0,0,0
+gero3,gero3@users.noreply.github.com,0,0,2,1,2016-09-23 07:28:24,2016-09-23 07:28:24,0,0,0,0,0,0
+Jaume Sanchez,the.spite@gmail.com,0,0,94,4,2016-09-23 07:34:13,2016-09-27 00:45:29,219.33333333333334,9.333333333333334,0,0,0,0
+Verokster,verokster@gmail.com,0,0,1,1,2016-09-23 07:37:25,2016-09-23 07:37:25,0,0,1,1.0,1,0
+Dusan Bosnjak,citizens.arrest@gmail.com,0,0,8,1,2016-09-23 07:45:05,2016-09-23 07:45:05,0,0,1,1.0,1,0
+koolkap,ajitkohir@gmail.com,0,0,19,1,2016-09-25 12:29:41,2016-09-25 12:29:41,0,0,0,1.0,1,1
+Takahiro,hogehoge@gachapin.jp,0,0,1945,3,2016-09-26 16:19:42,2016-09-27 00:18:18,0,0,4,0.9197860962566845,1,7
+PaHae,p.haeusler@cadenas.de,0,0,4,1,2016-09-27 09:05:03,2016-09-27 09:05:03,0,0,0,1.0,1,0

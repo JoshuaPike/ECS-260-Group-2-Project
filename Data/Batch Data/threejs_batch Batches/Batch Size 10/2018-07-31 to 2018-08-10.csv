@@ -1,0 +1,30 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,1,0,55404,66,2018-07-30 10:13:36,2018-08-09 09:43:47,43092.0,51.33333333333333,6,3.7092889005510363,6,24
+nikolas,nnyby@columbia.edu,0,0,4,1,2018-07-30 16:32:00,2018-07-30 16:32:00,0,0,1,0,0,0
+sunag,contact@sunag.com.br,0,0,962,16,2018-07-30 18:36:41,2018-08-06 10:43:41,1122.3333333333335,18.666666666666668,3,2.3181818181818183,3,20
+Mugen87,michael.herzog@human-interactive.org,0,0,4587,14,2018-07-31 12:12:43,2018-08-09 18:54:14,3567.6666666666665,10.888888888888888,6,2.9545454545454546,4,1
+oguzeroglu,oguz.eroglu@windowslive.com,0,0,11,2,2018-07-31 14:45:32,2018-07-31 15:46:26,0,0,1,0,0,1
+Lewy Blue,looeee@gmail.com,0,0,41,4,2018-07-31 14:18:45,2018-08-06 17:28:08,47.833333333333336,4.666666666666667,0,0.5076923076923077,2,0
+Gregg Tavares,github@greggman.com,0,0,10,2,2018-08-01 09:32:32,2018-08-04 06:09:00,35.0,7.0,0,0,0,0
+Robert Long,robert@robertlong.me,0,0,2,1,2018-07-31 04:34:10,2018-07-31 04:34:10,0,0,0,0,0,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,577,12,2018-07-31 17:33:15,2018-08-09 15:58:03,504.875,10.5,7,3.0,3,8
+Remi,40400644+Remi-Tribia@users.noreply.github.com,0,0,20,2,2018-08-01 15:08:11,2018-08-01 15:08:56,0,0,0,0,0,0
+Don McCurdy,donmccurdy@google.com#don.r.mccurdy@gmail.com,0,0,14951,14,2018-08-01 01:44:58,2018-08-06 10:56:41,20931.399999999998,19.599999999999998,2,1.0,1,2
+Gavrilov Miroslav,gavrilov.miroslav@gmail.com,0,0,147,2,2018-08-01 05:21:19,2018-08-01 06:31:13,0,0,1,1.0,1,0
+BachNewton,kyle1235@gmail.com,0,0,4,1,2018-08-01 11:40:26,2018-08-01 11:40:26,0,0,0,0,0,0
+yomboprime,yomboprime@users.noreply.github.com,0,0,2363,3,2018-08-02 07:21:39,2018-08-04 05:05:22,16541.0,21.0,3,1.0324031365313653,2,1
+Xander Luciano,vipercodegames@gmail.com,0,0,35,6,2018-08-02 03:12:13,2018-08-02 05:35:13,0,0,0,0,0,0
+HypnosNova,601670314@qq.com,0,0,6,1,2018-08-03 16:51:37,2018-08-03 16:51:37,0,0,0,0,0,0
+zhaoy,yaoyao_cn@foxmail.com,0,0,18,3,2018-08-03 19:42:32,2018-08-03 21:19:55,0,0,1,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,356,8,2018-08-03 12:49:48,2018-08-09 16:14:42,415.33333333333337,9.333333333333334,0,0,0,0
+paulmasson,paulmasson@comcast.net,0,0,3,1,2018-08-04 08:36:10,2018-08-04 08:36:10,0,0,0,0,0,0
+Takahiro,hogehoge@gachapin.jp,0,0,5,2,2018-08-06 03:14:25,2018-08-08 13:00:57,17.5,7.0,1,0,0,2
+DomHudson,dom.hudson@thoughtriver.com,0,0,2,1,2018-08-05 13:22:50,2018-08-05 13:22:50,0,0,0,0,0,0
+06wj,06wj@163.com,0,0,41,4,2018-08-06 19:49:59,2018-08-06 20:51:38,0,0,0,0,0,0
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,296,2,2018-08-07 15:32:17,2018-08-08 13:48:40,0,0,1,0,0,2
+okitu,schaefer@weiss-ag.de,0,0,18,1,2018-08-08 17:57:14,2018-08-08 17:57:14,0,0,1,0.9090909090909091,1,0
+Brandon Jones,bajones@chromium.org,0,0,11,1,2018-08-08 21:52:27,2018-08-08 21:52:27,0,0,1,0,0,0
+mbredif,mathieu.bredif@ign.fr,0,0,45,1,2018-08-09 14:45:28,2018-08-09 14:45:28,0,0,2,0,0,0
+Ben Owen,ben.owen@codify.ltd.uk,0,0,41,7,2018-08-09 12:54:30,2018-08-09 17:02:25,0,0,0,0,0,0
+Bas van Schaik,github@s.traiectum.net,0,0,1,1,2018-08-09 15:59:16,2018-08-09 15:59:16,0,0,0,0,0,0
+Anis Zuko,anis.zuko@symphony.is,0,0,4,2,2018-08-09 19:38:39,2018-08-10 00:31:40,0,0,1,0,0,0

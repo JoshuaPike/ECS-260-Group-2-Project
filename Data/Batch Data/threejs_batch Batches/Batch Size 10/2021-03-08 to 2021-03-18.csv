@@ -1,0 +1,16 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,0,1546,17,2021-03-08 12:49:28,2021-03-17 21:11:46,1202.4444444444443,13.222222222222221,8,5.153145260206764,6,-132
+linbingquan,695601626@qq.com,0,0,951,1,2021-03-08 19:27:43,2021-03-08 19:27:43,0,0,0,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,5136,14,2021-03-08 19:28:17,2021-03-17 19:53:38,3994.6666666666665,10.888888888888888,12,4.302549965541006,5,-167
+Julianouyang,oyjl616@gmail.com,0,0,2,1,2021-03-09 22:43:10,2021-03-09 22:43:10,0,0,2,1.0,1,0
+Marco Fugaro,marco.fugaro@gmail.com,1,0,8163,3,2021-03-10 17:02:58,2021-03-12 01:44:19,57141.0,21.0,4,1.0,1,0
+Mugen87,michael.herzog@human-interactive.org,0,0,4,1,2021-03-10 22:01:10,2021-03-10 22:01:10,0,0,0,0,0,0
+Sergey,692438+Dvvarf@users.noreply.github.com,0,0,16,1,2021-03-12 01:45:35,2021-03-12 01:45:35,0,0,4,0,0,0
+heqiang,531364804@qq.com,0,0,44,2,2021-03-12 16:19:18,2021-03-15 13:47:32,154.0,7.0,3,1.0,1,0
+David Peicho,david.peicho@gmail.com,0,0,1,1,2021-03-12 19:17:40,2021-03-12 19:17:40,0,0,0,0,0,0
+Johnathon Selstad,makeshifted@gmail.com,0,0,688,1,2021-03-12 23:06:05,2021-03-12 23:06:05,0,0,2,0.7548387096774194,1,59
+Mateusz Charytoniuk,mateusz.charytoniuk@protonmail.com,0,0,4,1,2021-03-15 13:46:53,2021-03-15 13:46:53,0,0,0,0,0,0
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,126,1,2021-03-15 17:22:26,2021-03-15 17:22:26,0,0,2,1.0,1,0
+Takahiro,hogehoge@gachapin.jp,0,0,177,3,2021-03-15 18:04:11,2021-03-17 21:08:31,619.5,10.5,7,0.8809523809523809,1,-1
+na2,51122019+na2shell@users.noreply.github.com,0,0,2395,1,2021-03-17 19:52:44,2021-03-17 19:52:44,0,0,0,0,0,0
+Tom Valkeneers,tomvalkeneers@hotmail.com,0,0,940,1,2021-03-17 20:44:55,2021-03-17 20:44:55,0,0,3,0.3417085427135678,1,38

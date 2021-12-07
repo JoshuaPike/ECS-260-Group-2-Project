@@ -1,0 +1,19 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,69628,7,2018-08-19 11:51:09,2018-08-27 01:15:49,69628.0,7.0,3,1.0434782608695652,2,2
+Mr.doob,info@mrdoob.com,0,0,11005,73,2018-08-19 12:09:43,2018-08-29 08:46:07,8559.444444444443,56.77777777777777,17,8.54,10,-3
+WestLangley,WestLangley@users.noreply.github.com,0,0,137,5,2018-08-19 21:11:05,2018-08-26 18:55:55,159.83333333333334,5.833333333333334,3,3.0,3,0
+Don McCurdy,donmccurdy@google.com#don.r.mccurdy@gmail.com,0,0,1712,7,2018-08-19 15:34:30,2018-08-22 16:02:48,3994.666666666667,16.333333333333336,4,0,0,1
+Aki Rodic,aleksandar.xyz@gmail.com,0,0,110,4,2018-08-20 21:27:27,2018-08-26 20:45:11,154.0,5.6,1,1.0,1,0
+Jaakko Manninen,kschzt@gmail.com,0,0,30,3,2018-08-21 01:11:01,2018-08-21 17:57:57,0,0,0,1.0,1,0
+Gregg (Greggman/GMan) Tavares,github@greggman.com,0,0,5,1,2018-08-22 01:05:08,2018-08-22 01:05:08,0,0,0,0,0,0
+Lewy Blue,looeee@gmail.com,0,0,6,1,2018-08-21 14:07:29,2018-08-21 14:07:29,0,0,0,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,1553,12,2018-08-22 01:36:02,2018-08-26 21:30:47,2717.75,21.0,20,1.9642857142857144,3,-1
+Michael Turkeev,turkeevm@gmail.com,0,0,3,1,2018-08-22 16:53:05,2018-08-22 16:53:05,0,0,0,0,0,0
+AKI RODIC,aleksandar.xyz@gmail.com,0,0,10,1,2018-08-23 14:56:02,2018-08-23 14:56:02,0,0,0,1.0,1,0
+raub,raubtierxxx@gmail.com,1,0,116245,4,2018-08-24 15:52:47,2018-08-27 14:02:03,406857.5,14.0,0,0,0,0
+Michael Bond,mbond@adobe.com,0,0,12,1,2018-08-24 06:09:45,2018-08-24 06:09:45,0,0,0,0,0,0
+Takahiro,hogehoge@gachapin.jp,0,0,833,2,2018-08-25 16:58:10,2018-08-28 13:16:01,2915.5,7.0,1,0.42168674698795183,1,0
+06wj,06wj@163.com,0,0,124,3,2018-08-26 04:54:34,2018-08-29 20:27:43,289.33333333333337,7.0,3,2.0,2,0
+elcommie,elcommie@hotmail.com,0,0,18,1,2018-08-27 09:47:04,2018-08-27 09:47:04,0,0,1,1.0,1,0
+nicholas,wangyang33@baidu.com,0,0,27967,1,2018-08-28 23:17:06,2018-08-28 23:17:06,0,0,0,0,0,0
+Josh Patterson,josh.patterson@oculus.com,0,0,74,3,2018-08-29 04:01:50,2018-08-29 04:08:47,0,0,2,0,0,0

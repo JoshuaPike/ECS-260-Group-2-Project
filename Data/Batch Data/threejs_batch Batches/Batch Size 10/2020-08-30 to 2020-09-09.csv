@@ -1,0 +1,24 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mugen87,michael.herzog@human-interactive.org,0,0,5007,57,2020-08-30 15:29:03,2020-09-08 23:24:01,3894.333333333333,44.33333333333333,34,18.383839099421547,22,97
+WestLangley,WestLangley@users.noreply.github.com,0,0,403,13,2020-08-30 03:47:12,2020-09-07 17:37:11,352.625,11.375,5,1.0,1,-4
+Mr.doob,info@mrdoob.com,1,0,8248,57,2020-08-30 14:07:03,2020-09-08 22:04:43,6415.11111111111,44.33333333333333,15,7.5,8,3
+yomboprime,yomboprime@users.noreply.github.com,0,0,232,6,2020-08-31 01:20:51,2020-09-01 16:36:27,1624.0,42.0,2,1.0,1,0
+martinRenou,martin.renou@gmail.com,0,0,64,4,2020-08-31 17:09:42,2020-09-02 12:19:04,448.0,28.0,2,0,0,2
+SanjoSolutions,61918211+SanjoSolutions@users.noreply.github.com,0,0,8,1,2020-08-31 21:23:12,2020-08-31 21:23:12,0,0,0,0,0,0
+Michael,michael@whiteshadows.me,0,0,3,1,2020-09-01 20:23:20,2020-09-01 20:23:20,0,0,0,0,0,0
+Ian Purvis,ian@purvisresearch.com,0,0,186,1,2020-08-31 16:37:15,2020-08-31 16:37:15,0,0,21,0,0,0
+Ben,ben.voss@me.com,0,0,4,1,2020-09-02 11:34:57,2020-09-02 11:34:57,0,0,0,0,0,0
+dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,0,0,6,1,2020-09-02 17:23:46,2020-09-02 17:23:46,0,0,0,0,0,0
+felixmariotto,46470486+felixmariotto@users.noreply.github.com,0,0,2,1,2020-09-02 23:29:35,2020-09-02 23:29:35,0,0,1,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,497,6,2020-09-03 00:56:17,2020-09-08 14:54:29,695.8,8.4,0,0,0,0
+Luis Fraguada,fraguada@gmail.com,0,0,256,8,2020-09-03 09:08:27,2020-09-09 01:19:04,358.4,11.2,2,0.1111111111111111,1,0
+Jeff Pyke,jpyke@zoox.com,0,0,32,2,2020-09-03 07:51:36,2020-09-04 01:59:19,0,0,4,1.0,1,0
+Chuck Driesler,cdriesler.iv@gmail.com,0,0,5,1,2020-09-03 14:29:59,2020-09-03 14:29:59,0,0,0,0.5,1,0
+Takahiro,hogehoge@gachapin.jp,0,0,293,7,2020-09-03 18:05:28,2020-09-07 06:59:18,683.6666666666667,16.333333333333336,0,0.675,1,6
+Giulio Zausa,giulio.zausa@smc.it,0,0,7,1,2020-09-04 21:26:41,2020-09-04 21:26:41,0,0,0,0,0,0
+Sean Bradley,seanwasere@gmail.com,0,0,66,1,2020-09-05 14:36:39,2020-09-05 14:36:39,0,0,0,0,0,0
+Luis E. Fraguada,luis@mcneel.com,0,0,5,1,2020-09-07 08:52:15,2020-09-07 08:52:15,0,0,0,0,0,0
+Dee Roberts,deerob4@gmail.com,0,0,2,1,2020-09-07 07:41:34,2020-09-07 07:41:34,0,0,0,0,0,0
+linbingquan,695601626@qq.com,0,0,122,1,2020-09-08 08:23:37,2020-09-08 08:23:37,0,0,0,0,0,0
+Max,mhuan13@gmail.com,0,0,10,1,2020-09-08 08:48:06,2020-09-08 08:48:06,0,0,0,0,0,0
+ycw,ycw7788@gmail.com,0,0,5,1,2020-09-09 11:46:07,2020-09-09 11:46:07,0,0,0,0,0,0

@@ -1,0 +1,17 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Scott Bedard,scottbedard@users.noreply.github.com,0,0,2,1,2020-03-26 10:40:31,2020-03-26 10:40:31,0,0,0,0,0,0
+Mr.doob,info@mrdoob.com,0,0,7369,50,2020-03-27 22:24:50,2020-04-06 07:00:00,5731.444444444444,38.888888888888886,6,4.634920634920634,6,6
+Mugen87,michael.herzog@human-interactive.org,0,0,1479,19,2020-03-27 13:49:23,2020-04-05 19:29:45,1150.3333333333333,14.777777777777777,35,8.1,9,41
+WestLangley,WestLangley@users.noreply.github.com,0,0,108,5,2020-03-27 19:46:15,2020-04-02 09:34:02,151.2,7.0,19,0.9714285714285714,2,0
+Christine Morten,mortenc@amazon.com,0,0,237,4,2020-03-30 03:30:47,2020-04-03 08:01:39,414.75,7.0,6,0.4,1,1
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,2,1,2020-03-30 04:46:20,2020-03-30 04:46:20,0,0,1,0,0,0
+samfoster,sam.foster@advancednavigation.com.au,0,0,191,4,2020-03-31 20:41:04,2020-04-03 16:59:07,668.5,14.0,4,3.0,3,4
+Michael Herzog,michael.herzog@human-interactive.org,0,0,8,2,2020-03-31 18:44:12,2020-04-05 13:25:02,14.0,3.5,0,0,0,0
+rogangriffin,rogangriffin@gmail.com,0,0,9,1,2020-04-01 07:53:26,2020-04-01 07:53:26,0,0,1,0,0,1
+Olli Etuaho,olli.etuaho@gmail.com,0,0,3,1,2020-04-03 20:20:37,2020-04-03 20:20:37,0,0,0,0,0,0
+munrocket@pm.me,munrocket@pm.me,0,0,3,1,2020-04-04 00:02:50,2020-04-04 00:02:50,0,0,1,0,0,0
+Andrew Wason,rectalogic@rectalogic.com,0,0,2,1,2020-04-03 08:16:20,2020-04-03 08:16:20,0,0,0,0,0,0
+EthanHermsey,ivanhermse@gmail.com,0,0,275,4,2020-04-04 00:45:25,2020-04-05 21:53:05,1925.0,28.0,3,1.0,1,0
+Kai Salmen,myself@kaisalmen.de,0,0,7,1,2020-04-04 23:53:05,2020-04-04 23:53:05,0,0,1,0,0,0
+Bug-Reaper,llama@soundsafari.io,0,0,20,2,2020-04-04 14:17:14,2020-04-04 16:28:47,0,0,2,0,0,4
+yomboprime,yomboprime@users.noreply.github.com,0,0,4,1,2020-04-05 20:33:05,2020-04-05 20:33:05,0,0,1,0,0,0

@@ -1,0 +1,16 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Don McCurdy,don.r.mccurdy@gmail.com#donmccurdy@google.com,0,0,477,7,2020-03-16 15:08:51,2020-03-23 02:48:10,556.5,8.166666666666668,6,2.1463414634146343,3,1
+Mugen87,michael.herzog@human-interactive.org,0,0,964,23,2020-03-17 18:24:29,2020-03-26 14:08:02,843.5,20.125,24,5.666666666666667,6,-6
+WestLangley,WestLangley@users.noreply.github.com,0,0,12,1,2020-03-17 14:19:53,2020-03-17 14:19:53,0,0,0,0,0,0
+Mr.doob,info@mrdoob.com,0,0,13106,45,2020-03-19 04:54:14,2020-03-26 08:55:51,13106.0,45.0,23,4.188311688311688,6,10
+linbingquan,695601626@qq.com,0,0,2,1,2020-03-19 05:24:20,2020-03-19 05:24:20,0,0,0,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,414,13,2020-03-18 15:54:10,2020-03-23 14:22:07,724.5,22.75,0,0,0,0
+munrocket@pm.me,munrocket@pm.me,0,0,125,1,2020-03-19 22:07:15,2020-03-19 22:07:15,0,0,0,0,0,0
+Steven An,stevenan@google.com,0,0,113,4,2020-03-20 11:44:21,2020-03-23 09:16:30,395.5,14.0,1,1.0,1,0
+Olli Etuaho,olli.etuaho@gmail.com,0,0,141,1,2020-03-21 16:48:35,2020-03-21 16:48:35,0,0,8,0.4,1,0
+Arseny Kapoulkine,arseny.kapoulkine@gmail.com,0,0,49,2,2020-03-21 05:38:48,2020-03-21 05:44:15,0,0,4,1.0,1,1
+Thom Smyth,thomas.smyth@oxbotica.com,0,0,4,1,2020-03-22 12:05:39,2020-03-22 12:05:39,0,0,0,0,0,0
+webglzhang,35362084+webglzhang@users.noreply.github.com#493458883@qq.com,1,0,183869,4,2020-03-23 06:49:29,2020-03-27 06:52:36,321770.75,7.0,4,0,0,0
+Maxime Khoy,windkomo@gmail.com,0,0,2,1,2020-03-23 20:01:00,2020-03-23 20:01:00,0,0,0,0,0,0
+Will Stott,willstott101@gmail.com,0,0,2,1,2020-03-25 14:27:27,2020-03-25 14:27:27,0,0,0,0,0,0
+Jacky Liu,jjkka.132@gmail.com,0,0,2,1,2020-03-27 16:43:12,2020-03-27 16:43:12,0,0,1,0,0,0

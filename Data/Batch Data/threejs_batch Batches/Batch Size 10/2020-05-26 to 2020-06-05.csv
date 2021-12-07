@@ -1,0 +1,24 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Rawr,DefinitelyMaybe@users.noreply.github.com,0,0,563,6,2020-05-27 00:07:47,2020-06-03 07:38:23,563.0,6.0,3,0,0,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,125,2,2020-05-25 18:35:45,2020-05-30 17:18:21,218.75,3.5,6,0.75,1,0
+Shai Ghelberg,37291459+bergden-resonai@users.noreply.github.com,0,0,5,2,2020-05-26 13:31:04,2020-05-26 14:55:24,0,0,0,1.0,1,0
+Mugen87,michael.herzog@human-interactive.org,1,0,123167,33,2020-05-26 13:33:13,2020-06-04 12:41:24,107771.125,28.875,240,12.21384926063449,15,2
+Michael Herzog,michael.herzog@human-interactive.org,0,0,72,6,2020-05-26 14:21:00,2020-06-04 12:24:59,63.0,5.25,0,0,0,0
+Mr.doob,info@mrdoob.com,0,0,30936,90,2020-05-26 06:32:18,2020-06-04 09:56:20,24061.333333333332,70.0,185,10.881523363878598,13,9
+Don McCurdy,donmccurdy@google.com,0,0,4,1,2020-05-26 15:29:50,2020-05-26 15:29:50,0,0,1,1.0,1,1
+linbingquan,695601626@qq.com,0,0,231,13,2020-05-28 17:18:25,2020-06-04 07:12:03,269.5,15.166666666666668,2,0,0,0
+nqdy666,nianqin.vip@gmail.com,0,0,8,2,2020-05-29 02:07:01,2020-05-28 08:32:49,56.0,14.0,1,0,0,0
+Guillaume Fradin,guillaumefradin@gmail.com,0,0,1,1,2020-05-28 14:14:28,2020-05-28 14:14:28,0,0,0,0,0,0
+Vladyslav,vladyslav.ilnytskyi@gmail.com,0,0,2,1,2020-05-29 17:24:45,2020-05-29 17:24:45,0,0,0,0,0,0
+Xavier Willemin,xavier@slashnet.ch,0,0,2,1,2020-05-29 23:28:44,2020-05-29 23:28:44,0,0,0,0,0,0
+Michael Fasani,michaelfasani@gmail.com,0,0,9,1,2020-05-30 13:06:39,2020-05-30 13:06:39,0,0,0,0,0,0
+Wouter Vanmontfort,git.wouter@vanmontfort.be,0,0,60,2,2020-05-30 19:46:37,2020-05-30 19:46:37,0,0,1,1.15625,2,0
+Nate Stringham,44071655+nstringham@users.noreply.github.com,0,0,2,1,2020-05-30 15:07:33,2020-05-30 15:07:33,0,0,0,0,0,0
+Richard Janicek,rjanicek@gmail.com,0,0,2,1,2020-05-30 16:12:37,2020-05-30 16:12:37,0,0,0,0,0,0
+DefinitelyMaybe,rekked.noraa@gmail.com,0,0,75,1,2020-06-02 03:54:31,2020-06-02 03:54:31,0,0,0,0,0,0
+Marco Fugaro,marco.fugaro@gmail.com,0,0,10,1,2020-06-03 00:24:28,2020-06-03 00:24:28,0,0,0,0,0,0
+Senya Pugach,upisfree@artlebedev.ru,0,0,102,1,2020-06-04 02:11:13,2020-06-04 02:11:13,0,0,2,0,0,14
+ycw,ycw7788@gmail.com,0,0,14,4,2020-06-04 10:13:39,2020-06-05 06:13:28,0,0,0,0,0,0
+munrocket@pm.me,munrocket@pm.me,0,0,48,3,2020-06-04 03:34:56,2020-06-05 04:19:44,336.0,21.0,2,1.0,1,0
+gero3,jeroen-876@hotmail.com,0,0,160,10,2020-06-04 02:12:53,2020-06-05 03:29:09,1120.0,70.0,65,1.0,1,0
+Filipp Keks,filipp.keks@trimble.com,0,0,17,4,2020-06-04 15:41:28,2020-06-04 16:17:17,0,0,0,0,0,0

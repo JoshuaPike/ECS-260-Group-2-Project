@@ -1,0 +1,21 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Don McCurdy,don.r.mccurdy@gmail.com#donmccurdy@google.com,0,0,1843,10,2018-01-06 10:28:06,2018-01-16 03:17:54,1433.4444444444443,7.777777777777777,7,1.0,1,0
+Takahiro,hogehoge@gachapin.jp,0,0,92,4,2018-01-08 09:36:16,2018-01-16 08:33:55,92.0,4.0,4,0,0,0
+Lewy Blue,looeee@gmail.com,1,0,181685,14,2018-01-08 19:21:06,2018-01-12 02:29:29,423931.6666666667,32.66666666666667,5,0.6551724137931034,1,1
+Mugen87,michael.herzog@human-interactive.org,0,0,2800,19,2018-01-08 12:31:47,2018-01-16 14:23:45,2450.0,16.625,13,3.7024390243902436,4,-15
+Richard Monette,richard.monette@shopify.com,0,0,106,1,2018-01-08 09:03:00,2018-01-08 09:03:00,0,0,1,0.34146341463414637,1,0
+WestLangley,dat1234@gmail.com,0,0,290,3,2018-01-08 09:43:38,2018-01-16 06:52:18,290.0,3.0,2,0,0,1
+sunag,contact@sunag.com.br,0,0,3563,7,2018-01-08 15:59:44,2018-01-09 14:31:43,0,0,57,2.6978830470241193,4,8
+Mr.doob,info@mrdoob.com,0,0,163522,50,2018-01-08 06:15:16,2018-01-16 07:29:20,143081.75,43.75,3,4.36923076923077,5,-53
+Alexander Buzin,alexbuzin88@gmail.com,0,0,2,1,2018-01-09 19:02:02,2018-01-09 19:02:02,0,0,0,0,0,0
+matthias-w,void15@web.de,0,0,165,3,2018-01-10 10:18:00,2018-01-12 17:45:47,577.5,10.5,4,2.0,2,16
+Jürgen Ebert,juergen.ebert@exedio.com,0,0,32991,1,2018-01-11 11:43:26,2018-01-11 11:43:26,0,0,32,0,0,-252
+Pascal Häusler,p.haeusler@cadenas.de,0,0,13,1,2018-01-11 16:10:44,2018-01-11 16:10:44,0,0,1,0,0,0
+makc,makc.the.great@gmail.com,0,0,3,1,2018-01-11 20:01:30,2018-01-11 20:01:30,0,0,1,0,0,-1
+Michael Herzog,michael.herzog@human-interactive.org,0,0,5,2,2018-01-12 18:40:09,2018-01-13 17:14:59,0,0,0,0,0,0
+aardgoose,angus.sawyer@gmail.com,0,0,23,1,2018-01-12 21:24:04,2018-01-12 21:24:04,0,0,2,0,0,0
+James D. Morris,jamesdavidmorris@gmail.com,0,0,4,1,2018-01-13 02:18:40,2018-01-13 02:18:40,0,0,0,0,0,0
+John Marinelli,john.marinelli.dev@gmail.com,0,0,28,1,2018-01-14 14:46:10,2018-01-14 14:46:10,0,0,0,0,0,0
+eastpiger,lvwt@shanghaitech.edu.cn,0,0,15,1,2018-01-17 01:20:20,2018-01-17 01:20:20,0,0,1,0,0,0
+Pelle Johnsen,p.johnsen@globalscanning.com,0,0,21,1,2018-01-16 15:15:29,2018-01-16 15:15:29,0,0,0,0.6,1,0
+Sneha Belkhale,sbelkhale@yahoo.com,0,0,511,1,2018-01-16 03:56:27,2018-01-16 03:56:27,0,0,0,0,0,0

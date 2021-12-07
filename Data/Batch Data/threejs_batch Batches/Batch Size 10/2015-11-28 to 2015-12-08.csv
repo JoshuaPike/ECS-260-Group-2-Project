@@ -1,0 +1,15 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,1,0,4046,53,2015-11-27 14:34:52,2015-12-07 13:57:41,3146.8888888888887,41.22222222222222,21,11.894375504439063,14,-4
+simonThiele,simon.thiele@instana.com,0,0,160,14,2015-11-29 11:57:23,2015-12-07 15:52:51,140.0,12.25,10,5.0,5,3
+Pontus Leitzler,leitzler@users.noreply.github.com,0,0,5,1,2015-11-29 21:47:45,2015-11-29 21:47:45,0,0,0,1.0,1,0
+Joshua Koo,zz85nus@gmail.com,0,0,74,5,2015-11-30 17:49:03,2015-12-01 14:27:25,0,0,3,1.0,1,0
+WestLangley,dat1234@gmail.com,0,0,100,3,2015-11-29 17:47:53,2015-12-05 05:09:11,140.0,4.2,1,0,0,0
+Daniel Hritzkiv,daniel.hritzkiv@gmail.com,0,0,53,6,2015-11-30 13:32:19,2015-12-03 10:19:31,185.5,21.0,1,0.5,1,0
+Greg Tatum,tatum.creative@gmail.com,0,0,30,1,2015-12-02 05:26:41,2015-12-02 05:26:41,0,0,0,0,0,0
+Bertrand Fan,bertfan@yahoo-inc.com,0,0,2,1,2015-12-02 03:31:06,2015-12-02 03:31:06,0,0,1,0,0,0
+Jaume Sanchez,the.spite@gmail.com,0,0,93692,1,2015-12-03 01:18:53,2015-12-03 01:18:53,0,0,0,0,0,0
+leitzler,leitzler@gmail.com,0,0,31,3,2015-12-04 01:20:23,2015-12-04 01:38:41,0,0,1,0,0,2
+James Baicoianu,james_github@baicoianu.com,0,0,32,2,2015-12-04 08:39:30,2015-12-04 08:46:50,0,0,0,0,0,0
+SUNAG,contact@sunag.com.br,0,0,1558,4,2015-12-06 14:05:45,2015-12-06 16:03:53,0,0,7,0.6710182767624021,1,8
+makc,makc.the.great@gmail.com,0,0,6,1,2015-12-07 04:23:43,2015-12-07 04:23:43,0,0,1,0,0,0
+Boris Smus,boris@smus.com,0,0,41,2,2015-12-07 03:12:47,2015-12-07 03:14:52,0,0,1,1.0,1,-2

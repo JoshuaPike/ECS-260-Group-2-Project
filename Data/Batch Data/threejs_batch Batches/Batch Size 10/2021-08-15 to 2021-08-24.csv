@@ -1,0 +1,16 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+WestLangley,WestLangley@users.noreply.github.com,0,0,873,22,2021-08-15 15:02:41,2021-08-24 16:49:17,679.0,17.11111111111111,28,0,0,0
+puxiao,yangpuxiao@gmail.com,0,0,127,2,2021-08-15 15:06:47,2021-08-15 15:07:09,0,0,0,0,0,0
+Mr.doob,info@mrdoob.com,1,0,2328,20,2021-08-15 15:17:39,2021-08-24 18:00:10,1810.6666666666665,15.555555555555554,30,2.457767722473605,4,-12
+Felix Mariotto,46470486+felixmariotto@users.noreply.github.com,0,0,124,1,2021-08-15 20:20:54,2021-08-15 20:20:54,0,0,0,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,103,9,2021-08-16 13:15:12,2021-08-23 21:40:47,103.0,9.0,6,2.0,2,0
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,14,2,2021-08-17 10:47:38,2021-08-20 17:37:03,32.66666666666667,4.666666666666667,1,0,0,0
+Arseny Kapoulkine,arseny.kapoulkine@gmail.com,0,0,10,1,2021-08-19 15:45:12,2021-08-19 15:45:12,0,0,0,0,0,2
+linbingquan,695601626@qq.com,0,0,6,1,2021-08-19 15:47:57,2021-08-19 15:47:57,0,0,0,0,0,0
+Ithamar R. Adema,ithamar@upgrade-android.com,0,0,4,1,2021-08-19 15:48:30,2021-08-19 15:48:30,0,0,1,0,0,-1
+Antonio González Viegas,antoniogviegas@hotmail.com,0,0,10828,1,2021-08-19 16:05:08,2021-08-19 16:05:08,0,0,2,0.9437652811735942,1,1
+Takahiro,hogehoge@gachapin.jp,0,0,159,1,2021-08-19 17:26:18,2021-08-19 17:26:18,0,0,4,0,0,-2
+GiuseppeRaso,54646766+GiuseppeRaso@users.noreply.github.com,0,0,13,1,2021-08-20 17:25:33,2021-08-20 17:25:33,0,0,1,0,0,0
+Ondřej Španěl,OndrejSpanel@users.noreply.github.com,0,0,12,3,2021-08-22 01:42:49,2021-08-22 01:45:20,0,0,2,0,0,0
+Gm,zakuzzdj@gmail.com,0,0,9,1,2021-08-22 13:34:06,2021-08-22 13:34:06,0,0,0,0,0,0
+sunag,jcdeconto@igalia.com,0,0,1720,1,2021-08-24 16:43:09,2021-08-24 16:43:09,0,0,32,0.60431654676259,1,20

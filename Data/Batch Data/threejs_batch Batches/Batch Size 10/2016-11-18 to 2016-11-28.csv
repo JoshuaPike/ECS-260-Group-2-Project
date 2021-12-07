@@ -1,0 +1,15 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+pjhjohn,pjhjohn@gmail.com,0,0,0,2,2016-11-19 03:16:38,2016-11-21 19:45:41,0.0,7.0,0,0,0,0
+James Baicoianu,james_github@baicoianu.com,0,0,33,2,2016-11-17 19:25:05,2016-11-23 13:37:25,46.199999999999996,2.8,1,0,0,-1
+aardgoose,angus.sawyer@gmail.com,0,0,523,16,2016-11-18 14:48:03,2016-11-23 21:40:10,732.1999999999999,22.4,7,1.0,1,0
+Mr.doob,info@mrdoob.com,0,0,32575,84,2016-11-18 01:02:43,2016-11-27 01:21:08,25336.11111111111,65.33333333333333,16,12.397254901960785,14,-118
+takahiro,hogehoge@gachapin.jp,0,0,13577,1,2016-11-18 09:14:22,2016-11-18 09:14:22,0,0,14,0,0,0
+Takahiro,hogehoge@gachapin.jp,0,0,27769,22,2016-11-18 13:22:15,2016-11-25 06:00:00,32397.166666666668,25.666666666666668,0,10.371428571428572,11,18
+sunag,contact@sunag.com.br,0,0,9057,9,2016-11-20 00:35:02,2016-11-22 19:06:58,31699.5,31.5,7,4.709626842270304,5,113
+Andreas,polygontwist@users.noreply.github.com,0,0,88,1,2016-11-20 13:21:15,2016-11-20 13:21:15,0,0,1,0,0,9
+Hectate,nathaniel.mitchell@gmail.com,0,0,220,8,2016-11-20 04:22:23,2016-11-20 06:04:10,0,0,2,0,0,4
+Mugen87,michael.herzog@human-interactive.org,0,0,765,11,2016-11-20 20:09:37,2016-11-24 12:48:40,1785.0,25.666666666666668,7,4.068181818181818,5,-4
+Adrian Stutz,adrian@sttz.ch,0,0,4,1,2016-11-21 13:41:33,2016-11-21 13:41:33,0,0,1,0,0,0
+looeee,looeee@gmail.com,0,0,48618,37,2016-11-22 10:44:28,2016-11-27 23:42:13,68065.2,51.8,2,1.0,1,-1
+Kyle Larson,klarson1331@gmail.com,0,0,29055,6,2016-11-23 06:22:10,2016-11-23 19:01:55,0,0,1,1.8108996946206246,3,12
+Nick Gerleman,nick@nickgerleman.com,0,0,106,1,2016-11-25 13:17:54,2016-11-25 13:17:54,0,0,3,0,0,0

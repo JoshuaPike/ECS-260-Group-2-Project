@@ -1,0 +1,22 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Michael Herzog,michael.herzog@human-interactive.org,0,0,14,1,2016-05-26 02:30:52,2016-05-26 02:30:52,0,0,0,1.0,1,0
+Jonne Nauha,jonne.nauha@adminotech.com,0,0,41,1,2016-05-26 11:40:42,2016-05-26 11:40:42,0,0,1,1.0,1,7
+Mr.doob,info@mrdoob.com,1,1,11726,41,2016-05-26 11:44:23,2016-06-03 16:08:19,10260.25,35.875,92,16.460758691692405,18,-2
+aardgoose,angus.sawyer@gmail.com,0,0,440,4,2016-05-27 05:00:33,2016-05-30 11:42:43,1026.6666666666667,9.333333333333334,2,1.0,1,0
+Ben Houston (Clara.io),ben@exocortex.com,0,0,327,3,2016-05-27 05:42:40,2016-06-01 14:02:13,457.8,4.2,2,2.0,2,-1
+Olivier Chatry,olivierchatry@users.noreply.github.com,0,0,5,1,2016-05-27 07:04:51,2016-05-27 07:04:51,0,0,0,1.0,1,0
+rfm1201,rfm1201@users.noreply.github.com,0,0,13,2,2016-05-28 02:02:56,2016-05-30 11:40:19,45.5,7.0,2,2.0,2,1
+Luis Arturo Pacheco,luigipach@gmail.com,0,0,2,1,2016-05-30 11:39:08,2016-05-30 11:39:08,0,0,0,0,0,0
+Juan Jose Luna Espinosa,yomboprime@users.noreply.github.com,0,0,1915,1,2016-05-31 03:37:29,2016-05-31 03:37:29,0,0,2,0.11627906976744186,1,8
+Sandro Martis,sandro@sandromartis.com,0,0,2,1,2016-05-31 08:07:58,2016-05-31 08:07:58,0,0,0,0,0,0
+Takahiro,hogehoge@gachapin.jp,0,0,2,1,2016-05-31 15:09:35,2016-05-31 15:09:35,0,0,1,0,0,0
+razh,razh@users.noreply.github.com,0,0,1,1,2016-05-31 15:12:03,2016-05-31 15:12:03,0,0,0,1.0,1,0
+Eli Grey,~@eligrey.com,0,0,14,1,2016-05-31 15:53:44,2016-05-31 15:53:44,0,0,2,0,0,0
+MrRar,Mr.rar1998@gmail.com,0,0,4,1,2016-06-01 04:50:17,2016-06-01 04:50:17,0,0,0,0,0,0
+Michael Blix,mkeblx@gmail.com,0,0,12,1,2016-06-01 13:43:21,2016-06-01 13:43:21,0,0,0,0,0,0
+Alex Goldring,Usnul@users.noreply.github.com,0,0,17,1,2016-06-02 06:20:50,2016-06-02 06:20:50,0,0,1,0,0,0
+Alexander Rose,alexander.rose@weirdbyte.de,0,0,140,1,2016-06-02 06:30:47,2016-06-02 06:30:47,0,0,1,1.0,1,0
+Brian,briancraigok@gmail.com,0,0,5399,1,2016-06-02 07:44:29,2016-06-02 07:44:29,0,0,8,1.0,1,-171
+Anthony BRIAND,anthony.briand@solicis.fr,0,0,2,1,2016-06-03 02:43:18,2016-06-03 02:43:18,0,0,1,0,0,0
+Alan Smithee,ggnore.alan.smithee@gmail.com,0,0,22,2,2016-06-03 03:30:02,2016-06-03 03:43:25,0,0,3,0,0,0
+Sam Matthews,smatthews1999@gmail.com,0,0,3,1,2016-06-03 05:23:19,2016-06-03 05:23:19,0,0,0,1.0,1,0

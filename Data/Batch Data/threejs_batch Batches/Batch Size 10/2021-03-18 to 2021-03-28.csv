@@ -1,0 +1,17 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Simon Date,simon@adaptfreelancer.com,0,0,16,1,2021-03-18 14:22:39,2021-03-18 14:22:39,0,0,2,0,0,2
+Mr.doob,info@mrdoob.com,1,0,8475,23,2021-03-18 14:25:07,2021-03-27 20:14:54,6591.666666666666,17.88888888888889,11,2.341666666666667,3,1
+Michael Herzog,michael.herzog@human-interactive.org,0,0,1754,18,2021-03-18 15:13:26,2021-03-27 13:09:34,1534.75,15.75,18,7.0,7,8
+Jake Zhu,62495388+Vyse12138@users.noreply.github.com,0,0,2,1,2021-03-18 15:15:26,2021-03-18 15:15:26,0,0,0,0,0,0
+Guillaume Fradin,guillaumefradin@gmail.com,0,0,3,1,2021-03-18 18:47:39,2021-03-18 18:47:39,0,0,2,0,0,0
+Mark Nevill,mark.nevill@gmail.com,0,0,48,1,2021-03-21 17:53:00,2021-03-21 17:53:00,0,0,1,1.0,1,0
+ycw,ycw7788@gmail.com,0,0,26,2,2021-03-23 12:06:45,2021-03-23 23:04:55,0,0,0,1.0,1,0
+Olli Etuaho,olli.etuaho@gmail.com,0,0,8,1,2021-03-23 14:39:38,2021-03-23 14:39:38,0,0,0,0,0,0
+Arseny Kapoulkine,arseny.kapoulkine@gmail.com,0,0,10,1,2021-03-25 07:45:06,2021-03-25 07:45:06,0,0,1,0,0,1
+Juan Jose Luna Espinosa,yomboprime@users.noreply.github.com,0,0,4,2,2021-03-25 07:48:01,2021-03-25 10:02:59,0,0,0,0,0,0
+Michael Harvey,michael4d45@gmail.com,0,0,3,1,2021-03-25 11:44:01,2021-03-25 11:44:01,0,0,2,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,136,1,2021-03-25 16:44:01,2021-03-25 16:44:01,0,0,0,0,0,14
+chubei,914745487@qq.com,0,0,93,1,2021-03-26 21:22:45,2021-03-26 21:22:45,0,0,1,0.09090909090909091,1,0
+Vis,gonnavis@163.com,0,0,388,1,2021-03-27 08:03:59,2021-03-27 08:03:59,0,0,3,0,0,31
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,2,1,2021-03-27 08:04:40,2021-03-27 08:04:40,0,0,1,0,0,0
+aardgoose,angus.sawyer@gmail.com,0,0,2,1,2021-03-27 18:36:59,2021-03-27 18:36:59,0,0,1,1.0,1,0

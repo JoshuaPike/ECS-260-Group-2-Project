@@ -1,0 +1,14 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,1,0,63571,38,2017-05-26 10:31:13,2017-06-06 03:06:19,44499.7,26.599999999999998,30,9.767025089605735,11,-3
+Mugen87,michael.herzog@human-interactive.org,0,0,444,6,2017-05-27 12:32:53,2017-06-05 13:27:12,345.3333333333333,4.666666666666666,2,1.8149560117302053,3,8
+aardgoose,angus.sawyer@gmail.com,0,0,136,9,2017-05-28 12:06:24,2017-05-30 10:43:22,952.0,63.0,3,0,0,0
+WestLangley,dat1234@gmail.com,0,0,68,2,2017-05-28 16:42:47,2017-05-28 17:33:11,0,0,0,1.0,1,1
+Aidan Taylor,aidantwothousand@gmail.com,0,0,4,2,2017-05-29 10:52:36,2017-05-30 09:08:54,0,0,0,0,0,0
+TSzyszko,TSzyszko@slb.com,0,0,4,1,2017-05-30 16:47:46,2017-05-30 16:47:46,0,0,0,0,0,0
+Tom Szyszko,tszyszko2@gmail.com,0,0,8,2,2017-05-30 17:25:51,2017-05-30 17:26:53,0,0,2,0,0,0
+topherbuckley,topherbuckley@gmail.com,0,0,20,2,2017-06-01 00:45:35,2017-06-01 00:47:29,0,0,0,0,0,0
+Kaixiang Miao,kmiao@apple.com,0,0,2,1,2017-06-01 06:47:20,2017-06-01 06:47:20,0,0,0,0,0,0
+LebedenkoN,nadiykalebedenko@gmail.com,0,0,29,4,2017-06-02 14:17:02,2017-06-02 17:03:28,0,0,1,2.0,2,0
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,59380,7,2017-06-03 12:49:06,2017-06-03 13:17:33,0,0,1,0.1111111111111111,1,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,8,1,2017-06-04 23:45:13,2017-06-04 23:45:13,0,0,0,0,0,0
+06wj,06wj@163.com,0,0,12,1,2017-06-06 00:54:04,2017-06-06 00:54:04,0,0,0,1.0,1,0

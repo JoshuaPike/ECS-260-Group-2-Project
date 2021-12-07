@@ -1,0 +1,17 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mugen87,michael.herzog@human-interactive.org,0,0,1315,17,2017-08-10 17:28:59,2017-08-19 19:59:18,1022.7777777777777,13.222222222222221,7,0,0,9
+Daniel Hritzkiv,daniel.hritzkiv@gmail.com,0,0,20,5,2017-08-10 07:58:26,2017-08-18 14:04:42,17.5,4.375,1,2.0,2,-1
+Mr.doob,info@mrdoob.com,0,0,17237,61,2017-08-10 08:05:21,2017-08-18 10:21:21,15082.375,53.375,18,10.780701754385966,12,6
+Jessica Hayley,hey@jayhay.me,0,0,4,1,2017-08-10 03:35:53,2017-08-10 03:35:53,0,0,0,0,0,0
+Fernando Serrano,fernandojsg@gmail.com,0,0,5472,34,2017-08-11 18:41:08,2017-08-17 15:14:19,7660.8,47.6,1,8.18301481127568,10,41
+Kai Salmen,myself@kaisalmen.de#kai.salmen@scisys.de,0,0,527,5,2017-08-12 02:19:34,2017-08-15 16:08:14,1229.6666666666667,11.666666666666668,2,1.0,1,4
+Don McCurdy,don.r.mccurdy@gmail.com#donmccurdy@google.com,0,0,3371,6,2017-08-11 15:23:49,2017-08-15 13:29:56,7865.666666666667,14.0,5,2.451201330256729,4,-63
+Jiulong Hu,me@hujiulong.com,0,0,2,1,2017-08-13 02:32:25,2017-08-13 02:32:25,0,0,0,0,0,0
+e,979486266@qq.com,0,0,119,2,2017-08-13 19:42:57,2017-08-13 19:49:22,0,0,1,1.0833333333333333,2,-1
+Takahiro,hogehoge@gachapin.jp,0,0,54,3,2017-08-14 06:46:36,2017-08-16 17:54:35,189.0,10.5,1,0,0,2
+WestLangley,dat1234@gmail.com,0,0,29,1,2017-08-13 15:48:16,2017-08-13 15:48:16,0,0,2,1.0,1,-1
+06wj,06wj@163.com,0,0,2,1,2017-08-14 22:47:52,2017-08-14 22:47:52,0,0,1,0,0,0
+Lewy Blue,looeee@gmail.com,0,0,23,2,2017-08-16 18:46:31,2017-08-20 00:32:11,53.66666666666667,4.666666666666667,0,0.5555555555555556,1,1
+jamesgk,jamesgk19@gmail.com,0,0,7,1,2017-08-16 04:02:45,2017-08-16 04:02:45,0,0,0,0,0,0
+dmarcos,diego.marcos@gmail.com,0,0,2,1,2017-08-16 16:43:00,2017-08-16 16:43:00,0,0,1,0,0,0
+Calvin Huang,c@lvin.me,0,0,2,1,2017-08-17 07:30:45,2017-08-17 07:30:45,0,0,0,0,0,0

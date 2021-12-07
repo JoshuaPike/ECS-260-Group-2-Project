@@ -1,0 +1,15 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,0,6948,24,2020-10-09 10:19:28,2020-10-18 20:29:33,5404.0,18.666666666666664,5,0,0,14
+David Peicho,david.peicho@gmail.com,0,0,14,1,2020-10-09 12:34:00,2020-10-09 12:34:00,0,0,0,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,23486,18,2020-10-09 15:48:39,2020-10-17 13:19:07,23486.0,18.0,18,2.5463258785942493,3,-7
+linbingquan,695601626@qq.com,0,0,1377,5,2020-10-10 08:31:23,2020-10-10 15:14:45,0,0,0,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,18158,11,2020-10-09 22:29:18,2020-10-17 13:23:07,18158.0,11.0,0,0,0,0
+yellowtailfan,36425185+yellowtailfan@users.noreply.github.com,0,0,572,10,2020-10-11 02:28:21,2020-10-18 06:15:05,572.0,10.0,5,2.3636363636363638,3,6
+wal0x,h.medwail@gmail.com,0,0,1,1,2020-10-12 20:22:58,2020-10-12 20:22:58,0,0,0,0,0,0
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,18,1,2020-10-12 16:05:57,2020-10-12 16:05:57,0,0,2,0.6666666666666666,1,0
+Don McCurdy,donmccurdy@google.com,0,0,6,1,2020-10-13 02:09:41,2020-10-13 02:09:41,0,0,0,1.0,1,0
+Arseny Kapoulkine,arseny.kapoulkine@gmail.com,0,0,12505,12,2020-10-13 11:55:49,2020-10-16 08:50:58,43767.5,42.0,4,1.7914155700405856,2,28
+tsaockham,tsa@ockhamts.com,0,0,12,2,2020-10-14 17:41:58,2020-10-14 20:09:48,0,0,2,0,0,0
+Devansh Patil,70676380+subtra3t@users.noreply.github.com,0,0,1,1,2020-10-17 20:50:14,2020-10-17 20:50:14,0,0,0,0,0,0
+djytw,djytw@live.com,0,0,1,1,2020-10-17 19:04:09,2020-10-17 19:04:09,0,0,0,0,0,0
+codedeep,codedeep@hotmail.com,0,0,18,1,2020-10-17 21:11:18,2020-10-17 21:11:18,0,0,4,0,0,0

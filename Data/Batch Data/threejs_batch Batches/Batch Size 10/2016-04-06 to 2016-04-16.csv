@@ -1,0 +1,19 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Michael Herzog,michael.herzog@human-interactive.org,0,0,276,5,2016-04-06 02:14:10,2016-04-11 23:35:05,386.4,7.0,17,0.6666666666666666,1,4
+Ben Houston (Clara.io),ben@exocortex.com,0,0,1377,10,2016-04-06 23:46:50,2016-04-15 13:29:17,1204.875,8.75,13,2.0694444444444446,3,6
+tschw,tschw@users.noreply.github.com,0,0,3556,8,2016-04-07 02:10:17,2016-04-15 13:05:33,3111.5,7.0,16,2.207792207792208,3,59
+aardgoose,angus.sawyer@gmail.com,0,0,100,5,2016-04-07 02:18:21,2016-04-09 12:05:22,350.0,17.5,1,0,0,0
+Zach Koch,ezekeal@gmail.com,0,0,100,1,2016-04-07 02:20:40,2016-04-07 02:20:40,0,0,0,0,0,0
+RavenWorks,omgitsraven@gmail.com,0,0,196,1,2016-04-07 02:21:10,2016-04-07 02:21:10,0,0,0,0,0,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,296,8,2016-04-07 11:24:30,2016-04-15 13:04:38,259.0,7.0,2,1.5454545454545454,2,0
+Mr.doob,info@mrdoob.com,1,0,6526,21,2016-04-07 11:26:36,2016-04-12 23:36:56,9136.4,29.4,8,5.908116627265564,8,82
+panlina,default@lumjsoft.com,0,0,250,1,2016-04-08 17:15:37,2016-04-08 17:15:37,0,0,0,0,0,0
+Matt DesLauriers,dave.des@gmail.com,0,0,399,2,2016-04-09 01:24:10,2016-04-09 21:30:52,0,0,4,1.0,1,4
+Elisée Maurer,elisee@sparklinlabs.com,0,0,8,1,2016-04-09 10:52:17,2016-04-09 10:52:17,0,0,1,0,0,0
+Takahiro,hogehoge@gachapin.jp,0,0,4,2,2016-04-10 11:44:23,2016-04-10 11:45:45,0,0,1,0,0,0
+Serena Li,serena@serenali.com,0,0,42,1,2016-04-10 21:22:29,2016-04-10 21:22:29,0,0,1,0.875,1,0
+Niels,nielspausma@gmail.com,0,0,12,2,2016-04-11 17:15:34,2016-04-12 10:58:23,0,0,1,0,0,0
+Sébastien Valette,sebastien.valette@creatis.insa-lyon.fr,0,0,10,1,2016-04-12 11:48:03,2016-04-12 11:48:03,0,0,1,1.0,1,0
+chris van wiemeersch,cvan@users.noreply.github.com,0,0,2,1,2016-04-12 14:24:08,2016-04-12 14:24:08,0,0,1,0,0,0
+Dmitry Rudol,dimarudol@gmail.com,0,0,2,1,2016-04-12 21:14:13,2016-04-12 21:14:13,0,0,0,0,0,0
+Vitor Abner,vitorabner@users.noreply.github.com,0,0,14,1,2016-04-13 10:11:41,2016-04-13 10:11:41,0,0,1,0,0,0

@@ -1,0 +1,19 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,1,0,75551,75,2016-02-06 21:12:55,2016-02-16 06:41:52,58761.88888888888,58.33333333333333,24,5.333333333333333,6,0
+Zack Urben,zackurben@gmail.com,0,0,121,1,2016-02-05 17:03:15,2016-02-05 17:03:15,0,0,0,0,0,0
+makc,makc.the.great@gmail.com,0,0,15,1,2016-02-06 20:17:03,2016-02-06 20:17:03,0,0,1,0,0,1
+rNix,rnix@yandex.ru,0,0,3380,2,2016-02-07 19:26:17,2016-02-10 06:03:32,11830.0,7.0,1,0.11894736842105263,1,-113
+Jørgen Borgesen,joergen.borgesen@gmail.com,0,0,20,1,2016-02-07 13:31:29,2016-02-07 13:31:29,0,0,0,0.14285714285714285,1,0
+Jaume Sanchez,the.spite@gmail.com,0,0,138033,1,2016-02-08 11:47:12,2016-02-08 11:47:12,0,0,0,0,0,0
+Michal Polko,michal.polko@gmail.com,0,0,862,2,2016-02-08 17:27:43,2016-02-09 18:30:53,6034.0,14.0,2,1.0,1,88
+Matt Hirsch,matt@lumiidisplay.com,0,0,36,1,2016-02-08 18:33:01,2016-02-08 18:33:01,0,0,0,0,0,0
+Yaroslav Sivakov,yar3333@gmail.com,0,0,4,1,2016-02-09 20:08:22,2016-02-09 20:08:22,0,0,1,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,823,7,2016-02-10 15:20:22,2016-02-15 17:38:19,1152.2,9.799999999999999,3,0.7857142857142857,1,1
+Boris Smus,boris@smus.com,0,0,69,3,2016-02-11 09:05:13,2016-02-12 03:20:06,0,0,1,1.0,1,0
+Ben Houston,ben@exocortex.com,0,0,2543,27,2016-02-12 06:54:03,2016-02-15 11:13:03,5933.666666666667,63.0,15,4.837731259083062,7,22
+Jeff Lindsey,jeffal@users.noreply.github.com,0,0,4,2,2016-02-12 05:33:45,2016-02-12 05:34:27,0,0,1,0,0,0
+mattdesl,dave.des@gmail.com,0,0,9,1,2016-02-12 09:59:40,2016-02-12 09:59:40,0,0,1,0,0,0
+Rob Halff,rob.halff@gmail.com,0,0,1,1,2016-02-13 01:38:00,2016-02-13 01:38:00,0,0,0,0,0,0
+tpmccauley,tpmccauley@gmail.com,0,0,145,3,2016-02-13 16:07:20,2016-02-13 16:18:47,0,0,1,0.3333333333333333,2,0
+Bao Pham,gbaopham@gmail.com,0,0,8,2,2016-02-13 15:34:48,2016-02-13 21:53:25,0,0,1,0,0,0
+WestLangley,dat1234@gmail.com,0,0,23,1,2016-02-14 07:16:44,2016-02-14 07:16:44,0,0,1,0,0,0

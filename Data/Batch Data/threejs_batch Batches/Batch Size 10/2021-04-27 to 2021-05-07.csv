@@ -1,0 +1,20 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+puxiao,yangpuxiao@gmail.com,0,0,42,1,2021-04-27 11:56:35,2021-04-27 11:56:35,0,0,0,0,0,0
+Takahiro,hogehoge@gachapin.jp,0,0,576,3,2021-04-27 11:57:01,2021-05-06 06:03:58,504.0,2.625,7,1.2434782608695651,2,1
+Michael Herzog,michael.herzog@human-interactive.org,0,0,3869,23,2021-04-27 12:12:43,2021-05-06 20:00:20,3009.222222222222,17.88888888888889,47,4.035686728395062,5,-5
+makc,makc.the.great@gmail.com,0,0,1,1,2021-04-28 12:03:22,2021-04-28 12:03:22,0,0,0,0,0,0
+Jake Livak,71203927+jlivak@users.noreply.github.com,0,0,5,1,2021-04-29 23:24:03,2021-04-29 23:24:03,0,0,0,0,0,0
+sunag,sunag@users.noreply.github.com,0,0,184,1,2021-04-29 23:25:37,2021-04-29 23:25:37,0,0,0,0,0,0
+Tom Valkeneers,tomvalkeneers@hotmail.com,0,0,6,1,2021-04-30 21:43:36,2021-04-30 21:43:36,0,0,2,0,0,0
+heqiang,531364804@qq.com,0,0,16,1,2021-05-01 10:25:08,2021-05-01 10:25:08,0,0,1,1.0,1,0
+Amos Byon,amosbyon@gmail.com,0,0,4,1,2021-05-01 10:35:45,2021-05-01 10:35:45,0,0,1,0,0,0
+Matthew Simpson,matthew.aaron.simpson@gmail.com,0,0,60,1,2021-05-01 13:26:15,2021-05-01 13:26:15,0,0,1,0,0,0
+AssassinForReal,67818053+AssassinForReal@users.noreply.github.com,0,0,3,1,2021-05-02 13:27:41,2021-05-02 13:27:41,0,0,1,0,0,0
+Kai Salmen,myself@kaisalmen.de,0,0,8,1,2021-05-03 01:43:05,2021-05-03 01:43:05,0,0,2,0,0,0
+Mr.doob,info@mrdoob.com,1,1,2750,16,2021-05-03 08:46:48,2021-05-06 13:54:45,6416.666666666667,37.333333333333336,8,2.5416151299169627,6,57
+qeeqez,qeeqez@users.noreply.github.com,0,0,250,3,2021-05-03 08:58:28,2021-05-03 17:44:02,0,0,2,0.8181818181818182,1,2
+WestLangley,WestLangley@users.noreply.github.com,0,0,2,1,2021-05-03 16:02:35,2021-05-03 16:02:35,0,0,0,0,0,0
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,10,2,2021-05-05 08:50:22,2021-05-05 08:52:44,0,0,1,0,0,-1
+Luis E. Fraguada,fraguada@gmail.com,0,0,6,1,2021-05-05 11:35:13,2021-05-05 11:35:13,0,0,1,1.0,1,0
+harehare,hareha@naver.com,0,0,2281,1,2021-05-06 05:19:44,2021-05-06 05:19:44,0,0,0,0,0,0
+"Tianrui ""Felix"" Zhang",felixatnus2013@gmail.com,0,0,2062,1,2021-05-06 08:04:59,2021-05-06 08:04:59,0,0,1,1.0,1,-17

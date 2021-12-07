@@ -1,0 +1,22 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Eric Haines,erich@acm.org,0,0,348,5,2015-08-29 16:55:56,2015-08-31 11:33:58,2436.0,35.0,2,0.5714285714285714,1,1
+Mr.doob,info@mrdoob.com,0,0,23942,108,2015-08-31 02:49:33,2015-09-09 00:12:56,20949.25,94.5,46,29.254306396364395,37,-162
+gero3,jeroen-876@hotmail.com,0,0,19258,12,2015-08-31 10:48:42,2015-09-07 18:47:28,19258.0,12.0,2,1.4411764705882353,2,0
+Daniel,dforrer@gmail.com,0,0,44484,8,2015-08-31 18:55:34,2015-09-08 18:31:32,44484.0,8.0,58,1.8307600950118765,2,61
+tschw,tschwinger@isonews2.com,0,0,400,10,2015-08-31 20:22:00,2015-09-07 22:11:36,400.0,10.0,2,2.1794871794871797,3,14
+Elisée Maurer,elisee@sparklinlabs.com,0,0,8,1,2015-09-01 21:59:52,2015-09-01 21:59:52,0,0,1,1.0,1,0
+Ben Houston,ben@exocortex.com,0,0,35818,49,2015-09-01 10:14:12,2015-09-08 07:34:09,41787.66666666667,57.16666666666667,13,12.822992776057792,16,15
+Michael Bond,mbond@box.com,0,0,6,1,2015-09-01 05:39:32,2015-09-01 05:39:32,0,0,0,1.0,1,0
+Benjamin Dobell,benjamin.dobell+git@glassechidna.com.au,0,0,4,1,2015-09-03 02:13:01,2015-09-03 02:13:01,0,0,1,0,0,0
+Nop Jiarathanakul,nop@iamnop.com,0,0,38,1,2015-09-02 06:13:10,2015-09-02 06:13:10,0,0,1,0,0,-1
+Alexander Rose,alexander.rose@weirdbyte.de,0,0,24,1,2015-09-03 03:11:27,2015-09-03 03:11:27,0,0,1,1.0,1,0
+Jean Carlo Deconto,sunagbrasil@gmail.com,0,0,7072,4,2015-09-03 07:25:07,2015-09-03 17:39:44,0,0,4,3.0,3,-26
+Ben Adams,thundercat@illyriad.co.uk,0,0,4,1,2015-09-04 00:00:45,2015-09-04 00:00:45,0,0,0,1.0,1,0
+Kevin,titansoftime@gmail.com,0,0,43,1,2015-09-03 20:43:16,2015-09-03 20:43:16,0,0,1,1.0,1,0
+rfm1201,rfm1201@laposte.net,0,0,1,1,2015-09-04 13:42:49,2015-09-04 13:42:49,0,0,0,0,0,0
+Simon Thiele,simon.thiele@codecentric.de,0,0,292,4,2015-09-06 13:17:20,2015-09-07 17:54:40,2044.0,28.0,2,1.0,1,6
+Mario Schuettel,github@lxxxvi.ch#mario@schuettel.ch,0,0,377,3,2015-09-06 19:26:20,2015-09-08 15:01:16,2639.0,21.0,4,2.6153846153846154,3,6
+WestLangley,dat1234@gmail.com,0,0,4,1,2015-09-07 07:26:47,2015-09-07 07:26:47,0,0,0,0,0,0
+Steven Lu (PuTTY Win7 on rMBP[tmux]),stevenlu443@gmail.com,0,0,2,1,2015-09-07 11:39:24,2015-09-07 11:39:24,0,0,0,0,0,0
+kakakakakku,y.yoshida22@gmail.com,0,0,10,1,2015-09-09 04:43:10,2015-09-09 04:43:10,0,0,0,0,0,0
+Toni Alatalo,toni@playsign.net,0,0,2,1,2015-09-09 01:11:20,2015-09-09 01:11:20,0,0,0,0,0,0

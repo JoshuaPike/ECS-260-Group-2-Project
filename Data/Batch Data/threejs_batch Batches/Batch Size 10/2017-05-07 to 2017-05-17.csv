@@ -1,0 +1,20 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,1,0,18806,46,2017-05-07 23:50:37,2017-05-16 04:49:19,16455.25,40.25,21,5.286527744952665,9,-217
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,673,5,2017-05-07 10:15:07,2017-05-07 12:18:40,0,0,0,1.0,1,0
+Sergey Linev,S.Linev@gsi.de,0,0,26,2,2017-05-08 16:05:00,2017-05-08 16:25:59,0,0,2,1.0,1,0
+Paul Masson,paulmasson@comcast.net,0,0,16,2,2017-05-08 07:58:52,2017-05-10 06:49:03,112.0,14.0,0,0,0,0
+06wj,06wj@163.com,0,0,2,1,2017-05-09 23:41:07,2017-05-09 23:41:07,0,0,1,0,0,0
+Lewy Blue,looeee@gmail.com,0,0,82,3,2017-05-09 21:43:12,2017-05-09 22:24:41,0,0,0,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,640,4,2017-05-10 00:50:38,2017-05-16 19:26:37,746.6666666666667,4.666666666666667,2,1.0,1,0
+paulmasson,paulmasson@analyticphysics.com,0,0,46,1,2017-05-09 12:17:53,2017-05-09 12:17:53,0,0,2,0,0,0
+blairmacintyre,blair.macintyre@gmail.com,0,0,176089,3,2017-05-10 07:32:47,2017-05-11 07:31:29,0,0,4,1.0690023114297975,3,0
+jaxry,cabot696@gmail.com,0,0,60,1,2017-05-10 13:31:48,2017-05-10 13:31:48,0,0,1,0,0,0
+marclave,marclave@uvic.ca,0,0,6,1,2017-05-11 04:24:07,2017-05-11 04:24:07,0,0,0,0,0,0
+Yannis Kommana,yannis.kommana@student.hpi.de,0,0,110,1,2017-05-12 17:52:18,2017-05-12 17:52:18,0,0,1,0,0,0
+Takahiro,hogehoge@gachapin.jp,0,0,1347,6,2017-05-14 02:41:15,2017-05-16 23:25:35,4714.5,21.0,2,1.6942178502879077,3,62
+Tentone,tentone@outlook.com,0,0,1370,2,2017-05-14 00:08:58,2017-05-14 12:19:28,0,0,2,1.0,1,7
+WestLangley,dat1234@gmail.com#WestLangley@users.noreply.github.com,0,0,1027,8,2017-05-13 14:21:56,2017-05-16 13:38:14,3594.5,28.0,10,3.883720930232558,4,24
+David Lyons,david.scott.lyons@gmail.com,0,0,516,2,2017-05-15 02:57:15,2017-05-15 02:58:27,0,0,0,0,0,0
+Kai Salmen,myself@kaisalmen.de,0,0,117,2,2017-05-16 01:46:15,2017-05-16 01:47:45,0,0,1,0,0,0
+Bas van Schaik,bas@lgtm.com,0,0,8,2,2017-05-15 13:14:07,2017-05-15 13:21:43,0,0,2,0,0,0
+Andrii Iudin,andrii@ebi.ac.uk,0,0,3,1,2017-05-16 14:47:19,2017-05-16 14:47:19,0,0,1,0,0,1
