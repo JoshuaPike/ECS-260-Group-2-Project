@@ -8,6 +8,10 @@ from playsound import playsound
 
 sys.setrecursionlimit(1000)
 startTime = datetime.utcnow()
+
+# ================================ IMPORTANT ===============================
+
+# IF USING URLS INSTEAD OF LOCAL PATHS MAKE SURE TO UNCOMMENT THIS AND PUT CORRECT URL AS FIRST PARAMETER OF "mine(...)"
 # url = ['https://github.com/ishepard/pydriller.git', 'https://github.com/terryyin/lizard',
 #        'https://github.com/BabylonJS/Babylon.js', 'https://github.com/mrdoob/three.js',
 #        'https://github.com/KhronosGroup/WebGL', 'https://github.com/julianshapiro/velocity',
@@ -91,19 +95,79 @@ batch_size = timedelta(days=10)
 #
 # print('Done with Babylon.js... Process took ' + str(timeElapsed.seconds) + ' seconds')
 
-# ---------------------- UNCOMMENT BELOW THIS LINE TO MINE DATA FOR THREE.JS ----------------------------------------
-print('Starting to mine three.js\n')
+# ============================ CODE TO MINE THREE.JS BELOW ======================================
 
-mineStartTime = datetime.utcnow()
-mine(localPaths[5], 'JavaScript', threejs_start, end_date, 'threejs_batch', batch_size)
-mineEndTime = datetime.utcnow()
+# ------------------- UNCOMMENT BELOW THIS LINE TO MINE DATA FOR ALL OF THREE.JS ------------------------------------
+# print('Starting to mine three.js\n')
+# mineStartTime = datetime.utcnow()
+# mine(localPaths[5], 'JavaScript', threejs_start, end_date, 'threejs_batch', batch_size)
+# mineEndTime = datetime.utcnow()
+# timeElapsed = mineEndTime - mineEndTime
+# print('Finished mining all of three.js')
+# print('Process took ' + str(timeElapsed.seconds) + ' seconds')
 
+# ------------------- UNCOMMENT BELOW THIS LINE TO MINE FIRST YEAR OF THREE.JS -----------------------------------
+# print('Starting to mine first year of three.js\n')
+# threejs_end_1 = datetime.fromisoformat('2016-06-21T00:00:00+00:00')
+# mineStartTime = datetime.utcnow()
+# mine(localPaths[5], 'JavaScript', threejs_start, threejs_end_1, 'threejs_batch', batch_size)
+# mineEndTime = datetime.utcnow()
+# timeElapsed = mineEndTime - mineEndTime
+# print('Finished mining first year of three.js')
+# print('Process took ' + str(timeElapsed.seconds) + ' seconds')
+
+# ------------------- UNCOMMENT BELOW THIS LINE TO MINE SECOND YEAR OF THREE.JS -----------------------------------
+# print('Starting to mine second year of three.js\n')
+# threejs_end_2 = datetime.fromisoformat('2017-06-21T00:00:00+00:00')
+# mineStartTime = datetime.utcnow()
+# mine(localPaths[5], 'JavaScript', threejs_end_1, threejs_end_2, 'threejs_batch', batch_size)
+# mineEndTime = datetime.utcnow()
+# timeElapsed = mineEndTime - mineEndTime
+# print('Finished mining second year of three.js')
+# print('Process took ' + str(timeElapsed.seconds) + ' seconds')
+
+# ------------------- UNCOMMENT BELOW THIS LINE TO MINE THIRD YEAR OF THREE.JS -----------------------------------
+# print('Starting to mine third year of three.js\n')
+# threejs_end_3 = datetime.fromisoformat('2018-06-21T00:00:00+00:00')
+# mineStartTime = datetime.utcnow()
+# mine(localPaths[5], 'JavaScript', threejs_end_2, threejs_end_3, 'threejs_batch', batch_size)
+# mineEndTime = datetime.utcnow()
+# timeElapsed = mineEndTime - mineEndTime
+# print('Finished mining third year of three.js')
+# print('Process took ' + str(timeElapsed.seconds) + ' seconds')
+
+# ------------------- UNCOMMENT BELOW THIS LINE TO MINE FOURTH YEAR OF THREE.JS -----------------------------------
+# print('Starting to mine fourth year of three.js\n')
+# threejs_end_4 = datetime.fromisoformat('2019-06-21T00:00:00+00:00')
+# mineStartTime = datetime.utcnow()
+# mine(localPaths[5], 'JavaScript', threejs_end_3, threejs_end_4, 'threejs_batch', batch_size)
+# mineEndTime = datetime.utcnow()
+# timeElapsed = mineEndTime - mineEndTime
+# print('Finished mining fourth year of three.js')
+# print('Process took ' + str(timeElapsed.seconds) + ' seconds')
+
+# ------------------- UNCOMMENT BELOW THIS LINE TO MINE FIFTH YEAR OF THREE.JS -----------------------------------
+# threejs_end_5 = datetime.fromisoformat('2020-06-21T00:00:00+00:00')
+# print('Starting to mine fifth year of three.js\n')
+# mineStartTime = datetime.utcnow()
+# mine(localPaths[5], 'JavaScript', threejs_end_4, threejs_end_5, 'threejs_batch', batch_size)
+# mineEndTime = datetime.utcnow()
+# timeElapsed = mineEndTime - mineEndTime
+# print('Finished mining fifth year of three.js')
+# print('Process took ' + str(timeElapsed.seconds) + ' seconds')
+
+# ------------------- UNCOMMENT BELOW THIS LINE TO MINE SIXTH/LAST YEAR OF THREE.JS -----------------------------------
+# threejs_end_5 = datetime.fromisoformat('2020-06-21T00:00:00+00:00')
+# print('Starting to mine sixth year of three.js\n')
+# mineStartTime = datetime.utcnow()
+# mine(localPaths[5], 'JavaScript', threejs_end_5, end_date, 'threejs_batch', batch_size)
+# mineEndTime = datetime.utcnow()
+# timeElapsed = mineEndTime - mineEndTime
+# print('Finished mining sixth year of three.js')
+# print('Process took ' + str(timeElapsed.seconds) + ' seconds')
 
 endTime = datetime.utcnow()
 timeElapsed = endTime - startTime
 print('Finished mining')
 print('Process took ' + str(timeElapsed.seconds) + ' seconds')
 playsound('Okaaayyyyy lets go.mp3')
-
-x = datetime.fromisoformat('2011-11-04T01:00:00+04:00')
-print(x.strftime("%m/%d/%Y"))
