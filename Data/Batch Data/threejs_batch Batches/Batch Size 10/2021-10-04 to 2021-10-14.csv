@@ -1,0 +1,17 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Rik Cabanier,cabanier@fb.com,0,0,10025,8,2021-10-04 18:10:25,2021-10-11 08:59:30,11695.833333333334,9.333333333333334,45,3.490875912408759,4,26
+Michael Herzog,michael.herzog@human-interactive.org,0,0,1975,13,2021-10-04 18:11:58,2021-10-13 17:39:09,1728.125,11.375,10,3.350718585843273,5,-53
+Mr.doob,info@mrdoob.com,0,0,1749,6,2021-10-04 20:21:03,2021-10-08 14:13:22,4081.0,14.0,11,3.4314159292035398,4,-20
+linbingquan,695601626@qq.com,0,0,1379,5,2021-10-04 19:14:49,2021-10-13 11:30:41,1206.625,4.375,1,1.0,1,0
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,48,1,2021-10-04 19:29:15,2021-10-04 19:29:15,0,0,1,1.0,1,1
+Pim de Wit,pim@pdw.io,0,0,50,1,2021-10-04 19:40:50,2021-10-04 19:40:50,0,0,2,0,0,0
+sunag,jcdeconto@igalia.com,0,0,2424,7,2021-10-04 19:44:26,2021-10-11 01:34:09,2828.0,8.166666666666668,37,2.5968293893195082,4,15
+Paul Masson,paulmasson@analyticphysics.com,0,0,2,1,2021-10-06 03:26:50,2021-10-06 03:26:50,0,0,0,0,0,0
+James Baicoianu,james_github@baicoianu.com,0,0,117,1,2021-10-06 13:46:42,2021-10-06 13:46:42,0,0,2,0.3333333333333333,1,0
+DefinitelyMaybe,DefinitelyMaybe@users.noreply.github.com,0,0,241,1,2021-10-06 23:14:06,2021-10-06 23:14:06,0,0,1,1.0,1,0
+Dave Buchhofer,dbuchhofer@gmail.com,0,0,43,1,2021-10-08 11:30:42,2021-10-08 11:30:42,0,0,2,1.0,1,0
+Rodrigo Schuller,11084889+rlschuller@users.noreply.github.com,0,0,3,1,2021-10-08 11:51:34,2021-10-08 11:51:34,0,0,0,0,0,0
+Thomas Zeugner,tomsoftware@gmx.de,0,0,510,1,2021-10-08 11:54:44,2021-10-08 11:54:44,0,0,1,0.7916666666666666,1,2
+Takahiro,hogehoge@gachapin.jp,0,0,2,1,2021-10-11 11:02:18,2021-10-11 11:02:18,0,0,1,0,0,0
+Devansh Gupta,41248639+raghav-wd@users.noreply.github.com,0,0,12,1,2021-10-12 12:41:33,2021-10-12 12:41:33,0,0,0,0,0,0
+Salim BRG,33620643+BSpolantis@users.noreply.github.com,0,0,1,1,2021-10-13 17:41:24,2021-10-13 17:41:24,0,0,0,0,0,0

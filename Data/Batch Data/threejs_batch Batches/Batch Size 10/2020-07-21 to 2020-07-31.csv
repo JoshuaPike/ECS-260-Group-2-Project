@@ -1,0 +1,14 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Takahiro,hogehoge@gachapin.jp,0,0,242,2,2020-07-20 15:33:13,2020-07-27 06:49:02,282.33333333333337,2.3333333333333335,2,1.0,1,2
+Mr.doob,info@mrdoob.com,0,0,15843,80,2020-07-21 10:32:29,2020-07-30 19:32:32,12322.333333333332,62.222222222222214,141,9.750792268921073,13,7
+martinRenou,martin.renou@gmail.com,0,0,479,15,2020-07-21 13:53:38,2020-07-30 11:38:41,419.125,13.125,6,1.5823529411764705,3,2
+John Marinelli,john.marinelli@internations.org,0,0,14,2,2020-07-21 19:04:17,2020-07-21 19:05:51,0,0,1,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,5444,18,2020-07-21 21:32:59,2020-07-30 13:49:14,4763.5,15.75,999,4.970588235294118,5,22
+linbingquan,695601626@qq.com,0,0,341,3,2020-07-23 08:51:44,2020-07-30 21:54:17,341.0,3.0,20,0,0,0
+Alexey Knyazev,3479527+lexaknyazev@users.noreply.github.com,0,0,2,1,2020-07-23 21:24:13,2020-07-23 21:24:13,0,0,0,0,0,0
+Don McCurdy,donmccurdy@google.com,0,0,170,6,2020-07-23 01:35:16,2020-07-30 04:47:01,170.0,6.0,2,0.8387096774193549,1,4
+Fernando Serrano,fernandojsg@gmail.com,0,0,2097,29,2020-07-24 22:01:13,2020-07-28 03:02:12,4893.0,67.66666666666667,9,9.51829268292683,11,38
+Gianmarco Simone,gianmarcosimone89@gmail.com,0,0,292,3,2020-07-25 14:50:33,2020-07-27 20:43:00,1022.0,10.5,4,1.691851851851852,2,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,14,4,2020-07-25 14:53:42,2020-07-26 12:15:17,0,0,0,0,0,1
+Jono,developer@jono.fyi,0,0,46,2,2020-07-27 08:35:44,2020-07-28 06:37:56,0,0,0,0.8125,1,0
+Rawr,DefinitelyMaybe@users.noreply.github.com,0,0,211,1,2020-07-31 09:37:28,2020-07-31 09:37:28,0,0,1,0,0,0

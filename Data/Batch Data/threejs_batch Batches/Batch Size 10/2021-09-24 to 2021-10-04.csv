@@ -1,0 +1,12 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Rik Cabanier,cabanier@fb.com,0,0,81,1,2021-09-24 07:55:02,2021-09-24 07:55:02,0,0,6,1.0,1,0
+makc,makc.the.great@gmail.com,0,0,2,1,2021-09-25 10:18:33,2021-09-25 10:18:33,0,0,1,0,0,0
+gandis,35860495+gandis0713@users.noreply.github.com,0,0,44,1,2021-09-26 22:17:24,2021-09-26 22:17:24,0,0,0,0,0,0
+sunag,jcdeconto@igalia.com,1,1,849,8,2021-09-27 09:16:06,2021-09-30 13:41:16,1981.0,18.666666666666668,34,2.152325581395349,4,11
+qeeqez,qeeqez@users.noreply.github.com,0,0,1,1,2021-09-28 11:20:01,2021-09-28 11:20:01,0,0,1,1.0,1,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,8,1,2021-09-28 11:21:10,2021-09-28 11:21:10,0,0,2,1.0,1,0
+Tim R,tirichards@google.com,0,0,61,1,2021-09-28 11:23:06,2021-09-28 11:23:06,0,0,1,1.0,1,4
+Peiyu,51526225+peiyu7921@users.noreply.github.com,0,0,77,1,2021-09-28 11:38:37,2021-09-28 11:38:37,0,0,0,0,0,0
+linbingquan,695601626@qq.com,0,0,31,3,2021-09-28 19:37:59,2021-09-29 12:04:12,0,0,2,0,0,0
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,18,1,2021-09-30 13:45:23,2021-09-30 13:45:23,0,0,0,0,0,-2
+Mr.doob,info@mrdoob.com,0,0,1588,6,2021-09-30 14:04:12,2021-09-30 14:53:40,0,0,17,0.6022727272727273,1,12

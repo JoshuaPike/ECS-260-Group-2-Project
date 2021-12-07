@@ -1,0 +1,8 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Michael Herzog,michael.herzog@human-interactive.org,0,0,12912,15,2021-05-07 06:10:43,2021-05-14 13:04:33,12912.0,15.0,75,5.840425531914894,6,-7
+Mr.doob,info@mrdoob.com,0,0,905,4,2021-05-07 06:18:24,2021-05-11 21:47:50,1583.75,7.0,4,1.0,1,1
+Don McCurdy,don.r.mccurdy@gmail.com#donmccurdy@google.com,0,0,918,5,2021-05-07 06:18:56,2021-05-12 22:24:25,1285.2,7.0,7,1.0,1,2
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,50,3,2021-05-07 06:22:45,2021-05-10 13:31:29,116.66666666666667,7.0,3,2.0,2,1
+harehare,hareha@naver.com,0,0,1609,1,2021-05-11 14:25:17,2021-05-11 14:25:17,0,0,0,0,0,0
+Carsten Schwede,carsten.schwede@web.de,0,0,2,1,2021-05-11 14:52:47,2021-05-11 14:52:47,0,0,1,1.0,1,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,60,2,2021-05-13 13:10:08,2021-05-13 16:58:02,0,0,4,0.8571428571428571,1,0

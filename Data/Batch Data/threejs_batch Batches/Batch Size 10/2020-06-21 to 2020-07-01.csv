@@ -1,0 +1,17 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+WestLangley,WestLangley@users.noreply.github.com,0,0,32,5,2020-06-20 18:35:35,2020-06-29 17:17:07,28.0,4.375,3,0,0,-1
+linbingquan,695601626@qq.com,0,0,18,3,2020-06-22 07:59:57,2020-06-22 22:05:04,0,0,0,0,0,0
+Justin Rogers,justrog@gmail.com,0,0,6,1,2020-06-21 03:43:55,2020-06-21 03:43:55,0,0,1,0,0,0
+Mr.doob,info@mrdoob.com,1,0,4637,63,2020-06-21 04:26:29,2020-06-30 07:45:11,3606.555555555555,48.99999999999999,29,7.715811965811966,11,-3
+Felix Palmer,felixpalmer@gmail.com,0,0,20,3,2020-06-22 17:53:12,2020-06-22 21:13:25,0,0,1,0,0,2
+Mugen87,michael.herzog@human-interactive.org,0,0,112,7,2020-06-22 22:49:39,2020-06-27 13:04:16,196.0,12.25,5,1.5,2,-2
+jhl,jhlee@spacewalk.tech,0,0,8,2,2020-06-24 18:37:52,2020-06-24 19:04:04,0,0,0,0,0,0
+Don McCurdy,donmccurdy@google.com,0,0,64,4,2020-06-24 04:20:52,2020-06-29 03:25:25,112.0,7.0,3,1.0,1,0
+Tom Beddard,tom@subblue.com,0,0,1,1,2020-06-24 22:13:45,2020-06-24 22:13:45,0,0,0,0,0,0
+Theun de Bruijn,theun@theundebruijn.com,0,0,2,1,2020-06-27 03:48:50,2020-06-27 03:48:50,0,0,1,0,0,0
+Haowei Wen,yushijinhun@gmail.com,0,0,2,1,2020-06-28 07:08:22,2020-06-28 07:08:22,0,0,3,0,0,0
+munrocket,munrocket@pm.me,0,0,2,1,2020-06-28 05:12:59,2020-06-28 05:12:59,0,0,0,0,0,0
+yushijinhun,yushijinhun@gmail.com,0,0,509,2,2020-06-29 07:39:52,2020-06-30 04:20:14,0,0,0,1.0,1,0
+Guilherme Avila,guilhermebav@gmail.com,0,0,104,3,2020-06-28 12:22:28,2020-06-30 14:23:25,364.0,10.5,11,0.23809523809523808,1,0
+dskeithbuck,39964241+dskeithbuck@users.noreply.github.com,0,0,2,1,2020-06-30 04:28:32,2020-06-30 04:28:32,0,0,1,0,0,0
+parke,parke.nexus@gmail.com,0,0,8,3,2020-06-30 08:52:48,2020-06-30 09:24:16,0,0,0,0,0,0

@@ -1,0 +1,16 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mugen87,michael.herzog@human-interactive.org,0,0,351,15,2020-07-11 16:17:07,2020-07-20 17:01:54,273.0,11.666666666666666,17,7.0,7,1
+sunag,sunag@users.noreply.github.com,0,0,149,10,2020-07-11 22:12:33,2020-07-13 11:01:52,1043.0,70.0,8,3.0,3,-2
+Mr.doob,info@mrdoob.com,1,0,6985,59,2020-07-13 15:48:22,2020-07-21 00:31:07,6985.0,59.0,8,4.149425287356322,5,0
+Luis Fonsi VEVO,jerbear3.14159@gmail.com,0,0,8,3,2020-07-13 04:00:34,2020-07-16 02:22:34,28.0,10.5,0,0,0,0
+troy351,914053923@qq.com,0,0,96,1,2020-07-14 19:15:44,2020-07-14 19:15:44,0,0,1,0.2,1,1
+WestLangley,WestLangley@users.noreply.github.com,0,0,275,7,2020-07-15 09:38:29,2020-07-20 09:42:43,385.0,9.799999999999999,3,1.0,1,0
+dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,0,0,6,1,2020-07-16 08:24:19,2020-07-16 08:24:19,0,0,0,0,0,0
+linbingquan,695601626@qq.com,0,0,136,2,2020-07-17 06:00:32,2020-07-17 20:49:01,0,0,0,0,0,0
+washstar,washstar@163.com,0,0,1422616,2,2020-07-17 19:28:15,2020-07-17 19:42:08,0,0,1,1.0,1,0
+Don McCurdy,don.r.mccurdy@gmail.com#donmccurdy@google.com,0,0,316,6,2020-07-16 14:01:42,2020-07-16 14:51:53,0,0,12,0.875,1,1
+Lokesh Raj Arora,lokesh@scapic.com,0,0,1,1,2020-07-17 18:38:14,2020-07-17 18:38:14,0,0,0,1.0,1,0
+ycw,ycw7788@gmail.com,0,0,6,1,2020-07-19 17:43:17,2020-07-19 17:43:17,0,0,0,0,0,0
+felixmariotto,46470486+felixmariotto@users.noreply.github.com,0,0,4,1,2020-07-19 20:45:16,2020-07-19 20:45:16,0,0,0,0,0,0
+Gregg Tavares,github@greggman.com,0,0,2,1,2020-07-20 12:03:26,2020-07-20 12:03:26,0,0,0,0,0,0
+Alexander Jose Flores,ajflores1604@gmail.com,0,0,78,1,2020-07-19 20:27:27,2020-07-19 20:27:27,0,0,0,0,0,0

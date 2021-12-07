@@ -1,0 +1,22 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Hassan Muhamad,hassan.benmuhamad@gmail.com,0,0,2519,41,2020-08-20 13:19:04,2020-08-26 12:13:08,3526.6,57.4,1,0,0,0
+Mr.doob,info@mrdoob.com,1,0,9291,68,2020-08-20 13:42:55,2020-08-29 22:45:24,7226.333333333333,52.888888888888886,19,11.0,11,27
+Mugen87,michael.herzog@human-interactive.org,0,0,443,14,2020-08-20 17:00:47,2020-08-28 22:45:15,387.625,12.25,22,4.0,4,9
+Emmett Lalish,elalish@google.com,0,0,3,1,2020-08-20 02:23:08,2020-08-20 02:23:08,0,0,0,0,0,0
+Rawr,DefinitelyMaybe@users.noreply.github.com,0,0,1093,5,2020-08-22 01:06:13,2020-08-22 01:35:11,0,0,21,0.6,1,15
+Luis Fraguada,fraguada@gmail.com,0,0,485,9,2020-08-21 13:58:38,2020-08-26 10:23:13,848.75,15.75,2,2.9942028985507245,4,0
+Palash Bansal,palashbansal96@gmail.com,0,0,379,4,2020-08-22 01:09:19,2020-08-27 02:40:49,530.6,5.6,1,1.0,1,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,63,5,2020-08-21 14:24:00,2020-08-29 07:07:35,63.0,5.0,5,1.0,1,4
+gogoend,gogoend@qq.com,0,0,47798,6,2020-08-23 20:36:56,2020-08-23 21:24:42,0,0,0,0,0,0
+Gianmarco,gianmarcosimone89@gmail.com,0,0,79847,1,2020-08-23 20:38:17,2020-08-23 20:38:17,0,0,0,0,0,0
+Gianmarco Simone,gianmarcosimone89@gmail.com,0,0,8,2,2020-08-23 21:51:15,2020-08-23 22:18:11,0,0,0,0,0,0
+Giulio Zausa,mail.zausa.giulio@gmail.com,0,0,3,1,2020-08-24 13:39:56,2020-08-24 13:39:56,0,0,0,0,0,0
+martinRenou,martin.renou@gmail.com,0,0,10,2,2020-08-24 17:55:50,2020-08-28 18:45:29,17.5,3.5,0,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,1,1,2020-08-24 19:03:16,2020-08-24 19:03:16,0,0,0,0,0,0
+Trygve Wastvedt,trygve.wastvedt@gmail.com,0,0,2,1,2020-08-24 11:19:53,2020-08-24 11:19:53,0,0,0,0,0,0
+Don McCurdy,donmccurdy@google.com,0,0,10,1,2020-08-24 15:38:31,2020-08-24 15:38:31,0,0,0,0,0,0
+yushijinhun,yushijinhun@gmail.com,0,0,10,1,2020-08-26 03:05:49,2020-08-26 03:05:49,0,0,1,0,0,0
+linbingquan,695601626@qq.com,0,0,44,2,2020-08-26 05:54:08,2020-08-26 06:29:21,0,0,1,0,0,0
+David Peicho,david.peicho@gmail.com,0,0,439,2,2020-08-27 01:30:43,2020-08-30 00:02:49,1536.5,7.0,1,0.5,1,1
+yomboprime,yomboprime@users.noreply.github.com,0,0,1656,7,2020-08-28 02:25:39,2020-08-28 16:02:36,0,0,2,0,0,0
+Takahiro,hogehoge@gachapin.jp,0,0,8,1,2020-08-29 07:22:42,2020-08-29 07:22:42,0,0,2,0,0,0

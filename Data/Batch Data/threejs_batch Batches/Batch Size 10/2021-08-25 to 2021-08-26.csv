@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,1,1,75,3,2021-08-25 19:38:08,2021-08-26 09:36:28,0,0,9,0.5,1,0
+SaintMalik,37118134+saintmalik@users.noreply.github.com,1,1,38,1,2021-08-26 09:42:11,2021-08-26 09:42:11,0,0,0,0,0,0
+Samuel Dion-Girardeau,samueldg@users.noreply.github.com,1,1,3,1,2021-08-26 09:43:31,2021-08-26 09:43:31,0,0,0,0,0,0

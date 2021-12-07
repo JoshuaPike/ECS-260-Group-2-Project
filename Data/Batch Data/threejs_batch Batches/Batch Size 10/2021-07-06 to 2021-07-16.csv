@@ -1,0 +1,14 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Paul Masson,paulmasson@analyticphysics.com,0,0,2,1,2021-07-07 01:25:54,2021-07-07 01:25:54,0,0,1,0,0,0
+Mr.doob,info@mrdoob.com,0,0,487,11,2021-07-07 01:44:09,2021-07-13 16:51:28,568.1666666666667,12.833333333333334,12,3.7794117647058822,4,-2
+Michael Herzog,michael.herzog@human-interactive.org,0,0,185,6,2021-07-07 15:44:35,2021-07-14 14:46:13,215.83333333333334,7.0,8,3.0,3,-1
+WestLangley,WestLangley@users.noreply.github.com,0,0,14,1,2021-07-07 18:38:44,2021-07-07 18:38:44,0,0,1,0,0,0
+Adam Spindler,xmeadamx@gmail.com,0,0,34,1,2021-07-07 19:11:12,2021-07-07 19:11:12,0,0,0,1.0,1,0
+vsh,vsh426@gmail.com,0,0,20,1,2021-07-09 11:00:38,2021-07-09 11:00:38,0,0,0,0,0,0
+LeoShen,32362328+leoshenhh@users.noreply.github.com,0,0,6,1,2021-07-09 12:12:14,2021-07-09 12:12:14,0,0,0,1.0,1,0
+puxiao,yangpuxiao@gmail.com,0,0,31,1,2021-07-10 20:09:03,2021-07-10 20:09:03,0,0,0,0,0,0
+Takahiro,hogehoge@gachapin.jp,0,0,171,3,2021-07-11 09:27:24,2021-07-13 10:43:26,598.5,10.5,2,0.6909090909090909,1,0
+Antonio González Viegas,antoniogviegas@hotmail.com,0,0,1097,1,2021-07-12 18:00:03,2021-07-12 18:00:03,0,0,2,1.0,1,-1
+davehill00,59743491+davehill00@users.noreply.github.com,0,0,39,1,2021-07-13 12:03:21,2021-07-13 12:03:21,0,0,1,0,0,0
+Victor Nakoryakov,victor@amperka.ru,0,0,4,1,2021-07-13 12:40:00,2021-07-13 12:40:00,0,0,1,0,0,0
+Rik Cabanier,cabanier@gmail.com,0,0,67,1,2021-07-14 11:26:18,2021-07-14 11:26:18,0,0,1,0.08333333333333333,1,-1
