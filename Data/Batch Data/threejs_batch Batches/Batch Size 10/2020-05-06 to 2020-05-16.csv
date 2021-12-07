@@ -1,0 +1,25 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Takahiro,hogehoge@gachapin.jp,0,0,174,4,2020-05-05 11:26:45,2020-05-11 04:32:06,243.6,5.6,2,1.0,1,0
+Mr.doob,info@mrdoob.com,0,0,13599,45,2020-05-05 13:29:06,2020-05-15 09:07:06,10577.0,35.0,6,5.052631578947368,6,-2
+Nicolas Maréchal,nicolas.marechal@rhinov.fr,0,0,4,1,2020-05-06 11:53:59,2020-05-06 11:53:59,0,0,2,0,0,0
+Filipp Keks,filipp.keks@trimble.com,0,0,4,1,2020-05-06 14:15:11,2020-05-06 14:15:11,0,0,0,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,2756,16,2020-05-06 20:05:21,2020-05-15 19:44:47,2411.5,14.0,8,4.0,4,34
+Michael Herzog,michael.herzog@human-interactive.org,0,0,3,1,2020-05-07 01:37:23,2020-05-07 01:37:23,0,0,0,0,0,0
+munrocket@pm.me,munrocket@pm.me,0,0,3369,4,2020-05-07 12:09:44,2020-05-15 18:57:52,2947.875,3.5,8,0,0,0
+santi,santi@proper-code.com,0,0,3307,6,2020-05-06 18:12:40,2020-05-09 04:57:51,11574.5,21.0,0,0,0,0
+Jonathan Giroux,giroux.jo@gmail.com,0,0,2,1,2020-05-08 23:05:35,2020-05-08 23:05:35,0,0,0,0,0,0
+Dusan Bosnjak,citizens.arrest@gmail.com,0,0,75,1,2020-05-08 10:41:11,2020-05-08 10:41:11,0,0,0,0,0,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,13283,4,2020-05-08 16:59:54,2020-05-15 12:59:10,15496.833333333334,4.666666666666667,0,0,0,0
+Wouter Vanmontfort,git.wouter@vanmontfort.be,0,0,19,3,2020-05-10 00:53:59,2020-05-14 00:17:19,44.333333333333336,7.0,1,1.0,1,0
+CJ Bailey,cj.bailey@greedygoblingames.co.uk,0,0,7,2,2020-05-10 20:56:42,2020-05-10 22:35:01,0,0,0,0,0,0
+gogoend,gogoend@qq.com,0,0,895,1,2020-05-13 08:17:00,2020-05-13 08:17:00,0,0,0,0,0,0
+Guilherme Avila,guilhermebav@gmail.com,0,0,7,2,2020-05-12 10:32:22,2020-05-13 09:04:04,0,0,1,1.0,1,0
+Len Boyette,kevlened@users.noreply.github.com,0,0,2,1,2020-05-12 09:11:16,2020-05-12 09:11:16,0,0,0,0,0,0
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,587,5,2020-05-12 03:46:07,2020-05-15 03:15:02,2054.5,17.5,2,3.0,3,0
+Christine Morten,mortenc@amazon.com,0,0,0,2,2020-05-13 04:48:49,2020-05-13 05:40:32,0,0,0,0,0,0
+munrocket,munrocket@pm.me,0,0,51,1,2020-05-15 02:09:16,2020-05-15 02:09:16,0,0,0,0,0,0
+Jacob Bijani,jake@users.noreply.github.com#jacob.bijani@gmail.com,0,0,20,3,2020-05-14 12:36:21,2020-05-15 13:27:19,140.0,21.0,2,1.0,1,0
+Frédéric Sarron,sarron.f@sfeir.com,0,0,3,1,2020-05-15 01:52:29,2020-05-15 01:52:29,0,0,0,0,0,0
+Don McCurdy,donmccurdy@google.com,0,0,28,1,2020-05-14 13:56:24,2020-05-14 13:56:24,0,0,1,1.0,1,0
+Olli Etuaho,olli.etuaho@gmail.com,0,0,2,1,2020-05-15 21:53:51,2020-05-15 21:53:51,0,0,1,0,0,0
+Chris Joel,cdata@google.com,0,0,32,2,2020-05-15 03:02:52,2020-05-15 08:17:23,0,0,0,0.1,1,1

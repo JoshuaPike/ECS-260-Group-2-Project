@@ -1,0 +1,18 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,2,1,2019-06-30 15:28:04,2019-06-30 15:28:04,0,0,0,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,1534,17,2019-07-01 13:52:04,2019-07-10 17:00:23,1193.111111111111,13.222222222222221,31,3.6210571551353676,5,-3
+Michael Herzog,michael.herzog@human-interactive.org,0,0,1459,15,2019-07-01 16:33:43,2019-07-10 20:00:06,1134.7777777777776,11.666666666666666,0,0,0,0
+Guilherme Avila,guilhermebav@gmail.com,0,0,5929,9,2019-07-01 07:50:33,2019-07-10 10:06:54,4611.444444444444,6.999999999999999,5,3.1528525296017222,4,-178
+Mr.doob,info@mrdoob.com,0,0,750,12,2019-07-01 02:43:11,2019-07-11 03:54:40,525.0,8.4,3,0,0,0
+Michael Bürge,mib@orino.ch,0,0,6,1,2019-07-02 12:06:47,2019-07-02 12:06:47,0,0,0,0,0,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,3634,12,2019-07-03 08:27:00,2019-07-10 11:52:31,3634.0,12.0,14,3.0,3,0
+Daniel Sturk,danielsturk1@gmail.com,0,0,1810,15,2019-07-03 11:18:38,2019-07-10 11:50:18,1810.0,15.0,12,2.0,2,0
+Johannes Deml,send@johannesdeml.com,0,0,8,1,2019-07-04 16:02:51,2019-07-04 16:02:51,0,0,2,0,0,0
+vyv03354,VYV03354@nifty.ne.jp,0,0,6,1,2019-07-05 16:49:15,2019-07-05 16:49:15,0,0,0,0,0,0
+palortoff,github@larsflitter.de,0,0,40,1,2019-07-05 10:54:10,2019-07-05 10:54:10,0,0,2,1.0,1,6
+yusuke-ten,net.escape.com@gmail.com,0,0,2,1,2019-07-08 20:08:06,2019-07-08 20:08:06,0,0,0,0,0,0
+Arseny Kapoulkine,arseny.kapoulkine@gmail.com,0,0,10,1,2019-07-07 22:25:55,2019-07-07 22:25:55,0,0,1,0,0,1
+Lewy Blue,looeee@gmail.com,0,0,242,5,2019-07-09 15:52:59,2019-07-09 20:02:56,0,0,2,2.0,2,0
+Mathew Schofield,mschofield@anditi.com,0,0,1,1,2019-07-10 23:13:46,2019-07-10 23:13:46,0,0,0,0,0,0
+Rik Cabanier,rcabanier@magicleap.com,0,0,54,2,2019-07-10 03:05:08,2019-07-10 05:09:55,0,0,1,1.0,1,0
+Kai Salmen,myself@kaisalmen.de,0,0,142,1,2019-07-11 01:01:14,2019-07-11 01:01:14,0,0,1,0.7142857142857143,1,0

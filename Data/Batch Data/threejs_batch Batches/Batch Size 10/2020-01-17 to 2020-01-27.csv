@@ -1,0 +1,15 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Michael Herzog,michael.herzog@human-interactive.org,0,0,232,17,2020-01-17 12:51:20,2020-01-23 11:36:23,324.8,23.8,13,0,0,0
+aardgoose,angus.sawyer@gmail.com,0,0,37,2,2020-01-17 16:50:57,2020-01-19 15:54:47,259.0,14.0,1,1.0,1,0
+Emmett Lalish,elalish@google.com,1,0,525876,7,2020-01-17 03:45:31,2020-01-24 06:42:58,525876.0,7.0,4,1.0,1,-9
+WestLangley,WestLangley@users.noreply.github.com,0,0,3406,24,2020-01-17 14:23:37,2020-01-26 11:31:02,2980.25,21.0,40,2.63855421686747,3,144
+Elias Hasle,elias.hasle@gmail.com,0,0,22,2,2020-01-19 00:05:44,2020-01-23 05:34:12,38.5,3.5,1,0,0,0
+j-devel,j@w3reality.com,0,0,3,1,2020-01-19 19:59:38,2020-01-19 19:59:38,0,0,0,0,0,0
+李高锋,983681735@qq.com,0,0,2,1,2020-01-21 00:58:51,2020-01-21 00:58:51,0,0,0,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,2521,18,2020-01-20 12:59:07,2020-01-26 12:38:03,3529.4,25.2,0,6.989426957223568,9,3
+sunag,sunag@users.noreply.github.com,0,0,51,3,2020-01-20 14:01:08,2020-01-20 14:02:36,0,0,4,1.0,1,2
+Mr.doob,info@mrdoob.com,0,0,5121,33,2020-01-20 09:44:41,2020-01-25 11:41:47,7169.4,46.199999999999996,5,5.663551401869158,6,4
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,31,2,2020-01-20 10:20:29,2020-01-23 12:24:36,72.33333333333334,4.666666666666667,1,0,0,1
+Brandon Jones,tojiro@gmail.com,0,0,920,7,2020-01-22 13:17:50,2020-01-22 14:55:45,0,0,3,3.472361809045226,4,35
+Michael,kill.coder@gmail.com,0,0,2,1,2020-01-26 01:06:45,2020-01-26 01:06:45,0,0,0,0,0,0
+vtHawk,kittyhawk3011@gmail.com,0,0,1807,3,2020-01-25 18:53:40,2020-01-25 23:27:07,0,0,10,0.6736526946107785,1,3

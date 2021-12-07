@@ -1,0 +1,20 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,0,27744,71,2019-12-17 08:36:18,2019-12-27 15:21:07,19420.8,49.699999999999996,22,8.271261037510335,13,-51
+Michael Herzog,michael.herzog@human-interactive.org,0,0,565,21,2019-12-18 13:06:03,2019-12-27 12:43:31,494.375,18.375,99,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,5250,23,2019-12-18 13:08:13,2019-12-27 12:42:56,4593.75,20.125,0,2.353982300884956,3,-12
+Olli Etuaho,olli.etuaho@gmail.com,0,0,6,1,2019-12-18 18:17:11,2019-12-18 18:17:11,0,0,3,0,0,0
+Tomasz Dysinski,dysinski.tomasz@gmail.com,0,0,11,1,2019-12-17 23:40:26,2019-12-17 23:40:26,0,0,0,0,0,0
+Ondřej Španěl,OndrejSpanel@users.noreply.github.com,0,0,24,2,2019-12-18 18:00:51,2019-12-18 19:10:28,0,0,0,0,0,0
+Emmett Lalish,elalish@google.com,0,0,373,8,2019-12-18 03:38:14,2019-12-20 07:31:20,1305.5,28.0,4,1.0,1,2
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,16,2,2019-12-18 08:42:06,2019-12-20 02:20:28,112.0,14.0,0,0,0,0
+LeonYuanYao,yaoyuan@suitbim.com,0,0,10501,4,2019-12-19 23:23:09,2019-12-20 23:00:47,0,0,1,0.6925675675675675,1,-18
+Guillaume Fradin,guillaumefradin@gmail.com,0,0,19,3,2019-12-19 17:48:25,2019-12-20 16:49:12,0,0,2,0,0,0
+Karolusrex,kalle.lundfall@gmail.com,0,0,2,1,2019-12-20 09:11:23,2019-12-20 09:11:23,0,0,0,0,0,0
+David Peicho,davidHenri.Peicho@siemens-healthineers.com#davidhenri.peicho@siemens-healthineers.com,0,0,424,2,2019-12-20 11:05:09,2019-12-20 12:00:06,0,0,6,0.5714285714285714,2,7
+Don McCurdy,donmccurdy@google.com#don.r.mccurdy@gmail.com,0,0,1061,5,2019-12-20 05:00:51,2019-12-27 05:02:22,1061.0,5.0,2,1.0,1,0
+gogoend,gogoend@qq.com,1,0,19957,10,2019-12-21 23:26:51,2019-12-26 06:19:01,34924.75,17.5,0,0,0,0
+kazuki,sbr0913@gmail.com,0,0,4,2,2019-12-23 06:06:11,2019-12-23 06:23:26,0,0,0,0,0,0
+Victor,vicapow@gmail.com,0,0,1,1,2019-12-22 02:47:16,2019-12-22 02:47:16,0,0,1,0,0,0
+donutcoffee,47812491+donutcoffee@users.noreply.github.com,0,0,10,4,2019-12-26 19:15:10,2019-12-28 06:35:45,70.0,28.0,2,0,0,0
+Chris Renner,chris@rennerweb.com,0,0,2,1,2019-12-26 14:30:03,2019-12-26 14:30:03,0,0,1,0,0,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,80,1,2019-12-26 14:44:12,2019-12-26 14:44:12,0,0,2,1.0,1,0

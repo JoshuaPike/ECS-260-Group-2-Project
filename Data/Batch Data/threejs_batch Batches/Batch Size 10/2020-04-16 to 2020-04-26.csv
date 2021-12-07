@@ -1,0 +1,21 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Takahiro,hogehoge@gachapin.jp,0,0,8,1,2020-04-15 10:39:11,2020-04-15 10:39:11,0,0,2,1.0,1,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,206,4,2020-04-15 19:19:26,2020-04-22 19:02:24,240.33333333333334,4.666666666666667,3,0,0,14
+Maciek Jurczyk,thelairmail@gmail.com,0,0,128,5,2020-04-16 08:41:19,2020-04-17 15:42:55,896.0,35.0,3,2.708974358974359,4,2
+Mr.doob,info@mrdoob.com,1,0,6824,60,2020-04-17 00:57:17,2020-04-25 09:56:37,5971.0,52.5,5,4.565897244973939,5,0
+munrocket@pm.me,munrocket@pm.me,0,0,407,3,2020-04-16 17:35:06,2020-04-20 06:46:12,949.6666666666667,7.0,2,0,0,1
+munrocket,munrocket@pm.me,0,0,1,1,2020-04-16 17:39:32,2020-04-16 17:39:32,0,0,0,0,0,0
+LeonYuanYao,yaoyuan@suitbim.com,0,0,12,1,2020-04-17 19:07:36,2020-04-17 19:07:36,0,0,2,0,0,0
+Marco Fugaro,marco.fugaro@gmail.com,0,0,494,3,2020-04-17 13:52:54,2020-04-17 17:03:38,0,0,5,2.0,2,-6
+Aki Rodic,rodic@adobe.com,0,0,175,3,2020-04-17 05:37:10,2020-04-19 07:30:49,612.5,10.5,2,1.0,1,0
+Mugen87,michael.herzog@human-interactive.org,0,0,264,10,2020-04-19 13:23:07,2020-04-25 16:39:23,308.0,11.666666666666668,15,1.90641312453393,3,-4
+Peter Varga,peter.varga@xyicon.com,0,0,14,1,2020-04-20 14:47:02,2020-04-20 14:47:02,0,0,1,1.0,1,0
+Don McCurdy,donmccurdy@google.com,0,0,69,5,2020-04-20 15:32:12,2020-04-25 08:52:31,120.75,8.75,2,0.8333333333333334,1,0
+Lewy Blue,looeee@gmail.com,0,0,6,2,2020-04-21 20:27:33,2020-04-22 00:10:11,0,0,0,0,0,0
+linbingquan,695601626@qq.com,0,0,722,10,2020-04-22 06:20:28,2020-04-25 19:14:57,1684.6666666666667,23.333333333333336,1,0,0,0
+Senya Pugach,upisfree@outlook.com,0,0,2,1,2020-04-21 23:40:33,2020-04-21 23:40:33,0,0,0,0,0,0
+Marquizzo,marco@dyadstudios.com,0,0,123,2,2020-04-22 08:49:52,2020-04-23 06:01:44,0,0,2,0,0,2
+Jesper van den Ende,jespertheend@gmail.com,0,0,1,1,2020-04-23 22:21:03,2020-04-23 22:21:03,0,0,0,0,0,0
+Florent Coudret,florent.coudret@cstb.fr,0,0,130,2,2020-04-24 20:29:38,2020-04-24 21:54:57,0,0,1,0,0,0
+goechsler,github@oechsler.de,0,0,2,1,2020-04-25 14:21:45,2020-04-25 14:21:45,0,0,0,0,0,0
+Teja Swaroop Arukoti,tsarukoti@foyr.com,0,0,20,1,2020-04-26 04:16:04,2020-04-26 04:16:04,0,0,2,0,0,0

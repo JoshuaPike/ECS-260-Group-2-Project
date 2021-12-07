@@ -1,0 +1,18 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,0,1128,15,2019-11-07 08:14:53,2019-11-16 00:53:31,987.0,13.125,0,0,0,0
+Lewy Blue,looeee@gmail.com,0,0,52,1,2019-11-08 16:44:32,2019-11-08 16:44:32,0,0,2,1.0,1,-6
+Mugen87,michael.herzog@human-interactive.org,0,0,1073,15,2019-11-08 15:10:32,2019-11-15 15:48:27,1073.0,15.0,12,6.5,7,-7
+Michael Herzog,michael.herzog@human-interactive.org,0,0,553,12,2019-11-08 15:11:05,2019-11-17 16:57:48,430.1111111111111,9.333333333333332,0,0,0,0
+Dennis Hezel,dh@3yourmind.com,0,0,2,1,2019-11-08 16:16:33,2019-11-08 16:16:33,0,0,1,0,0,0
+Jordy van Dortmont,jordy@jordyvandortmont.com,0,0,56,1,2019-11-08 19:20:30,2019-11-08 19:20:30,0,0,0,0,0,8
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,12,1,2019-11-08 03:20:00,2019-11-08 03:20:00,0,0,2,0,0,6
+Arseny Kapoulkine,arseny.kapoulkine@gmail.com,0,0,163,7,2019-11-09 17:33:17,2019-11-16 07:07:10,190.16666666666669,8.166666666666668,8,4.138888888888889,6,1
+Guilherme Avila,guilhermebav@gmail.com,0,0,1023,3,2019-11-10 12:54:29,2019-11-10 13:54:30,0,0,2,0.90625,1,-6
+WestLangley,WestLangley@users.noreply.github.com,0,0,1367,6,2019-11-10 11:34:34,2019-11-16 12:55:05,1594.8333333333335,7.0,3,1.9722222222222223,2,1
+Don McCurdy,donmccurdy@google.com#don.r.mccurdy@gmail.com,0,0,12,3,2019-11-13 02:15:30,2019-11-14 01:08:35,0,0,0,0,0,0
+Takahiro,hogehoge@gachapin.jp,0,0,397167,3,2019-11-13 06:14:27,2019-11-13 06:43:24,0,0,2,0,0,1
+Or Fleisher,fleisher.or@gmail.com,0,0,333,4,2019-11-13 15:54:50,2019-11-15 04:55:00,2331.0,28.0,1,0,0,0
+linbingquan,695601626@qq.com,0,0,38,3,2019-11-15 07:04:48,2019-11-18 08:03:53,88.66666666666667,7.0,2,1.0,1,0
+munrocket@pm.me,munrocket@pm.me,0,0,24,2,2019-11-15 11:39:58,2019-11-18 04:15:00,84.0,7.0,3,0,0,0
+Luis Blanco,luisblanco1337@gmail.com,0,0,143881,1,2019-11-15 19:25:59,2019-11-15 19:25:59,0,0,0,0,0,0
+Fernando Serrano,fernandojsg@gmail.com,0,0,27,1,2019-11-16 00:51:34,2019-11-16 00:51:34,0,0,2,0.26666666666666666,1,1

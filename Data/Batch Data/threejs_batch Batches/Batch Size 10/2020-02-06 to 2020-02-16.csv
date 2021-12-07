@@ -1,0 +1,26 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,1,0,28577,69,2020-02-05 08:07:05,2020-02-14 10:36:54,22226.555555555555,53.666666666666664,23,6.5071839080459775,7,-9
+Xiaohan Zhang,hellochar@users.noreply.github.com,0,0,2,1,2020-02-05 12:16:21,2020-02-05 12:16:21,0,0,1,0,0,0
+linbingquan,695601626@qq.com,0,0,18,1,2020-02-06 22:13:33,2020-02-06 22:13:33,0,0,1,0,0,0
+donutcoffee,47812491+donutcoffee@users.noreply.github.com,0,0,6,2,2020-02-07 05:30:23,2020-02-09 16:18:02,21.0,7.0,1,1.0,1,0
+Mugen87,michael.herzog@human-interactive.org,0,0,3464,33,2020-02-06 15:41:13,2020-02-15 18:28:25,2694.222222222222,25.666666666666664,56,11.0,12,14
+Sébastien Valette,sebastien.valette@creatis.insa-lyon.fr,0,0,2,1,2020-02-07 14:57:31,2020-02-07 14:57:31,0,0,0,0,0,0
+Svenn-Arne Dragly,dragly@cognite.com,0,0,2,1,2020-02-07 16:57:00,2020-02-07 16:57:00,0,0,0,0,0,0
+Emmett Lalish,elalish@google.com,0,0,21851,7,2020-02-07 02:34:47,2020-02-07 03:55:55,0,0,2,2.0,2,4
+Marquizzo,marco@dyadstudios.com,0,0,12,4,2020-02-07 07:17:29,2020-02-13 15:10:25,14.0,4.666666666666667,0,0,0,0
+Don McCurdy,don.r.mccurdy@gmail.com#donmccurdy@google.com,0,0,273,4,2020-02-07 11:39:11,2020-02-11 14:56:19,477.75,7.0,2,1.0,1,4
+vtHawk,kittyhawk3011@gmail.com,0,0,34,4,2020-02-09 00:46:19,2020-02-14 00:50:39,47.6,5.6,2,0,0,0
+Paul Henschel,drcmda@gmail.com,0,0,24,1,2020-02-09 14:19:02,2020-02-09 14:19:02,0,0,0,0,0,0
+Omar Shehata,omar.sameh.shehata@gmail.com,0,0,18,2,2020-02-09 13:01:30,2020-02-10 03:20:00,0,0,0,0,0,0
+Benjamin MICHEL,benjisbrk@gmail.com,0,0,20,2,2020-02-10 12:28:32,2020-02-11 14:54:17,140.0,14.0,2,1.0,1,0
+Ondřej Španěl,OndrejSpanel@users.noreply.github.com,0,0,28,4,2020-02-10 15:43:14,2020-02-11 23:43:13,196.0,28.0,3,0.9333333333333333,1,2
+gonnavis,gonnavis@163.com,0,0,32,3,2020-02-11 08:06:10,2020-02-13 22:58:22,112.0,10.5,1,0,0,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,9,1,2020-02-10 13:35:19,2020-02-10 13:35:19,0,0,1,0,0,0
+Firepal,firepal@cyberdude.com,0,0,26,3,2020-02-11 23:35:36,2020-02-11 23:50:35,0,0,1,1.0,1,-1
+Gregg Tavares,github@greggman.com,0,0,9,1,2020-02-13 12:32:12,2020-02-13 12:32:12,0,0,0,0,0,0
+Wolfgang Meyers,ameyers@magicleap.com#wolfgangmeyers@gmail.com,0,0,58,6,2020-02-12 06:16:58,2020-02-14 00:49:24,406.0,42.0,3,2.8181818181818183,3,4
+Olli Etuaho,olli.etuaho@gmail.com,0,0,281,3,2020-02-13 16:01:44,2020-02-13 16:05:03,0,0,5,1.9351851851851851,3,0
+Yannis Gravezas,wizgrav@gmail.com,0,0,7,2,2020-02-13 12:55:25,2020-02-13 13:08:53,0,0,1,0,0,0
+Paul,gladsomebeast@gmail.com,0,0,36,2,2020-02-13 07:48:04,2020-02-14 06:59:41,0,0,0,0,0,0
+Kevin Caccamo,kevin@ciinet.org,0,0,16,2,2020-02-14 14:52:58,2020-02-14 15:07:13,0,0,0,0,0,0
+munrocket@pm.me,munrocket@pm.me,0,0,2015,1,2020-02-16 01:09:37,2020-02-16 01:09:37,0,0,2,1.0,1,8

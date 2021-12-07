@@ -1,0 +1,23 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,0,15044,59,2020-05-15 11:02:14,2020-05-25 09:20:08,11700.888888888889,45.888888888888886,7,5.145883940620783,7,4
+WestLangley,WestLangley@users.noreply.github.com,0,0,30,4,2020-05-15 17:21:58,2020-05-19 03:53:46,70.0,9.333333333333334,0,0,0,0
+munrocket@pm.me,munrocket@pm.me,0,0,1314,4,2020-05-16 16:58:16,2020-05-25 23:00:51,1021.9999999999999,3.1111111111111107,32,1.0,1,0
+Mugen87,michael.herzog@human-interactive.org,1,0,75812,16,2020-05-16 13:00:19,2020-05-26 01:11:25,58964.88888888888,12.444444444444443,203,1.0,1,4
+munrocket,munrocket@pm.me,0,0,67,1,2020-05-16 17:09:46,2020-05-16 17:09:46,0,0,0,0,0,0
+Marco Fugaro,marco.fugaro@gmail.com,0,0,86,4,2020-05-16 14:54:17,2020-05-23 01:14:09,100.33333333333334,4.666666666666667,0,0,0,0
+Guilherme Avila,guilhermebav@gmail.com,0,0,7168,4,2020-05-16 16:57:26,2020-05-21 13:03:35,12544.0,7.0,9,1.3792603792603793,2,-281
+Wojciech,wojtas.zielonka@gmail.com,0,0,48596,1,2020-05-18 15:19:26,2020-05-18 15:19:26,0,0,0,0,0,0
+tmkn,tuomasklein@gmail.com,0,0,37,2,2020-05-19 00:55:23,2020-05-19 01:50:17,0,0,1,0,0,0
+spaceman007,xtimespace@163.com,0,0,34,3,2020-05-19 19:12:51,2020-05-20 19:30:00,238.0,21.0,2,0,0,0
+gogoend,gogoend@qq.com,0,0,26586,4,2020-05-20 07:42:17,2020-05-26 07:49:58,31017.0,4.666666666666667,0,0,0,0
+Kevin Caccamo,kevin@ciinet.org,0,0,2,1,2020-05-19 18:16:50,2020-05-19 18:16:50,0,0,0,0,0,0
+Will Stott,willstott101@gmail.com,0,0,20,1,2020-05-20 14:48:17,2020-05-20 14:48:17,0,0,0,0,0,0
+linbingquan,695601626@qq.com,0,0,126,6,2020-05-22 06:05:35,2020-05-25 09:28:44,294.0,14.0,1,2.0,2,0
+Paweł Marczewski,pwmarcz@gmail.com,0,0,34,2,2020-05-22 01:05:54,2020-05-22 01:05:54,0,0,2,0,0,-1
+Hajime-san,utd.c.r.d.s.a@gmail.com,0,0,2,1,2020-05-23 08:42:42,2020-05-23 08:42:42,0,0,0,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,12,2,2020-05-23 13:33:32,2020-05-26 01:15:07,42.0,7.0,0,0,0,0
+Pim Schreurs,pimschreurs@gmail.com,0,0,18,1,2020-05-24 00:44:55,2020-05-24 00:44:55,0,0,3,1.0,1,0
+Rawr,DefinitelyMaybe@users.noreply.github.com,0,0,8,1,2020-05-25 00:00:16,2020-05-25 00:00:16,0,0,1,0,0,0
+Michael Hazani,123mickey@gmail.com#MichaelHazani@users.noreply.github.com,0,0,6,4,2020-05-24 18:28:44,2020-05-24 19:09:03,0,0,1,1.0,1,0
+Stefan Wendt,stefan.wendt@isax.com,0,0,4,1,2020-05-25 13:00:27,2020-05-25 13:00:27,0,0,2,0,0,0
+André Knörig,aknoerig@users.noreply.github.com,0,0,11,2,2020-05-25 20:08:21,2020-05-26 00:09:59,0,0,0,0,0,0

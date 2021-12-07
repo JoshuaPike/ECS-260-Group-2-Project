@@ -1,0 +1,21 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+WestLangley,WestLangley@users.noreply.github.com,0,0,226,3,2019-10-08 16:05:02,2019-10-13 20:09:23,316.4,4.2,5,0,0,3
+milcondoin,matrim20@yahoo.com,0,0,2,1,2019-10-09 11:55:36,2019-10-09 11:55:36,0,0,0,0,0,0
+Adrien Berthet,adrien.berthet@ign.fr,0,0,29,2,2019-10-09 11:59:31,2019-10-09 13:10:57,0,0,11,0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,591,21,2019-10-09 13:03:43,2019-10-18 14:57:07,459.66666666666663,16.333333333333332,10,0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,2272,18,2019-10-09 13:07:11,2019-10-18 14:58:10,1767.111111111111,13.999999999999998,0,2.268762677484787,4,11
+Mr.doob,info@mrdoob.com,1,0,5809,20,2019-10-09 20:22:37,2019-10-18 18:46:59,5082.875,17.5,12,2.8230769230769233,3,6
+makc,makc.the.great@gmail.com,0,0,2,1,2019-10-09 23:43:19,2019-10-09 23:43:19,0,0,0,0,0,0
+Peter Varga,soadzoor@gmail.com,0,0,2,1,2019-10-10 22:51:52,2019-10-10 22:51:52,0,0,0,0,0,0
+Kai Salmen,myself@kaisalmen.de,0,0,37,1,2019-10-11 00:25:37,2019-10-11 00:25:37,0,0,3,1.0,1,0
+evshiron,evshiron@gmail.com,0,0,62,3,2019-10-12 03:49:25,2019-10-13 02:50:47,0,0,0,0,0,0
+ranbuch,ranbuch@gmail.com,0,0,20,1,2019-10-12 03:02:22,2019-10-12 03:02:22,0,0,0,0,0,0
+Elias Hasle,elias.hasle@gmail.com,0,0,2,1,2019-10-12 10:52:44,2019-10-12 10:52:44,0,0,1,0,0,0
+Arseny Kapoulkine,arseny.kapoulkine@gmail.com,0,0,475,17,2019-10-12 01:51:17,2019-10-12 13:10:03,0,0,16,2.041666666666667,3,-23
+Sebastiaan ten Pas,sebastiaantenpas@gmail.com,0,0,2,1,2019-10-14 16:56:38,2019-10-14 16:56:38,0,0,1,0,0,0
+Emmett Lalish,elalish@google.com,0,0,44,5,2019-10-16 02:09:16,2019-10-16 06:25:04,0,0,0,2.0,2,0
+Lucas Garron,code@garron.net,0,0,2,1,2019-10-16 18:10:44,2019-10-16 18:10:44,0,0,0,0,0,0
+Olli Etuaho,olli.etuaho@gmail.com,0,0,40,1,2019-10-17 15:47:38,2019-10-17 15:47:38,0,0,2,0,0,0
+Daniel Toplak,homer.simpson123@gmx.de,0,0,4,1,2019-10-18 00:57:34,2019-10-18 00:57:34,0,0,2,0,0,0
+Guilherme Avila,guilhermebav@gmail.com,0,0,44,1,2019-10-18 12:27:43,2019-10-18 12:27:43,0,0,4,0,0,0
+Don McCurdy,donmccurdy@google.com,0,0,16,3,2019-10-18 08:39:49,2019-10-18 08:47:16,0,0,0,0,0,0
