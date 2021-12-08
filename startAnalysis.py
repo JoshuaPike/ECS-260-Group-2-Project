@@ -20,7 +20,7 @@ startTime = datetime.utcnow()
 #        'https://github.com/BabylonJS/Babylon.js', 'https://github.com/mrdoob/three.js',
 #        'https://github.com/KhronosGroup/WebGL', 'https://github.com/julianshapiro/velocity',
 #        'https://github.com/titon/toolkit']
-
+# https://github.com/ccampbell/rainbow
 
 localPaths = ['../pydriller', '../velocity', '../toolkit', '../WebGL', '../Babylon.js', '../three.js']
 
@@ -271,17 +271,17 @@ X = sm.add_constant(X)
 
 ols, summary = simple_linear_regression(X, churn_labels)
 print(summary)
-print('=========================================================================')
+print('\n---------------------------------------------------------------------------------------------------------------\n')
 ols, summary = simple_linear_regression(X, commit_labels)
 print(summary)
-print('=========================================================================')
+print('\n---------------------------------------------------------------------------------------------------------------\n')
 
 
 X = average_dmm
 X = sm.add_constant(X)
 ols, summary = simple_linear_regression(X, churn_labels)
 print(summary)
-print('=========================================================================')
+print('\n---------------------------------------------------------------------------------------------------------------\n')
 ols, summary = simple_linear_regression(X, commit_labels)
 print(summary)
 
@@ -289,6 +289,6 @@ X = average_comments
 X = sm.add_constant(X)
 ols, summary = simple_linear_regression(X, churn_labels)
 print(summary)
-print('=========================================================================')
+print('\n---------------------------------------------------------------------------------------------------------------\n')
 ols, summary = simple_linear_regression(X, commit_labels)
 print(summary)
