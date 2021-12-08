@@ -5,9 +5,10 @@ import csv
 from mineData import mine
 import sys
 from playsound import playsound
-from analyzeData import make_batch_data_monthly, make_total_data_from_monthly
+from analyzeData import make_batch_data_monthly, make_total_data_from_monthly, simple_linear_regression
 import glob
 import pandas as pd
+import statsmodels.api as sm
 
 sys.setrecursionlimit(1000)
 startTime = datetime.utcnow()
@@ -245,29 +246,6 @@ threejs_total_filename = 'All Threejs Data.csv'
 # make_total_data_from_monthly(webgl_name, webgl_total_filename)
 # make_total_data_from_monthly(threejs_name, threejs_total_filename)
 
-dir_fuck_you = 'Data/*.csv'
-file_list = glob.glob(dir_fuck_you)
-
-num_10x_churn = 0
-num_10x_commits = 0
-names = []
-for file in file_list:
-    file_dict = pd.read_csv(file, header=0, index_col=0).to_dict('index')
-    for name in file_dict:
-        if name not in names:
-            names.append(name)
-        churn_label = file_dict[name]['10x label churn']
-        commit_label = file_dict[name]['10x label commits']
-        if churn_label == 1:
-            num_10x_churn += 1
-        if commit_label == 1:
-            num_10x_commits += 1
-
-print(str(len(names)))
-print('Number of 10x churn: ' + str(num_10x_churn))
-print('Number of 10x commits: ' + str(num_10x_commits))
-
-
 # --------------------------------------- ANALYSIS ---------------------------------------------------
 babylonData = pd.read_csv('Data/' + babylon_total_filename)
 pydrillerData = pd.read_csv('Data/' + pydriller_total_filename)
@@ -276,12 +254,41 @@ webGLData = pd.read_csv('Data/' + webgl_total_filename)
 velocityData = pd.read_csv('Data/' + velocity_total_filename)
 toolkitData = pd.read_csv('Data/' + toolkit_total_filename)
 
-df = pd.concat([pydrillerData, threejsData, webGLData, velocityData, toolkitData])
-print(df.keys())
+df = pd.concat([pydrillerData, threejsData, webGLData, velocityData, toolkitData, babylonData])
+# print(df.keys())
 
 churn_labels = df['10x label churn']
 commit_labels = df['10x label commits']
+num_owned_files = df['num owned files']
+average_dmm = df['average dmm'].dropna()
+average_comments = df['average comments']
+
+# print(average_dmm)
+# print(average_comments)
+
+X = num_owned_files
+X = sm.add_constant(X)
+
+ols, summary = simple_linear_regression(X, churn_labels)
+print(summary)
+print('=========================================================================')
+ols, summary = simple_linear_regression(X, commit_labels)
+print(summary)
+print('=========================================================================')
 
 
+X = average_dmm
+X = sm.add_constant(X)
+ols, summary = simple_linear_regression(X, churn_labels)
+print(summary)
+print('=========================================================================')
+ols, summary = simple_linear_regression(X, commit_labels)
+print(summary)
 
-# print(babylonData)
+X = average_comments
+X = sm.add_constant(X)
+ols, summary = simple_linear_regression(X, churn_labels)
+print(summary)
+print('=========================================================================')
+ols, summary = simple_linear_regression(X, commit_labels)
+print(summary)
