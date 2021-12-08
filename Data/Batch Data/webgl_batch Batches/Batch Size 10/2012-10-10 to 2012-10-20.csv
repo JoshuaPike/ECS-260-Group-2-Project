@@ -1,0 +1,7 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Brandon Jones,"['bajones@chromium.org', 'bajones@google.com']",0,0,714,6,2012-10-10 08:13:30,2012-10-19 03:37:44,624.75,5.25,2,3.7272727272727275,4,37
+Kenneth Russell,['kbr@chromium.org'],0,0,570,10,2012-10-11 03:48:27,2012-10-18 06:39:36,570.0,10.0,1,0.6136363636363636,1,3
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,641,11,2012-10-11 03:55:12,2012-10-18 06:45:44,641.0,11.0,0,0,0,0
+Gregg Tavares,['github@greggman.com'],0,0,26,1,2012-10-16 09:17:13,2012-10-16 09:17:13,0,0,0,0,0,0
+Greggman,['github@greggman.com'],0,0,658,4,2012-10-16 09:23:29,2012-10-19 03:50:05,2303.0,14.0,0,0,0,0
+Max Vujovic,['mvujovic@adobe.com'],0,0,15,1,2012-10-18 02:50:01,2012-10-18 02:50:01,0,0,0,0,0,0

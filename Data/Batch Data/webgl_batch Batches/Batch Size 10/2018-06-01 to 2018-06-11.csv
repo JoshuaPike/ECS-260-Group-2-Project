@@ -1,0 +1,6 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Jeff Gilbert,['jdashg@gmail.com'],0,0,58,1,2018-05-31 10:38:44,2018-05-31 10:38:44,0,0,0,0,0,0
+Kai Ninomiya,"['kainino@chromium.org', 'kainino1@gmail.com']",0,0,1077,3,2018-06-04 06:11:15,2018-06-05 01:36:18,0,0,0,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,645,1,2018-06-06 04:55:20,2018-06-06 04:55:20,0,0,0,0,0,0
+Justin Fan,['justin_fan@apple.com'],0,0,20,1,2018-06-07 07:27:21,2018-06-07 07:27:21,0,0,4,1.0,1,-8
+Dean Jackson,['dino@grorg.org'],0,0,20,1,2018-06-08 17:42:15,2018-06-08 17:42:15,0,0,0,0,0,0

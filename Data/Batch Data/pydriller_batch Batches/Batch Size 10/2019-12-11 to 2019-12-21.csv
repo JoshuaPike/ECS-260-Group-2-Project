@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+stefanodallapalma,['stefano.dallapalma0@gmail.com'],0,0,785,7,2019-12-11 16:51:27,2019-12-12 13:08:24,0,0,6,2.5666666666666664,3,2
+ishepard,['spadini.davide@gmail.com'],0,0,1365,23,2019-12-12 12:14:11,2019-12-17 15:01:42,1911.0,32.199999999999996,10,9.632352941176471,10,-16
+Davide Spadini,['spadini.davide@gmail.com'],0,0,1433,6,2019-12-12 12:25:03,2019-12-17 14:41:10,2006.2,8.4,0,0,0,0
+Yusuf Sulistyo Nugroho,['32761621+yusufsn@users.noreply.github.com'],0,0,13,1,2019-12-18 02:38:46,2019-12-18 02:38:46,0,0,0,0,0,0

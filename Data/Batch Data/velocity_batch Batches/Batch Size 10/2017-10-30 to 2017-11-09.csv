@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ryc O'Chet,['rycochet@rycochet.com'],0,0,6580,8,2017-10-30 13:53:18,2017-11-08 15:13:33,5117.777777777777,6.222222222222221,4,1.9832761704030146,4,72
+Alexandros Dorodoulis,['aldor94@gmail.com'],0,0,617,3,2017-10-31 15:01:10,2017-11-08 14:11:53,617.0,3.0,0,1.9545454545454546,2,0
+Duskfall,['cyber_andrew6@hotmail.com'],0,0,547,1,2017-11-08 14:36:35,2017-11-08 14:36:35,0,0,0,1.0,1,0

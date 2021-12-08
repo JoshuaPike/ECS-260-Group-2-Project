@@ -1,0 +1,9 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+msc-hi,['callow.mark@artspark.co.jp'],0,0,730,3,2012-11-22 00:25:56,2012-11-27 00:35:59,1022.0,4.2,0,0,0,0
+pyalot,['pyalot@wintermute.(none)'],0,0,67,1,2012-11-22 11:44:38,2012-11-22 11:44:38,0,0,0,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,510,6,2012-11-26 09:52:42,2012-11-28 06:25:26,3570.0,42.0,0,0,0,0
+Gregg Tavares,['github@greggman.com'],0,0,128,2,2012-11-27 23:28:00,2012-11-29 04:38:17,896.0,14.0,1,0.3225806451612903,1,0
+Greggman,['github@greggman.com'],0,0,128,2,2012-11-26 13:28:49,2012-11-27 18:41:37,896.0,14.0,0,0,0,0
+John Bauman,['jbauman@chromium.org'],0,0,104,1,2012-11-27 07:32:05,2012-11-27 07:32:05,0,0,0,0,0,0
+Brandon Jones,['bajones@chromium.org'],0,0,2,1,2012-11-27 08:24:30,2012-11-27 08:24:30,0,0,0,0,0,0
+Kenneth Russell,['kbr@chromium.org'],0,0,337,3,2012-11-28 02:29:05,2012-11-28 06:23:51,0,0,0,0,0,0

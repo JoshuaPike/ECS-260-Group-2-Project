@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,18,2,2021-02-10 04:24:52,2021-02-11 14:03:06,126.0,14.0,1,0,0,0
+ShrekShao,['shrekshao@google.com'],0,0,58,1,2021-02-16 01:28:02,2021-02-16 01:28:02,0,0,0,0,0,0
+Jeff Gilbert,['jdashg@gmail.com'],0,0,1684,4,2021-03-03 08:06:10,2021-03-05 13:44:44,5894.0,14.0,0,0,0,0

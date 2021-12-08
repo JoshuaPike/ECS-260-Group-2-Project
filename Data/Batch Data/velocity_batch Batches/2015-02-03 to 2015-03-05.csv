@@ -1,0 +1,2 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Julian Shapiro,['julian@julianshapiro.com'],0,0,31275,6,2015-02-08 10:33:38,2015-02-16 09:52:46,31275.0,6.0,11,0.7639486245755622,2,2777

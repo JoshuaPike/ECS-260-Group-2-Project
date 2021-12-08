@@ -1,0 +1,7 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Jamie Madill,['jmadill@chromium.org'],0,0,6,1,2018-12-09 05:16:42,2018-12-09 05:16:42,0,0,0,0,0,0
+Jeff Gilbert,['jdashg@gmail.com'],0,0,3439,5,2018-12-10 03:37:33,2018-12-14 09:34:53,6018.25,8.75,0,0,0,0
+zhenyao,['zmo@chromium.org'],0,0,78,1,2018-12-11 10:01:26,2018-12-11 10:01:26,0,0,0,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,43,2,2018-12-13 08:53:13,2018-12-14 08:51:32,0,0,0,0,0,0
+Kai Ninomiya,['kainino1@gmail.com'],0,0,161,1,2018-12-13 15:26:12,2018-12-13 15:26:12,0,0,0,0,0,0
+James Darpinian,['jdarpinian@chromium.org'],0,0,1,1,2018-12-14 09:30:27,2018-12-14 09:30:27,0,0,1,0,0,0

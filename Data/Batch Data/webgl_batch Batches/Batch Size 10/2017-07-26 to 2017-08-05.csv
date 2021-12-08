@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Khronos Group Webmaster,['webmaster@khronos.org'],0,0,28,2,2017-07-27 17:30:51,2017-07-27 17:32:55,0,0,0,0,0,0
+Tarek Sherif,['tsherif@gmail.com'],0,0,88,1,2017-07-28 12:46:53,2017-07-28 12:46:53,0,0,0,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,174,3,2017-08-01 03:21:11,2017-08-01 06:03:36,0,0,1,0.6666666666666666,1,0

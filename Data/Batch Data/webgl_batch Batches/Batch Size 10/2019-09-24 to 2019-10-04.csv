@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Istvan Miklos,['istvan.miklos@h-lab.eu'],0,0,2,1,2019-09-24 02:24:29,2019-09-24 02:24:29,0,0,0,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,10,1,2019-09-25 06:05:55,2019-09-25 06:05:55,0,0,0,0,0,0
+Jeff Gilbert,['jgilbert@mozilla.com'],0,0,94,5,2019-09-25 10:07:22,2019-10-03 07:57:12,94.0,5.0,0,0,0,0
+ShrekShao,['shrekshao@google.com'],0,0,55,1,2019-09-25 11:59:06,2019-09-25 11:59:06,0,0,0,0,0,0

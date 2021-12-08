@@ -1,0 +1,26 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Kacey Coley,kcoley@users.noreply.github.com,0,0,5545,6,2018-04-13 11:11:53,2018-05-12 03:55:23,1386.25,1.5,0,2.5196956195177433,4,0
+Gary Hsu,garyhsu@microsoft.com,0,0,1684,27,2018-04-13 11:15:16,2018-05-11 02:11:35,436.5925925925926,7.0,1,9.242105263157896,10,-1
+David Catuhe,david.catuhe@live.fr,0,0,3363517,164,2018-04-13 12:06:31,2018-05-12 02:02:42,840879.25,41.0,86,24.332530377528094,35,218
+MackeyK24,MackeyK24@gmail.com,0,0,260801,9,2018-04-13 07:44:30,2018-04-27 18:15:21,130400.5,4.5,0,1.0,1,0
+Royi Bernthal,royibernthal@gmail.com,0,0,91605,4,2018-04-14 21:31:51,2018-04-17 19:25:37,320617.5,14.0,0,0.0,0,0
+finscn,finscn@gmail.com,0,0,4,2,2018-04-16 19:23:13,2018-04-16 21:19:26,0,0,0,0.0,0,0
+Raanan Weber,info@raananweber.com#raananw+github@gmail.com,0,0,482917,132,2018-04-16 11:32:29,2018-05-11 14:44:30,135216.75999999998,36.96,12,35.72597976721201,43,66
+Vinc3r,Vinc3r@users.noreply.github.com,0,0,0,2,2018-04-16 16:08:47,2018-04-16 16:09:58,0,0,0,0.0,0,0
+V!nc3r,Vinc3r@users.noreply.github.com,0,0,0,2,2018-04-17 22:50:22,2018-04-17 23:03:07,0,0,0,0.0,0,0
+Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,0,0,479451,24,2018-04-18 09:24:05,2018-05-03 04:22:20,239725.5,12.0,2,7.7063522367536,10,-154
+sebastien,vandenberghe.sebastien@gmail.com,0,0,348682,20,2018-04-19 03:46:58,2018-05-08 15:53:28,128461.7894736842,7.368421052631579,2,5.922446234270069,9,14
+sebavan,vandenberghe.sebastien@gmail.com,0,0,610484,29,2018-04-19 15:29:10,2018-05-05 11:17:32,284892.5333333333,13.533333333333333,1,0.0,0,0
+Rémi Louvat,remi.louvat@hotmail.com,0,0,99088,7,2018-04-20 18:48:57,2018-04-23 17:14:12,346808.0,24.5,1,1.9290322580645165,2,15
+Guide,babylonjsguide@gmail.com,0,0,30394,6,2018-04-20 16:08:24,2018-05-03 10:33:03,17729.833333333336,3.5,0,1.0,1,0
+Trevor Baron,trbaron@microsoft.com#trevorjbaron@gmail.com,0,0,1042990,22,2018-04-20 10:32:38,2018-05-11 06:59:26,365046.5,7.7,2,9.3,10,2
+Julien MOREAU-MATHIS,moreau-mathis@intechinfo.fr,0,0,84,3,2018-04-22 20:11:10,2018-04-22 20:35:20,0,0,0,1.0,1,0
+Saurabh Bhatia,saurabh@microsoft.com,0,0,22,5,2018-04-23 07:40:28,2018-04-23 09:06:41,0,0,0,0.0,0,0
+Alexandre Carvallo,a-carvallo@users.noreply.github.com,0,0,1121163,4,2018-04-26 13:14:22,2018-04-26 17:14:13,0,0,0,0.0,0,0
+Eric Brooks,ebrooks@axonom.com,0,0,3,1,2018-04-26 15:17:57,2018-04-26 15:17:57,0,0,0,1.0,1,0
+Szeyin Lee,szlee@microsoft.com,0,0,84818,10,2018-04-26 12:10:23,2018-05-03 10:09:13,98954.33333333334,11.666666666666668,1,1.91,2,0
+SzeyinLee,szeyin8@gmail.com,0,0,83964,1,2018-04-27 12:28:49,2018-04-27 12:28:49,0,0,0,0.0,0,0
+Julien Moreau-Mathis,moreau-mathis@intechinfo.fr,0,0,19,1,2018-04-29 21:00:10,2018-04-29 21:00:10,0,0,1,1.0,1,1
+Sergio Masellis,sergio@sergiomasellis.com,0,0,2,1,2018-05-01 10:42:50,2018-05-01 10:42:50,0,0,0,0.0,0,0
+Christopher Yovanovitch,yovano_c@outlook.com,0,0,1071163,17,2018-05-03 23:52:07,2018-05-12 18:40:27,937267.625,14.875,50,4.982569133711018,6,-14649
+Eddie Willett,edwill@microsoft.com,0,0,1,1,2018-05-09 03:15:30,2018-05-09 03:15:30,0,0,0,0.0,0,0

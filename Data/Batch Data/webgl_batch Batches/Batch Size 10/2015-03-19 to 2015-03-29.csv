@@ -1,0 +1,8 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,17796,15,2015-03-18 10:41:52,2015-03-26 15:52:44,15571.5,13.125,1,0,0,1
+He Yunchao,['yunchao.he@intel.com'],0,0,63,6,2015-03-20 01:04:49,2015-03-20 23:23:39,0,0,1,0,0,0
+Janusz Sobczak,['janusz.sobczak@mobica.com'],0,0,17162,1,2015-03-19 07:21:41,2015-03-19 07:21:41,0,0,27,0.5027783951989331,1,1201
+Brandon Jones,['tojiro@gmail.com'],0,0,4,2,2015-03-20 04:00:36,2015-03-20 04:09:46,0,0,0,0,0,0
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,298,1,2015-03-23 15:47:32,2015-03-23 15:47:32,0,0,0,0,0,0
+Dan Glastonbury,['dglastonbury@mozilla.com'],0,0,20,2,2015-03-24 22:32:40,2015-03-24 22:32:40,0,0,0,0,0,0
+Matthew Ng,['matthewn@nvidia.com'],0,0,242,2,2015-03-26 08:06:49,2015-03-27 08:19:57,1694.0,14.0,0,0,0,0

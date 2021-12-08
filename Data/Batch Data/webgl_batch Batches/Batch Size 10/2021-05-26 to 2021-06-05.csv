@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Jeff Gilbert,['jdashg@gmail.com'],0,0,457,1,2021-05-26 08:59:03,2021-05-26 08:59:03,0,0,1,1.0,1,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,73,1,2021-05-26 09:38:14,2021-05-26 09:38:14,0,0,0,0,0,0
+Dale Curtis,['dalecurtis@chromium.org'],0,0,11,1,2021-06-03 04:27:20,2021-06-03 04:27:20,0,0,0,0,0,0

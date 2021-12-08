@@ -1,0 +1,3 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+ishepard,['spadini.davide@gmail.com'],0,0,1102,25,2018-10-19 18:46:05,2018-10-26 21:30:26,1102.0,25.0,18,8.838888888888889,10,7
+Spadini Davide,['spadini.davide@gmail.com'],0,0,303,1,2018-10-22 16:13:31,2018-10-22 16:13:31,0,0,0,0,0,0

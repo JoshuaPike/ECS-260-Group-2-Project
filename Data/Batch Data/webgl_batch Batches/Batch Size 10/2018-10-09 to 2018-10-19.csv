@@ -1,0 +1,7 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Khronos Group Webmaster,['webmaster@khronos.org'],0,0,1,1,2018-10-10 11:43:50,2018-10-10 11:43:50,0,0,0,0,0,0
+Jeff Gilbert,"['jgilbert@mozilla.com', 'jdashg@gmail.com']",0,0,500,7,2018-10-10 10:53:07,2018-10-17 08:23:02,583.3333333333334,8.166666666666668,4,0,0,0
+jdashg,['jdashg@gmail.com'],0,0,126,1,2018-10-16 08:00:45,2018-10-16 08:00:45,0,0,0,0.38095238095238093,1,0
+James Darpinian,['jdarpinian@gmail.com'],0,0,529,1,2018-10-16 10:23:16,2018-10-16 10:23:16,0,0,0,0,0,0
+Tarek Sherif,['tareksherif@protonmail.com'],0,0,371,1,2018-10-16 11:23:28,2018-10-16 11:23:28,0,0,0,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,102,1,2018-10-17 08:39:46,2018-10-17 08:39:46,0,0,0,0,0,0

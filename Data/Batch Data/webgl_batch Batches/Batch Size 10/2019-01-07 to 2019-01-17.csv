@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,383,1,2019-01-07 09:53:08,2019-01-07 09:53:08,0,0,0,0,0,0
+Kenneth Russell,['kbr@chromium.org'],0,0,17,1,2019-01-08 08:23:00,2019-01-08 08:23:00,0,0,0,0,0,0
+Jeff Gilbert,['jdashg@gmail.com'],0,0,17,1,2019-01-09 10:01:27,2019-01-09 10:01:27,0,0,0,0,0,0
+Natasha Lee,['natlee@microsoft.com'],0,0,108,1,2019-01-16 07:37:41,2019-01-16 07:37:41,0,0,0,0,0,0

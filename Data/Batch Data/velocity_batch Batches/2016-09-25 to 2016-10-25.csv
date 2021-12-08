@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ryc O'Chet,['rycochet@rycochet.com'],0,0,429,5,2016-09-25 11:45:56,2016-10-23 09:55:29,111.22222222222221,1.2962962962962963,6,1.5849802371541502,3,11
+Julian Shapiro,['julianshapiro@users.noreply.github.com'],0,0,2,1,2016-10-03 06:15:33,2016-10-03 06:15:33,0,0,0,0.0,0,0
+Ademílson F. Tonato,['contato@admcode.com.br'],0,0,46,2,2016-10-13 17:05:29,2016-10-13 13:49:58,322.0,14.0,0,0.0,0,0
+Khurram Virani,['kvirani@gmail.com'],0,0,12,1,2016-10-18 01:41:37,2016-10-18 01:41:37,0,0,0,0.0,0,0

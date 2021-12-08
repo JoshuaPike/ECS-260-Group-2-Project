@@ -1,0 +1,9 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+David Sheets,['sheets@ashimaarts.com'],0,0,12,1,2012-12-10 07:56:28,2012-12-10 07:56:28,0,0,0,0,0,0
+pyalot,['pyalot@wintermute.(none)'],0,0,157,1,2012-12-12 20:03:25,2012-12-12 20:03:25,0,0,0,0,0,0
+Florian Boesch,['pyalot@gmail.com'],0,0,179,2,2012-12-12 22:09:59,2012-12-16 15:02:54,417.6666666666667,4.666666666666667,0,0,0,0
+Brandon Jones,"['bajones@chromium.org', 'bajones@google.com']",0,0,271,3,2012-12-13 06:34:36,2012-12-18 05:51:22,474.25,5.25,1,0,0,1
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,517,7,2012-12-14 06:06:08,2012-12-17 11:14:36,1206.3333333333335,16.333333333333336,0,0,0,0
+janfre01,['jan-harald.fredriksen@arm.com'],0,0,20,1,2012-12-17 18:57:50,2012-12-17 18:57:50,0,0,0,0,0,0
+Kenneth Russell,['kbr@chromium.org'],0,0,63,1,2012-12-17 11:13:25,2012-12-17 11:13:25,0,0,0,0,0,0
+janharaldfredriksen,['jan-harald.fredriksen@arm.com'],0,0,124,1,2012-12-19 01:17:26,2012-12-19 01:17:26,0,0,0,0,0,0

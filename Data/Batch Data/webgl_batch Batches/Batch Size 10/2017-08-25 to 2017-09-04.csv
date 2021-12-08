@@ -1,0 +1,7 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Justin Novosad,['justin.novosad@gmail.com'],0,0,58,1,2017-08-29 04:03:35,2017-08-29 04:03:35,0,0,2,0.9,1,4
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,27,1,2017-08-30 07:56:59,2017-08-30 07:56:59,0,0,0,0,0,0
+Olli Etuaho,['olli.etuaho@gmail.com'],0,0,93,2,2017-08-31 01:43:04,2017-08-31 01:48:00,0,0,0,0,0,0
+Jiawei Shao,['jiawei.shao@intel.com'],0,0,105,1,2017-08-31 01:44:23,2017-08-31 01:44:23,0,0,0,0,0,0
+Kai Ninomiya,['kainino1@gmail.com'],0,0,32,1,2017-08-31 07:31:46,2017-08-31 07:31:46,0,0,0,0,0,0
+Kirill Dmitrenko,['kdmitrenko@gmail.com'],0,0,100,1,2017-09-01 08:57:35,2017-09-01 08:57:35,0,0,0,0,0,0

@@ -1,0 +1,6 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Dan Glastonbury,['dglastonbury@mozilla.com'],0,0,2,1,2014-06-12 21:49:33,2014-06-12 21:49:33,0,0,0,0,0,0
+Tibor den Ouden,['tibordenouden@gmail.com'],0,0,2,1,2014-06-12 12:35:56,2014-06-12 12:35:56,0,0,0,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,597,8,2014-06-12 03:34:47,2014-06-18 05:44:51,696.5,9.333333333333334,0,0,0,0
+Jamie Madill,['jmadill@chromium.org'],0,0,297,2,2014-06-16 11:25:58,2014-06-18 10:48:56,2079.0,14.0,0,0,0,0
+Brandon Jones,"['bajones@chromium.org', 'tojiro@gmail.com']",0,0,287,8,2014-06-17 08:16:36,2014-06-19 02:11:17,2009.0,56.0,0,0,0,0

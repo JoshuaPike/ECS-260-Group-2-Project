@@ -1,0 +1,11 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,299,4,2015-07-07 16:56:28,2015-07-09 19:51:38,1046.5,14.0,0,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,4614,11,2015-07-07 01:32:59,2015-07-16 04:40:23,3588.6666666666665,8.555555555555555,0,0,0,0
+Zhenyao Mo,['zmo@chromium.org'],0,0,1278,9,2015-07-07 04:29:13,2015-07-10 08:42:02,2982.0,21.0,7,1.0,1,0
+Brandon Jones,"['tojiro@gmail.com', 'bajones@chromium.org']",0,0,705,8,2015-07-07 09:46:23,2015-07-15 10:03:32,616.875,7.0,0,0,0,0
+Patrick Kettner,['patrickkettner@gmail.com'],0,0,11,1,2015-07-07 10:22:07,2015-07-07 10:22:07,0,0,1,0,0,0
+He Yunchao,['yunchao.he@intel.com'],0,0,17,2,2015-07-08 22:39:18,2015-07-15 00:52:13,19.833333333333336,2.3333333333333335,0,0,0,0
+Matthew Ng,['matthewn@nvidia.com'],0,0,118,2,2015-07-08 08:23:36,2015-07-13 08:43:26,165.2,2.8,2,0,0,0
+zhenyao,['zmo@chromium.org'],0,0,368,5,2015-07-09 00:48:08,2015-07-13 09:21:06,644.0,8.75,0,0,0,0
+Dan Glastonbury,['dglastonbury@mozilla.com'],0,0,22,1,2015-07-16 20:31:46,2015-07-16 20:31:46,0,0,0,0,0,0
+Khronos Group Webmaster,['webmaster@khronos.org'],0,0,10,1,2015-07-16 10:21:09,2015-07-16 10:21:09,0,0,0,0,0,0

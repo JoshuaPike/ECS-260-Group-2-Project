@@ -1,0 +1,6 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+RafaelCintron,['rafael.cintron@outlook.com'],0,0,16,1,2014-08-21 14:25:31,2014-08-21 14:25:31,0,0,0,0,0,0
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,139,8,2014-08-22 14:57:00,2014-08-27 16:57:05,194.6,11.2,0,0,0,0
+Brandon Jones,"['tojiro@gmail.com', 'bajones@chromium.org']",0,0,580,10,2014-08-22 02:50:35,2014-08-29 03:30:07,580.0,10.0,6,1.0,1,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,164,8,2014-08-23 09:13:04,2014-08-28 04:22:31,287.0,14.0,2,1.0,1,0
+Rafael Cintron,['rafael.cintron@outlook.com'],0,0,88,3,2014-08-25 09:10:44,2014-08-25 11:47:40,0,0,0,0,0,0

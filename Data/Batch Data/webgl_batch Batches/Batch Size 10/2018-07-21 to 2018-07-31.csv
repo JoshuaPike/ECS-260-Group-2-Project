@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,186,2,2018-07-20 10:51:35,2018-07-26 08:16:04,260.4,2.8,0,0,0,0
+Olli Etuaho,['olli.etuaho@gmail.com'],0,0,1051,2,2018-07-30 15:26:31,2018-07-30 07:27:32,7357.0,14.0,1,1.0,1,5
+Justin Novosad,['justin.novosad@gmail.com'],0,0,187,1,2018-07-30 07:22:55,2018-07-30 07:22:55,0,0,4,0.6938775510204082,1,-2

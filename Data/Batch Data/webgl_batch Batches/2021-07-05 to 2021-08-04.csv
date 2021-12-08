@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Kagami Sascha Rosylight,['saschanaz@outlook.com'],0,1,1,1,2021-07-06 05:35:36,2021-07-06 05:35:36,0,0,0,0,0,0
+Alexey Knyazev,['3479527+lexaknyazev@users.noreply.github.com'],0,1,1,1,2021-08-03 03:17:40,2021-08-03 03:17:40,0,0,0,0,0,0
+Jeff Gilbert,['jdashg@gmail.com'],0,1,1,1,2021-08-03 05:12:55,2021-08-03 05:12:55,0,0,0,0,0,0

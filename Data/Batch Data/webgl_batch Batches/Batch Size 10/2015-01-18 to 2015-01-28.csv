@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Florian Boesch,['pyalot@gmail.com'],0,0,240,11,2015-01-21 10:15:28,2015-01-26 23:08:05,336.0,15.4,0,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,9550,13,2015-01-22 09:15:18,2015-01-26 15:39:40,16712.5,22.75,5,2.0,2,9
+Brandon Jones,['tojiro@gmail.com'],0,0,69,1,2015-01-22 09:24:21,2015-01-22 09:24:21,0,0,0,0,0,0
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,6,1,2015-01-26 13:42:48,2015-01-26 13:42:48,0,0,0,0,0,0

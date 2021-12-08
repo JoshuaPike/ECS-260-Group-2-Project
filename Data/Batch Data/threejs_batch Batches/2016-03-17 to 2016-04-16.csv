@@ -1,0 +1,38 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,1,499705,134,2016-03-17 01:10:24,2016-04-12 23:36:56,134535.96153846153,36.07692307692307,41,23.217640436789374,27,90
+Ningxin Hu,ningxin.hu@intel.com,0,0,13,1,2016-03-18 01:19:07,2016-03-18 01:19:07,0,0,0,0.0,0,-1
+gero3,gero3@users.noreply.github.com,0,0,2,1,2016-03-17 11:46:24,2016-03-17 11:46:24,0,0,0,0.0,0,0
+s9k,s9k0@yandex.ru,0,0,19,1,2016-03-17 15:56:02,2016-03-17 15:56:02,0,0,0,0.0,0,0
+Jaume Sanchez,the.spite@gmail.com,0,0,137,10,2016-03-17 14:13:13,2016-03-30 14:16:39,73.76923076923077,5.384615384615384,1,1.0,1,0
+Mugen87,michael.herzog@human-interactive.org,0,0,1583,16,2016-03-17 19:46:13,2016-03-30 23:31:46,852.3846153846154,8.615384615384615,13,3.428571428571429,4,14
+Reece Lecrivain,reece@amentrix.com,0,0,79,1,2016-03-17 20:31:00,2016-03-17 20:31:00,0,0,1,0.0,0,0
+Michael Guerrero,mjguerre@nps.edu,0,0,485419,6,2016-03-17 09:11:34,2016-03-18 04:41:36,0,0,2,1.0,1,3
+Daosheng Mu,daoshengmu@gmail.com,0,0,26,2,2016-03-19 02:22:38,2016-03-19 02:25:36,0,0,1,0.0,0,0
+Ben,github@polycoda.com,0,0,172,2,2016-03-18 11:40:12,2016-03-18 12:12:09,0,0,0,0.0,0,0
+Ryan Lee,rslee@nps.edu,0,0,19,3,2016-03-18 06:37:02,2016-03-18 08:07:34,0,0,0,0.0,0,0
+WestLangley,dat1234@gmail.com#WestLangley@users.noreply.github.com,0,0,1211,13,2016-03-18 20:12:16,2016-04-15 13:04:38,313.96296296296293,3.3703703703703702,9,3.368983957219251,4,2
+Tony Parisi,tparisi@gmail.com,0,0,46506,3,2016-03-21 06:40:41,2016-03-21 06:48:00,0,0,1,0.0,0,0
+Jonne Nauha,jonne@adminotech.com,0,0,710,8,2016-03-22 17:40:16,2016-03-23 01:51:14,0,0,1,2.375,3,24
+Brandon Jones,tojiro@gmail.com,0,0,85,2,2016-03-22 03:23:27,2016-04-02 01:16:26,59.5,1.4,1,1.1764705882352942,2,4
+tschw,tschwinger@isonews2.com,0,0,4014,17,2016-03-24 02:39:19,2016-04-15 13:05:33,1277.1818181818182,5.409090909090909,28,5.207792207792208,6,75
+Ben Houston,ben@exocortex.com,0,0,32,1,2016-03-24 04:43:16,2016-03-24 04:43:16,0,0,0,0.0,0,0
+takahiro,hogehoge@gachapin.jp,0,0,158,1,2016-03-26 16:13:14,2016-03-26 16:13:14,0,0,2,0.4492753623188406,1,7
+Master James,masterjames@master-domain.net,0,0,1,19,2016-03-29 20:17:07,2016-03-30 21:54:13,5572.0,133.0,0,0.0,0,0
+Justin Holdstock,jholdstock@box.com#justinholdstock91@gmail.com,0,0,4,2,2016-04-01 04:32:50,2016-04-01 05:41:45,0,0,1,0.0,0,0
+Ben Houston (Clara.io),ben@exocortex.com,0,0,2112,12,2016-04-02 01:04:41,2016-04-15 13:29:17,1137.2307692307693,6.461538461538462,18,2.611111111111111,4,6
+Michael Herzog,michael.herzog@human-interactive.org,0,0,895,8,2016-04-02 01:54:15,2016-04-11 23:35:05,696.1111111111111,6.222222222222221,17,1.1383647798742138,2,12
+Takahiro,hogehoge@gachapin.jp,0,0,139,5,2016-04-03 10:52:40,2016-04-10 11:45:45,139.0,5.0,1,2.0,2,-1
+dimarudol,dimarudol@gmail.com,0,0,2,1,2016-04-05 14:22:40,2016-04-05 14:22:40,0,0,0,0.0,0,0
+rfm1201,rfm1201@users.noreply.github.com,0,0,41,1,2016-04-06 00:27:38,2016-04-06 00:27:38,0,0,0,0.0,0,7
+aardgoose,angus.sawyer@gmail.com,0,0,100,5,2016-04-07 02:18:21,2016-04-09 12:05:22,350.0,17.5,1,0.0,0,0
+Zach Koch,ezekeal@gmail.com,0,0,100,1,2016-04-07 02:20:40,2016-04-07 02:20:40,0,0,0,0.0,0,0
+RavenWorks,omgitsraven@gmail.com,0,0,196,1,2016-04-07 02:21:10,2016-04-07 02:21:10,0,0,0,0.0,0,0
+panlina,default@lumjsoft.com,0,0,250,1,2016-04-08 17:15:37,2016-04-08 17:15:37,0,0,0,0.0,0,0
+Matt DesLauriers,dave.des@gmail.com,0,0,399,2,2016-04-09 01:24:10,2016-04-09 21:30:52,0,0,4,1.0,1,4
+Elisée Maurer,elisee@sparklinlabs.com,0,0,8,1,2016-04-09 10:52:17,2016-04-09 10:52:17,0,0,1,0.0,0,0
+Serena Li,serena@serenali.com,0,0,42,1,2016-04-10 21:22:29,2016-04-10 21:22:29,0,0,1,0.875,1,0
+Niels,nielspausma@gmail.com,0,0,12,2,2016-04-11 17:15:34,2016-04-12 10:58:23,0,0,1,0.0,0,0
+Sébastien Valette,sebastien.valette@creatis.insa-lyon.fr,0,0,10,1,2016-04-12 11:48:03,2016-04-12 11:48:03,0,0,1,1.0,1,0
+chris van wiemeersch,cvan@users.noreply.github.com,0,0,2,1,2016-04-12 14:24:08,2016-04-12 14:24:08,0,0,1,0.0,0,0
+Dmitry Rudol,dimarudol@gmail.com,0,0,2,1,2016-04-12 21:14:13,2016-04-12 21:14:13,0,0,0,0.0,0,0
+Vitor Abner,vitorabner@users.noreply.github.com,0,0,14,1,2016-04-13 10:11:41,2016-04-13 10:11:41,0,0,1,0.0,0,0

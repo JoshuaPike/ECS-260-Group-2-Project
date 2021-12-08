@@ -1,0 +1,11 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,1574,10,2016-08-29 12:25:09,2016-09-06 12:47:37,1377.25,8.75,1,0,0,0
+Yang Gu,['yang.gu@intel.com'],0,0,114,1,2016-08-30 21:55:40,2016-08-30 21:55:40,0,0,0,0,0,0
+Yizhou Jiang,['yizhou.jiang@intel.com'],0,0,188,1,2016-08-30 23:08:41,2016-08-30 23:08:41,0,0,0,0,0,0
+Qiankun Miao,['qiankun.miao@intel.com'],0,0,13,3,2016-08-31 02:00:44,2016-09-02 20:38:36,45.5,10.5,0,0,0,0
+zhenyao,['zmo@chromium.org'],0,0,1160,8,2016-08-30 02:38:46,2016-09-07 10:13:12,1015.0,7.0,3,0,0,0
+Zhenyao Mo,['zmo@chromium.org'],0,0,1448,6,2016-08-30 03:56:08,2016-09-07 09:15:25,1267.0,5.25,0,2.0,2,2
+Corentin Wallez,['cwallez@chromium.org'],0,0,191,1,2016-08-31 10:43:40,2016-08-31 10:43:40,0,0,0,0,0,0
+Emilio Cobos Álvarez,['ecoal95@gmail.com'],0,0,306,2,2016-09-01 09:24:29,2016-09-04 18:08:48,714.0,4.666666666666667,3,0,0,0
+Brandon Jones,['tojiro@gmail.com'],0,0,154,1,2016-09-02 08:48:01,2016-09-02 08:48:01,0,0,0,0,0,0
+He Yunchao,['yunchao.he@intel.com'],0,0,624,3,2016-09-07 15:49:28,2016-09-08 15:21:32,0,0,0,0,0,0

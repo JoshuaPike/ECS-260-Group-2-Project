@@ -1,0 +1,6 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Greggman,['github@greggman.com'],0,0,135,1,2017-11-13 02:28:36,2017-11-13 02:28:36,0,0,0,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,164,3,2017-11-13 03:38:08,2017-11-20 04:04:13,164.0,3.0,1,0,0,0
+Jeff Gilbert,['jdashg@gmail.com'],0,0,54,1,2017-11-13 12:28:06,2017-11-13 12:28:06,0,0,0,0,0,0
+Olli Etuaho,['olli.etuaho@gmail.com'],0,0,106,1,2017-11-14 01:37:53,2017-11-14 01:37:53,0,0,0,0,0,0
+Deyi Li,['deyi.li2015@gmail.com'],0,0,20,1,2017-11-22 07:50:23,2017-11-22 07:50:23,0,0,0,0,0,0

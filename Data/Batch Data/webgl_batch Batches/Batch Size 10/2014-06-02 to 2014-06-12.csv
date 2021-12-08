@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+jdashg,['jdashg+github@gmail.com'],0,0,54,1,2014-06-02 07:28:05,2014-06-02 07:28:05,0,0,0,0,0,0
+Dean Jackson,"['dino@grorg.org', 'dino@apple.com']",0,0,66,3,2014-06-02 07:33:53,2014-06-06 09:01:49,115.5,5.25,0,0,0,0
+Tibor den Ouden,['tibordenouden@gmail.com'],0,0,293,7,2014-06-03 23:58:55,2014-06-12 00:44:29,256.375,6.125,2,0,0,-3
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,1353,4,2014-06-03 06:56:14,2014-06-09 09:13:36,1578.5,4.666666666666667,0,0,0,0

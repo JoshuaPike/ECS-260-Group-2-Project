@@ -1,0 +1,11 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Olli Etuaho,"['olli.etuaho@gmail.com', 'oetuaho@nvidia.com']",0,0,1381,5,2018-09-20 04:06:08,2018-09-26 10:29:23,1611.1666666666667,5.833333333333334,2,0.8137931034482758,1,0
+Ashley (Scirra),['ashley@scirra.com'],0,0,125,1,2018-09-20 04:07:15,2018-09-20 04:07:15,0,0,0,0.0,0,0
+Jeff Gilbert,['jdashg@gmail.com'],0,0,903,11,2018-09-26 03:15:15,2018-10-17 08:23:02,301.0,3.6666666666666665,4,0.0,0,0
+Jiawei Shao,['jiawei.shao@intel.com'],0,0,138,1,2018-10-03 10:47:16,2018-10-03 10:47:16,0,0,0,0,0,0
+Ilia Mirkin,['imirkin@alum.mit.edu'],0,0,10,2,2018-10-07 15:16:26,2018-10-07 15:32:44,0,0,0,0,0,0
+Khronos Group Webmaster,['webmaster@khronos.org'],0,0,1,1,2018-10-10 11:43:50,2018-10-10 11:43:50,0,0,0,0.0,0,0
+jdashg,['jdashg@gmail.com'],0,0,126,1,2018-10-16 08:00:45,2018-10-16 08:00:45,0,0,0,0.3809523809523809,1,0
+James Darpinian,['jdarpinian@gmail.com'],0,0,529,1,2018-10-16 10:23:16,2018-10-16 10:23:16,0,0,0,0.0,0,0
+Tarek Sherif,['tareksherif@protonmail.com'],0,0,371,1,2018-10-16 11:23:28,2018-10-16 11:23:28,0,0,0,0.0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,102,1,2018-10-17 08:39:46,2018-10-17 08:39:46,0,0,0,0.0,0,0

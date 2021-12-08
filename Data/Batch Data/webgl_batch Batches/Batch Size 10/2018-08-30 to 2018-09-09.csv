@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ashley (Scirra),['ashley@scirra.com'],0,0,125,1,2018-08-29 11:35:57,2018-08-29 11:35:57,0,0,0,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,188,3,2018-08-30 07:45:52,2018-08-31 04:56:53,0,0,0,0,0,0
+Anthony Ramine,['n.oxyde@gmail.com'],0,0,378,1,2018-08-31 05:52:39,2018-08-31 05:52:39,0,0,1,1.0,1,0
+Jeff Gilbert,['jdashg@gmail.com'],0,0,7,1,2018-08-31 06:09:00,2018-08-31 06:09:00,0,0,0,0,0,0

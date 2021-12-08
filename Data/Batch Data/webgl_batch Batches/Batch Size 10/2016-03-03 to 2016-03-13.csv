@@ -1,0 +1,12 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Qiankun Miao,['qiankun.miao@intel.com'],0,0,55,4,2016-03-03 22:51:34,2016-03-08 15:29:24,96.25,7.0,3,1.0,1,2
+Xinghua Cao,['xinghua.cao@intel.com'],0,0,4,2,2016-03-04 00:43:42,2016-03-04 17:18:49,0,0,2,0,0,0
+zhenyao,['zmo@chromium.org'],0,0,5262,11,2016-03-03 07:17:09,2016-03-11 05:22:11,5262.0,11.0,0,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,9,4,2016-03-03 07:38:00,2016-03-10 07:13:37,10.5,4.666666666666667,0,0,0,0
+Zhenyao Mo,['zmo@chromium.org'],0,0,583,3,2016-03-03 07:39:14,2016-03-11 05:20:53,583.0,3.0,0,0,0,0
+Olli Etuaho,"['oetuaho@nvidia.com', 'olli.etuaho@gmail.com']",0,0,153,4,2016-03-04 13:25:41,2016-03-07 19:12:24,357.0,9.333333333333334,0,0,0,0
+xidachen,['xidachen@chromium.org'],0,0,6604,4,2016-03-04 04:11:28,2016-03-11 08:27:32,6604.0,4.0,13,1.3438808159598818,3,-70
+Brandon Jones,['tojiro@gmail.com'],0,0,142,1,2016-03-04 08:35:55,2016-03-04 08:35:55,0,0,0,0,0,0
+He Yunchao,['yunchao.he@intel.com'],0,0,28,2,2016-03-08 01:37:39,2016-03-10 21:24:04,98.0,7.0,2,1.0,1,3
+Will Eastcott,['will@playcanvas.com'],0,0,4,1,2016-03-09 14:34:32,2016-03-09 14:34:32,0,0,0,0,0,0
+Brad Kotsopoulos,['brad.kotsopoulos@gmail.com'],0,0,1,1,2016-03-10 08:05:32,2016-03-10 08:05:32,0,0,0,0,0,0

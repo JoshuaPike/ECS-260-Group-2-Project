@@ -1,0 +1,2 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Pete Hopkins,['phopkins@twitter.com'],0,0,881,1,2015-08-24 09:28:07,2015-08-24 09:28:07,0,0,1,0,0,0

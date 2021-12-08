@@ -1,0 +1,9 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Zhenyao Mo,['zmo@chromium.org'],0,0,1045,17,2015-06-07 09:07:21,2015-06-11 09:39:52,1828.75,29.75,0,0,0,0
+zhenyao,['zmo@chromium.org'],0,0,316,8,2015-06-07 09:08:57,2015-06-11 11:01:49,553.0,14.0,0,0,0,0
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,43,1,2015-06-08 15:34:29,2015-06-08 15:34:29,0,0,0,0,0,0
+He Yunchao,['yunchao.he@intel.com'],0,0,140,1,2015-06-09 17:34:33,2015-06-09 17:34:33,0,0,0,0,0,0
+Dan Glastonbury,['dglastonbury@mozilla.com'],0,0,53,3,2015-06-10 02:19:32,2015-06-12 20:50:14,185.5,10.5,0,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,543,8,2015-06-09 07:29:08,2015-06-12 09:00:32,1267.0,18.666666666666668,0,0,0,0
+Brandon Jones,['tojiro@gmail.com'],0,0,77,2,2015-06-09 08:08:14,2015-06-12 09:03:56,179.66666666666669,4.666666666666667,0,0,0,0
+Rafael Cintron,['rafael.cintron@microsoft.com'],0,0,21,1,2015-06-10 11:58:06,2015-06-10 11:58:06,0,0,0,0,0,0

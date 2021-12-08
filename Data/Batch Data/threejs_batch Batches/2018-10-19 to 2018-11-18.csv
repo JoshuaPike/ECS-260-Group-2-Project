@@ -1,0 +1,41 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,0,40158,142,2018-10-18 10:50:36,2018-11-16 08:07:17,10039.5,35.5,37,15.404761904761905,16,8
+WestLangley,WestLangley@users.noreply.github.com,0,0,575,26,2018-10-18 17:30:30,2018-11-16 07:01:19,143.75,6.5,17,2.55,3,4
+Don McCurdy,donmccurdy@google.com#don.r.mccurdy@gmail.com,0,0,7555,12,2018-10-18 11:52:50,2018-10-24 13:33:22,8814.166666666668,14.0,3,2.28,3,0
+sunag,contact@sunag.com.br,0,0,61,3,2018-10-18 20:48:47,2018-10-18 20:56:55,0,0,0,0.0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,1,80616,30,2018-10-19 21:26:27,2018-11-17 15:19:13,20154.0,7.5,29,5.108842538190364,7,-11
+yomboprime,yomboprime@users.noreply.github.com,0,0,218,2,2018-10-20 04:19:34,2018-10-20 05:12:06,0,0,1,1.0,1,0
+Hassadee Pimsuwan,h.pimsuwan@gmail.com,0,0,18,2,2018-10-20 20:29:22,2018-10-23 22:31:23,42.0,4.666666666666667,0,1.0,1,1
+Alex Weiss,algrs@cacography.net,0,0,2,1,2018-10-21 10:44:41,2018-10-21 10:44:41,0,0,1,0.0,0,0
+Elias Hasle,elias.hasle@gmail.com,0,0,14,3,2018-10-23 13:29:34,2018-10-23 21:09:10,0,0,1,0.0,0,0
+林炳权,695601626@qq.com,0,0,6480,15,2018-10-24 03:32:05,2018-11-06 18:53:55,3489.230769230769,8.076923076923077,25,5.0,5,0
+Peihong,peihongguo@gmail.com,0,0,2,1,2018-10-23 07:15:52,2018-10-23 07:15:52,0,0,1,0.0,0,0
+Osman Keskin,osman@retroflux.net,0,0,2,1,2018-10-24 02:51:58,2018-10-24 02:51:58,0,0,1,0.0,0,0
+rexdk,44414261+rexdk@users.noreply.github.com,0,0,76,7,2018-10-24 08:09:46,2018-10-26 08:12:22,266.0,24.5,0,0.0,0,0
+zprodev,zproject.develop@gmail.com,0,0,18,2,2018-10-25 03:09:31,2018-10-27 04:31:31,63.0,7.0,4,0.0,0,0
+Michael Turkeev,turkeevm@gmail.com,0,0,33,5,2018-10-24 17:59:38,2018-10-30 20:29:42,38.5,5.833333333333334,1,0.0,0,0
+Jordan Santell,jsantell@google.com#jordan@jsantell.com,0,0,47,2,2018-10-24 06:54:03,2018-10-24 12:59:51,0,0,0,0.0,0,0
+Leven,475563418@qq.com,0,0,44,5,2018-10-25 17:41:14,2018-11-12 18:28:11,17.11111111111111,1.9444444444444442,3,2.0,2,0
+moraxy,moraxy@users.noreply.github.com,0,0,10,2,2018-10-25 17:33:54,2018-11-16 21:54:22,3.181818181818182,0.6363636363636364,0,0.0,0,0
+Pavel Leshkovich,pavel.leshkovich@monterosa.co.uk,0,0,42,4,2018-10-26 15:23:32,2018-10-29 21:29:22,98.0,9.333333333333334,2,3.0,3,0
+Lewy Blue,looeee@gmail.com,0,0,293,3,2018-10-27 18:22:04,2018-10-30 17:17:22,1025.5,10.5,0,0.0,0,0
+gero3,jeroen-876@hotmail.com,0,0,557,2,2018-10-28 14:40:29,2018-10-28 15:07:55,0,0,1,2.0,2,1
+Daniel Toplak,d.toplak@cadenas.de,0,0,49,2,2018-10-29 15:32:26,2018-10-29 19:15:25,0,0,1,2.0,2,2
+leshkovichpvl,leshkovichpvl@gmail.com,0,0,2,1,2018-10-29 23:49:17,2018-10-29 23:49:17,0,0,0,0.0,0,0
+liuzhen15,liuzhen15@baidu.com,0,0,1371,2,2018-10-30 19:27:06,2018-11-08 01:37:45,1199.625,1.75,0,0.0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,68,9,2018-10-30 11:32:35,2018-11-17 15:21:21,26.444444444444443,3.4999999999999996,0,0.0,0,0
+gogoend,gogoend@qq.com,0,0,47269,5,2018-10-31 06:50:18,2018-10-31 08:33:08,0,0,1,0.0,0,0
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,2,1,2018-10-30 02:45:50,2018-10-30 02:45:50,0,0,1,0.0,0,0
+Tyler Lindberg,tylindberg@hotmail.com,0,0,1,1,2018-10-30 08:12:37,2018-10-30 08:12:37,0,0,1,1.0,1,0
+"Ji,Chang",jichang@baidu.com,0,0,1296,2,2018-11-01 02:36:37,2018-11-09 23:55:12,1134.0,1.75,0,0.0,0,0
+oguz,eroglu.oguz93@gmail.com,0,0,20,1,2018-10-31 23:15:04,2018-10-31 23:15:04,0,0,1,1.0,1,-1
+Gregg Tavares,github@greggman.com,0,0,17,1,2018-11-02 12:43:15,2018-11-02 12:43:15,0,0,0,0.0,0,0
+Felix Fontein,ff@dybuster.com,0,0,47,3,2018-11-02 17:36:00,2018-11-06 10:22:13,109.66666666666667,7.0,1,2.0,2,3
+cywarr,prisoner849@mail.ru,0,0,6,1,2018-11-03 04:06:29,2018-11-03 04:06:29,0,0,0,0.0,0,0
+Andreas Plesch,andreasplesch@users.noreply.github.com,0,0,8,1,2018-11-04 06:23:02,2018-11-04 06:23:02,0,0,0,0.0,0,0
+soadzoor,soadzoor@gmail.com,0,0,8833,1,2018-11-06 13:27:38,2018-11-06 13:27:38,0,0,0,0.0,0,0
+06wj,06wj@163.com,0,0,25,4,2018-11-08 21:07:38,2018-11-09 19:16:26,0,0,2,0.0,0,4
+Yomotsu,admin@yomotsu.net,0,0,91,1,2018-11-09 12:19:12,2018-11-09 12:19:12,0,0,5,0.0,0,0
+Anaranjo97,42073764+Anaranjo97@users.noreply.github.com,0,0,2,1,2018-11-08 12:49:25,2018-11-08 12:49:25,0,0,0,0.0,0,0
+Peter Varga,soadzoor@gmail.com,0,0,9,1,2018-11-10 18:00:15,2018-11-10 18:00:15,0,0,1,0.0,0,0
+Dinesh Salunke,sdinesh86@gmail.com,0,0,6,1,2018-11-17 02:39:36,2018-11-17 02:39:36,0,0,1,1.0,1,0

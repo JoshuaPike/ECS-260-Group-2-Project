@@ -1,0 +1,14 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,2511,24,2014-09-09 12:11:18,2014-10-09 09:26:51,606.103448275862,5.793103448275861,1,1.0,1,0
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,877,11,2014-09-10 19:28:14,2014-10-09 15:49:16,219.25,2.75,0,0.0,0,0
+Brandon Jones,"['tojiro@gmail.com', 'bajones@chromium.org']",0,0,1252,17,2014-09-10 03:21:12,2014-10-09 03:30:21,302.2068965517241,4.1034482758620685,2,1.2918054630246505,2,8
+Benoit Jacob,['jacob.benoit.1@gmail.com'],0,0,771,7,2014-09-15 10:09:51,2014-10-09 10:41:25,224.875,2.041666666666667,0,0.0,0,0
+Rafael Cintron,['rafael.cintron@outlook.com'],0,0,536,6,2014-09-15 11:24:07,2014-10-04 10:24:18,208.44444444444443,2.333333333333333,0,0.0,0,0
+Nicolas Capens,['capn@chromium.org'],0,0,145,1,2014-09-18 10:38:09,2014-09-18 10:38:09,0,0,0,0.0,0,0
+zhenyao,['zmo@chromium.org'],0,0,1993,13,2014-09-18 05:11:20,2014-10-08 03:04:33,734.2631578947368,4.789473684210526,3,0.0,0,0
+RafaelCintron,['rafael.cintron@outlook.com'],0,0,94,1,2014-09-23 01:25:26,2014-09-23 01:25:26,0,0,0,0,0,0
+Zhenyao Mo,['zmo@chromium.org'],0,0,1234,17,2014-09-29 07:38:57,2014-10-09 08:55:39,863.8,11.9,0,0.0,0,0
+Dean Jackson,['dino@apple.com'],0,0,17,1,2014-10-01 21:23:10,2014-10-01 21:23:10,0,0,0,0.0,0,0
+Arun Patole,"['apatole@nvidia.com', 'apatole@users.noreply.github.com']",0,0,638,4,2014-10-01 23:00:15,2014-10-06 19:31:21,1116.5,7.0,5,0.4273504273504273,1,3
+bjacob,['jacob.benoit.1@gmail.com'],0,0,264,2,2014-10-08 09:30:20,2014-10-09 10:43:14,1848.0,14.0,0,0.0,0,0
+David Anderson,['danderson@mozilla.com'],0,0,7,1,2014-10-08 11:05:04,2014-10-08 11:05:04,0,0,0,0.0,0,0

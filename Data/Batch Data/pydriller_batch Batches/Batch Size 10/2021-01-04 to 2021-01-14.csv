@@ -1,0 +1,2 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Davide Spadini,['spadini.davide@gmail.com'],0,0,103,6,2021-01-04 11:54:56,2021-01-12 12:04:08,90.125,5.25,3,2.0,2,0

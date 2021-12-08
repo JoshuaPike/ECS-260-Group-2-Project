@@ -1,0 +1,34 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+spidersharma03,namitasharma172@gmail.com,0,0,1594,2,2016-07-22 05:42:59,2016-07-26 06:34:32,2789.5,3.5,4,1.5748476122807675,2,21
+Rich Harris,richard.a.harris@gmail.com,0,1,62184,7,2016-07-22 19:38:18,2016-08-16 07:22:32,18137.0,2.041666666666667,231,1.408305856492385,3,-437
+Mr.doob,info@mrdoob.com,0,1,1,90,2016-07-22 20:02:42,2016-08-19 08:32:23,16031.555555555555,23.333333333333332,234,20.404901194414002,28,-19
+Alan Smithee,ggnore.alan.smithee@gmail.com,0,0,72,2,2016-07-23 17:14:58,2016-07-26 15:07:18,252.0,7.0,0,0.6956521739130435,1,0
+Karim Beyrouti,karim@kurst.co.uk,0,0,18,1,2016-07-24 20:43:33,2016-07-24 20:43:33,0,0,0,1.0,1,0
+Takahiro,hogehoge@gachapin.jp,0,0,289,7,2016-07-26 05:59:06,2016-08-18 12:34:16,87.95652173913044,2.130434782608696,4,1.6,2,-7
+flagstone78,iamafluteplayer@gmail,0,0,12,1,2016-07-26 06:01:44,2016-07-26 06:01:44,0,0,0,0.0,0,3
+Sean Zellmer,sean@lejeunerenard.com,0,0,38,2,2016-07-26 07:40:38,2016-07-26 14:32:21,0,0,0,0.0,0,0
+Arthur Silber,arthur@arthursilber.de,0,0,70,1,2016-07-26 15:00:22,2016-07-26 15:00:22,0,0,0,0.0,0,2
+satori99,satori99@users.noreply.github.com,0,0,41,3,2016-07-26 15:46:27,2016-08-08 09:58:32,23.916666666666668,1.75,2,1.434782608695652,2,0
+Eugen Istoc,eugenistoc@gmail.com,0,0,2,1,2016-07-27 20:27:13,2016-07-27 20:27:13,0,0,0,0.0,0,0
+Tathagata Chakraborty,tat@fea.st,0,0,6,1,2016-08-02 10:19:23,2016-08-02 10:19:23,0,0,1,0.0,0,0
+Paul Masson,paulmasson@comcast.net,0,0,46,1,2016-08-03 22:56:23,2016-08-03 22:56:23,0,0,1,0.0,0,0
+Tentone,tentone@outlook.com,0,0,14,2,2016-08-04 06:52:59,2016-08-10 03:09:29,19.599999999999998,2.8,1,0.0,0,0
+Michael Blix,mkeblx@gmail.com,0,0,10,1,2016-08-04 07:07:07,2016-08-04 07:07:07,0,0,1,1.0,1,0
+Aaron Cloutier,ascloutier@gmail.com,0,0,348,2,2016-08-04 07:26:19,2016-08-10 03:07:20,487.2,2.8,0,0.127906976744186,1,0
+Jay Weeks,jay.patrick.weeks@gmail.com,0,0,4,1,2016-08-04 09:46:21,2016-08-04 09:46:21,0,0,0,1.0,1,0
+Younes Riad,ynsnetmail@gmail.com,0,0,6,1,2016-08-08 10:21:55,2016-08-08 10:21:55,0,0,1,1.0,1,0
+Juan Jose Luna Espinosa,yomboprime@users.noreply.github.com,0,0,1051,1,2016-08-11 09:58:54,2016-08-11 09:58:54,0,0,2,0.276978417266187,1,34
+aardgoose,angus.sawyer@gmail.com,0,0,2,1,2016-08-14 06:46:49,2016-08-14 06:46:49,0,0,0,0.0,0,0
+Charles Flèche,charles.fleche@free.fr,0,0,7,1,2016-08-15 02:35:53,2016-08-15 02:35:53,0,0,0,1.0,1,0
+gero3,gero3@users.noreply.github.com,0,0,1598,2,2016-08-16 07:45:53,2016-08-19 00:46:39,5593.0,7.0,1,0.7065217391304348,1,-6
+Anup Bishnoi,pixelsallover@gmail.com,0,0,9,2,2016-08-16 13:18:04,2016-08-16 13:18:21,0,0,0,0.0,0,0
+Fernando Serrano,fernandojsg@gmail.com,0,0,4,1,2016-08-17 03:07:19,2016-08-17 03:07:19,0,0,1,0.0,0,0
+Nick Powers,nickpowers43@gmail.com,0,0,108,2,2016-08-17 03:08:33,2016-08-17 03:08:44,0,0,0,0.0,0,0
+Nicky Lenaers,nicky@concretemind.nl,0,0,2,1,2016-08-17 03:12:56,2016-08-17 03:12:56,0,0,0,0.0,0,0
+James Kent,jameschristopherkent@gmail.com,0,0,2,1,2016-08-17 15:29:02,2016-08-17 15:29:02,0,0,0,1.0,1,1
+Jason Yung,json.yung@gmail.com,0,0,2,1,2016-08-17 16:35:06,2016-08-17 16:35:06,0,0,0,0.0,0,0
+tschw,tschw@users.noreply.github.com,0,0,9,1,2016-08-18 06:37:35,2016-08-18 06:37:35,0,0,1,0.8571428571428571,1,0
+Hu Jiulong,me@hujiulong.com,0,0,2,1,2016-08-18 06:54:08,2016-08-18 06:54:08,0,0,1,0.0,0,0
+Joe Whitfield-Seed,joeseed86@gmail.com,0,0,2,1,2016-08-18 15:11:03,2016-08-18 15:11:03,0,0,0,0.0,0,0
+OpenGG,liy099@gmail.com,0,0,2,1,2016-08-18 16:21:44,2016-08-18 16:21:44,0,0,0,0.0,0,0
+skyburchard,krylonpoet@mindspring.com,0,0,10,1,2016-08-19 06:08:23,2016-08-19 06:08:23,0,0,0,0.0,0,0

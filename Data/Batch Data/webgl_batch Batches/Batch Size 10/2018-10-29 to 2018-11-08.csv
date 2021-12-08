@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+He Yunchao,['yunchao.he@intel.com'],0,0,7,1,2018-11-01 05:09:54,2018-11-01 05:09:54,0,0,1,0,0,-3
+Kai Ninomiya,['kainino@chromium.org'],0,0,2,1,2018-11-06 07:08:37,2018-11-06 07:08:37,0,0,1,0,0,0
+Jeff Gilbert,['jdashg@gmail.com'],0,0,2,1,2018-11-06 15:13:48,2018-11-06 15:13:48,0,0,0,0,0,0

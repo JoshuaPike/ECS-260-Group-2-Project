@@ -1,0 +1,2 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Anil Kulkarni,['anil@textio.com'],0,1,1,1,2016-04-11 09:05:31,2016-04-11 09:05:31,0,0,1,0,0,0

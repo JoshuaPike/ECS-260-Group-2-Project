@@ -1,0 +1,11 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Rafael Cintron,['rafael.cintron@outlook.com'],0,0,11,1,2014-11-09 09:52:57,2014-11-09 09:52:57,0,0,0,0.0,0,0
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,478,10,2014-11-10 16:44:13,2014-12-05 19:14:18,133.84,2.8,3,0.0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,383877,15,2014-11-10 05:08:50,2014-12-05 02:41:40,111964.125,4.375,38,0.6977459016393442,1,957
+Brandon Jones,['tojiro@gmail.com'],0,0,157,4,2014-11-11 01:06:53,2014-12-03 05:03:54,49.95454545454545,1.2727272727272727,0,0.0,0,0
+Shannon Woods,['shannonwoods@chromium.org'],0,0,14,1,2014-11-12 08:52:38,2014-11-12 08:52:38,0,0,1,1.0,1,0
+Owen Glofcheski,['orglofch@chromium.org'],0,0,213,4,2014-11-12 06:45:55,2014-11-12 10:28:03,0,0,0,0.0,0,0
+Chad Austin,['caustin@gmail.com'],0,0,31,2,2014-11-12 08:44:38,2014-11-12 08:44:38,0,0,0,0.0,0,0
+jdashg,['jdashg+github@gmail.com'],0,0,427,3,2014-11-20 11:04:37,2014-11-24 08:52:17,996.3333333333334,7.0,0,0.0,0,0
+Arun Patole,['apatole@nvidia.com'],0,0,51,1,2014-11-21 19:20:54,2014-11-21 19:20:54,0,0,6,1.0,1,6
+Nicolas Capens,['nicolas.capens@gmail.com'],0,0,3,1,2014-12-05 06:48:15,2014-12-05 06:48:15,0,0,0,0,0,0

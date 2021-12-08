@@ -1,0 +1,6 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,1298,25,2014-06-25 06:52:58,2014-07-01 09:07:38,1514.3333333333335,29.166666666666668,0,0,0,0
+Brandon Jones,['bajones@chromium.org'],0,0,2,1,2014-06-26 04:02:13,2014-06-26 04:02:13,0,0,0,0,0,0
+Dean Jackson,['dino@grorg.org'],0,0,2,1,2014-06-27 14:19:51,2014-06-27 14:19:51,0,0,0,0,0,0
+jdashg,['jdashg+github@gmail.com'],0,0,34,2,2014-06-27 08:46:21,2014-06-27 09:12:48,0,0,0,0,0,0
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,4,1,2014-07-01 18:37:23,2014-07-01 18:37:23,0,0,0,0,0,0

@@ -1,0 +1,6 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Alexey Knyazev,['3479527+lexaknyazev@users.noreply.github.com'],0,0,812,3,2020-02-15 04:08:23,2020-03-05 16:53:50,299.1578947368421,1.1052631578947367,0,0.0,0,0
+Greggman,['github@greggman.com'],0,0,80,1,2020-02-15 08:38:10,2020-02-15 08:38:10,0,0,0,0.0,0,0
+Jeff Gilbert,['jgilbert@mozilla.com'],0,0,1084,11,2020-02-19 08:21:40,2020-03-09 04:48:08,421.55555555555554,4.277777777777778,2,1.1904761904761905,2,0
+ShrekShao,['shrekshao@google.com'],0,0,81,1,2020-02-19 10:11:11,2020-02-19 10:11:11,0,0,1,1.0,1,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,147,1,2020-02-20 10:10:31,2020-02-20 10:10:31,0,0,0,0.0,0,0

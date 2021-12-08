@@ -1,0 +1,3 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+NullConvergence,['a.serban@cs.ru.nl'],0,0,42,1,2019-04-02 17:27:35,2019-04-02 17:27:35,0,0,2,0.4444444444444444,1,3
+ishepard,['spadini.davide@gmail.com'],0,0,149,5,2019-04-04 16:18:52,2019-04-04 16:35:10,0,0,0,0,0,0

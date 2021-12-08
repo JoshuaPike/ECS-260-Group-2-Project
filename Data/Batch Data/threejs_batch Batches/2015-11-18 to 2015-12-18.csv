@@ -1,0 +1,35 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,0,37504,223,2015-11-17 14:02:12,2015-12-17 03:45:39,9052.689655172413,53.82758620689655,118,47.484095727246135,52,-9
+Pim Schreurs,pimschreurs@gmail.com,0,0,2,1,2015-11-18 02:14:51,2015-11-18 02:14:51,0,0,0,0.0,0,0
+yomotsu,oyamada@pxgrid.com,0,0,17,3,2015-11-19 14:34:35,2015-11-22 10:14:11,59.5,10.5,0,2.0,2,0
+WestLangley,WestLangley@users.noreply.github.com#dat1234@gmail.com,0,0,362,14,2015-11-18 15:02:02,2015-12-13 17:16:58,101.36,3.92,7,1.0,1,-5
+simonThiele,simon.thiele@instana.com,0,0,742,36,2015-11-19 09:03:41,2015-12-07 15:52:51,288.55555555555554,13.999999999999998,20,7.941558441558441,9,8
+Pontus Leitzler,leitzler@users.noreply.github.com,0,0,10,4,2015-11-19 16:46:40,2015-12-08 12:23:44,3.8888888888888884,1.5555555555555554,1,2.0,2,0
+evantron3000,evandulaney@me.com,0,0,4,2,2015-11-19 00:42:23,2015-11-19 00:48:08,0,0,0,1.0,1,0
+George Tavares,george.tavares@sabiax.com.br,0,0,11,1,2015-11-19 13:34:29,2015-11-19 13:34:29,0,0,0,0.6666666666666666,1,0
+paulmasson,paulmasson@comcast.net,0,0,2,1,2015-11-21 09:51:11,2015-11-21 09:51:11,0,0,0,0.0,0,0
+kaypikun,krishnaprahasithj@gmail.com,0,1,50398,8,2015-11-22 05:42:54,2015-11-23 07:08:45,352786.0,56.0,2,2.0,2,16
+Pontus,pontus@qiau.leitzler.net,0,0,20,2,2015-11-22 20:37:29,2015-11-22 20:49:45,0,0,1,0.0,0,0
+Daniel Nienhaus,daniel@flying-sheep.com,0,0,7,1,2015-11-23 12:45:39,2015-11-23 12:45:39,0,0,0,0.0,0,0
+leitzler,leitzler@gmail.com,0,0,47,5,2015-11-23 19:06:32,2015-12-04 01:38:41,32.9,3.5,1,0.0,0,2
+Joshua Koo,zz85nus@gmail.com,0,0,4016,29,2015-11-25 06:10:24,2015-12-01 14:27:25,4685.333333333334,33.833333333333336,12,10.5249178910258,13,12
+Ben Houston,ben@exocortex.com,0,0,2,1,2015-11-24 07:57:01,2015-11-24 07:57:01,0,0,0,0.0,0,0
+Michael Bond,mbond@box.com,0,0,4,1,2015-11-24 04:58:26,2015-11-24 04:58:26,0,0,0,0.0,0,0
+Andrew Ray,delvarworld@gmail.com,0,0,3,1,2015-11-25 08:21:40,2015-11-25 08:21:40,0,0,0,0.0,0,0
+takahiro,hogehoge@gachapin.jp,0,0,9108,4,2015-11-26 15:45:45,2015-12-10 13:05:06,4904.307692307692,2.1538461538461537,3,1.2107230539198495,2,18
+Daniel Hritzkiv,daniel.hritzkiv@gmail.com,0,0,53,6,2015-11-30 13:32:19,2015-12-03 10:19:31,185.5,21.0,1,0.5,1,0
+Greg Tatum,tatum.creative@gmail.com,0,0,30,1,2015-12-02 05:26:41,2015-12-02 05:26:41,0,0,0,0.0,0,0
+Bertrand Fan,bertfan@yahoo-inc.com,0,0,2,1,2015-12-02 03:31:06,2015-12-02 03:31:06,0,0,1,0.0,0,0
+Jaume Sanchez,the.spite@gmail.com,0,0,93692,1,2015-12-03 01:18:53,2015-12-03 01:18:53,0,0,0,0.0,0,0
+James Baicoianu,james_github@baicoianu.com,0,0,32,2,2015-12-04 08:39:30,2015-12-04 08:46:50,0,0,0,0.0,0,0
+SUNAG,contact@sunag.com.br,0,0,18274,25,2015-12-06 14:05:45,2015-12-17 15:10:22,11628.909090909092,15.90909090909091,139,7.671018276762402,9,44
+makc,makc.the.great@gmail.com,0,0,6,1,2015-12-07 04:23:43,2015-12-07 04:23:43,0,0,1,0.0,0,0
+Boris Smus,boris@smus.com,0,0,41,2,2015-12-07 03:12:47,2015-12-07 03:14:52,0,0,1,1.0,1,-2
+John,jsladek@iobe.net,0,0,82,1,2015-12-07 15:55:24,2015-12-07 15:55:24,0,0,0,0.0,0,0
+Immugio,janmikeska@googlemail.com,0,0,2,1,2015-12-10 16:53:20,2015-12-10 16:53:20,0,0,1,0.0,0,0
+JamesHagerman,james.hagerman@gmail.com,0,0,6,1,2015-12-10 14:06:07,2015-12-10 14:06:07,0,0,0,0.0,0,0
+Leonel,leonel,0,0,67018,2,2015-12-11 07:39:01,2015-12-11 16:23:40,0,0,0,0.0,0,0
+Jerome Etienne,jerome.etienne@gmail.com,0,0,4,1,2015-12-14 15:48:29,2015-12-14 15:48:29,0,0,0,0.0,0,0
+gero3,gero3@users.noreply.github.com,0,0,608,3,2015-12-15 15:36:12,2015-12-15 15:51:38,0,0,1,0.0,0,0
+speedy,csvinay.d@gmail.com,0,0,2,1,2015-12-16 06:02:37,2015-12-16 06:02:37,0,0,1,0.0,0,0
+Alexandre Lemire,mail@alexandre-lemire.com,0,0,22,1,2015-12-17 16:41:13,2015-12-17 16:41:13,0,0,1,1.0,1,0

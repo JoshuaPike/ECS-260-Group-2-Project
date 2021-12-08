@@ -1,0 +1,14 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Jeff Gilbert,['jdashg@gmail.com'],0,0,391,4,2019-03-18 08:30:49,2019-04-04 09:01:35,161.0,1.647058823529412,7,2.5602836879432624,3,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,65,2,2019-03-18 09:27:57,2019-03-25 10:06:03,65.0,2.0,0,0.0,0,0
+mingyuhu,['mihu@microsoft.com'],0,0,355,1,2019-03-18 11:08:55,2019-03-18 11:08:55,0,0,1,0.0,0,0
+Greggman,['github@greggman.com'],0,0,2,1,2019-03-22 07:01:25,2019-03-22 07:01:25,0,0,0,0.0,0,0
+ShrekShao,['shrekshao@gmail.com'],0,0,118,8,2019-03-22 07:02:29,2019-04-15 12:05:31,34.41666666666667,2.3333333333333335,0,0.0,0,0
+Vladimír Vondruš,['mosra@centrum.cz'],0,0,45,1,2019-03-26 08:39:15,2019-03-26 08:39:15,0,0,0,0.0,0,0
+y-novikov,['ynovikov@chromium.org'],0,0,80,1,2019-03-29 13:04:14,2019-03-29 13:04:14,0,0,0,0.0,0,0
+Rijubrata Bhaumik,['rijubrata.bhaumik@intel.com'],0,0,75,1,2019-04-04 07:20:15,2019-04-04 07:20:15,0,0,0,0.0,0,0
+Dean Jackson,['dino@apple.com'],0,0,3,1,2019-04-05 19:38:42,2019-04-05 19:38:42,0,0,0,0.0,0,0
+Hao Yunfei,['yunfei.hao@intel.com'],0,0,1811,2,2019-04-04 08:32:03,2019-04-15 12:04:00,1152.4545454545455,1.2727272727272727,2,1.9391727493917275,2,32
+James Darpinian,['jdarpinian@gmail.com'],0,0,44,1,2019-04-04 10:16:47,2019-04-04 10:16:47,0,0,1,0.0,0,0
+Yunchao He,['yunchao.he@intel.com'],0,0,208,2,2019-04-09 14:54:04,2019-04-16 00:31:37,242.66666666666669,2.3333333333333335,0,0.0,0,0
+Kai Ninomiya,['kainino1@gmail.com'],0,0,6,1,2019-04-11 17:34:24,2019-04-11 17:34:24,0,0,0,0.0,0,0

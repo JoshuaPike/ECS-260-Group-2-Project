@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+JasperNV,['46733637+JasperNV@users.noreply.github.com'],0,0,228,2,2019-05-07 08:14:53,2019-05-13 10:26:06,266.0,2.3333333333333335,0,0,0,0
+狄学长ShrekShao,['shrekshao@google.com'],0,0,22,2,2019-05-07 10:39:37,2019-05-13 10:42:04,25.666666666666668,2.3333333333333335,0,0,0,0
+Jeff Gilbert,"['jgilbert@mozilla.com', 'jdashg@gmail.com']",0,0,90559,3,2019-05-07 11:36:29,2019-05-14 02:45:04,105652.16666666667,3.5,85,1.0,1,0
+Ken Russell,"['kbrussel@alum.mit.edu', 'kbr@chromium.org']",0,0,101,5,2019-05-07 11:37:30,2019-05-14 09:35:01,117.83333333333334,5.833333333333334,0,0,0,0

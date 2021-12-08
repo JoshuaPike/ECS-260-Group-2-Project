@@ -1,0 +1,2 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Chris Blume,['ProgramMax@gmail.com'],0,0,14,1,2019-09-08 16:26:44,2019-09-08 16:26:44,0,0,0,0,0,0

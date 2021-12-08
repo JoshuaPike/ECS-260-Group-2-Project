@@ -1,0 +1,11 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,697,12,2016-10-19 03:43:31,2016-10-25 11:21:21,813.1666666666667,14.0,1,0,0,0
+He Yunchao,['yunchao.he@intel.com'],0,0,99,1,2016-10-20 02:55:49,2016-10-20 02:55:49,0,0,0,0,0,0
+Kai Ninomiya,"['kainino@chromium.org', 'kainino1@gmail.com']",0,0,400,5,2016-10-20 08:17:13,2016-10-24 05:57:49,933.3333333333334,11.666666666666668,0,0,0,0
+Qiankun Miao,['qiankun.miao@intel.com'],0,0,77,1,2016-10-21 15:06:45,2016-10-21 15:06:45,0,0,0,0,0,0
+Zhenyao Mo,['zmo@chromium.org'],0,0,117,5,2016-10-21 05:04:58,2016-10-25 11:19:45,204.75,8.75,2,1.0,1,1
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,99,1,2016-10-25 17:04:09,2016-10-25 17:04:09,0,0,0,0,0,0
+Corentin Wallez,['corentin@wallez.net'],0,0,99,1,2016-10-25 07:48:13,2016-10-25 07:48:13,0,0,0,0,0,0
+Jiajia Qin,['jiajia.qin@intel.com'],0,0,135,2,2016-10-25 16:06:56,2016-10-28 05:04:15,472.5,7.0,1,0,0,0
+Kenneth Russell,['kbrussel@alum.mit.edu'],0,0,114,1,2016-10-28 06:19:35,2016-10-28 06:19:35,0,0,0,0,0,3
+Jeff Gilbert,['jdashg@gmail.com'],0,0,373,1,2016-10-28 08:03:35,2016-10-28 08:03:35,0,0,0,0,0,0

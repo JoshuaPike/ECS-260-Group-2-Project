@@ -1,0 +1,11 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Jiawei-Shao,['jiawei.shao@intel.com'],0,0,408,2,2016-06-12 17:35:03,2016-06-13 22:08:08,2856.0,14.0,4,0.034482758620689655,1,6
+Qiankun Miao,['qiankun.miao@intel.com'],0,0,369,7,2016-06-12 23:26:08,2016-06-21 00:37:24,322.875,6.125,1,1.0,1,0
+He Yunchao,['yunchao.he@intel.com'],0,0,8,1,2016-06-13 02:27:59,2016-06-13 02:27:59,0,0,1,1.0,1,0
+zhenyao,['zmo@chromium.org'],0,0,28706,19,2016-06-11 23:16:31,2016-06-20 03:53:30,25117.75,16.625,2,0,0,0
+Zhenyao Mo,['zmo@chromium.org'],0,0,1233,4,2016-06-13 01:48:23,2016-06-17 08:28:18,2157.75,7.0,0,2.0,2,2
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,384,7,2016-06-13 03:23:37,2016-06-14 08:11:34,2688.0,49.0,1,0,0,0
+Corentin Wallez,['cwallez@chromium.org'],0,0,588,4,2016-06-15 11:59:45,2016-06-17 05:04:32,4116.0,28.0,4,1.0,1,-14
+Kenneth Russell,['kbrussel@alum.mit.edu'],0,0,1124,1,2016-06-16 12:54:31,2016-06-16 12:54:31,0,0,0,1.0,1,0
+renchenglei,['chenglei.ren@intel.com'],0,0,24988,3,2016-06-18 00:29:24,2016-06-20 22:26:15,87458.0,10.5,0,0,0,0
+Rafael Cintron,['rafael.cintron@outlook.com'],0,0,157,1,2016-06-17 09:07:05,2016-06-17 09:07:05,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Tibor den Ouden,['tibordenouden@gmail.com'],0,0,927,1,2014-01-28 15:06:48,2014-01-28 15:06:48,0,0,1,0.5875706214689266,1,65
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,1136,3,2014-01-28 01:29:56,2014-01-29 05:06:25,7952.0,21.0,0,0,0,0
+Dean Jackson,['dino@grorg.org'],0,0,54,1,2014-01-28 05:28:22,2014-01-28 05:28:22,0,0,0,0,0,0

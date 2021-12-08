@@ -1,0 +1,40 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Daniel Hritzkiv,daniel.hritzkiv@gmail.com,0,0,8430,4,2015-09-19 13:07:32,2015-09-21 20:27:17,29505.0,14.0,2,2.1259259259259258,3,-1
+Mr.doob,info@mrdoob.com,0,1,142684,335,2015-09-19 23:13:13,2015-10-18 10:24:13,35671.0,83.75,187,76.49444747689522,93,86
+mataron,mataron6@gmail.com,0,0,2,1,2015-09-19 23:20:16,2015-09-19 23:20:16,0,0,0,0.0,0,0
+Daniel,dforrer@gmail.com,0,0,75264,71,2015-09-20 19:29:23,2015-10-18 18:46:05,19512.888888888887,18.40740740740741,83,21.741857563732562,27,28
+repsac,ed.caspersen@gmail.com,0,0,57,3,2015-09-20 13:15:07,2015-09-21 13:22:07,399.0,21.0,1,1.0,1,0
+simonThiele,simon.thiele@instana.com,0,0,1449,6,2015-09-21 10:38:26,2015-09-22 09:46:27,0,0,3,3.0,3,2
+Mario Schuettel,mario@schuettel.ch#github@lxxxvi.ch,0,0,2741,22,2015-09-21 17:25:58,2015-10-15 12:43:26,834.2173913043479,6.695652173913044,44,9.0,9,21
+Simon Thiele,simon.thiele@instana.com,0,0,6,1,2015-09-22 09:42:05,2015-09-22 09:42:05,0,0,0,0.0,0,0
+Elijah Snyder,elijah.snyder1@gmail.com,0,0,70261,19,2015-09-21 20:12:59,2015-10-12 09:21:20,24591.35,6.6499999999999995,3,5.175298804780876,6,0
+tschw,tschwinger@isonews2.com,0,0,303,16,2015-09-22 22:51:55,2015-09-25 18:57:59,1060.5,56.0,2,6.243902439024391,7,10
+Nicolas Raynaud,nraynaud@gmail.com,0,0,528,9,2015-09-23 09:55:07,2015-10-04 21:55:56,336.0,5.7272727272727275,0,1.0,1,0
+Ben Adams,thundercat@illyriad.co.uk,0,0,88,5,2015-09-24 19:14:11,2015-09-24 21:38:05,0,0,1,3.8461538461538463,4,0
+Agniva De Sarker,agnivade@yahoo.co.in,0,0,2,1,2015-09-25 06:57:38,2015-09-25 06:57:38,0,0,1,0.0,0,0
+Mark Kellogg,mkkellogg@gmail.com,0,0,1513,4,2015-09-24 13:52:25,2015-09-24 13:52:26,0,0,7,2.393939393939394,3,7
+mkkellogg,mkkellogg@gmail.com,0,0,2306,9,2015-09-24 13:52:27,2015-10-01 07:18:47,2690.3333333333335,10.5,1,2.7272727272727275,3,8
+WestLangley,dat1234@gmail.com,0,0,17,3,2015-09-26 17:44:18,2015-10-15 16:49:45,6.611111111111111,1.1666666666666665,1,1.0,1,0
+Marius Kintel,marius@kintel.net,0,0,4313,11,2015-09-26 21:36:03,2015-10-03 20:31:24,5031.833333333334,12.833333333333334,2,3.25,4,6
+Alex Conlin,alexconlin@users.noreply.github.com,0,0,322,1,2015-09-27 20:37:27,2015-09-27 20:37:27,0,0,0,0.0,0,0
+Jean Carlo Deconto,sunagbrasil@gmail.com,0,0,4285,1,2015-09-27 21:54:01,2015-09-27 21:54:01,0,0,2,1.0,1,25
+Rafael Gaino,rgaino@gmail.com,0,0,4,1,2015-09-28 15:25:39,2015-09-28 15:25:39,0,0,0,0.0,0,0
+Pontus Leitzler,leitzler@users.noreply.github.com,0,0,201,13,2015-09-30 09:21:56,2015-10-04 01:50:09,469.0,30.333333333333336,1,0.0,0,0
+Dag Holmberg,holmberd@gmail.com,0,0,1,1,2015-09-30 13:04:10,2015-09-30 13:04:10,0,0,0,0.0,0,0
+Jaume Sanchez,the.spite@gmail.com,0,0,241212,3,2015-09-30 15:30:35,2015-09-30 15:41:55,0,0,0,0.0,0,0
+Daniel Phillips,dphildev@gmail.com,0,0,2,1,2015-10-01 22:53:58,2015-10-01 22:53:58,0,0,0,0.0,0,0
+makc,makc.the.great@gmail.com,0,0,272,5,2015-10-03 16:18:22,2015-10-15 18:32:01,158.66666666666669,2.916666666666667,3,2.0,2,6
+Pontus,pontus@qiau.leitzler.net,0,0,0,1,2015-10-04 01:33:24,2015-10-04 01:33:24,0,0,0,0.0,0,0
+Aki Rodic,aleksandar.xyz@gmail.com,0,0,15,1,2015-10-05 19:19:11,2015-10-05 19:19:11,0,0,0,0.0,0,0
+Martin Naumann,martin@geekonaut.de,0,0,8,1,2015-10-07 19:25:52,2015-10-07 19:25:52,0,0,1,1.0,1,0
+aarman,armanmtgh@gmail.com,0,0,11,1,2015-10-07 17:36:04,2015-10-07 17:36:04,0,0,1,1.0,1,0
+matias-capeletto,matias.capeletto@gmail.com,0,0,270,3,2015-10-09 10:43:51,2015-10-09 20:11:08,0,0,1,1.0785714285714283,2,0
+Ruofei Du,ruofei@cs.umd.edu,0,0,2,1,2015-10-09 11:00:00,2015-10-09 11:00:00,0,0,1,0.0,0,0
+Ben Houston,ben@exocortex.com,0,0,4024,32,2015-10-09 11:05:33,2015-10-13 17:03:42,7042.0,56.0,4,5.443956043956044,6,1
+Frederik Kammer,frederik.kammer@osnaware.de,0,0,4,1,2015-10-12 12:52:01,2015-10-12 12:52:01,0,0,1,0.0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,134,7,2015-10-13 12:05:56,2015-10-14 18:24:43,938.0,49.0,1,1.0,1,0
+magnitudoOrg,magnitudo.org@gmail.com,0,0,124,6,2015-10-15 20:00:31,2015-10-16 13:57:31,0,0,1,0.0,0,0
+Tiago de Pádua,tiagopadua@gmail.com,0,0,2,1,2015-10-15 21:08:11,2015-10-15 21:08:11,0,0,1,0.0,0,0
+Callum Prentice,callum@gmail.com,0,0,339,2,2015-10-15 15:04:34,2015-10-16 02:28:46,0,0,0,0.0,0,0
+Alexandre Courbot,gnurou@gmail.com,0,0,16,1,2015-10-19 02:01:19,2015-10-19 02:01:19,0,0,1,1.0,1,0
+Felix Palmer,felixpalmer@gmail.com,0,0,1365,3,2015-10-18 13:35:14,2015-10-18 13:35:14,0,0,1,0.3304157549234136,1,65

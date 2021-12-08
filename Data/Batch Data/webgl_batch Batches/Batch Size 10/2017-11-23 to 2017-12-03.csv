@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+JiangYizhou,['yizhou.jiang@intel.com'],0,0,114,1,2017-11-30 07:44:02,2017-11-30 07:44:02,0,0,0,0,0,0
+gofr,['32750931+gofr@users.noreply.github.com'],0,0,12,1,2017-12-01 08:40:23,2017-12-01 08:40:23,0,0,6,0,0,0
+Kai Ninomiya,['kainino1@gmail.com'],0,0,2,1,2017-12-01 09:15:24,2017-12-01 09:15:24,0,0,0,0,0,0

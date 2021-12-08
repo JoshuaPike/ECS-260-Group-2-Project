@@ -1,0 +1,7 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,944,5,2014-04-03 22:20:22,2014-04-08 17:18:18,1652.0,8.75,5,0.6420651420651421,3,-4
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,682,4,2014-04-04 01:44:39,2014-04-10 13:15:50,795.6666666666667,4.666666666666667,0,0,0,0
+Dean Jackson,"['dino@apple.com', 'dino@grorg.org']",0,0,336,7,2014-04-10 02:28:48,2014-04-10 03:53:41,0,0,0,0,0,0
+jdashg,['jdashg+github@gmail.com'],0,0,8,2,2014-04-10 06:51:16,2014-04-10 06:53:41,0,0,0,0,0,0
+Victor Miura,['vmiura@chromium.org'],0,0,6,1,2014-04-11 05:53:30,2014-04-11 05:53:30,0,0,0,0,0,0
+Brandon Jones,['tojiro@gmail.com'],0,0,6,1,2014-04-11 08:22:28,2014-04-11 08:22:28,0,0,0,0,0,0

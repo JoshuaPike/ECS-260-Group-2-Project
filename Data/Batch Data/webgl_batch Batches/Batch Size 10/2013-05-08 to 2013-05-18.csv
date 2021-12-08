@@ -1,0 +1,6 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Gregg Tavares,['github@greggman.com'],0,0,208,3,2013-05-08 05:21:34,2013-05-08 17:58:16,0,0,1,1.0,1,4
+Greggman,['github@greggman.com'],0,0,208,3,2013-05-08 05:22:42,2013-05-08 18:00:57,0,0,0,0,0,0
+Kenneth Russell,['kbr@chromium.org'],0,0,4836,6,2013-05-08 07:40:30,2013-05-15 09:47:12,4836.0,6.0,0,1.0,1,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,5122,7,2013-05-08 07:41:52,2013-05-15 09:48:45,5122.0,7.0,0,0,0,0
+Jun Jiang,['jun.a.jiang@intel.com'],0,0,286,1,2013-05-15 16:34:26,2013-05-15 16:34:26,0,0,1,0.2230769230769231,1,5

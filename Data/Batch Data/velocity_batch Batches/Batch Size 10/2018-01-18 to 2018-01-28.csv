@@ -1,0 +1,2 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ryc O'Chet,['rycochet@rycochet.com'],0,0,8127,7,2018-01-18 12:09:12,2018-01-27 15:24:27,6320.999999999999,5.444444444444444,4,4.030306028676325,5,48

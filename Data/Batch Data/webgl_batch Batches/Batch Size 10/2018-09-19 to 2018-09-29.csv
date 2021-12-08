@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Olli Etuaho,"['olli.etuaho@gmail.com', 'oetuaho@nvidia.com']",0,0,1381,5,2018-09-20 04:06:08,2018-09-26 10:29:23,1611.1666666666667,5.833333333333334,2,0.8137931034482758,1,0
+Ashley (Scirra),['ashley@scirra.com'],0,0,125,1,2018-09-20 04:07:15,2018-09-20 04:07:15,0,0,0,0,0,0
+Jeff Gilbert,['jdashg@gmail.com'],0,0,231,1,2018-09-26 03:15:15,2018-09-26 03:15:15,0,0,0,0,0,0

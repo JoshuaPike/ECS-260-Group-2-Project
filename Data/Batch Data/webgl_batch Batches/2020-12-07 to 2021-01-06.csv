@@ -1,0 +1,8 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+ShrekShao,['shrekshao@google.com'],0,1,1,1,2020-12-07 13:22:36,2020-12-07 13:22:36,0,0,0,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,1,1,1,2020-12-09 04:38:33,2020-12-09 04:38:33,0,0,0,0,0,0
+Jie Chen,['jie.a.chen@intel.com'],0,1,1,1,2020-12-27 14:18:37,2020-12-27 14:18:37,0,0,1,1.0,1,0
+Kagami Sascha Rosylight,['saschanaz@outlook.com'],0,1,1,1,2020-12-29 02:07:54,2020-12-29 02:07:54,0,0,0,0.0,0,0
+James Darpinian,['jdarpinian@chromium.org'],0,1,1,1,2020-12-30 08:27:47,2020-12-30 08:27:47,0,0,0,0.0,0,0
+Jeff Gilbert,['jdashg@gmail.com'],0,1,1,1,2021-01-04 11:04:02,2021-01-04 11:04:02,0,0,0,0.0,0,0
+James Riordon,['outofcontrol@users.noreply.github.com'],0,1,1,1,2021-01-05 02:44:25,2021-01-05 02:44:25,0,0,2,0.0,0,0

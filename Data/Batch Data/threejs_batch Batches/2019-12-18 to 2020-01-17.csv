@@ -1,0 +1,42 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Mr.doob,info@mrdoob.com,0,1,71880,147,2019-12-17 08:36:18,2020-01-15 23:00:05,17350.344827586207,35.48275862068965,39,15.931011916583179,23,-157
+Michael Herzog,michael.herzog@human-interactive.org,0,0,2565,55,2019-12-18 13:06:03,2020-01-16 11:58:35,641.25,13.75,200,0.0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,13014,61,2019-12-18 13:08:13,2020-01-16 12:01:23,3253.5,15.25,0,9.490304221997897,13,82
+Olli Etuaho,olli.etuaho@gmail.com,0,0,6,1,2019-12-18 18:17:11,2019-12-18 18:17:11,0,0,3,0.0,0,0
+Tomasz Dysinski,dysinski.tomasz@gmail.com,0,0,11,1,2019-12-17 23:40:26,2019-12-17 23:40:26,0,0,0,0.0,0,0
+Ondřej Španěl,OndrejSpanel@users.noreply.github.com,0,0,58,11,2019-12-18 18:00:51,2020-01-15 10:44:21,15.037037037037036,2.8518518518518516,0,0.0,0,0
+Emmett Lalish,elalish@google.com,0,0,458,11,2019-12-18 03:38:14,2020-01-07 05:48:02,160.29999999999998,3.85,7,1.0,1,2
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,16,2,2019-12-18 08:42:06,2019-12-20 02:20:28,112.0,14.0,0,0.0,0,0
+LeonYuanYao,yaoyuan@suitbim.com,0,0,10519,5,2019-12-19 23:23:09,2020-01-07 20:17:53,4090.7222222222217,1.9444444444444442,2,1.6925675675675675,2,-18
+Guillaume Fradin,guillaumefradin@gmail.com,0,0,19,3,2019-12-19 17:48:25,2019-12-20 16:49:12,0,0,2,0.0,0,0
+Karolusrex,kalle.lundfall@gmail.com,0,0,2,1,2019-12-20 09:11:23,2019-12-20 09:11:23,0,0,0,0.0,0,0
+David Peicho,davidHenri.Peicho@siemens-healthineers.com#davidhenri.peicho@siemens-healthineers.com,0,0,611,12,2019-12-20 11:05:09,2020-01-09 11:19:33,213.85,4.2,11,1.5714285714285714,3,23
+Don McCurdy,donmccurdy@google.com#don.r.mccurdy@gmail.com,0,0,1075,7,2019-12-20 05:00:51,2020-01-01 14:11:40,627.0833333333334,4.083333333333334,2,1.0,1,0
+gogoend,gogoend@qq.com,0,1,19957,10,2019-12-21 23:26:51,2019-12-26 06:19:01,34924.75,17.5,0,0.0,0,0
+kazuki,sbr0913@gmail.com,0,0,4,2,2019-12-23 06:06:11,2019-12-23 06:23:26,0,0,0,0.0,0,0
+Victor,vicapow@gmail.com,0,0,1,1,2019-12-22 02:47:16,2019-12-22 02:47:16,0,0,1,0.0,0,0
+donutcoffee,47812491+donutcoffee@users.noreply.github.com,0,0,10,4,2019-12-26 19:15:10,2019-12-28 06:35:45,70.0,28.0,2,0.0,0,0
+Chris Renner,chris@rennerweb.com,0,0,2,1,2019-12-26 14:30:03,2019-12-26 14:30:03,0,0,1,0.0,0,0
+WestLangley,WestLangley@users.noreply.github.com,0,0,1310,31,2019-12-26 14:44:12,2020-01-16 11:51:08,458.5,10.85,33,3.5,4,-1
+Yomotsu,admin@yomotsu.net,0,0,166,3,2019-12-29 11:45:54,2019-12-29 23:28:58,0,0,0,0.0,0,0
+Josh Langley,josh@funfetched.com,0,0,2,1,2019-12-28 15:46:58,2019-12-28 15:46:58,0,0,1,0.0,0,0
+S. Suzuki,terrierscript@gmail.com,0,0,2,1,2019-12-31 00:33:53,2019-12-31 00:33:53,0,0,0,0.0,0,0
+Takahiro,hogehoge@gachapin.jp,0,0,6,2,2020-01-01 08:41:48,2020-01-03 07:59:10,42.0,14.0,0,0.0,0,0
+Angel_Kitty,angelkitty6698@gmail.com,0,0,4,2,2020-01-01 18:16:27,2020-01-01 19:54:41,0,0,0,0.0,0,0
+Robert Huitl,git@huitl.de,0,0,1,1,2020-01-02 13:07:36,2020-01-02 13:07:36,0,0,0,0.0,0,0
+Koichi Miyamoto,m5813k@gmail.com,0,0,16,1,2020-01-04 19:24:46,2020-01-04 19:24:46,0,0,1,0.0,0,0
+Simon Niklaus,sniklaus@users.noreply.github.com,0,0,24,4,2020-01-03 11:32:59,2020-01-04 01:40:23,0,0,2,0.0,0,0
+unknown,boss-10@163.com,0,0,283,2,2020-01-05 23:16:36,2020-01-06 01:22:22,0,0,1,0.0,0,-7
+Guilherme Avila,guilhermebav@gmail.com,0,0,2579,6,2020-01-05 15:15:35,2020-01-16 02:09:24,1805.3,4.2,7,3.4761904761904763,4,54
+gonnavis,gonnavis@163.com,0,0,10,4,2020-01-06 22:32:21,2020-01-10 20:16:55,23.333333333333336,9.333333333333334,0,0.0,0,0
+P. Douglas Reeder,reeder.29@gmail.com,0,0,53,4,2020-01-06 20:33:04,2020-01-10 17:56:15,123.66666666666667,9.333333333333334,0,3.0,3,0
+yomboprime,yomboprime@users.noreply.github.com,0,0,706,2,2020-01-07 09:58:47,2020-01-10 17:55:21,1647.3333333333335,4.666666666666667,2,0.6756756756756757,1,14
+Will Cassella,cassew@google.com,0,0,4,1,2020-01-08 07:53:35,2020-01-08 07:53:35,0,0,0,0.0,0,0
+Jesper van den Ende,jespertheend@gmail.com,0,0,7,2,2020-01-09 11:08:26,2020-01-10 10:26:20,0,0,0,0.0,0,0
+Kai Salmen,myself@kaisalmen.de,0,0,119,1,2020-01-09 22:39:14,2020-01-09 22:39:14,0,0,3,1.0,1,0
+Benjamin MICHEL,119354+SBRK@users.noreply.github.com,0,0,1,1,2020-01-10 17:06:07,2020-01-10 17:06:07,0,0,0,0.0,0,0
+Brandon Jones,tojiro@gmail.com,0,0,134,2,2020-01-10 06:57:09,2020-01-10 07:28:04,0,0,1,0.5384615384615384,1,0
+Scrubs,45501180+njarraud@users.noreply.github.com,0,0,25,2,2020-01-12 04:54:30,2020-01-12 04:55:23,0,0,2,1.0,1,0
+Mateusz Charytoniuk,mateusz.charytoniuk@protonmail.com,0,0,2,1,2020-01-11 21:50:49,2020-01-11 21:50:49,0,0,0,0.0,0,0
+Philip Rideout,philiprideout@gmail.com,0,0,6,1,2020-01-14 07:34:33,2020-01-14 07:34:33,0,0,3,0.0,0,0
+tiptopanonymous,metipton@ncsu.edu,0,0,7,2,2020-01-15 08:14:50,2020-01-16 06:41:05,0,0,1,0.0,0,0

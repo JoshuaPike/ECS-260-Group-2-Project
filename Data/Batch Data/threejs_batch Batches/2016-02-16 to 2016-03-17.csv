@@ -1,0 +1,36 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ben Houston,ben@exocortex.com,0,0,21481,184,2016-02-15 14:22:30,2016-03-14 11:22:40,5569.148148148148,47.7037037037037,45,24.163694083003783,29,11
+Mr.doob,info@mrdoob.com,0,1,51106,216,2016-02-17 07:40:31,2016-03-16 16:46:18,12776.5,54.0,60,37.75655836772293,42,183
+David Lyons,david.scott.lyons@gmail.com,0,0,13,2,2016-02-16 04:36:10,2016-02-16 07:15:32,0,0,0,0.0,0,0
+WestLangley,dat1234@gmail.com,0,0,132,8,2016-02-16 16:40:22,2016-03-15 19:47:51,33.0,2.0,2,1.0,1,0
+Coder2012,neilbrown08@hotmail.com,0,0,132,2,2016-02-19 07:54:33,2016-02-19 10:37:14,0,0,0,0.0,0,0
+Mugen87,michael.herzog@human-interactive.org,0,0,2877,25,2016-02-19 11:59:41,2016-03-15 23:38:16,805.56,7.0,32,11.07183955285221,14,141
+mattdesl,dave.des@gmail.com,0,0,28,1,2016-02-19 08:20:30,2016-02-19 08:20:30,0,0,0,0.0,0,0
+Wilt,wouter_wiltenburg@hotmail.com,0,0,4,2,2016-02-19 20:32:44,2016-02-19 21:47:38,0,0,1,1.0,1,0
+makc,makc.the.great@gmail.com,0,0,14,1,2016-02-21 18:22:35,2016-02-21 18:22:35,0,0,1,0.0,0,0
+Raymond Zhou,razh@users.noreply.github.com,0,0,3,1,2016-02-21 11:44:52,2016-02-21 11:44:52,0,0,1,0.0,0,0
+Bao Pham,gbaopham@gmail.com,0,0,2,1,2016-02-21 13:33:21,2016-02-21 13:33:21,0,0,0,0.0,0,0
+kampfgnu,feinahabl@gmx.at,0,0,117,1,2016-02-22 17:37:22,2016-02-22 17:37:22,0,0,1,0.3725490196078431,1,1
+Marius Kintel,marius@kintel.net,0,0,44,1,2016-02-23 10:41:48,2016-02-23 10:41:48,0,0,1,1.0,1,2
+Valentin Demeusy,valentin.demeusy@imavie.fr,0,1,40464,5,2016-02-23 19:15:33,2016-03-14 13:01:18,14907.78947368421,1.8421052631578947,4,1.4844554689345617,3,64
+Brandon Jones,tojiro@gmail.com,0,0,348,4,2016-02-24 07:22:09,2016-03-02 05:56:38,406.0,4.666666666666667,4,2.0,2,9
+m_valvano,m.valvano@bookingshow.com,0,0,8,1,2016-02-25 15:47:15,2016-02-25 15:47:15,0,0,0,0.0,0,0
+weiserhei,weiserhei@users.noreply.github.com,0,0,255,3,2016-02-26 12:28:08,2016-03-04 18:06:15,255.0,3.0,0,0.0,0,0
+tschw,tschwinger@isonews2.com,0,0,212,5,2016-02-26 15:00:44,2016-03-01 00:49:12,494.6666666666667,11.666666666666668,3,3.583333333333333,4,-4
+Nathan Phillip Brink,ohnobinki@ohnopublishing.net,0,0,35,1,2016-02-28 17:15:47,2016-02-28 17:15:47,0,0,0,0.8571428571428571,1,0
+Coder,coder@glitch.land,0,0,2,1,2016-02-28 14:05:45,2016-02-28 14:05:45,0,0,1,0.0,0,0
+jfranc,jfranc@gmail.com,0,0,11,3,2016-03-02 14:44:48,2016-03-02 15:09:34,0,0,0,0.0,0,0
+takahiro,hogehoge@gachapin.jp,0,0,14,1,2016-03-02 14:49:28,2016-03-02 14:49:28,0,0,0,1.0,1,0
+Sagar Dwibhashyam,dvenkatsagar@gmail.com,0,0,985,3,2016-03-02 22:59:53,2016-03-07 05:54:26,1723.75,5.25,3,0.066465256797583,1,33
+JonLim,jonlimtoronto@gmail.com,0,0,8,1,2016-03-03 07:16:58,2016-03-03 07:16:58,0,0,0,0.0,0,0
+Andrey Kaipov,akaip002@fiu.edu,0,0,6,2,2016-03-05 13:47:36,2016-03-05 17:27:26,0,0,1,0.0,0,0
+gero3,gero3@users.noreply.github.com,0,0,47,3,2016-03-07 19:51:12,2016-03-07 22:54:44,0,0,0,0.0,0,0
+Tony Parisi,tparisi@gmail.com,0,0,18972,1,2016-03-07 06:45:50,2016-03-07 06:45:50,0,0,6,0.5800524934383202,1,31
+Christopher Van,cvan@mozilla.com,0,0,14,1,2016-03-09 14:37:59,2016-03-09 14:37:59,0,0,0,0.0,0,0
+michael,insominx@yahoo.com,0,0,30,1,2016-03-10 03:46:15,2016-03-10 03:46:15,0,0,0,0.0,0,0
+Jesse van den Kieboom,jkieboom@esri.com,0,0,3,1,2016-03-12 10:34:44,2016-03-12 10:34:44,0,0,0,1.0,1,0
+yomotsu,oyamada@pxgrid.com,0,0,11,1,2016-03-15 09:33:17,2016-03-15 09:33:17,0,0,2,0.0,0,0
+Reece Lecrivain,reece@amentrix.com,0,0,1,9,2016-03-15 12:58:00,2016-03-16 23:21:18,2065.0,63.0,3,3.0,3,0
+Sébastien Valette,sebastien.valette@creatis.insa-lyon.fr,0,0,2,1,2016-03-16 11:36:40,2016-03-16 11:36:40,0,0,1,0.0,0,0
+Ben Jenkinson,ben@benjenkinson.com,0,0,3,1,2016-03-16 11:37:14,2016-03-16 11:37:14,0,0,0,0.0,0,0
+Jaume Sanchez,the.spite@gmail.com,0,0,41528,1,2016-03-16 23:35:18,2016-03-16 23:35:18,0,0,0,0.0,0,0

@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Jeff Gilbert,['jdashg@gmail.com'],0,0,708,7,2019-02-05 10:02:45,2019-02-15 06:42:33,550.6666666666666,5.444444444444444,22,4.0,4,11
+Austin Eng,['2154796+austinEng@users.noreply.github.com'],0,0,8,1,2019-02-07 09:28:00,2019-02-07 09:28:00,0,0,0,0,0,0
+Kai Ninomiya,['kainino1@gmail.com'],0,0,166,2,2019-02-12 08:41:24,2019-02-13 10:08:35,1162.0,14.0,0,0,0,0

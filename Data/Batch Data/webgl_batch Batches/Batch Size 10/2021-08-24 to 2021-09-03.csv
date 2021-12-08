@@ -1,0 +1,3 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Jiawei Shao,['jiawei.shao@intel.com'],0,0,69,1,2021-08-23 16:48:21,2021-08-23 16:48:21,0,0,0,0,0,0
+Jeff Gilbert,['jdashg@gmail.com'],0,0,133,2,2021-08-26 16:52:15,2021-09-02 09:54:12,155.16666666666669,2.3333333333333335,0,0,0,0

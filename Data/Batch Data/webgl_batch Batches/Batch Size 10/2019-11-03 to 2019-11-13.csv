@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,0,1,2019-11-06 07:52:45,2019-11-06 07:52:45,0,0,0,0,0,0
+James Darpinian,['jdarpinian@chromium.org'],0,0,194,1,2019-11-06 07:54:16,2019-11-06 07:54:16,0,0,0,0,0,0
+ShrekShao,['shrekshao@google.com'],0,0,221,2,2019-11-07 08:19:43,2019-11-11 07:39:38,515.6666666666667,4.666666666666667,1,0.5,1,0
+hujiajie,['jiajie.hu@intel.com'],0,0,42,1,2019-11-08 16:34:23,2019-11-08 16:34:23,0,0,0,0,0,0

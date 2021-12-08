@@ -1,0 +1,10 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+キャロウ　マーク,['github@callow.im'],0,0,131,4,2016-03-15 00:12:30,2016-03-16 04:08:02,917.0,28.0,0,0,0,0
+Mark Callow,['msc-@users.noreply.github.com'],0,0,6,1,2016-03-15 01:38:46,2016-03-15 01:38:46,0,0,0,0,0,0
+He Yunchao,['yunchao.he@intel.com'],0,0,2,1,2016-03-15 01:19:49,2016-03-15 01:19:49,0,0,1,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,2043,7,2016-03-14 09:20:06,2016-03-22 08:00:53,2043.0,7.0,0,0,0,0
+Qiankun Miao,['qiankun.miao@intel.com'],0,0,280,5,2016-03-16 15:05:16,2016-03-23 03:08:50,326.6666666666667,5.833333333333334,9,2.2847358121330723,3,1
+zhenyao,['zmo@chromium.org'],0,0,162,2,2016-03-15 10:00:46,2016-03-18 06:02:23,567.0,7.0,0,0,0,0
+Brad Kotsopoulos,"['brad18@hotmail.ca', 'brad.kotsopoulos@gmail.com']",0,0,109,2,2016-03-16 09:29:21,2016-03-16 10:38:29,0,0,0,0,0,0
+Kenneth Russell,['kbrussel@alum.mit.edu'],0,0,2,1,2016-03-21 09:49:14,2016-03-21 09:49:14,0,0,0,0,0,0
+xidachen,['xidachen@chromium.org'],0,0,48,1,2016-03-22 12:15:49,2016-03-22 12:15:49,0,0,12,0,0,0

@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Jeff Gilbert,['jdashg@gmail.com'],0,0,177,3,2018-10-19 07:14:15,2018-10-24 07:10:50,309.75,5.25,0,0,0,0
+James Darpinian,['jdarpinian@gmail.com'],0,0,16,1,2018-10-19 09:15:34,2018-10-19 09:15:34,0,0,8,0.875,1,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,164,1,2018-10-22 11:06:51,2018-10-22 11:06:51,0,0,1,1.0,1,0
+Ilia Mirkin,['imirkin@alum.mit.edu'],0,0,6,1,2018-10-26 11:28:35,2018-10-26 11:28:35,0,0,0,0,0,0

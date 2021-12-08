@@ -1,0 +1,10 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Florian,['pyalot@gmail.com'],0,0,14,2,2014-05-13 11:39:32,2014-05-13 11:45:27,0,0,0,0.0,0,0
+Geoff Lang,['geoff@vonture.net'],0,0,33,1,2014-05-13 06:29:52,2014-05-13 06:29:52,0,0,0,0.0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,2129,21,2014-05-13 03:29:22,2014-06-09 09:13:36,551.9629629629629,5.444444444444445,0,0.0,0,0
+Brandon Jones,"['bajones@chromium.org', 'tojiro@gmail.com']",0,0,1198,13,2014-05-14 09:01:54,2014-05-28 08:35:25,645.0769230769231,7.0,0,0.0,0,0
+Tibor den Ouden,['tibordenouden@gmail.com'],0,0,1677,10,2014-05-19 13:31:34,2014-06-12 00:44:29,510.3913043478261,3.0434782608695654,4,1.6741573033707864,2,85
+msc-hi,['callow.mark@artspark.co.jp'],0,0,78,1,2014-05-22 00:23:48,2014-05-22 00:23:48,0,0,0,0.0,0,0
+jdashg,['jdashg+github@gmail.com'],0,0,418,2,2014-05-23 09:50:35,2014-06-02 07:28:05,325.1111111111111,1.5555555555555554,0,0.0,0,0
+Jamie Madill,['jmadill@chromium.org'],0,0,61,2,2014-05-27 10:50:43,2014-05-29 13:15:52,213.5,7.0,0,0.0,0,0
+Dean Jackson,"['dino@apple.com', 'dino@grorg.org']",0,0,368,18,2014-05-29 15:29:23,2014-06-06 09:01:49,368.0,18.0,0,0.0,0,0

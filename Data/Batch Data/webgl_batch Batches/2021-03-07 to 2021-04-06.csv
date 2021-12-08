@@ -1,0 +1,7 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Thomas Guilbert,['52718142+tguilbert-google@users.noreply.github.com'],0,0,43,1,2021-03-10 14:21:45,2021-03-10 14:21:45,0,0,1,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,607,5,2021-03-16 05:11:21,2021-04-02 04:56:41,265.5625,2.1875,1,1.0,1,0
+Dale Curtis,['dalecurtis@chromium.org'],0,0,115,4,2021-03-16 11:19:33,2021-03-24 06:04:44,115.0,4.0,5,1.0,1,0
+Jeff Gilbert,['jdashg@gmail.com'],0,0,226,1,2021-03-16 11:34:16,2021-03-16 11:34:16,0,0,0,0.0,0,0
+ShrekShao,['shrekshao@google.com'],0,0,22,1,2021-03-26 07:27:30,2021-03-26 07:27:30,0,0,1,0.0,0,0
+Nathan Umali,['some1namednate@gmail.com'],0,0,2,1,2021-04-02 03:14:31,2021-04-02 03:14:31,0,0,0,0.0,0,0

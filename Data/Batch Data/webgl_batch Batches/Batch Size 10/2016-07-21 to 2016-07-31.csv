@@ -1,0 +1,11 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Xinghua Cao,['xinghua.cao@intel.com'],0,0,15,2,2016-07-22 01:00:23,2016-07-22 17:19:11,0,0,2,0,0,0
+zhenyao,['zmo@chromium.org'],0,0,504,9,2016-07-20 23:16:06,2016-07-28 09:46:55,504.0,9.0,0,0,0,0
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,142,1,2016-07-21 23:58:11,2016-07-21 23:58:11,0,0,0,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,58,5,2016-07-21 13:11:54,2016-07-25 10:38:35,135.33333333333334,11.666666666666668,1,0,0,0
+Qiankun Miao,['qiankun.miao@intel.com'],0,0,155,1,2016-07-23 11:30:23,2016-07-23 11:30:23,0,0,0,0,0,0
+He Yunchao,['yunchao.he@intel.com'],0,0,104,1,2016-07-25 22:23:10,2016-07-25 22:23:10,0,0,0,0,0,0
+Yizhou Jiang,['yizhou.jiang@intel.com'],0,0,44,1,2016-07-26 00:43:41,2016-07-26 00:43:41,0,0,1,1.0,1,0
+Jeff Gilbert,['jdashg@gmail.com'],0,0,23,1,2016-07-25 08:00:50,2016-07-25 08:00:50,0,0,0,0,0,0
+Jiawei-Shao,['jiawei.shao@intel.com'],0,0,40,1,2016-07-26 23:56:05,2016-07-26 23:56:05,0,0,1,0,0,13
+JerryShih,['hshih@mozilla.com'],0,0,2,1,2016-07-29 01:02:05,2016-07-29 01:02:05,0,0,1,0,0,0

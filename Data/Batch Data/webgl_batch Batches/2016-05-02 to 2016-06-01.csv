@@ -1,0 +1,15 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+erikchen,"['erikchen@chromium.org', 'theerikchen@gmail.com']",0,0,116,2,2016-05-03 10:27:16,2016-05-04 02:21:45,0,0,0,0.0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,1612,25,2016-05-04 03:37:17,2016-05-27 05:25:14,490.60869565217394,7.608695652173913,0,0.0,0,0
+Jiawei-Shao,['jiawei.shao@intel.com'],0,0,232,5,2016-05-05 16:50:35,2016-05-31 22:00:13,62.46153846153846,1.346153846153846,9,0.8125,1,7
+zhenyao,['zmo@chromium.org'],0,0,16316,49,2016-05-04 11:06:53,2016-05-30 22:48:07,4392.7692307692305,13.192307692307692,4,0.0,0,0
+Zhenyao Mo,['zmo@chromium.org'],0,0,16571,46,2016-05-06 07:20:08,2016-05-31 07:41:25,4639.88,12.879999999999999,10,11.883183183183183,13,21
+Brandon Jones,['tojiro@gmail.com'],0,0,192,3,2016-05-06 07:41:15,2016-05-10 09:42:22,336.0,5.25,0,0.0,0,0
+Xinghua Cao,['xinghua.cao@intel.com'],0,0,233,2,2016-05-10 02:48:19,2016-05-11 18:38:31,1631.0,14.0,3,1.0,1,-5
+Qiankun Miao,['qiankun.miao@intel.com'],0,0,117,6,2016-05-10 17:28:11,2016-05-28 03:23:06,48.1764705882353,2.4705882352941178,2,2.0,2,5
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,20,1,2016-05-10 15:13:40,2016-05-10 15:13:40,0,0,6,0.0,0,0
+jdashg,['jdashg@gmail.com'],0,0,150,4,2016-05-10 09:29:16,2016-05-20 06:51:49,116.66666666666666,3.1111111111111107,0,0.0,0,0
+Corentin Wallez,['cwallez@chromium.org'],0,0,149,4,2016-05-18 13:26:19,2016-05-19 12:35:56,0,0,1,1.0,1,0
+Eivind Magnus Hvidevold,['hvidevold@gmail.com'],0,0,248,3,2016-05-19 04:54:19,2016-05-21 01:41:01,1736.0,21.0,0,0.0,0,0
+Gregg Tavares,['github@greggman.com'],0,0,5,1,2016-05-25 00:14:12,2016-05-25 00:14:12,0,0,0,0.0,0,0
+He Yunchao,['yunchao.he@intel.com'],0,0,61,2,2016-05-26 22:20:48,2016-05-27 23:16:12,427.0,14.0,2,0.0,0,0

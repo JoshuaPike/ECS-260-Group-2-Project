@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+ShrekShao,['shrekshao@gmail.com'],0,0,84,4,2019-04-08 05:29:17,2019-04-15 12:05:31,84.0,4.0,0,0,0,0
+Yunchao He,['yunchao.he@intel.com'],0,0,208,2,2019-04-09 14:54:04,2019-04-16 00:31:37,242.66666666666669,2.3333333333333335,0,0,0,0
+Kai Ninomiya,['kainino1@gmail.com'],0,0,6,1,2019-04-11 17:34:24,2019-04-11 17:34:24,0,0,0,0,0,0
+Hao Yunfei,['yunfei.hao@intel.com'],0,0,3,1,2019-04-15 12:04:00,2019-04-15 12:04:00,0,0,1,1.0,1,0

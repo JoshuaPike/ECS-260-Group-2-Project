@@ -1,0 +1,2 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Miles Johnson,['Miles@Miless-MacBook-Pro.local'],0,0,354,1,2015-12-11 15:59:54,2015-12-11 15:59:54,0,0,8,0,0,0

@@ -1,0 +1,3 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+stefanodallapalma,['stefano.dallapalma0@gmail.com'],0,0,13,2,2020-03-20 12:45:42,2020-03-20 13:54:02,0,0,2,1.0,1,0
+Davide Spadini,['spadini.davide@gmail.com'],0,0,7,1,2020-03-20 14:04:09,2020-03-20 14:04:09,0,0,0,0,0,0

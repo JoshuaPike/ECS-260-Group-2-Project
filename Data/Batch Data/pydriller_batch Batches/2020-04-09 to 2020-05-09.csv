@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Arie van Deursen,['arie.vandeursen@tudelft.nl'],0,0,826,12,2020-04-09 23:24:26,2020-05-03 00:22:27,251.3913043478261,3.6521739130434785,19,2.619047619047619,3,40
+Davide Spadini,['spadini.davide@gmail.com'],0,0,749,4,2020-04-20 12:48:33,2020-05-05 16:00:56,349.53333333333336,1.8666666666666667,5,0.0,0,0
+ishepard,['spadini.davide@gmail.com'],0,0,251,7,2020-04-20 13:18:25,2020-05-05 16:04:46,117.13333333333334,3.2666666666666666,4,1.0,1,0

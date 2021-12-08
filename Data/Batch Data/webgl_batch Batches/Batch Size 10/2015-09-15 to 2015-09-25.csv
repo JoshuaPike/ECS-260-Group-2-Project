@@ -1,0 +1,14 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+He Yunchao,['yunchao.he@intel.com'],0,0,330,2,2015-09-15 16:03:39,2015-09-22 00:10:54,385.0,2.3333333333333335,0,0,0,0
+zhenyao,['zmo@chromium.org'],0,0,268,5,2015-09-14 10:11:59,2015-09-22 08:05:45,268.0,5.0,1,0,0,0
+Zhenyao Mo,['zmo@chromium.org'],0,0,48,3,2015-09-14 10:41:58,2015-09-16 10:00:40,336.0,21.0,0,1.0,1,3
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,14814,15,2015-09-14 10:44:36,2015-09-23 09:07:56,12962.25,13.125,0,0,0,0
+legend,['guanxian.li@intel.com'],0,0,235,1,2015-09-15 19:16:27,2015-09-15 19:16:27,0,0,0,0,0,0
+Qiankun Miao,['qiankun.miao@intel.com'],0,0,116,2,2015-09-16 02:09:18,2015-09-17 08:10:30,812.0,14.0,0,0,0,0
+Tomoaki Kawada,['i@yvt.jp'],0,0,2,1,2015-09-18 21:19:25,2015-09-18 21:19:25,0,0,0,0,0,0
+Emmanuel Gil Peyrot,['emmanuel.peyrot@collabora.com'],0,0,359,1,2015-09-18 16:12:53,2015-09-18 16:12:53,0,0,0,0,0,0
+Janusz Sobczak,['janusz.sobczak@mobica.com'],0,0,3572,1,2015-09-18 11:54:36,2015-09-18 11:54:36,0,0,12,0.8573487031700289,1,7
+renchenglei,['chenglei.ren@intel.com'],0,0,34,1,2015-09-21 18:38:34,2015-09-21 18:38:34,0,0,1,1.0,1,0
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,195,2,2015-09-21 14:23:15,2015-09-22 20:58:01,1365.0,14.0,0,0,0,0
+Kirill Dmitrenko,['dmikis@yandex-team.ru'],0,0,63,1,2015-09-21 16:42:43,2015-09-21 16:42:43,0,0,0,0,0,0
+Brandon Jones,"['bajones@chromium.org', 'tojiro@gmail.com']",0,0,145,4,2015-09-23 06:56:40,2015-09-23 09:05:55,0,0,1,0,0,0

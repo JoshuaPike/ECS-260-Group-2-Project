@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Benoit Jacob,['bjacob@mozilla.com'],0,0,230,2,2012-09-11 11:58:18,2012-09-11 12:17:12,0,0,0,0,0,0
+Greggman,['github@greggman.com'],0,0,419,4,2012-09-11 06:11:55,2012-09-12 10:06:48,2933.0,28.0,0,0,0,0
+Gregg Tavares,['github@greggman.com'],0,0,189,2,2012-09-12 07:36:46,2012-09-12 09:49:31,0,0,0,0,0,0

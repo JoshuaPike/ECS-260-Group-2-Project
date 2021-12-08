@@ -1,0 +1,12 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,1003,21,2014-04-15 09:30:53,2014-05-12 08:56:48,270.03846153846155,5.653846153846153,1,0.0,0,0
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,22,2,2014-04-16 14:14:40,2014-04-17 16:27:47,154.0,14.0,0,0,0,0
+Brandon Jones,"['tojiro@gmail.com', 'bajones@chromium.org']",0,0,967,18,2014-04-16 02:12:53,2014-05-12 08:53:29,260.3461538461538,4.846153846153846,0,0.0,0,0
+Kenneth Russell,['kbrussel@alum.mit.edu'],0,0,52,1,2014-04-17 06:57:15,2014-04-17 06:57:15,0,0,0,0,0,0
+Tibor den Ouden,['tibordenouden@gmail.com'],0,0,234,3,2014-04-24 19:08:17,2014-04-28 17:16:05,546.0,7.0,1,0.75,1,14
+Jamie Madill,['jmadill@chromium.org'],0,0,105,1,2014-04-24 10:13:02,2014-04-24 10:13:02,0,0,0,0.0,0,0
+Jenan Wise,['jenanwise@gmail.com'],0,0,163,1,2014-04-24 06:28:00,2014-04-24 06:28:00,0,0,0,0.0,0,0
+Zhenyao Mo,['zmo@chromium.org'],0,0,314,3,2014-05-01 06:11:41,2014-05-09 07:44:09,274.75,2.625,0,0.0,0,0
+Gregg Tavares,['github@greggman.com'],0,0,8,1,2014-05-03 00:43:01,2014-05-03 00:43:01,0,0,0,0.0,0,0
+jdashg,['jdashg+github@gmail.com'],0,0,10,2,2014-05-07 08:59:32,2014-05-08 08:39:48,0,0,0,0,0,0
+Nicolas Capens,['nicolascapens@chromium.org'],0,0,192,1,2014-05-12 10:33:07,2014-05-12 10:33:07,0,0,0,0,0,0

@@ -1,0 +1,7 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Brandon Jones,['bajones@chromium.org'],0,0,93,2,2013-12-03 08:47:46,2013-12-03 12:56:13,0,0,1,1.0,1,5
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,551,6,2013-12-03 16:00:07,2013-12-10 11:00:58,642.8333333333334,7.0,0,0,0,0
+Bill Baxter,['wbaxter@google.com'],0,0,104,3,2013-12-04 07:50:25,2013-12-05 03:02:29,0,0,0,0,0,0
+Kenneth Russell,['kbrussel@alum.mit.edu'],0,0,171,1,2013-12-05 11:03:49,2013-12-05 11:03:49,0,0,0,0,0,0
+jdashg,['jdashg+github@gmail.com'],0,0,159,2,2013-12-09 08:12:59,2013-12-09 08:12:59,0,0,0,0,0,0
+Jun Jiang,['jun.a.jiang@intel.com'],0,0,197,2,2013-12-11 00:19:46,2013-12-11 17:58:43,0,0,0,0,0,0

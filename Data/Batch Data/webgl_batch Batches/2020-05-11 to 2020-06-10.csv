@@ -1,0 +1,10 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+ShrekShao,['shrekshao@google.com'],0,0,342,3,2020-05-11 11:09:15,2020-05-21 13:39:32,239.4,2.1,0,0.0,0,0
+"Yan, Shaobo",['shaobo.yan@intel.com'],0,0,371,4,2020-05-12 07:31:00,2020-05-26 02:46:19,199.76923076923077,2.1538461538461537,1,0.8089887640449438,1,7
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,305,8,2020-05-13 05:49:53,2020-06-08 10:39:58,82.11538461538461,2.1538461538461537,3,3.0,3,5
+sugoi1,['sugoi@google.com'],0,0,6,1,2020-05-13 09:56:07,2020-05-13 09:56:07,0,0,0,0.0,0,0
+Thomas Guilbert,['52718142+tguilbert-google@users.noreply.github.com'],0,0,304,1,2020-05-14 12:28:53,2020-05-14 12:28:53,0,0,5,1.0,1,6
+Dean Jackson,['dino@grorg.org'],0,0,4,1,2020-05-21 10:45:53,2020-05-21 10:45:53,0,0,0,0,0,0
+Ray Tran,['raytranuk@users.noreply.github.com'],0,0,59,1,2020-05-29 11:12:51,2020-05-29 11:12:51,0,0,0,0,0,0
+Jeff Gilbert,['jdashg@gmail.com'],0,0,12,2,2020-05-29 11:20:29,2020-06-01 10:41:28,42.0,7.0,0,0.0,0,0
+nkronlage,['neil.kronlage@gmail.com'],0,0,55,1,2020-06-02 06:46:59,2020-06-02 06:46:59,0,0,0,0.0,0,0

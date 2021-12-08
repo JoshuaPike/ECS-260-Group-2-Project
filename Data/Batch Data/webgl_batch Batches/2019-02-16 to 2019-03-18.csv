@@ -1,0 +1,10 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Jeff Gilbert,['jdashg@gmail.com'],0,0,300,3,2019-02-15 08:41:50,2019-03-04 09:04:19,123.5294117647059,1.2352941176470589,1,1.0,1,0
+Alexey Knyazev,['lexa.knyazev@gmail.com'],0,0,78,2,2019-02-25 07:55:42,2019-03-07 10:12:01,54.6,1.4,0,0.0,0,0
+ShrekShao,['shrekshao@gmail.com'],0,0,132,1,2019-02-28 10:07:07,2019-02-28 10:07:07,0,0,1,0.4,1,0
+Yunchao He,['yunchao.he@intel.com'],0,0,1292,1,2019-03-07 10:04:33,2019-03-07 10:04:33,0,0,0,0,0,0
+Greggman,['github@greggman.com'],0,0,1967,1,2019-03-07 10:09:52,2019-03-07 10:09:52,0,0,0,0,0,0
+Aaron Krajeski,['krajeski@gmail.com'],0,0,122,1,2019-03-11 06:54:51,2019-03-11 06:54:51,0,0,0,0,0,0
+mbrodesser,['48510213+mbrodesser@users.noreply.github.com'],0,0,20,1,2019-03-13 03:47:10,2019-03-13 03:47:10,0,0,2,0,0,0
+James Darpinian,['jdarpinian@gmail.com'],0,0,44,1,2019-03-14 09:43:02,2019-03-14 09:43:02,0,0,0,0,0,0
+Kai Ninomiya,['kainino@chromium.org'],0,0,243,2,2019-03-15 14:26:19,2019-03-15 14:26:19,0,0,0,0,0,0

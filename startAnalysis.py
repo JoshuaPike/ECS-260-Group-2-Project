@@ -5,6 +5,7 @@ import csv
 from mineData import mine
 import sys
 from playsound import playsound
+from analyzeData import make_batch_data_monthly
 
 sys.setrecursionlimit(1000)
 startTime = datetime.utcnow()
@@ -77,7 +78,7 @@ batch_size = timedelta(days=10)
 # mine(localPaths[3], 'JavaScript', webGL_start, end_date, 'webgl_batch', batch_size)
 # mineEndTime = datetime.utcnow()
 # timeElapsed = mineEndTime - mineStartTime
-
+#
 # print('Done with WebGL... Process took ' + str(timeElapsed.seconds) + ' seconds')
 # print('Starting to mine Babylon.js\n')
 #
@@ -199,8 +200,30 @@ threejs_end_5 = datetime.fromisoformat('2020-06-21T00:00:00+00:00')
 # print('Finished mining sixth year of three.js')
 # print('Process took ' + str(timeElapsed.seconds) + ' seconds')
 
-endTime = datetime.utcnow()
-timeElapsed = endTime - startTime
-print('Finished mining')
-print('Process took ' + str(timeElapsed.seconds) + ' seconds')
-playsound('Okaaayyyyy lets go.mp3')
+# endTime = datetime.utcnow()
+# timeElapsed = endTime - startTime
+# print('Finished mining')
+# print('Process took ' + str(timeElapsed.seconds) + ' seconds')
+# playsound('Okaaayyyyy lets go.mp3')
+
+
+
+# --------------------------- Get batch data into monthly format ---------------------------------------
+# babylon_name = 'babylonjs_batch'
+# # babylon_end_date = datetime.fromisoformat('2018-07-03T00:00:00+00:00')
+# babylon_end_date = datetime(2018, 7, 3, 0, 0, 0)
+# make_batch_data_monthly(babylon_name, batch_size, babylon_end_date)
+
+pydriller_name = 'pydriller_batch'
+velocity_name = 'velocity_batch'
+toolkit_name = 'toolkit_batch'
+webgl_name = 'webgl_batch'
+threejs_name = 'threejs_batch'
+
+end_date_for_monthly = datetime(2021, 12, 1, 0, 0, 0)
+
+make_batch_data_monthly(pydriller_name, batch_size, end_date_for_monthly)
+make_batch_data_monthly(velocity_name, batch_size, end_date_for_monthly)
+make_batch_data_monthly(toolkit_name, batch_size, end_date_for_monthly)
+make_batch_data_monthly(webgl_name, batch_size, end_date_for_monthly)
+make_batch_data_monthly(threejs_name, batch_size, end_date_for_monthly)

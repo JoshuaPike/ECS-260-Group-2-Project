@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Jiawei Shao,['jiawei.shao@intel.com'],0,0,64,1,2020-01-01 14:51:59,2020-01-01 14:51:59,0,0,1,0.11904761904761904,1,2
+Jeff Gilbert,['jgilbert@mozilla.com'],0,0,74,2,2020-01-02 07:06:21,2020-01-06 07:11:47,129.5,3.5,1,0.5714285714285714,1,-1
+ShrekShao,['shrekshao@google.com'],0,0,101,5,2020-01-03 07:05:14,2020-01-10 09:14:51,101.0,5.0,1,2.0,2,0
+Alexey Knyazev,['lexa.knyazev@gmail.com'],0,0,655,1,2020-01-09 08:33:08,2020-01-09 08:33:08,0,0,0,0,0,0

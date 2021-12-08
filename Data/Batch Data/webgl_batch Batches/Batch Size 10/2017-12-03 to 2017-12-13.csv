@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Kai Ninomiya,['kainino1@gmail.com'],0,0,521,1,2017-12-04 03:19:57,2017-12-04 03:19:57,0,0,0,0,0,0
+Jie Chen,['jie.a.chen@intel.com'],0,0,2,1,2017-12-05 14:35:32,2017-12-05 14:35:32,0,0,1,0,0,0
+zhenyao,['zmo@chromium.org'],0,0,676,2,2017-12-06 01:53:04,2017-12-08 05:10:35,2366.0,7.0,0,0,0,0
+Deyi Li,['deyi.li2015@gmail.com'],0,0,20,1,2017-12-07 03:08:50,2017-12-07 03:08:50,0,0,2,0,0,0

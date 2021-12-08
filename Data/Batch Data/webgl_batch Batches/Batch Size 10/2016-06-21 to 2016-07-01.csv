@@ -1,0 +1,14 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+He Yunchao,['yunchao.he@intel.com'],0,0,24,3,2016-06-21 21:42:04,2016-06-24 01:34:13,84.0,10.5,2,0,0,9
+Qiankun Miao,['qiankun.miao@intel.com'],0,0,93,3,2016-06-22 01:29:39,2016-06-25 03:22:24,217.0,7.0,5,0.25,1,0
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,20,1,2016-06-21 21:19:32,2016-06-21 21:19:32,0,0,0,0,0,0
+zhenyao,['zmo@chromium.org'],0,0,62931,28,2016-06-21 02:59:10,2016-06-30 08:42:10,48946.33333333333,21.777777777777775,9,0,0,0
+Zhenyao Mo,['zmo@chromium.org'],0,0,6159,15,2016-06-21 07:39:42,2016-06-29 13:56:04,5389.125,13.125,0,8.90909090909091,9,-1
+Reformat,['jdashg+reformat@gmail.com'],0,0,21046,1,2016-06-21 10:37:45,2016-06-21 10:37:45,0,0,8,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,21570,9,2016-06-21 11:02:18,2016-06-30 08:53:38,18873.75,7.875,0,0,0,0
+renchenglei,['chenglei.ren@intel.com'],0,0,56186,4,2016-06-23 04:46:13,2016-06-28 01:29:33,98325.5,7.0,0,0,0,0
+anzurio,['anzurio@gmail.com'],0,0,17,1,2016-06-22 06:31:58,2016-06-22 06:31:58,0,0,1,1.0,1,0
+Jiawei-Shao,['jiawei.shao@intel.com'],0,0,442,2,2016-06-23 23:57:31,2016-06-27 23:07:57,1031.3333333333335,4.666666666666667,1,0.6785714285714286,1,29
+xidachen,['xidachen@chromium.org'],0,0,17,2,2016-06-23 05:22:43,2016-06-24 11:45:08,119.0,14.0,2,0.5,1,0
+Corentin Wallez,['cwallez@chromium.org'],0,0,12,2,2016-06-28 09:04:33,2016-06-30 14:18:15,42.0,7.0,0,0,0,1
+chromegpu,['chromegpu@MacBook-Air-2.local'],0,0,298,3,2016-06-29 11:36:10,2016-06-30 07:52:29,0,0,7,0.3684210526315789,1,6

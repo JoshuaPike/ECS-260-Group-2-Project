@@ -1,0 +1,8 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Kenneth Russell,['kbrussel@alum.mit.edu'],0,0,128,1,2016-11-29 07:27:54,2016-11-29 07:27:54,0,0,2,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,380,7,2016-11-29 07:28:55,2016-12-05 05:31:09,532.0,9.799999999999999,0,0,0,0
+Qiankun Miao,['qiankun.miao@intel.com'],0,0,333,5,2016-11-29 09:00:52,2016-12-07 03:14:02,333.0,5.0,1,1.0,1,0
+Olli Etuaho,['olli.etuaho@gmail.com'],0,0,224,3,2016-12-01 04:16:50,2016-12-07 03:15:32,313.59999999999997,4.2,0,0,0,0
+He Yunchao,['yunchao.he@intel.com'],0,0,199,3,2016-12-02 01:01:14,2016-12-07 03:08:11,278.59999999999997,4.2,1,0,0,2
+Dean Jackson,['dino@grorg.org'],0,0,20,1,2016-12-07 04:00:37,2016-12-07 04:00:37,0,0,0,0,0,0
+Jeff Gilbert,['jdashg@gmail.com'],0,0,16,1,2016-12-07 05:29:02,2016-12-07 05:29:02,0,0,0,0,0,0

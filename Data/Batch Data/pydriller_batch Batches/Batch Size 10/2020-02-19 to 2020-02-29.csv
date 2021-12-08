@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+ishepard,['spadini.davide@gmail.com'],0,0,108,3,2020-02-27 14:04:11,2020-02-28 11:55:20,0,0,4,0.8333333333333334,1,0
+Davide Spadini,['spadini.davide@gmail.com'],0,0,96,1,2020-02-27 14:23:09,2020-02-27 14:23:09,0,0,0,0,0,0
+NullConvergence,['a.serban@cs.ru.nl'],0,0,151,6,2020-02-28 18:21:28,2020-02-28 23:49:11,0,0,2,1.1388888888888888,2,1
+Alex,['32632523+NullConvergence@users.noreply.github.com'],0,0,6,2,2020-02-28 19:09:20,2020-02-28 19:13:27,0,0,0,0,0,0

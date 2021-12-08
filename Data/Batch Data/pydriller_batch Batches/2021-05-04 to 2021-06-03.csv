@@ -1,0 +1,6 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Davide Spadini,"['dspadini@fb.com', 'spadini.davide@gmail.com']",0,0,1939,16,2021-05-07 18:04:08,2021-06-01 18:15:36,542.92,4.4799999999999995,21,0.0,0,0
+Stefano Dalla Palma,['stefano.dallapalma0@gmail.com'],0,0,123,2,2021-05-10 22:09:28,2021-06-01 14:40:19,41.0,0.6666666666666666,1,0.0,0,0
+stefanodallapalma,['stefano.dallapalma0@gmail.com'],0,0,40,2,2021-05-11 13:34:49,2021-05-11 14:37:32,0,0,0,0.4285714285714285,1,0
+Gregor Lato,['grzegorz.lato@gmail.com'],0,0,61,3,2021-05-17 22:36:17,2021-05-18 19:43:12,0,0,2,0.7857142857142857,1,0
+HelgeCPH,['ropf@itu.dk'],0,0,60,6,2021-06-01 15:36:52,2021-06-01 16:55:53,0,0,2,1.0,1,0

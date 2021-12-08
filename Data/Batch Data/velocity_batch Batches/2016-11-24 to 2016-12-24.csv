@@ -1,0 +1,5 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ryc O'Chet,['rycochet@rycochet.com'],0,0,34956,17,2016-12-01 08:54:40,2016-12-17 17:36:03,15293.25,7.4375,11,3.8302667535969124,5,-488
+Iwasawafag,['Iwasawafag@users.noreply.github.com'],0,0,10,1,2016-12-02 10:59:57,2016-12-02 10:59:57,0,0,0,0.0,0,0
+codeslaw,['cshaheen@gmail.com'],0,0,536,1,2016-12-03 00:15:47,2016-12-03 00:15:47,0,0,1,0.6912751677852349,1,0
+Michael Campagnaro,['mikecampo@gmail.com'],0,0,8,1,2016-12-04 11:46:05,2016-12-04 11:46:05,0,0,0,0.0,0,0

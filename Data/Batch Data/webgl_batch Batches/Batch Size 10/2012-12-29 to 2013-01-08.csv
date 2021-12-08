@@ -1,0 +1,3 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Al Patrick,['apatrick@google.com'],0,0,254,3,2013-01-04 08:55:44,2013-01-04 09:43:14,0,0,0,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,74,1,2013-01-04 10:04:11,2013-01-04 10:04:11,0,0,0,0,0,0

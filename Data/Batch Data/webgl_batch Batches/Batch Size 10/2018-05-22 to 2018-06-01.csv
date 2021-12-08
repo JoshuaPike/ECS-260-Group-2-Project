@@ -1,0 +1,2 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+James Darpinian,['jdarpinian@gmail.com'],0,0,604,1,2018-05-30 11:09:07,2018-05-30 11:09:07,0,0,0,0,0,0

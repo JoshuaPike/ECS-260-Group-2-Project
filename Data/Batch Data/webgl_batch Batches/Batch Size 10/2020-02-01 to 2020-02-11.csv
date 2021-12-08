@@ -1,0 +1,2 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Jeff Gilbert,['jgilbert@mozilla.com'],0,0,191,5,2020-02-05 03:36:24,2020-02-06 10:32:57,1337.0,35.0,0,0,0,0

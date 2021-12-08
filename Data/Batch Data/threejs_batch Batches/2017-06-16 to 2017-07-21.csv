@@ -1,0 +1,34 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,415,12,2017-06-15 12:47:12,2017-07-19 13:54:57,85.44117647058825,2.4705882352941178,3,3.0,3,1
+Mr.doob,info@mrdoob.com,0,1,214446,257,2017-06-15 12:51:34,2017-07-20 07:40:02,44150.64705882353,52.911764705882355,55,47.78053679636497,54,1
+sunag,contact@sunag.com.br,0,0,1373,15,2017-06-15 23:55:15,2017-06-19 12:17:54,3203.666666666667,35.0,7,3.181017612524462,5,8
+Mugen87,michael.herzog@human-interactive.org,0,0,13736,41,2017-06-16 12:28:36,2017-07-21 00:28:16,2828.0,8.441176470588236,22,10.372620320855614,11,29
+Ford Hurley,ford.hurley@gmail.com,0,0,2,1,2017-06-16 07:32:17,2017-06-16 07:32:17,0,0,1,1.0,1,0
+WestLangley,WestLangley@users.noreply.github.com#dat1234@gmail.com,0,0,1438,43,2017-06-16 09:04:16,2017-07-20 13:15:21,296.05882352941177,8.852941176470589,28,7.662670662670663,9,-5
+06wj,06wj@163.com,0,0,10,3,2017-06-18 23:03:59,2017-06-23 23:35:50,14.0,4.2,2,0.0,0,1
+Michael Herzog,michael.herzog@human-interactive.org,0,0,18,3,2017-06-18 18:19:52,2017-07-05 22:23:17,7.411764705882353,1.2352941176470589,3,0.0,0,0
+aardgoose,angus.sawyer@gmail.com,0,0,20,2,2017-06-18 17:06:50,2017-06-18 17:15:56,0,0,0,0.0,0,0
+Lewy Blue,looeee@gmail.com,0,0,179,4,2017-06-20 18:36:12,2017-06-22 22:48:19,626.5,14.0,8,1.0,1,0
+satori99,satori.developer@gmail.com,0,0,13,2,2017-06-21 02:12:44,2017-07-19 22:27:24,3.25,0.5,0,0.0,0,0
+Jordan Danford,jordan.danford@goldblattsystems.com,0,0,4,1,2017-06-20 02:59:10,2017-06-20 02:59:10,0,0,0,0.0,0,0
+AR-DESKTOP\angel,angelo.reppucci@gmail.com,0,0,6,1,2017-06-22 00:24:45,2017-06-22 00:24:45,0,0,0,1.0,1,0
+Kai Salmen,myself@kaisalmen.de,0,0,18220,5,2017-06-22 00:35:15,2017-07-19 23:41:00,4723.7037037037035,1.2962962962962963,5,2.285714285714285,3,-1
+Takahiro,hogehoge@gachapin.jp,0,0,3637,13,2017-06-22 21:00:14,2017-07-12 22:55:42,1272.95,4.55,8,4.833333333333333,5,3
+Marcel Greter,marcel.greter@ocbnet.ch,0,0,4,1,2017-06-22 11:26:58,2017-06-22 11:26:58,0,0,2,1.0,1,0
+Neil Docherty,neildocherty@users.noreply.github.com,0,0,2,1,2017-06-22 18:01:03,2017-06-22 18:01:03,0,0,0,0.0,0,0
+Daniel Hritzkiv,daniel.hritzkiv@gmail.com,0,0,268,2,2017-06-23 13:13:03,2017-07-10 12:32:20,117.25,0.875,1,1.0,1,-1
+CarlBateman,CarlBateman@hotmail.com,0,0,4,2,2017-06-24 21:55:28,2017-06-26 03:00:42,28.0,14.0,0,0.0,0,0
+tim,tim@finergames.com,0,0,4,1,2017-06-27 19:23:35,2017-06-27 19:23:35,0,0,0,0.0,0,0
+Pascal Häusler,p.haeusler@cadenas.de,0,0,180,4,2017-06-27 13:36:27,2017-06-30 12:14:39,630.0,14.0,1,1.0,1,2
+mese79,mehdiseifi@gmail.com,0,0,12,1,2017-06-29 23:31:44,2017-06-29 23:31:44,0,0,0,0.0,0,0
+Georgios Kaleadis,geokal@Georgioss-MacBook-Pro.local,0,0,2,1,2017-07-04 23:04:02,2017-07-04 23:04:02,0,0,1,1.0,1,0
+Fernando Serrano,fernandojsg@gmail.com,0,0,106,2,2017-07-06 03:07:08,2017-07-06 03:09:59,0,0,1,0.0,0,0
+LebedenkoN,nadiykalebedenko@gmail.com,0,0,14,2,2017-07-06 15:50:24,2017-07-06 17:31:25,0,0,1,0.0,0,0
+zregos,zoltanregos@gmail.com,0,0,93,2,2017-07-12 13:34:37,2017-07-17 19:33:07,130.2,2.8,1,0.0,0,0
+zrgs,zoltanregos@gmail.com,0,0,1,1,2017-07-12 23:01:21,2017-07-12 23:01:21,0,0,0,0.0,0,0
+Wittmann Tobias,twittmann@cadenas.internal,0,0,14,2,2017-07-13 11:52:33,2017-07-14 17:02:51,98.0,14.0,0,1.0,1,1
+Ben Miller,benmiller179@gmail.com,0,0,2,1,2017-07-15 08:33:09,2017-07-15 08:33:09,0,0,0,0.0,0,0
+Daniel Del Core,daniel.delcore.92@gmail.com,0,0,75,1,2017-07-16 23:52:42,2017-07-16 23:52:42,0,0,1,0.0,0,0
+nevermakeport,nevermakeport@users.noreply.github.com,0,0,6,2,2017-07-16 20:10:58,2017-07-16 20:26:36,0,0,0,0.0,0,0
+Nikolay Safin,safin@charge.auto,0,0,8,1,2017-07-19 13:39:17,2017-07-19 13:39:17,0,0,1,1.0,1,0
+manthrax,manthrax@gmail.com,0,0,49,1,2017-07-19 14:27:30,2017-07-19 14:27:30,0,0,0,0.0,0,0

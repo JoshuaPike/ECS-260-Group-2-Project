@@ -1,0 +1,8 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Jiawei-Shao,['jiawei.shao@intel.com'],0,0,191,4,2016-05-23 23:10:48,2016-05-31 22:00:13,191.0,4.0,8,0.8125,1,7
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,805,7,2016-05-23 03:57:29,2016-05-27 05:25:14,1408.75,12.25,0,0,0,0
+Zhenyao Mo,['zmo@chromium.org'],0,0,8043,11,2016-05-23 06:38:37,2016-05-31 07:41:25,7037.625,9.625,8,3.3666666666666667,4,2
+zhenyao,['zmo@chromium.org'],0,0,7804,15,2016-05-23 07:25:30,2016-05-30 22:48:07,7804.0,15.0,0,0,0,0
+Gregg Tavares,['github@greggman.com'],0,0,5,1,2016-05-25 00:14:12,2016-05-25 00:14:12,0,0,0,0,0,0
+Qiankun Miao,['qiankun.miao@intel.com'],0,0,41,2,2016-05-26 17:47:52,2016-05-28 03:23:06,287.0,14.0,0,0,0,0
+He Yunchao,['yunchao.he@intel.com'],0,0,61,2,2016-05-26 22:20:48,2016-05-27 23:16:12,427.0,14.0,2,0,0,0

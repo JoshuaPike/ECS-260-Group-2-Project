@@ -1,0 +1,6 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,71,1,2020-06-29 10:38:05,2020-06-29 10:38:05,0,0,2,1.0,1,2
+Samuel Surtees,['11887457+samsinsane@users.noreply.github.com'],0,0,74,1,2020-06-29 10:53:06,2020-06-29 10:53:06,0,0,0,0,0,0
+krogovin,['52962495+krogovin@users.noreply.github.com'],0,0,8,1,2020-07-01 06:06:05,2020-07-01 06:06:05,0,0,0,0,0,0
+Alexey Knyazev,['3479527+lexaknyazev@users.noreply.github.com'],0,0,48,1,2020-07-07 04:48:58,2020-07-07 04:48:58,0,0,0,0,0,0
+ShrekShao,['shrekshao@google.com'],0,0,139,1,2020-07-08 08:22:30,2020-07-08 08:22:30,0,0,1,1.0,1,0

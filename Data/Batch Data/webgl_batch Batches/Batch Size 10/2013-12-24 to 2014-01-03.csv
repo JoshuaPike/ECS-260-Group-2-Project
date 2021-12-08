@@ -1,0 +1,2 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Nicolas Capens,"['nicolascapens@chromium.org', 'nicolas.capens@gmail.com']",0,0,20,2,2013-12-24 04:57:12,2013-12-25 12:00:59,140.0,14.0,0,0,0,0

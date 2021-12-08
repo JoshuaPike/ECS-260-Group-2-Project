@@ -1,0 +1,7 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,1070,7,2013-01-28 00:20:30,2013-02-04 09:44:41,1070.0,7.0,0,0,0,0
+Florian Boesch,['pyalot@gmail.com'],0,0,80,2,2013-01-28 18:59:18,2013-01-29 18:53:56,0,0,0,0,0,0
+Gregg Tavares,['github@greggman.com'],0,0,794,10,2013-01-28 03:23:03,2013-01-31 14:45:39,1852.6666666666667,23.333333333333336,2,1.0,1,11
+Greggman,['github@greggman.com'],0,0,805,11,2013-01-28 03:27:16,2013-01-31 14:59:18,1878.3333333333335,25.666666666666668,0,0,0,0
+Nayan Kumar K,"['qtc746@motorola.com', 'nayankk@motorola.com']",0,0,13,2,2013-01-31 08:57:24,2013-02-04 06:07:03,30.333333333333336,4.666666666666667,0,0,0,0
+Kenneth Russell,['kbr@chromium.org'],0,0,900,3,2013-02-02 06:51:26,2013-02-04 08:54:19,3150.0,10.5,0,0,0,0

@@ -1,0 +1,4 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Jeff Gilbert,['jgilbert@mozilla.com'],0,0,2,1,2020-06-01 10:41:28,2020-06-01 10:41:28,0,0,0,0,0,0
+nkronlage,['neil.kronlage@gmail.com'],0,0,55,1,2020-06-02 06:46:59,2020-06-02 06:46:59,0,0,0,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,57,4,2020-06-02 07:05:34,2020-06-08 10:39:58,66.5,4.666666666666667,2,2.0,2,1

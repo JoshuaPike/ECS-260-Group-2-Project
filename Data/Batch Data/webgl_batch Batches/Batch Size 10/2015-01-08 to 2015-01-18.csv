@@ -1,0 +1,7 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Dongseong Hwang,['dongseong.hwang@intel.com'],0,0,1361,3,2015-01-08 23:24:27,2015-01-16 18:34:44,1361.0,3.0,7,0.7647058823529411,1,9
+zhenyao,['zmo@chromium.org'],0,0,1406,6,2015-01-08 03:59:55,2015-01-16 06:29:30,1230.25,5.25,0,0,0,0
+Johannes Schmid,['jschmid@esri.com'],0,0,27,1,2015-01-09 16:01:42,2015-01-09 16:01:42,0,0,0,0,0,0
+Rafael Cintron,['rafael.cintron@outlook.com'],0,0,13,2,2015-01-11 08:48:39,2015-01-11 08:59:22,0,0,0,0,0,0
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,15,1,2015-01-13 17:37:56,2015-01-13 17:37:56,0,0,0,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,27,1,2015-01-15 03:44:37,2015-01-15 03:44:37,0,0,0,0,0,0

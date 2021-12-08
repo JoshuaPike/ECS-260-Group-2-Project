@@ -1,0 +1,6 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+xidachen,['xidachen@chromium.org'],0,0,4049,4,2016-01-25 04:14:23,2016-01-26 08:41:23,28343.0,28.0,2,0.9368686868686869,2,-7
+zhenyao,['zmo@chromium.org'],0,0,4146,7,2016-01-25 00:45:15,2016-01-29 02:41:23,7255.5,12.25,0,0,0,0
+Qiankun Miao,['qiankun.miao@intel.com'],0,0,74,5,2016-01-26 23:15:42,2016-01-29 17:14:12,259.0,17.5,4,1.0,1,0
+Zhenyao Mo,['zmo@chromium.org'],0,0,10,2,2016-02-01 03:03:48,2016-02-01 07:58:17,0,0,0,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,5,1,2016-02-01 03:08:07,2016-02-01 03:08:07,0,0,0,0,0,0

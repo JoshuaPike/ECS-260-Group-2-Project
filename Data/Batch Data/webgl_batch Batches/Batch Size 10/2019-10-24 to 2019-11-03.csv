@@ -1,0 +1,7 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+Austin Eng,['2154796+austinEng@users.noreply.github.com'],0,0,182,1,2019-10-24 04:32:40,2019-10-24 04:32:40,0,0,0,0,0,0
+ShrekShao,['shrekshao@google.com'],0,0,106,5,2019-10-24 04:38:38,2019-10-29 11:30:17,148.4,7.0,0,0,0,0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,20,3,2019-10-24 08:41:36,2019-10-29 04:19:06,35.0,5.25,0,0,0,0
+Mátyás Mustoha,['mmatyas@inf.u-szeged.hu'],0,0,4,1,2019-10-30 04:20:14,2019-10-30 04:20:14,0,0,0,0,0,0
+xhcao,['xinghua.cao@intel.com'],0,0,20,1,2019-10-31 05:10:42,2019-10-31 05:10:42,0,0,0,0,0,0
+James Darpinian,['jdarpinian@chromium.org'],0,0,654,2,2019-10-31 07:16:00,2019-10-31 07:59:12,0,0,1,1.0,1,0

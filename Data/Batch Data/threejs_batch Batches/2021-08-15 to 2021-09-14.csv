@@ -1,0 +1,28 @@
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
+WestLangley,WestLangley@users.noreply.github.com,0,0,1142,35,2021-08-15 15:02:41,2021-09-08 00:51:57,347.5652173913044,10.652173913043478,54,1.1318681318681318,2,1
+puxiao,yangpuxiao@gmail.com,0,0,127,2,2021-08-15 15:06:47,2021-08-15 15:07:09,0,0,0,0.0,0,0
+Mr.doob,info@mrdoob.com,0,1,18232,52,2021-08-15 15:17:39,2021-09-13 23:00:42,4400.827586206896,12.551724137931034,77,11.105649555800944,15,10
+Felix Mariotto,46470486+felixmariotto@users.noreply.github.com,0,0,124,1,2021-08-15 20:20:54,2021-08-15 20:20:54,0,0,0,0.0,0,0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,7353,26,2021-08-16 13:15:12,2021-09-11 12:24:44,2058.8399999999997,7.279999999999999,29,8.623059866962306,9,0
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,313,3,2021-08-17 10:47:38,2021-08-24 22:23:03,313.0,3.0,2,1.0,1,0
+Arseny Kapoulkine,arseny.kapoulkine@gmail.com,0,0,10,1,2021-08-19 15:45:12,2021-08-19 15:45:12,0,0,0,0.0,0,2
+linbingquan,695601626@qq.com,0,0,112,3,2021-08-19 15:47:57,2021-09-02 17:34:25,56.0,1.5,5,1.0,1,0
+Ithamar R. Adema,ithamar@upgrade-android.com,0,0,4,1,2021-08-19 15:48:30,2021-08-19 15:48:30,0,0,1,0.0,0,-1
+Antonio González Viegas,antoniogviegas@hotmail.com,0,0,10828,1,2021-08-19 16:05:08,2021-08-19 16:05:08,0,0,2,0.9437652811735942,1,1
+Takahiro,hogehoge@gachapin.jp,0,0,159,1,2021-08-19 17:26:18,2021-08-19 17:26:18,0,0,4,0.0,0,-2
+GiuseppeRaso,54646766+GiuseppeRaso@users.noreply.github.com,0,0,13,1,2021-08-20 17:25:33,2021-08-20 17:25:33,0,0,1,0.0,0,0
+Ondřej Španěl,OndrejSpanel@users.noreply.github.com,0,0,14,4,2021-08-22 01:42:49,2021-09-03 18:27:39,8.166666666666668,2.3333333333333335,3,0.0,0,0
+Gm,zakuzzdj@gmail.com,0,0,9,1,2021-08-22 13:34:06,2021-08-22 13:34:06,0,0,0,0.0,0,0
+sunag,jcdeconto@igalia.com,0,0,3166,16,2021-08-24 16:43:09,2021-09-10 13:35:16,1385.125,7.0,66,8.082300467603654,10,21
+Steve Richardson,sr30893@gmail.com,0,0,45,1,2021-08-24 18:58:49,2021-08-24 18:58:49,0,0,1,0.1,1,0
+SaintMalik,37118134+saintmalik@users.noreply.github.com,0,0,38,1,2021-08-26 09:42:11,2021-08-26 09:42:11,0,0,0,0.0,0,0
+Samuel Dion-Girardeau,samueldg@users.noreply.github.com,0,0,3,1,2021-08-26 09:43:31,2021-08-26 09:43:31,0,0,0,0.0,0,0
+Marco Fugaro,marco.fugaro@gmail.com,0,0,42,2,2021-08-27 10:19:10,2021-08-27 11:19:39,0,0,1,2.0,2,4
+artificial-jon,56368498+artificial-jon@users.noreply.github.com,0,0,4,1,2021-08-30 15:39:25,2021-08-30 15:39:25,0,0,1,0.0,0,0
+Don McCurdy,don.r.mccurdy@gmail.com,0,0,563,2,2021-09-02 11:38:44,2021-09-10 13:30:58,492.625,1.75,3,1.634020618556701,2,13
+Brian Peiris,brianpeiris@gmail.com,0,0,83,1,2021-09-07 12:38:00,2021-09-07 12:38:00,0,0,4,1.0,1,4
+ycw,ycw7788@gmail.com,0,0,19,2,2021-09-08 00:54:25,2021-09-13 20:44:44,26.599999999999998,2.8,2,1.0,1,0
+Octo,david.trandinh@gmail.com,0,0,182,2,2021-09-08 19:13:30,2021-09-10 15:12:26,1274.0,14.0,0,0.0,0,0
+danielefornari,78259633+danielefornari@users.noreply.github.com,0,0,6892,1,2021-09-09 18:32:35,2021-09-09 18:32:35,0,0,1,0.4691972619788425,1,334
+Trygve Wastvedt,trygve@provingground.io,0,0,8,1,2021-09-10 15:14:45,2021-09-10 15:14:45,0,0,1,0.0,0,0
+Lewy Blue,lewy@discoverthreejs.com,0,0,133,1,2021-09-13 21:43:54,2021-09-13 21:43:54,0,0,0,0.0,0,0
