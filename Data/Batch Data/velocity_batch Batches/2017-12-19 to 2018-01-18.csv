@@ -1,6 +1,6 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Mike McNally,['emmecinque@gmail.com'],0,1,1,1,2018-01-06 07:38:20,2018-01-06 07:38:20,0,0,0,0.0,0,0
-Benjamin Svobodny,['benjamin.svobodny@gmail.com'],0,1,1,1,2018-01-06 07:38:49,2018-01-06 07:38:49,0,0,3,0.0,0,0
-Lukas Drgon,['lukas.drgon@gmail.com'],0,1,1,1,2018-01-06 07:39:55,2018-01-06 07:39:55,0,0,0,0.0,0,0
-Johannes Ebke,['johannes@ebke.org'],0,1,1,1,2018-01-06 07:40:23,2018-01-06 07:40:23,0,0,0,1.0,1,0
-Ryc O'Chet,['rycochet@rycochet.com'],0,1,1,1,2018-01-06 07:55:32,2018-01-06 07:55:32,0,0,0,0.0,0,0
+Mike McNally,['emmecinque@gmail.com'],1,1,2,1,2018-01-06 07:38:20,2018-01-06 07:38:20,0,0,0,0.0,0,0
+Benjamin Svobodny,['benjamin.svobodny@gmail.com'],1,1,14,1,2018-01-06 07:38:49,2018-01-06 07:38:49,0,0,3,0.0,0,0
+Lukas Drgon,['lukas.drgon@gmail.com'],1,1,4,1,2018-01-06 07:39:55,2018-01-06 07:39:55,0,0,0,0.0,0,0
+Johannes Ebke,['johannes@ebke.org'],1,1,7,1,2018-01-06 07:40:23,2018-01-06 07:40:23,0,0,0,1.0,1,0
+Ryc O'Chet,['rycochet@rycochet.com'],1,1,18,1,2018-01-06 07:55:32,2018-01-06 07:55:32,0,0,0,0.0,0,0

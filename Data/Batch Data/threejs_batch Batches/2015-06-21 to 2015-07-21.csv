@@ -1,7 +1,7 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
 WestLangley,dat1234@gmail.com,0,0,1135,13,2015-06-22 02:42:42,2015-07-17 20:00:39,317.8,3.6399999999999997,12,0.3333333333333333,1,-6
 prafullit,sukhwant.p@samsung.com,0,0,64,4,2015-06-22 22:21:47,2015-06-24 14:05:05,448.0,28.0,3,1.0,1,0
-Neha Agarwal,a.neha@samsung.com,0,1,62681,4,2015-06-22 22:56:55,2015-06-25 19:26:29,219383.5,14.0,0,0.0,0,0
+Neha Agarwal,a.neha@samsung.com,1,0,62681,4,2015-06-22 22:56:55,2015-06-25 19:26:29,219383.5,14.0,0,0.0,0,0
 Ricardo Cabello,info@mrdoob.com,0,0,20588,59,2015-06-22 14:47:51,2015-07-18 07:19:36,5764.639999999999,16.52,28,0.0,0,0
 Mr.doob,info@mrdoob.com,0,0,36316,130,2015-06-22 14:54:38,2015-07-20 15:27:05,9079.0,32.5,11,47.099797794325994,53,-18
 Fordy,fordy@smartsparrow.com,0,0,79363,21,2015-06-23 23:42:46,2015-07-02 03:55:00,69442.625,18.375,9,4.0,5,3

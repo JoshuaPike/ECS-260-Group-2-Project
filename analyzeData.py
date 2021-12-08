@@ -18,7 +18,7 @@ def make_batch_data_monthly(nameOfRepo, batch_size, data_end_date):
     # assume recursive = false and glob returns sorted list
     file_list = glob.glob(dir_name_for_glob)
     # Checking if file_list is sorted with print statement
-    print(file_list)
+    # print(file_list)
     if not file_list:
         print('No csv files in repos directory')
     # print(len('Data/Batch Data/babylonjs_batch Batches/Batch Size 10\\'))
@@ -32,7 +32,7 @@ def make_batch_data_monthly(nameOfRepo, batch_size, data_end_date):
     monthly_contributor_dict = {}
 
     for file in file_list:
-        print('new file: ' + file)
+        # print('new file: ' + file)
 
         file_start_date = datetime(int(file[-28:-24]), int(file[-23:-21]), int(file[-20:-18]), 0, 0, 0)
         file_end_date = datetime(int(file[-14:-10]), int(file[-9:-7]), int(file[-6:-4]), 0, 0, 0)
@@ -85,7 +85,7 @@ def make_batch_data_monthly(nameOfRepo, batch_size, data_end_date):
         # put data in a monthly csv, outside of current directory, calculate productivity and labels
         # set new_monthly_batch = True
         # set monthly_contributor_dict = {}
-        print(str((file_end_date - monthly_batch_start_date).days))
+        # print(str((file_end_date - monthly_batch_start_date).days))
         if not file_end_date < data_end_date or (file_end_date - monthly_batch_start_date).days >= 30:
             # Put data in csv
             print('Making new csv')
@@ -120,17 +120,85 @@ def make_batch_data_monthly(nameOfRepo, batch_size, data_end_date):
 
             for name in monthly_contributor_dict:
                 if monthly_contributor_dict[name][7] >= 10*average_churn_prod:
-                    monthly_contributor_dict[name][2] = 1
+                    monthly_contributor_dict[name][1] = 1
                 if monthly_contributor_dict[name][8] >= 10*average_commit_prod:
-                    monthly_contributor_dict[name][3] = 1
+                    monthly_contributor_dict[name][2] = 1
 
-            print(filename)
+            # print(filename)
             write_to_csv(monthly_contributor_dict, filename)
             new_monthly_batch = True
 
 
-# def make_total_data_from_monthly():
+def make_total_data_from_monthly(nameOfRepo, filename):
+    dir_of_monthly_data = 'Data/Batch Data/' + nameOfRepo + ' Batches/*.csv'
+    file_list = glob.glob(dir_of_monthly_data)
+    # Checking if file_list is sorted with print statement
+    # print(file_list)
+    if not file_list:
+        print('No csv files in repos directory')
 
+    total_contrib_dict = {}
+
+    for file in file_list:
+        file_dict = pd.read_csv(file, header=0, index_col=0).to_dict('index')
+
+        for name in file_dict:
+            # labels and productivity = 0 until writing to csv
+            email = file_dict[name]['emails']
+            churn = file_dict[name]['churn']
+            num_commits = file_dict[name]['num commits']
+            first_commit = file_dict[name]['first commit']
+            last_commit = file_dict[name]['last commit']
+            num_owned_files = file_dict[name]['num owned files']
+            dmm_comp_sum = file_dict[name]['sum of dmm complexities']
+            commits_with_dmm = file_dict[name]['commits with dmm complexity present']
+            comments = file_dict[name]['num comments added/removed']
+
+            if name not in total_contrib_dict:
+                total_contrib_dict[name] = [email, 0, 0, churn, num_commits, first_commit, last_commit, 0, 0,
+                                                  num_owned_files, dmm_comp_sum, commits_with_dmm, comments]
+            else:
+                total_contrib_dict[name][3] += churn
+                total_contrib_dict[name][4] += num_commits
+                total_contrib_dict[name][6] = last_commit
+                total_contrib_dict[name][9] += num_owned_files
+                total_contrib_dict[name][10] += dmm_comp_sum
+                total_contrib_dict[name][11] += commits_with_dmm
+                total_contrib_dict[name][12] += comments
+
+    # Calculate productivity and labels
+    total_monthly_churn_prod = 0
+    total_monthly_commit_prod = 0
+    for name in total_contrib_dict:
+        churn = total_contrib_dict[name][3]
+        commits = total_contrib_dict[name][4]
+        first = datetime.strptime(total_contrib_dict[name][5], "%Y-%m-%d %H:%M:%S")
+        last = datetime.strptime(total_contrib_dict[name][6], "%Y-%m-%d %H:%M:%S")
+        tenure = abs((last - first).days) / 7
+        churn_prod = 0
+        commit_prod = 0
+        if tenure != 0:
+            churn_prod = churn / tenure
+            commit_prod = commits / tenure
+        total_contrib_dict[name][7] = churn_prod
+        total_contrib_dict[name][8] = commit_prod
+        total_monthly_churn_prod += churn_prod
+        total_monthly_commit_prod += commit_prod
+
+    # NOW LABEL THE 10x ENGINEERS
+    average_churn_prod = -1
+    average_commit_prod = -1
+    if len(total_contrib_dict) != 0:
+        average_churn_prod = total_monthly_churn_prod / len(total_contrib_dict)
+        average_commit_prod = total_monthly_commit_prod / len(total_contrib_dict)
+
+    for name in total_contrib_dict:
+        if total_contrib_dict[name][7] >= 10 * average_churn_prod:
+            total_contrib_dict[name][1] = 1
+        if total_contrib_dict[name][8] >= 10 * average_commit_prod:
+            total_contrib_dict[name][2] = 1
+    path = 'Data/' + filename
+    write_to_csv(total_contrib_dict, path)
 
 
 # Read in all data

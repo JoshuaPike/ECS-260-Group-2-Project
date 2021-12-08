@@ -1,6 +1,6 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
 Mr.doob,info@mrdoob.com,0,0,92891,162,2019-08-19 10:41:16,2019-09-18 17:50:15,21674.566666666666,37.800000000000004,55,11.329591630421506,17,-327
-gogoend,gogoend@qq.com,0,1,58206,25,2019-08-20 20:34:56,2019-09-01 01:42:06,37040.181818181816,15.90909090909091,2,0.0,0,0
+gogoend,gogoend@qq.com,1,0,58206,25,2019-08-20 20:34:56,2019-09-01 01:42:06,37040.181818181816,15.90909090909091,2,0.0,0,0
 angus,lang@zjxu.org,0,0,21,4,2019-08-20 22:46:32,2019-08-21 03:00:56,0,0,0,0.0,0,0
 Olli Etuaho,olli.etuaho@gmail.com,0,0,185,5,2019-08-20 20:15:18,2019-09-04 12:31:28,92.5,2.5,5,1.0,1,0
 Michael Herzog,michael.herzog@human-interactive.org,0,0,11124,57,2019-08-20 18:31:02,2019-09-18 23:45:41,2685.103448275862,13.75862068965517,130,0.0,0,0
@@ -8,7 +8,7 @@ Marek Jędrzejewski,kontakt@marekjedrzejewski.pl,0,0,44,2,2019-08-20 19:37:57,20
 Mugen87,michael.herzog@human-interactive.org,0,0,43048,85,2019-08-20 21:53:42,2019-09-18 23:44:00,10390.896551724138,20.51724137931034,44,12.643577607440607,16,-33
 Daniel Sturk,danielsturk1@gmail.com,0,0,12842,6,2019-08-20 10:08:11,2019-08-20 10:50:30,0,0,2,0.0,0,1
 Stanislav,ixentrum@gmail.com,0,0,16,1,2019-08-21 01:16:53,2019-08-21 01:16:53,0,0,0,0.0,0,0
-arobertson0,arobertson@threekit.com,0,0,1,13,2019-08-20 12:16:55,2019-08-22 06:27:01,31892.0,91.0,25,2.0,2,0
+arobertson0,arobertson@threekit.com,0,1,4556,13,2019-08-20 12:16:55,2019-08-22 06:27:01,31892.0,91.0,25,2.0,2,0
 sunag,sunag@users.noreply.github.com,0,0,631,8,2019-08-20 14:21:08,2019-09-18 09:28:10,157.75,2.0,15,2.625,3,-3
 Robert Long,robert@robertlong.me,0,0,4,1,2019-08-21 02:07:36,2019-08-21 02:07:36,0,0,0,0.0,0,0
 Fernando Serrano,fernandojsg@gmail.com,0,0,6992,53,2019-08-21 21:40:30,2019-09-11 14:49:24,2447.2,18.55,10,11.0375313283208,14,1
@@ -38,7 +38,7 @@ Klaus Weidner,klausw@chromium.org,0,0,21,1,2019-09-04 06:31:20,2019-09-04 06:31:
 Fabrizio Cacicia,fabryx92@users.noreply.github.com,0,0,3,1,2019-09-05 06:01:12,2019-09-05 06:01:12,0,0,0,0.0,0,0
 Nirmal Patel,nirmal@gatech.edu,0,0,8,1,2019-09-05 08:58:22,2019-09-05 08:58:22,0,0,1,0.0,0,0
 Takahiro,hogehoge@gachapin.jp,0,0,18,2,2019-09-06 04:25:20,2019-09-06 04:25:52,0,0,0,0.0,0,0
-Dinesh Salunke,sdinesh86@bitbucket.org,0,1,37442,16,2019-09-07 16:18:36,2019-09-14 04:05:56,43682.333333333336,18.666666666666668,6,3.818181818181818,6,9
+Dinesh Salunke,sdinesh86@bitbucket.org,1,0,37442,16,2019-09-07 16:18:36,2019-09-14 04:05:56,43682.333333333336,18.666666666666668,6,3.818181818181818,6,9
 zl3388,zl3388@qq.com,0,0,4,1,2019-09-09 00:18:31,2019-09-09 00:18:31,0,0,0,0.0,0,0
 wemamawe,warma@lzb.ac.cn,0,0,6,1,2019-09-10 19:02:35,2019-09-10 19:02:35,0,0,1,0.0,0,0
 Atsushi,nan,0,0,10,3,2019-09-11 09:03:55,2019-09-12 09:44:50,70.0,21.0,0,0.0,0,0

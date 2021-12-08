@@ -1,5 +1,5 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Mr.doob,info@mrdoob.com,0,1,39808,155,2017-07-20 10:29:20,2017-08-18 10:21:21,9952.0,38.75,56,27.525157178189215,33,-17
+Mr.doob,info@mrdoob.com,1,0,39808,155,2017-07-20 10:29:20,2017-08-18 10:21:21,9952.0,38.75,56,27.525157178189215,33,-17
 Mugen87,michael.herzog@human-interactive.org,0,0,9252,28,2017-07-21 13:16:20,2017-08-19 19:59:18,2233.2413793103447,6.758620689655172,10,0.4883720930232558,1,19
 Chaitanya Asawa,casawa@stanford.edu,0,0,30,3,2017-07-21 09:32:55,2017-07-21 15:11:24,0,0,1,0.0,0,-5
 森叶,xiaosen.dxs@alibaba-inc.com,0,0,60,2,2017-07-21 09:47:16,2017-07-21 09:47:16,0,0,1,1.0,1,2

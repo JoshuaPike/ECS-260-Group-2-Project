@@ -1,6 +1,6 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
 yomotsu,oyamada@pxgrid.com,0,0,22,1,2015-10-19 21:59:30,2015-10-19 21:59:30,0,0,0,0.1111111111111111,1,0
-Mr.doob,info@mrdoob.com,0,0,1,361,2015-10-18 21:20:25,2015-11-17 13:46:47,16922.137931034482,87.13793103448275,132,61.876814473347565,73,273
+Mr.doob,info@mrdoob.com,0,1,70106,361,2015-10-18 21:20:25,2015-11-17 13:46:47,16922.137931034482,87.13793103448275,132,61.876814473347565,73,273
 Mugen87,michael.herzog@human-interactive.org,0,0,150,4,2015-10-19 19:33:54,2015-10-26 01:17:49,175.0,4.666666666666667,4,4.0,4,9
 Ben Houston,ben@exocortex.com,0,0,105995,74,2015-10-19 08:41:34,2015-11-08 06:17:23,39050.789473684206,27.263157894736842,5,3.5,4,0
 WestLangley,dat1234@gmail.com,0,0,3140,14,2015-10-19 18:02:21,2015-11-16 15:04:30,814.074074074074,3.6296296296296298,7,3.3023809523809526,5,12
@@ -35,12 +35,12 @@ Satori,satori.deverloper@gmail.com,0,0,18,3,2015-11-07 09:19:52,2015-11-16 02:45
 makc,makc.the.great@gmail.com,0,0,8,2,2015-11-07 16:30:08,2015-11-09 15:46:27,56.0,14.0,1,0.0,0,0
 PWhiddy,14petewhidden@gmail.com,0,0,22,1,2015-11-07 13:28:54,2015-11-07 13:28:54,0,0,0,1.0,1,0
 vincent,vincent.courtalon@gmail.com,0,0,377,1,2015-11-08 20:34:43,2015-11-08 20:34:43,0,0,4,1.0,1,0
-Jorge Rodriguez,bs.vino@gmail.com,0,1,46216,2,2015-11-08 12:06:52,2015-11-10 01:10:18,323512.0,14.0,0,0.0,0,0
+Jorge Rodriguez,bs.vino@gmail.com,1,0,46216,2,2015-11-08 12:06:52,2015-11-10 01:10:18,323512.0,14.0,0,0.0,0,0
 vincent courtalon,vincent.courtalon@gmail.com,0,0,284,6,2015-11-09 22:07:08,2015-11-13 21:24:24,662.6666666666667,14.0,0,3.0,3,0
 michax,michax@gmail.com,0,0,7,2,2015-11-13 03:00:31,2015-11-13 03:11:12,0,0,1,0.5,1,0
 Sumit Tada,sumittada@gmail.com,0,0,9,2,2015-11-13 19:34:01,2015-11-17 18:02:58,21.0,4.666666666666667,0,0.0,0,0
 Pawel Misiurski,pawel.misiurski@gmail.com,0,0,10,3,2015-11-13 20:58:19,2015-11-14 16:47:49,0,0,0,0.0,0,0
-ALEXANDER PLETZER,axp5530@psu.edu,0,1,48842,5,2015-11-15 06:39:41,2015-11-16 12:53:15,341894.0,35.0,1,2.0,2,16
+ALEXANDER PLETZER,axp5530@psu.edu,1,0,48842,5,2015-11-15 06:39:41,2015-11-16 12:53:15,341894.0,35.0,1,2.0,2,16
 simonThiele,simon.thiele@instana.com,0,0,196,5,2015-11-16 08:29:20,2015-11-17 15:00:42,1372.0,35.0,8,2.0,2,3
 Michel Meyer,michel.meyer@cargomedia.ch,0,0,2,1,2015-11-16 10:51:16,2015-11-16 10:51:16,0,0,0,0.0,0,0
 Brent Walther,brentwalther@gmail.com,0,0,12,1,2015-11-16 14:38:33,2015-11-16 14:38:33,0,0,1,0.0,0,0

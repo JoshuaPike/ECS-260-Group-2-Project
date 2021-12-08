@@ -1,7 +1,7 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
 WestLangley,dat1234@gmail.com#WestLangley@users.noreply.github.com,0,0,480,13,2017-08-19 18:13:16,2017-09-11 10:42:21,152.72727272727272,4.136363636363637,5,4.0,4,0
 Mugen87,michael.herzog@human-interactive.org,0,0,16993,44,2017-08-20 19:19:44,2017-09-18 22:31:16,4101.758620689655,10.620689655172413,130,8.115310155682826,10,-115
-Mr.doob,info@mrdoob.com,0,1,98671,175,2017-08-20 02:35:32,2017-09-18 08:51:23,23817.137931034482,42.241379310344826,34,16.970413165266105,18,10
+Mr.doob,info@mrdoob.com,1,0,98671,175,2017-08-20 02:35:32,2017-09-18 08:51:23,23817.137931034482,42.241379310344826,34,16.970413165266105,18,10
 Trevor Thai Kim Nguyen,trevortknguyen@gmail.com,0,0,2,1,2017-08-21 02:41:15,2017-08-21 02:41:15,0,0,0,0.0,0,0
 Fernando Serrano,fernandojsg@gmail.com,0,0,423,21,2017-08-21 23:46:52,2017-08-30 03:47:46,370.125,18.375,2,3.75,4,-3
 Takahiro,hogehoge@gachapin.jp,0,0,14,3,2017-08-22 22:48:10,2017-08-25 06:54:44,49.0,10.5,1,1.0,1,2
@@ -40,6 +40,6 @@ Fan Zhang,zhafang@google.com,0,0,737,4,2017-09-11 10:38:51,2017-09-14 07:55:32,2
 Vidar Tonaas Fauske,vidartf@gmail.com,0,0,147,3,2017-09-12 19:03:12,2017-09-13 14:08:31,0,0,0,0.0,0,0
 Olga Milovanova,olmilova@microsoft.com,0,0,22,2,2017-09-12 09:34:30,2017-09-12 09:55:08,0,0,1,1.0,1,0
 pixcai,pixcai@163.com,0,0,2,1,2017-09-13 22:07:56,2017-09-13 22:07:56,0,0,0,0.0,0,0
-Roberto Ranon,roberto.ranon@uniud.it,0,1,1861,3,2017-09-14 00:45:17,2017-09-15 14:38:55,13027.0,21.0,1,0.0,0,0
+Roberto Ranon,roberto.ranon@uniud.it,1,0,1861,3,2017-09-14 00:45:17,2017-09-15 14:38:55,13027.0,21.0,1,0.0,0,0
 Zhe Zhang,wenatuhs@gmail.com,0,0,21,1,2017-09-15 00:08:20,2017-09-15 00:08:20,0,0,0,0.0,0,0
 Augustin Trancart,augustin.trancart@oslandia.com,0,0,18,1,2017-09-14 15:53:25,2017-09-14 15:53:25,0,0,2,1.0,1,0

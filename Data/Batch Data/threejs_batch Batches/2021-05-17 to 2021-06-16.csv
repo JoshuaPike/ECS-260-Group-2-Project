@@ -1,8 +1,8 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
 dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,0,0,6,1,2021-05-17 13:09:43,2021-05-17 13:09:43,0,0,0,0.0,0,0
 Luis E. Fraguada,fraguada@gmail.com,0,0,96,1,2021-05-17 14:29:22,2021-05-17 14:29:22,0,0,8,1.0,1,0
-Mr.doob,info@mrdoob.com,0,0,1,51,2021-05-17 15:59:59,2021-06-15 23:25:14,1099.0,12.310344827586206,30,19.628711656441716,21,33
-Michael Herzog,michael.herzog@human-interactive.org,0,1,8278,27,2021-05-17 16:05:06,2021-06-14 13:31:22,2146.1481481481483,7.0,37,3.8220211161387634,7,-9
+Mr.doob,info@mrdoob.com,0,1,4553,51,2021-05-17 15:59:59,2021-06-15 23:25:14,1099.0,12.310344827586206,30,19.628711656441716,21,33
+Michael Herzog,michael.herzog@human-interactive.org,1,0,8278,27,2021-05-17 16:05:06,2021-06-14 13:31:22,2146.1481481481483,7.0,37,3.8220211161387634,7,-9
 Kai / Codrakai (he/him),59149612+codrakai@users.noreply.github.com,0,0,6,2,2021-05-17 16:09:41,2021-05-24 19:03:05,6.0,2.0,3,0.0,0,0
 Garrett Johnson,garrett.kjohnson@gmail.com,0,0,141,3,2021-05-17 16:41:28,2021-06-01 11:46:53,70.5,1.5,1,1.0,1,7
 WestLangley,WestLangley@users.noreply.github.com,0,0,42,2,2021-05-17 16:48:19,2021-05-27 11:59:29,32.666666666666664,1.5555555555555554,4,0.4,1,3

@@ -1,22 +1,22 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Adam Bowman,abowman@gmail.com,0,0,970,28,11/20/2016,12/12/2016,308.6363636363636,8.90909090909091,12,3.0,3,10
-David Catuhe,david.catuhe@live.fr#david.catuhe@Live.fr#David Catuhe,0,0,893735,148,11/20/2016,12/19/2016,215729.13793103446,35.72413793103448,134,28.899391856821445,38,1147
-Gijs Schenk,g.r.m.schenk@gmail.com,0,0,43,2,11/20/2016,11/20/2016,0,0,0,0,0,0
-Jeff Burtoft,boyofgreen@gmail.com,0,0,6,1,11/20/2016,11/20/2016,0,0,1,0,0,1
-sevan,sevan@SEVANSBP,0,0,387481,48,11/22/2016,12/16/2016,113015.29166666667,14.0,174,16.15453243577646,20,-9692
-noalak,tambrun.fabrice@gmail.com,0,0,7,1,11/24/2016,11/24/2016,0,0,0,0,0,1
-Temechon,temechon@gmail.com#temechon@pixelcodr.com,0,0,464517,44,11/24/2016,12/19/2016,130064.76,12.319999999999999,180,21.342444320150594,24,4837
-MackeyK24,MackeyK24@gmail.com,0,0,53288,9,11/27/2016,12/19/2016,16955.272727272728,2.8636363636363638,50,3.2062485640619816,4,2246
-Julien Moreau-Mathis,moreau-mathis@intechinfo.fr,0,0,10943,11,11/28/2016,12/07/2016,8511.22222222222,8.555555555555555,5,2.0,2,7
-David Rousset,davrous@microsoft.com,0,0,83,1,12/01/2016,12/01/2016,0,0,0,0,0,0
-Palmer-JC,jeffrey.c.palmer@gmail.com,0,0,193,1,12/01/2016,12/01/2016,0,0,10,1.0,1,7
-KK,wyklion@qq.com,0,0,12,4,12/06/2016,12/13/2016,12.0,4.0,1,0,0,0
-Wink Saville,wink@saville.com,0,0,11,4,12/06/2016,12/19/2016,5.9230769230769225,2.1538461538461537,0,0,0,0
-tolkanabroski,timo_shenko@msn.com,0,0,4,1,12/07/2016,12/07/2016,0,0,0,0,0,0
-Kesshi,Zapology@gmx.net,0,0,12,1,12/08/2016,12/08/2016,0,0,1,0,0,0
-Jeff Palmer,jeffrey.c.palmer@gmail.com,0,0,14,3,12/08/2016,12/08/2016,0,0,0,0,0,0
-Vousk-prod,vousk@free.fr,0,0,29,1,12/09/2016,12/09/2016,0,0,1,0,0,0
-Raanan Weber,raananw+github@gmail.com,0,0,1827,6,12/12/2016,12/15/2016,4263.0,14.0,0,0,0,0
-Gary Hsu,garyhsu@microsoft.com,0,0,80,2,12/16/2016,12/16/2016,0,0,0,0,0,0
-Pablo Martin,pablo@develagora.com,0,0,3,1,12/18/2016,12/18/2016,0,0,0,0,0,0
-George Corney (STR Limited),a-gecorn@microsoft.com,0,0,146,4,12/19/2016,12/19/2016,0,0,2,0,0,0
+Adam Bowman,abowman@gmail.com,0,0,970,28,2016-11-20 03:27:02,2016-12-12 08:07:24,308.6363636363636,8.90909090909091,0,3.0,3,0
+David Catuhe,david.catuhe@live.fr#david.catuhe@Live.fr,0,0,893735,148,2016-11-20 00:53:55,2016-12-19 07:43:43,215729.13793103446,35.72413793103448,68,28.899391856821445,38,1015
+Gijs Schenk,g.r.m.schenk@gmail.com,0,0,43,2,2016-11-20 19:13:26,2016-11-20 19:17:35,0,0,0,0.0,0,0
+Jeff Burtoft,boyofgreen@gmail.com,0,0,6,1,2016-11-20 13:36:58,2016-11-20 13:36:58,0,0,0,0.0,0,0
+sevan,sevan@SEVANSBP,0,0,387481,48,2016-11-21 16:57:19,2016-12-15 16:08:29,117929.0,14.608695652173914,93,16.154532435776463,20,-9705
+noalak,tambrun.fabrice@gmail.com,0,0,7,1,2016-11-24 17:11:29,2016-11-24 17:11:29,0,0,0,0.0,0,0
+Temechon,temechon@gmail.com,0,0,464517,44,2016-11-24 23:17:08,2016-12-19 18:53:06,135484.125,12.833333333333334,56,21.342444320150598,24,4396
+MackeyK24,MackeyK24@gmail.com,0,0,53288,9,2016-11-27 06:17:53,2016-12-19 02:40:21,17762.666666666668,3.0,7,3.2062485640619816,4,2003
+Julien Moreau-Mathis,moreau-mathis@intechinfo.fr,0,0,10943,11,2016-11-28 20:42:51,2016-12-07 21:22:22,8511.22222222222,8.555555555555555,2,2.0,2,2
+David Rousset,davrous@microsoft.com,0,0,83,1,2016-12-01 15:46:07,2016-12-01 15:46:07,0,0,0,0.0,0,0
+Palmer-JC,jeffrey.c.palmer@gmail.com,0,0,193,1,2016-12-01 08:29:20,2016-12-01 08:29:20,0,0,0,1.0,1,0
+KK,wyklion@qq.com,0,0,12,4,2016-12-06 22:16:36,2016-12-13 19:04:42,14.0,4.666666666666667,0,0.0,0,0
+Wink Saville,wink@saville.com,0,0,11,4,2016-12-06 04:35:55,2016-12-19 05:51:22,5.9230769230769225,2.1538461538461537,0,0.0,0,0
+tolkanabroski,timo_shenko@msn.com,0,0,4,1,2016-12-07 21:17:45,2016-12-07 21:17:45,0,0,1,0.0,0,0
+Kesshi,Zapology@gmx.net,0,0,12,1,2016-12-08 11:15:22,2016-12-08 11:15:22,0,0,0,0.0,0,0
+Jeff Palmer,jeffrey.c.palmer@gmail.com,0,0,14,3,2016-12-08 10:01:56,2016-12-08 10:09:41,0,0,0,0.0,0,0
+Vousk-prod,vousk@free.fr,0,0,29,1,2016-12-09 18:57:24,2016-12-09 18:57:24,0,0,0,0.0,0,0
+Raanan Weber,raananw+github@gmail.com,0,0,1827,6,2016-12-12 16:11:17,2016-12-15 16:29:06,4263.0,14.0,0,0.0,0,0
+Gary Hsu,garyhsu@microsoft.com,0,0,80,2,2016-12-16 07:43:49,2016-12-16 09:23:16,0,0,0,0.0,0,0
+Pablo Martin,pablo@develagora.com,0,0,3,1,2016-12-18 04:46:21,2016-12-18 04:46:21,0,0,0,0.0,0,0
+George Corney (STR Limited),a-gecorn@microsoft.com,0,0,146,4,2016-12-19 17:19:36,2016-12-19 17:34:24,0,0,0,0.0,0,0

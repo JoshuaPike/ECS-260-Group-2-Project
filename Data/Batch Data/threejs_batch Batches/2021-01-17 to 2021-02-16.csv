@@ -1,5 +1,5 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Mr.doob,info@mrdoob.com,0,0,1,214,2021-01-17 00:01:27,2021-02-15 23:42:29,20873.758620689652,51.655172413793096,90,28.790037191292974,35,-208
+Mr.doob,info@mrdoob.com,0,1,86477,214,2021-01-17 00:01:27,2021-02-15 23:42:29,20873.758620689652,51.655172413793096,90,28.790037191292974,35,-208
 Dmytro Pashchenko,paschenkod2@gmail.com,0,0,2,1,2021-01-17 15:28:41,2021-01-17 15:28:41,0,0,0,0.0,0,0
 Marco Fugaro,marco.fugaro@gmail.com,0,0,1873,11,2021-01-17 17:58:38,2021-02-12 00:38:19,524.4399999999999,3.0799999999999996,22,2.0,2,-5
 Mugen87,michael.herzog@human-interactive.org,0,0,4464,41,2021-01-18 12:50:14,2021-02-15 13:09:02,1116.0,10.25,66,6.5472222222222225,8,42
@@ -20,7 +20,7 @@ John Gibson,j13ag0@gmail.com,0,0,5,1,2021-01-26 08:00:01,2021-01-26 08:00:01,0,0
 Luis Fraguada,fraguada@gmail.com,0,0,245,7,2021-01-29 16:53:42,2021-02-10 13:43:03,155.9090909090909,4.454545454545455,4,3.0357142857142856,4,1
 Cloud9c,kire5030@gmail.com,0,0,1,1,2021-01-29 13:10:32,2021-01-29 13:10:32,0,0,0,0.0,0,0
 Jure Triglav,juretriglav@gmail.com,0,0,22,2,2021-01-31 02:49:35,2021-02-13 02:47:41,12.833333333333334,1.1666666666666667,2,0.0,0,0
-DefinitelyMaybe,DefinitelyMaybe@users.noreply.github.com#rekked.noraa@gmail.com,0,1,565494,15,2021-02-03 00:23:50,2021-02-14 01:45:40,359859.8181818182,9.545454545454545,14,2.0,2,0
+DefinitelyMaybe,DefinitelyMaybe@users.noreply.github.com#rekked.noraa@gmail.com,1,0,565494,15,2021-02-03 00:23:50,2021-02-14 01:45:40,359859.8181818182,9.545454545454545,14,2.0,2,0
 Josua Schmid,josua.schmid@renuo.ch,0,0,8,1,2021-02-02 14:19:46,2021-02-02 14:19:46,0,0,0,0.0,0,0
 IsseiMori,ganntyu1225issei@gmail.com,0,0,6,2,2021-02-05 07:20:42,2021-02-06 03:35:15,0,0,3,0.0,0,0
 arthur7921,51526225+arthur7921@users.noreply.github.com,0,0,6,1,2021-02-07 18:26:27,2021-02-07 18:26:27,0,0,0,0.0,0,0

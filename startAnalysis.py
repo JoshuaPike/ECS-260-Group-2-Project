@@ -5,7 +5,9 @@ import csv
 from mineData import mine
 import sys
 from playsound import playsound
-from analyzeData import make_batch_data_monthly
+from analyzeData import make_batch_data_monthly, make_total_data_from_monthly
+import glob
+import pandas as pd
 
 sys.setrecursionlimit(1000)
 startTime = datetime.utcnow()
@@ -209,9 +211,9 @@ threejs_end_5 = datetime.fromisoformat('2020-06-21T00:00:00+00:00')
 
 
 # --------------------------- Get batch data into monthly format ---------------------------------------
-# babylon_name = 'babylonjs_batch'
-# # babylon_end_date = datetime.fromisoformat('2018-07-03T00:00:00+00:00')
-# babylon_end_date = datetime(2018, 7, 3, 0, 0, 0)
+babylon_name = 'babylonjs_batch'
+# babylon_end_date = datetime.fromisoformat('2018-07-03T00:00:00+00:00')
+babylon_end_date = datetime(2018, 7, 3, 0, 0, 0)
 # make_batch_data_monthly(babylon_name, batch_size, babylon_end_date)
 
 pydriller_name = 'pydriller_batch'
@@ -222,8 +224,46 @@ threejs_name = 'threejs_batch'
 
 end_date_for_monthly = datetime(2021, 12, 1, 0, 0, 0)
 
-make_batch_data_monthly(pydriller_name, batch_size, end_date_for_monthly)
-make_batch_data_monthly(velocity_name, batch_size, end_date_for_monthly)
-make_batch_data_monthly(toolkit_name, batch_size, end_date_for_monthly)
-make_batch_data_monthly(webgl_name, batch_size, end_date_for_monthly)
-make_batch_data_monthly(threejs_name, batch_size, end_date_for_monthly)
+# make_batch_data_monthly(pydriller_name, batch_size, end_date_for_monthly)
+# make_batch_data_monthly(velocity_name, batch_size, end_date_for_monthly)
+# make_batch_data_monthly(toolkit_name, batch_size, end_date_for_monthly)
+# make_batch_data_monthly(webgl_name, batch_size, end_date_for_monthly)
+# make_batch_data_monthly(threejs_name, batch_size, end_date_for_monthly)
+
+# --------------------------- Get total data for repos ---------------------------------------
+babylon_total_filename = 'All Babylonjs Data.csv'
+pydriller_total_filename = 'All Pydriller Data.csv'
+velocity_total_filename = 'All Velocity Data.csv'
+toolkit_total_filename = 'All Toolkit Data.csv'
+webgl_total_filename = 'All WebGL Data.csv'
+threejs_total_filename = 'All Threejs Data.csv'
+
+make_total_data_from_monthly(babylon_name, babylon_total_filename)
+make_total_data_from_monthly(pydriller_name, pydriller_total_filename)
+make_total_data_from_monthly(velocity_name, velocity_total_filename)
+make_total_data_from_monthly(toolkit_name, toolkit_total_filename)
+make_total_data_from_monthly(webgl_name, webgl_total_filename)
+make_total_data_from_monthly(threejs_name, threejs_total_filename)
+
+dir_fuck_you = 'Data/*.csv'
+file_list = glob.glob(dir_fuck_you)
+
+num_10x_churn = 0
+num_10x_commits = 0
+names = []
+for file in file_list:
+    file_dict = pd.read_csv(file, header=0, index_col=0).to_dict('index')
+    for name in file_dict:
+        if name not in names:
+            names.append(name)
+        churn_label = file_dict[name]['10x label churn']
+        commit_label = file_dict[name]['10x label commits']
+        if churn_label == 1:
+            num_10x_churn += 1
+        if commit_label == 1:
+            num_10x_commits += 1
+
+print(str(len(names)))
+print('Number of 10x churn: ' + str(num_10x_churn))
+print('Number of 10x commits: ' + str(num_10x_commits))
+

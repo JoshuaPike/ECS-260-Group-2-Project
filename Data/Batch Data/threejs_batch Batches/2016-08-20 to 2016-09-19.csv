@@ -1,5 +1,5 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Mr.doob,info@mrdoob.com,0,1,1,94,2016-08-19 10:36:06,2016-09-16 07:22:54,27351.074074074073,24.37037037037037,85,21.093440619952634,24,0
+Mr.doob,info@mrdoob.com,1,1,105497,94,2016-08-19 10:36:06,2016-09-16 07:22:54,27351.074074074073,24.37037037037037,85,21.093440619952634,24,0
 Pim Schreurs,pimschreurs@gmail.com,0,0,26,1,2016-08-20 03:02:36,2016-08-20 03:02:36,0,0,2,0.0,0,0
 gero3,gero3@users.noreply.github.com,0,0,744,1,2016-08-22 03:54:16,2016-08-22 03:54:16,0,0,3,0.0,0,0
 weiserhei,weiserhei@users.noreply.github.com,0,0,2,1,2016-08-22 16:09:51,2016-08-22 16:09:51,0,0,0,0.0,0,0

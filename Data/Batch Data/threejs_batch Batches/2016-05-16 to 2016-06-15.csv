@@ -1,5 +1,5 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Mr.doob,info@mrdoob.com,0,1,1,108,2016-05-16 08:50:17,2016-06-14 09:55:01,15261.448275862067,26.068965517241377,155,34.60094882835313,41,5
+Mr.doob,info@mrdoob.com,1,1,63226,108,2016-05-16 08:50:17,2016-06-14 09:55:01,15261.448275862067,26.068965517241377,155,34.60094882835313,41,5
 sunag,sunagbrasil@gmail.com,0,0,4067,7,2016-05-16 15:48:52,2016-05-23 04:23:26,4744.833333333334,8.166666666666668,6,1.626086956521739,2,-5
 Nidin Vinayakan,01@01alchemist.com,0,0,2,1,2016-05-17 05:16:09,2016-05-17 05:16:09,0,0,1,0.0,0,0
 Ben Houston (Clara.io),ben@exocortex.com,0,0,1422,10,2016-05-17 12:26:29,2016-06-14 03:13:29,368.6666666666667,2.5925925925925926,18,4.0,4,-6

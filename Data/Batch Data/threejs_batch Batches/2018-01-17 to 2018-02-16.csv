@@ -1,5 +1,5 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Mr.doob,info@mrdoob.com,0,1,1,152,2018-01-16 08:09:41,2018-02-15 00:53:09,84511.24137931033,36.68965517241379,28,13.716632457052397,17,33
+Mr.doob,info@mrdoob.com,1,1,350118,152,2018-01-16 08:09:41,2018-02-15 00:53:09,84511.24137931033,36.68965517241379,28,13.716632457052397,17,33
 Lewy Blue,looeee@gmail.com,0,0,138180,28,2018-01-17 15:27:23,2018-02-15 20:21:58,33353.793103448275,6.758620689655172,7,2.0,2,0
 Sneha Belkhale,sbelkhale@yahoo.com,0,0,271,3,2018-01-16 14:34:37,2018-01-23 18:42:57,271.0,3.0,0,0.0,0,0
 Takahiro,hogehoge@gachapin.jp,0,0,9,3,2018-01-17 22:36:48,2018-01-23 20:20:27,12.6,4.2,1,0.0,0,0
@@ -15,7 +15,7 @@ Adam,twite.adam@gmail.com,0,0,96,4,2018-01-25 07:47:31,2018-02-15 21:49:50,32.0,
 Pascal Häusler,p.haeusler@cadenas.de,0,0,34,7,2018-01-25 11:57:17,2018-02-01 09:09:37,39.66666666666667,8.166666666666668,2,3.0,3,0
 Miguel Riem de Oliveira,m.riem.oliveira@gmail.com,0,0,10,2,2018-01-26 13:29:13,2018-01-26 13:31:11,0,0,0,0.0,0,0
 Alex Kempton,alex@funwithtriangles.net,0,0,3,1,2018-01-29 20:39:02,2018-01-29 20:39:02,0,0,0,0.0,0,0
-Luis Blanco,raubtierxxx@gmail.com,0,1,206154,4,2018-01-30 02:41:19,2018-02-11 03:41:45,120256.5,2.3333333333333335,5,1.5147058823529411,2,0
+Luis Blanco,raubtierxxx@gmail.com,1,0,206154,4,2018-01-30 02:41:19,2018-02-11 03:41:45,120256.5,2.3333333333333335,5,1.5147058823529411,2,0
 Xander Luciano,vipercodegames@gmail.com,0,0,2,1,2018-01-30 13:26:01,2018-01-30 13:26:01,0,0,0,0.0,0,0
 Christopher Cook,christopher.cook@webprofusion.com,0,0,40,5,2018-01-31 22:14:46,2018-02-04 19:43:33,93.33333333333334,11.666666666666668,1,0.8571428571428571,1,2
 finscn,finscn@gmail.com,0,0,23,2,2018-02-01 00:40:44,2018-02-01 13:25:43,0,0,1,2.0,2,0

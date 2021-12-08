@@ -1,8 +1,8 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
 Peter Occil,poccil14@gmail.com,0,0,2,1,2017-03-17 16:26:59,2017-03-17 16:26:59,0,0,0,0.0,0,0
-Mr.doob,info@mrdoob.com,0,1,30002,126,2017-03-18 02:34:10,2017-04-16 21:30:24,7241.862068965516,30.413793103448274,28,18.83489829364697,20,71
+Mr.doob,info@mrdoob.com,1,0,30002,126,2017-03-18 02:34:10,2017-04-16 21:30:24,7241.862068965516,30.413793103448274,28,18.83489829364697,20,71
 Jost Schmithals,jost.schmithals@musikalisches-zentrum-hx.de,0,0,7996,23,2017-03-18 16:34:55,2017-04-17 01:19:09,1930.0689655172412,5.551724137931034,4,0.0,0,-8
-Takahiro,hogehoge@gachapin.jp,0,1,24950,25,2017-03-19 18:41:39,2017-04-10 06:14:37,8316.666666666666,8.333333333333334,30,6.0,8,1
+Takahiro,hogehoge@gachapin.jp,1,0,24950,25,2017-03-19 18:41:39,2017-04-10 06:14:37,8316.666666666666,8.333333333333334,30,6.0,8,1
 alejandro,alemures@hotmail.com,0,0,47,1,2017-03-20 18:39:30,2017-03-20 18:39:30,0,0,2,0.0,0,-2
 gero3,jeroen-876@hotmail.com,0,0,2,1,2017-03-21 11:18:34,2017-03-21 11:18:34,0,0,0,0.0,0,0
 Andrii Iudin,andrii@ebi.ac.uk,0,0,250,3,2017-03-22 15:39:03,2017-03-23 10:18:30,0,0,1,1.3962264150943398,2,6

@@ -1,7 +1,7 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
 Michael Herzog,michael.herzog@human-interactive.org,0,0,2766,18,2020-01-17 12:51:20,2020-01-27 10:36:21,2151.333333333333,13.999999999999998,40,0.3614457831325301,1,-156
 aardgoose,angus.sawyer@gmail.com,0,0,37,2,2020-01-17 16:50:57,2020-01-19 15:54:47,259.0,14.0,1,1.0,1,0
-Emmett Lalish,elalish@google.com,0,1,547727,14,2020-01-17 03:45:31,2020-02-07 03:55:55,182575.66666666666,4.666666666666667,6,3.0,3,-5
+Emmett Lalish,elalish@google.com,1,0,547727,14,2020-01-17 03:45:31,2020-02-07 03:55:55,182575.66666666666,4.666666666666667,6,3.0,3,-5
 WestLangley,WestLangley@users.noreply.github.com,0,0,5965,27,2020-01-17 14:23:37,2020-02-10 13:35:19,1815.4347826086957,8.217391304347826,42,3.63855421686747,4,143
 Elias Hasle,elias.hasle@gmail.com,0,0,22,2,2020-01-19 00:05:44,2020-01-23 05:34:12,38.5,3.5,1,0.0,0,0
 j-devel,j@w3reality.com,0,0,3,1,2020-01-19 19:59:38,2020-01-19 19:59:38,0,0,0,0.0,0,0

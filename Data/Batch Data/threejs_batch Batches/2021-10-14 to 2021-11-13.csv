@@ -1,12 +1,12 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Mr.doob,info@mrdoob.com,0,1,2220,14,2021-10-14 17:01:16,2021-11-11 15:58:54,575.5555555555555,3.6296296296296298,39,3.082882882882883,4,17
-sunag,jcdeconto@igalia.com,0,1,2525,3,2021-10-14 20:25:59,2021-10-28 13:12:39,1359.6153846153845,1.6153846153846154,50,0.5166666666666666,2,-1
+Mr.doob,info@mrdoob.com,1,0,2220,14,2021-10-14 17:01:16,2021-11-11 15:58:54,575.5555555555555,3.6296296296296298,39,3.082882882882883,4,17
+sunag,jcdeconto@igalia.com,1,0,2525,3,2021-10-14 20:25:59,2021-10-28 13:12:39,1359.6153846153845,1.6153846153846154,50,0.5166666666666666,2,-1
 inokawa,48897392+inokawa@users.noreply.github.com,0,0,2,1,2021-10-15 14:44:25,2021-10-15 14:44:25,0,0,0,0.0,0,0
-Michael Herzog,michael.herzog@human-interactive.org,0,1,1,37,2021-10-19 16:25:45,2021-11-12 05:23:47,1217.0869565217392,11.260869565217392,40,6.735087719298246,8,-7
+Michael Herzog,michael.herzog@human-interactive.org,1,1,3999,37,2021-10-19 16:25:45,2021-11-12 05:23:47,1217.0869565217392,11.260869565217392,40,6.735087719298246,8,-7
 Mugen87,michael.herzog@human-interactive.org,0,0,77,1,2021-10-19 16:30:26,2021-10-19 16:30:26,0,0,0,0.75,1,0
 Rodrigo Soares,77159115+soaresrl@users.noreply.github.com,0,0,2,1,2021-10-19 22:34:56,2021-10-19 22:34:56,0,0,1,0.0,0,0
 Robert Long,robert@robertlong.me,0,0,68,1,2021-10-22 15:39:36,2021-10-22 15:39:36,0,0,2,0.0,0,0
-Sebastiaan ten Pas,sebastiaantenpas@gmail.com,0,1,1,2,2021-10-26 12:13:04,2021-10-27 17:56:49,714.0,14.0,0,2.0,2,0
+Sebastiaan ten Pas,sebastiaantenpas@gmail.com,1,1,102,2,2021-10-26 12:13:04,2021-10-27 17:56:49,714.0,14.0,0,2.0,2,0
 Emmett Lalish,elalish@google.com,0,0,1,1,2021-10-28 00:36:11,2021-10-28 00:36:11,0,0,1,0.0,0,0
 Boulevard,36187787+obf1313@users.noreply.github.com,0,0,4,1,2021-10-28 12:22:12,2021-10-28 12:22:12,0,0,0,0.0,0,0
 Viktor Kovacs,viktorkovacs@gmail.com,0,0,4,2,2021-10-28 12:23:17,2021-11-10 11:09:47,2.3333333333333335,1.1666666666666667,2,0.0,0,0

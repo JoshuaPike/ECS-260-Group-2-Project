@@ -1,5 +1,5 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Mr.doob,info@mrdoob.com,0,0,1,252,2020-05-15 11:02:14,2020-06-14 08:49:06,13911.896551724136,60.82758620689655,293,33.55026826706623,41,18
+Mr.doob,info@mrdoob.com,0,1,57635,252,2020-05-15 11:02:14,2020-06-14 08:49:06,13911.896551724136,60.82758620689655,293,33.55026826706623,41,18
 WestLangley,WestLangley@users.noreply.github.com,0,0,54247,21,2020-05-15 17:21:58,2020-06-13 15:29:23,13561.75,5.25,15,6.416666666666666,7,11
 munrocket@pm.me,munrocket@pm.me,0,0,1399,8,2020-05-16 16:58:16,2020-06-06 16:42:43,489.65,2.8,36,2.0,2,0
 Mugen87,michael.herzog@human-interactive.org,0,0,199731,61,2020-05-16 13:00:19,2020-06-14 14:59:35,48210.93103448275,14.724137931034482,453,16.642420689205917,20,6
@@ -36,7 +36,7 @@ Senya Pugach,upisfree@artlebedev.ru,0,0,156,3,2020-06-04 02:11:13,2020-06-10 18:
 ycw,ycw7788@gmail.com,0,0,22,8,2020-06-04 10:13:39,2020-06-11 06:14:05,25.666666666666668,9.333333333333334,0,0.0,0,0
 gero3,jeroen-876@hotmail.com,0,0,374,18,2020-06-04 02:12:53,2020-06-12 00:42:44,374.0,18.0,66,1.0,1,-1
 Filipp Keks,filipp.keks@trimble.com,0,0,17,4,2020-06-04 15:41:28,2020-06-04 16:17:17,0,0,0,0.0,0,0
-Takahiro,hogehoge@gachapin.jp,0,1,282813,10,2020-06-04 15:38:22,2020-06-10 14:34:41,395938.2,14.0,7,1.1704545454545454,2,0
+Takahiro,hogehoge@gachapin.jp,1,0,282813,10,2020-06-04 15:38:22,2020-06-10 14:34:41,395938.2,14.0,7,1.1704545454545454,2,0
 Evan Harwin,evanharwin@gmail.com,0,0,2,1,2020-06-05 21:05:10,2020-06-05 21:05:10,0,0,0,0.0,0,0
 Marquizzo,marco@dyadstudios.com,0,0,2,1,2020-06-05 05:57:09,2020-06-05 05:57:09,0,0,0,0.0,0,0
 duma,s.gombi@gruppofood.com,0,0,41,2,2020-06-07 19:22:03,2020-06-08 18:23:00,0,0,0,1.0,1,0

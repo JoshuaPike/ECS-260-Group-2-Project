@@ -1,9 +1,9 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Garrett Johnson,garrett.kjohnson@gmail.com#gkjohnso@jpl.nasa.gov,0,1,102197,31,2019-09-18 10:15:45,2019-10-03 02:30:59,51098.5,15.5,108,0.3333333333333333,1,0
+Garrett Johnson,garrett.kjohnson@gmail.com#gkjohnso@jpl.nasa.gov,1,0,102197,31,2019-09-18 10:15:45,2019-10-03 02:30:59,51098.5,15.5,108,0.3333333333333333,1,0
 wema,warma@lzb.ac.cn,0,0,2,1,2019-09-19 18:24:01,2019-09-19 18:24:01,0,0,0,0.0,0,-1
 Michael Herzog,michael.herzog@human-interactive.org,0,0,14091,79,2019-09-19 11:22:05,2019-10-18 14:57:07,3401.275862068965,19.068965517241377,181,0.0,0,0
 Mugen87,michael.herzog@human-interactive.org,0,0,10730,68,2019-09-19 11:29:31,2019-10-18 14:58:10,2589.9999999999995,16.413793103448274,0,12.221540455262565,15,9
-Mr.doob,info@mrdoob.com,0,1,294329,140,2019-09-19 13:02:52,2019-10-18 18:46:59,71044.93103448275,33.79310344827586,53,24.99089944137185,28,31
+Mr.doob,info@mrdoob.com,1,0,294329,140,2019-09-19 13:02:52,2019-10-18 18:46:59,71044.93103448275,33.79310344827586,53,24.99089944137185,28,31
 Jessica Blizzard,blizzardjessica@gmail.com,0,0,6,1,2019-09-19 08:43:10,2019-09-19 08:43:10,0,0,0,0.0,0,0
 shrekshao,shrekshao@gmail.com#shrekshao@google.com,0,0,622,6,2019-09-19 15:47:05,2019-09-30 09:49:23,435.4,4.2,5,0.0,0,-6
 gero3,jeroen-876@hotmail.com,0,0,2115,10,2019-09-21 02:02:59,2019-10-05 17:52:26,1057.5,5.0,5,2.0,2,0
@@ -14,7 +14,7 @@ WestLangley,WestLangley@users.noreply.github.com,0,0,323,9,2019-09-23 06:46:01,2
 Don McCurdy,donmccurdy@google.com,0,0,31,4,2019-09-23 07:54:41,2019-10-18 08:47:16,8.68,1.1199999999999999,1,0.0,0,0
 Yi Xu,yiyix@chromium.org,0,0,2,1,2019-09-24 12:04:08,2019-09-24 12:04:08,0,0,0,0.0,0,0
 Atul Mourya,atul.mourya@gmail.com,0,0,1,1,2019-09-26 17:57:24,2019-09-26 17:57:24,0,0,0,0.0,0,0
-sunag,sunag@users.noreply.github.com,0,0,1,6,2019-09-26 11:24:34,2019-09-27 11:54:07,24906.0,42.0,1,0.0,0,0
+sunag,sunag@users.noreply.github.com,0,1,3558,6,2019-09-26 11:24:34,2019-09-27 11:54:07,24906.0,42.0,1,0.0,0,0
 Vladimir Agafonkin,agafonkin@gmail.com,0,0,2,1,2019-09-27 16:59:24,2019-09-27 16:59:24,0,0,0,1.0,1,0
 Olov,olov@borgs.nu,0,0,102,2,2019-09-27 15:25:56,2019-09-27 15:28:34,0,0,0,0.0,0,0
 hazed,hazed@syneforge.com,0,0,14,2,2019-09-27 19:19:21,2019-09-30 14:43:12,49.0,7.0,0,1.0,1,0

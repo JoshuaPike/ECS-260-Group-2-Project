@@ -1,7 +1,7 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
 spidersharma03,namitasharma172@gmail.com,0,0,1594,2,2016-07-22 05:42:59,2016-07-26 06:34:32,2789.5,3.5,4,1.5748476122807675,2,21
-Rich Harris,richard.a.harris@gmail.com,0,1,62184,7,2016-07-22 19:38:18,2016-08-16 07:22:32,18137.0,2.041666666666667,231,1.408305856492385,3,-437
-Mr.doob,info@mrdoob.com,0,1,1,90,2016-07-22 20:02:42,2016-08-19 08:32:23,16031.555555555555,23.333333333333332,234,20.404901194414002,28,-19
+Rich Harris,richard.a.harris@gmail.com,1,0,62184,7,2016-07-22 19:38:18,2016-08-16 07:22:32,18137.0,2.041666666666667,231,1.408305856492385,3,-437
+Mr.doob,info@mrdoob.com,1,1,61836,90,2016-07-22 20:02:42,2016-08-19 08:32:23,16031.555555555555,23.333333333333332,234,20.404901194414002,28,-19
 Alan Smithee,ggnore.alan.smithee@gmail.com,0,0,72,2,2016-07-23 17:14:58,2016-07-26 15:07:18,252.0,7.0,0,0.6956521739130435,1,0
 Karim Beyrouti,karim@kurst.co.uk,0,0,18,1,2016-07-24 20:43:33,2016-07-24 20:43:33,0,0,0,1.0,1,0
 Takahiro,hogehoge@gachapin.jp,0,0,289,7,2016-07-26 05:59:06,2016-08-18 12:34:16,87.95652173913044,2.130434782608696,4,1.6,2,-7

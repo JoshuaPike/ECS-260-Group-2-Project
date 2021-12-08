@@ -1,5 +1,5 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Mr.doob,info@mrdoob.com,0,1,71880,147,2019-12-17 08:36:18,2020-01-15 23:00:05,17350.344827586207,35.48275862068965,39,15.931011916583179,23,-157
+Mr.doob,info@mrdoob.com,1,0,71880,147,2019-12-17 08:36:18,2020-01-15 23:00:05,17350.344827586207,35.48275862068965,39,15.931011916583179,23,-157
 Michael Herzog,michael.herzog@human-interactive.org,0,0,2565,55,2019-12-18 13:06:03,2020-01-16 11:58:35,641.25,13.75,200,0.0,0,0
 Mugen87,michael.herzog@human-interactive.org,0,0,13014,61,2019-12-18 13:08:13,2020-01-16 12:01:23,3253.5,15.25,0,9.490304221997897,13,82
 Olli Etuaho,olli.etuaho@gmail.com,0,0,6,1,2019-12-18 18:17:11,2019-12-18 18:17:11,0,0,3,0.0,0,0
@@ -12,7 +12,7 @@ Guillaume Fradin,guillaumefradin@gmail.com,0,0,19,3,2019-12-19 17:48:25,2019-12-
 Karolusrex,kalle.lundfall@gmail.com,0,0,2,1,2019-12-20 09:11:23,2019-12-20 09:11:23,0,0,0,0.0,0,0
 David Peicho,davidHenri.Peicho@siemens-healthineers.com#davidhenri.peicho@siemens-healthineers.com,0,0,611,12,2019-12-20 11:05:09,2020-01-09 11:19:33,213.85,4.2,11,1.5714285714285714,3,23
 Don McCurdy,donmccurdy@google.com#don.r.mccurdy@gmail.com,0,0,1075,7,2019-12-20 05:00:51,2020-01-01 14:11:40,627.0833333333334,4.083333333333334,2,1.0,1,0
-gogoend,gogoend@qq.com,0,1,19957,10,2019-12-21 23:26:51,2019-12-26 06:19:01,34924.75,17.5,0,0.0,0,0
+gogoend,gogoend@qq.com,1,0,19957,10,2019-12-21 23:26:51,2019-12-26 06:19:01,34924.75,17.5,0,0.0,0,0
 kazuki,sbr0913@gmail.com,0,0,4,2,2019-12-23 06:06:11,2019-12-23 06:23:26,0,0,0,0.0,0,0
 Victor,vicapow@gmail.com,0,0,1,1,2019-12-22 02:47:16,2019-12-22 02:47:16,0,0,1,0.0,0,0
 donutcoffee,47812491+donutcoffee@users.noreply.github.com,0,0,10,4,2019-12-26 19:15:10,2019-12-28 06:35:45,70.0,28.0,2,0.0,0,0

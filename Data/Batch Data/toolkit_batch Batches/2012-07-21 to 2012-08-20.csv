@@ -1,2 +1,2 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Miles Johnson,['mileswjohnson@gmail.com'],0,1,1,2,2012-08-02 16:48:03,2012-08-02 16:53:59,0,0,4,1.0,1,0
+Miles Johnson,['mileswjohnson@gmail.com'],1,1,328,2,2012-08-02 16:48:03,2012-08-02 16:53:59,0,0,4,1.0,1,0

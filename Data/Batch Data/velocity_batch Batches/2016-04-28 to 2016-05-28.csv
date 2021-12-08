@@ -1,2 +1,2 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-philippklodt,['philippklodt@gmail.com'],0,1,1,1,2016-05-14 05:01:40,2016-05-14 05:01:40,0,0,1,0,0,0
+philippklodt,['philippklodt@gmail.com'],1,1,11,1,2016-05-14 05:01:40,2016-05-14 05:01:40,0,0,1,0,0,0

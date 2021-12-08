@@ -1,6 +1,6 @@
 name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
 Don McCurdy,don.r.mccurdy@gmail.com,0,0,415,12,2017-06-15 12:47:12,2017-07-19 13:54:57,85.44117647058825,2.4705882352941178,3,3.0,3,1
-Mr.doob,info@mrdoob.com,0,1,214446,257,2017-06-15 12:51:34,2017-07-20 07:40:02,44150.64705882353,52.911764705882355,55,47.78053679636497,54,1
+Mr.doob,info@mrdoob.com,1,0,214446,257,2017-06-15 12:51:34,2017-07-20 07:40:02,44150.64705882353,52.911764705882355,55,47.78053679636497,54,1
 sunag,contact@sunag.com.br,0,0,1373,15,2017-06-15 23:55:15,2017-06-19 12:17:54,3203.666666666667,35.0,7,3.181017612524462,5,8
 Mugen87,michael.herzog@human-interactive.org,0,0,13736,41,2017-06-16 12:28:36,2017-07-21 00:28:16,2828.0,8.441176470588236,22,10.372620320855614,11,29
 Ford Hurley,ford.hurley@gmail.com,0,0,2,1,2017-06-16 07:32:17,2017-06-16 07:32:17,0,0,1,1.0,1,0
