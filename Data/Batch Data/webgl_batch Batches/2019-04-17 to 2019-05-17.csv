@@ -1,11 +1,11 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Jeff Gilbert,['jdashg@gmail.com'],0,0,90815,8,2019-04-22 03:53:51,2019-05-14 02:45:04,30271.666666666668,2.6666666666666665,85,1.0,1,0
-Ken Russell,['kbrussel@alum.mit.edu'],0,0,103,6,2019-04-22 10:22:05,2019-05-14 09:35:01,34.333333333333336,2.0,0,0.0,0,0
-Kagami Sascha Rosylight,['saschanaz@outlook.com'],0,0,591,4,2019-04-23 10:39:46,2019-04-23 13:04:35,0,0,0,0,0,0
-ShrekShao,['shrekshao@gmail.com'],0,0,16,1,2019-04-23 10:40:58,2019-04-23 10:40:58,0,0,1,0,0,-1
-Greggman,['github@greggman.com'],0,0,38,1,2019-04-24 05:04:52,2019-04-24 05:04:52,0,0,0,0,0,0
-Fernando Serrano,['fernandojsg@gmail.com'],0,0,9,1,2019-04-24 08:15:03,2019-04-24 08:15:03,0,0,0,0,0,0
-Dean Jackson,['dino@grorg.org'],0,0,3,1,2019-04-26 14:47:10,2019-04-26 14:47:10,0,0,0,0,0,0
-狄学长ShrekShao,['shrekshao@google.com'],0,0,145,3,2019-05-01 07:03:29,2019-05-13 10:42:04,84.58333333333334,1.75,0,0.0,0,0
-"Yan, Shaobo",['shaobo.yan@intel.com'],0,0,40,1,2019-05-02 14:55:19,2019-05-02 14:55:19,0,0,0,0,0,0
-JasperNV,['46733637+JasperNV@users.noreply.github.com'],0,0,228,2,2019-05-07 08:14:53,2019-05-13 10:26:06,266.0,2.3333333333333335,0,0.0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Jeff Gilbert,['jdashg@gmail.com'],0,0,90815,8,2019-04-22 03:53:51,2019-05-14 02:45:04,30271.666666666668,2.6666666666666665,85,1.0,1,0,1.0,0.0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,103,6,2019-04-22 10:22:05,2019-05-14 09:35:01,34.333333333333336,2.0,0,0.0,0,0,0,0.0
+Kagami Sascha Rosylight,['saschanaz@outlook.com'],0,0,591,4,2019-04-23 10:39:46,2019-04-23 13:04:35,0,0,0,0,0,0,0,0.0
+ShrekShao,['shrekshao@gmail.com'],0,0,16,1,2019-04-23 10:40:58,2019-04-23 10:40:58,0,0,1,0,0,-1,0,-1.0
+Greggman,['github@greggman.com'],0,0,38,1,2019-04-24 05:04:52,2019-04-24 05:04:52,0,0,0,0,0,0,0,0.0
+Fernando Serrano,['fernandojsg@gmail.com'],0,0,9,1,2019-04-24 08:15:03,2019-04-24 08:15:03,0,0,0,0,0,0,0,0.0
+Dean Jackson,['dino@grorg.org'],0,0,3,1,2019-04-26 14:47:10,2019-04-26 14:47:10,0,0,0,0,0,0,0,0.0
+狄学长ShrekShao,['shrekshao@google.com'],0,0,145,3,2019-05-01 07:03:29,2019-05-13 10:42:04,84.58333333333334,1.75,0,0.0,0,0,0,0.0
+"Yan, Shaobo",['shaobo.yan@intel.com'],0,0,40,1,2019-05-02 14:55:19,2019-05-02 14:55:19,0,0,0,0,0,0,0,0.0
+JasperNV,['46733637+JasperNV@users.noreply.github.com'],0,0,228,2,2019-05-07 08:14:53,2019-05-13 10:26:06,266.0,2.3333333333333335,0,0.0,0,0,0,0.0

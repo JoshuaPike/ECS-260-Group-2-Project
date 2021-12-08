@@ -1,16 +1,16 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Kenneth Russell,['kbrussel@alum.mit.edu'],0,0,84,4,2015-09-04 12:48:01,2015-10-02 19:41:46,21.0,1.0,1,1.0,1,-4
-Ken Russell,['kbrussel@alum.mit.edu'],0,0,32919,39,2015-09-04 12:50:27,2015-10-02 15:16:55,8229.75,9.75,0,0.0,0,0
-Janusz Sobczak,['janusz.sobczak@mobica.com'],0,0,25500,8,2015-09-08 10:51:22,2015-10-02 09:06:50,7760.869565217392,2.4347826086956523,83,2.345344347785914,3,373
-zhenyao,['zmo@chromium.org'],0,0,894,21,2015-09-08 07:12:11,2015-10-03 13:33:42,250.32,5.88,8,0.0,0,0
-Brandon Jones,"['bajones@chromium.org', 'tojiro@gmail.com']",0,0,719,9,2015-09-08 08:05:17,2015-10-01 03:54:39,228.77272727272728,2.8636363636363638,2,0.2638888888888889,1,2
-Qiankun Miao,['qiankun.miao@intel.com'],0,0,181,5,2015-09-09 17:51:36,2015-09-17 08:10:30,181.0,5.0,1,0.0,0,0
-He Yunchao,['yunchao.he@intel.com'],0,0,369,5,2015-09-09 21:28:08,2015-09-26 16:24:13,161.4375,2.1875,1,1.0,1,0
-Zhenyao Mo,['zmo@chromium.org'],0,0,1990,8,2015-09-09 08:07:38,2015-10-02 09:40:48,605.6521739130435,2.4347826086956523,0,1.5944055944055944,2,66
-legend,['guanxian.li@intel.com'],0,0,424,3,2015-09-11 01:38:19,2015-09-15 19:16:27,742.0,5.25,1,0.0,0,0
-renchenglei,['chenglei.ren@intel.com'],0,0,86,2,2015-09-11 17:24:09,2015-09-21 18:38:34,60.199999999999996,1.4,1,2.0,2,0
-Tomoaki Kawada,['i@yvt.jp'],0,0,2,1,2015-09-18 21:19:25,2015-09-18 21:19:25,0,0,0,0.0,0,0
-Emmanuel Gil Peyrot,['emmanuel.peyrot@collabora.com'],0,0,359,1,2015-09-18 16:12:53,2015-09-18 16:12:53,0,0,0,0.0,0,0
-Olli Etuaho,['oetuaho@nvidia.com'],0,0,230,4,2015-09-21 14:23:15,2015-10-01 15:01:41,161.0,2.8,1,0.0,0,0
-Kirill Dmitrenko,['dmikis@yandex-team.ru'],0,0,63,1,2015-09-21 16:42:43,2015-09-21 16:42:43,0,0,0,0.0,0,0
-Rafael Cintron,['rafael.cintron@microsoft.com'],0,0,113,1,2015-10-01 10:58:45,2015-10-01 10:58:45,0,0,0,0.0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Kenneth Russell,['kbrussel@alum.mit.edu'],0,0,84,4,2015-09-04 12:48:01,2015-10-02 19:41:46,21.0,1.0,1,1.0,1,-4,1.0,-1.0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,32919,39,2015-09-04 12:50:27,2015-10-02 15:16:55,8229.75,9.75,0,0.0,0,0,0,0.0
+Janusz Sobczak,['janusz.sobczak@mobica.com'],0,0,25500,8,2015-09-08 10:51:22,2015-10-02 09:06:50,7760.869565217392,2.4347826086956523,83,2.345344347785914,3,373,0.7817814492619714,46.625
+zhenyao,['zmo@chromium.org'],0,0,894,21,2015-09-08 07:12:11,2015-10-03 13:33:42,250.32,5.88,8,0.0,0,0,0,0.0
+Brandon Jones,"['bajones@chromium.org', 'tojiro@gmail.com']",0,0,719,9,2015-09-08 08:05:17,2015-10-01 03:54:39,228.77272727272728,2.8636363636363638,2,0.2638888888888889,1,2,0.2638888888888889,0.2222222222222222
+Qiankun Miao,['qiankun.miao@intel.com'],0,0,181,5,2015-09-09 17:51:36,2015-09-17 08:10:30,181.0,5.0,1,0.0,0,0,0,0.0
+He Yunchao,['yunchao.he@intel.com'],0,0,369,5,2015-09-09 21:28:08,2015-09-26 16:24:13,161.4375,2.1875,1,1.0,1,0,1.0,0.0
+Zhenyao Mo,['zmo@chromium.org'],0,0,1990,8,2015-09-09 08:07:38,2015-10-02 09:40:48,605.6521739130435,2.4347826086956523,0,1.5944055944055944,2,66,0.7972027972027972,8.25
+legend,['guanxian.li@intel.com'],0,0,424,3,2015-09-11 01:38:19,2015-09-15 19:16:27,742.0,5.25,1,0.0,0,0,0,0.0
+renchenglei,['chenglei.ren@intel.com'],0,0,86,2,2015-09-11 17:24:09,2015-09-21 18:38:34,60.199999999999996,1.4,1,2.0,2,0,1.0,0.0
+Tomoaki Kawada,['i@yvt.jp'],0,0,2,1,2015-09-18 21:19:25,2015-09-18 21:19:25,0,0,0,0.0,0,0,0,0.0
+Emmanuel Gil Peyrot,['emmanuel.peyrot@collabora.com'],0,0,359,1,2015-09-18 16:12:53,2015-09-18 16:12:53,0,0,0,0.0,0,0,0,0.0
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,230,4,2015-09-21 14:23:15,2015-10-01 15:01:41,161.0,2.8,1,0.0,0,0,0,0.0
+Kirill Dmitrenko,['dmikis@yandex-team.ru'],0,0,63,1,2015-09-21 16:42:43,2015-09-21 16:42:43,0,0,0,0.0,0,0,0,0.0
+Rafael Cintron,['rafael.cintron@microsoft.com'],0,0,113,1,2015-10-01 10:58:45,2015-10-01 10:58:45,0,0,0,0.0,0,0,0,0.0

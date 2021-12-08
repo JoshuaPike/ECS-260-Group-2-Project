@@ -1,4 +1,4 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Davide Spadini,['spadini.davide@gmail.com'],0,0,963,4,2021-04-04 12:14:55,2021-04-22 12:03:54,396.5294117647059,1.647058823529412,15,0.0,0,0
-Dominik Tuchyna,['dtuchyna@redhat.com'],0,0,2,1,2021-04-12 00:30:59,2021-04-12 00:30:59,0,0,0,0,0,0
-HelgeCPH,['ropf@itu.dk'],0,0,403,4,2021-04-14 19:01:16,2021-04-22 13:51:19,403.0,4.0,2,2.685714285714286,3,4
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Davide Spadini,['spadini.davide@gmail.com'],0,0,963,4,2021-04-04 12:14:55,2021-04-22 12:03:54,396.5294117647059,1.647058823529412,15,0.0,0,0,0,0.0
+Dominik Tuchyna,['dtuchyna@redhat.com'],0,0,2,1,2021-04-12 00:30:59,2021-04-12 00:30:59,0,0,0,0,0,0,0,0.0
+HelgeCPH,['ropf@itu.dk'],0,0,403,4,2021-04-14 19:01:16,2021-04-22 13:51:19,403.0,4.0,2,2.685714285714286,3,4,0.8952380952380953,1.0

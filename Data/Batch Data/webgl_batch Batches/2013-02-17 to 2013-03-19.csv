@@ -1,12 +1,12 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Jamie Madill,['jmadill@transgaming.com'],0,0,3,1,2013-02-19 05:20:31,2013-02-19 05:20:31,0,0,0,0.0,0,0
-Greggman,['github@greggman.com'],0,0,1212,11,2013-02-19 01:55:32,2013-03-14 12:30:14,368.8695652173913,3.347826086956522,0,0.0,0,0
-Gregg Tavares,['github@greggman.com'],0,0,962,8,2013-02-19 02:33:26,2013-03-14 12:27:28,292.7826086956522,2.4347826086956523,2,0.74,1,1
-Kenneth Russell,"['kbr@chromium.org', 'kbr@Kenneths-MacBook-Pro.local']",0,0,2029,14,2013-02-19 02:46:36,2013-03-15 08:49:37,591.7916666666667,4.083333333333334,5,0.34375,2,4
-Ken Russell,['kbrussel@alum.mit.edu'],0,0,7975,19,2013-02-19 02:48:23,2013-03-15 08:50:35,2326.041666666667,5.541666666666667,0,0.0,0,0
-Geoff Lang,['geoff.lang@transgaming.com'],0,0,1,1,2013-02-20 09:05:48,2013-02-20 09:05:48,0,0,0,0.0,0,0
-Brandon Jones,"['bajones@chromium.org', 'tojiro@gmail.com']",0,0,2187,14,2013-02-23 04:00:30,2013-03-06 01:15:18,1530.8999999999999,9.799999999999999,4,3.971428571428572,4,1
-Zhenyao Mo,['zmo@zmo-macpro.mtv.corp.google.com'],0,0,18,1,2013-02-25 07:15:24,2013-02-25 07:15:24,0,0,0,0.0,0,0
-David Sheets,['sheets@ashimaarts.com'],0,0,5524,11,2013-02-25 15:33:48,2013-03-04 05:50:22,6444.666666666667,12.833333333333334,0,0.0,0,0
-Nayan Kumar K,['nayankk@motorola.com'],0,0,356,4,2013-02-26 09:18:15,2013-02-27 09:21:47,2492.0,28.0,0,0.0,0,0
-jdashg,['jdashg+github@gmail.com'],0,0,2,1,2013-02-27 05:52:09,2013-02-27 05:52:09,0,0,1,0.0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Jamie Madill,['jmadill@transgaming.com'],0,0,3,1,2013-02-19 05:20:31,2013-02-19 05:20:31,0,0,0,0.0,0,0,0,0.0
+Greggman,['github@greggman.com'],0,0,1212,11,2013-02-19 01:55:32,2013-03-14 12:30:14,368.8695652173913,3.347826086956522,0,0.0,0,0,0,0.0
+Gregg Tavares,['github@greggman.com'],0,0,962,8,2013-02-19 02:33:26,2013-03-14 12:27:28,292.7826086956522,2.4347826086956523,2,0.74,1,1,0.74,0.125
+Kenneth Russell,"['kbr@chromium.org', 'kbr@Kenneths-MacBook-Pro.local']",0,0,2029,14,2013-02-19 02:46:36,2013-03-15 08:49:37,591.7916666666667,4.083333333333334,5,0.34375,2,4,0.171875,0.2857142857142857
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,7975,19,2013-02-19 02:48:23,2013-03-15 08:50:35,2326.041666666667,5.541666666666667,0,0.0,0,0,0,0.0
+Geoff Lang,['geoff.lang@transgaming.com'],0,0,1,1,2013-02-20 09:05:48,2013-02-20 09:05:48,0,0,0,0.0,0,0,0,0.0
+Brandon Jones,"['bajones@chromium.org', 'tojiro@gmail.com']",0,0,2187,14,2013-02-23 04:00:30,2013-03-06 01:15:18,1530.8999999999999,9.799999999999999,4,3.971428571428572,4,1,0.992857142857143,0.07142857142857142
+Zhenyao Mo,['zmo@zmo-macpro.mtv.corp.google.com'],0,0,18,1,2013-02-25 07:15:24,2013-02-25 07:15:24,0,0,0,0.0,0,0,0,0.0
+David Sheets,['sheets@ashimaarts.com'],0,0,5524,11,2013-02-25 15:33:48,2013-03-04 05:50:22,6444.666666666667,12.833333333333334,0,0.0,0,0,0,0.0
+Nayan Kumar K,['nayankk@motorola.com'],0,0,356,4,2013-02-26 09:18:15,2013-02-27 09:21:47,2492.0,28.0,0,0.0,0,0,0,0.0
+jdashg,['jdashg+github@gmail.com'],0,0,2,1,2013-02-27 05:52:09,2013-02-27 05:52:09,0,0,1,0.0,0,0,0,0.0

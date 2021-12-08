@@ -1,39 +1,39 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-WestLangley,WestLangley@users.noreply.github.com,0,0,241724,19,2018-09-18 18:50:16,2018-10-17 20:17:00,58347.1724137931,4.586206896551723,14,6.299718007251242,7,-18
-wangyang65,wangyang65@baidu.com,0,0,4543,4,2018-09-19 19:19:00,2018-09-21 19:39:46,15900.5,14.0,0,0.0,0,0
-hucijiao,hucijiao@baidu.com,0,0,725,3,2018-09-19 19:24:16,2018-10-09 04:36:43,267.10526315789474,1.1052631578947367,0,0.0,0,0
-gogoend,gogoend@qq.com,0,0,24801,20,2018-09-19 21:15:11,2018-10-18 17:24:41,6200.25,5.0,1,0.0,0,0
-Mugen87,michael.herzog@human-interactive.org,0,0,1152,17,2018-09-19 13:02:02,2018-10-16 18:03:45,298.6666666666667,4.407407407407407,37,8.0,8,0
-Lewy Blue,looeee@gmail.com,0,0,12878,23,2018-09-19 15:40:33,2018-10-14 18:02:02,3605.8399999999997,6.4399999999999995,2,2.0,2,1
-Mr.doob,info@mrdoob.com,0,0,50151,100,2018-09-19 06:21:05,2018-10-17 23:52:28,12537.75,25.0,14,6.545045045045045,8,8
-yomboprime,yomboprime@users.noreply.github.com,0,0,442,7,2018-09-20 06:05:12,2018-10-06 13:36:14,193.375,3.0625,0,0.0,0,0
-Takahiro,hogehoge@gachapin.jp,1,0,253809,28,2018-09-21 09:14:10,2018-09-27 10:15:29,296110.5,32.66666666666667,5,4.666666666666666,5,0
-duanjobs,duanjobs@gmail.com,0,0,247,6,2018-09-21 21:12:51,2018-09-21 21:12:51,0,0,0,0.0,0,0
-v_zhangfujin,v_zhangfujin@baidu.com,0,0,125,1,2018-09-21 22:56:44,2018-09-21 22:56:44,0,0,0,0.0,0,0
-Almar Klein,almar.klein@gmail.com,0,0,310,5,2018-09-21 18:07:44,2018-09-23 12:59:14,2170.0,35.0,1,0.0,0,0
-Jordan Santell,jordan@jsantell.com,0,0,209,1,2018-09-21 04:06:50,2018-09-21 04:06:50,0,0,3,1.0,1,4
-Dukuo,dilip.ramirez@gmail.com,0,0,7041,2,2018-09-24 14:06:52,2018-09-24 14:08:10,0,0,1,0.0,0,0
-shizhenlei,shizhenlei@baidu.com,0,0,333,1,2018-09-25 17:15:34,2018-09-25 17:15:34,0,0,0,0.0,0,0
-"Ji,Chang",jichang@baidu.com,0,0,435,1,2018-09-25 18:59:04,2018-09-25 18:59:04,0,0,0,0.0,0,0
-Don McCurdy,donmccurdy@google.com#don.r.mccurdy@gmail.com,0,0,80,4,2018-09-24 17:15:53,2018-10-09 10:01:06,40.0,2.0,1,0.0,0,0
-Felix Fontein,ff@dybuster.com,0,0,113,3,2018-09-25 17:00:58,2018-09-26 19:19:51,791.0,21.0,3,1.0,1,0
-Vlado Velichkovski,stormwin@users.noreply.github.com,0,0,2,1,2018-09-27 14:51:06,2018-09-27 14:51:06,0,0,1,0.0,0,0
-gero3,gero3@users.noreply.github.com,0,0,101,6,2018-09-27 20:55:42,2018-10-18 15:15:03,35.35,2.1,2,1.6,2,-1
-Thomas Knickman,jangoforhire@gmail.com,0,0,6,1,2018-09-27 15:19:17,2018-09-27 15:19:17,0,0,0,0.0,0,0
-James Baicoianu,james_github@baicoianu.com,0,0,16,3,2018-09-27 15:29:31,2018-10-08 15:24:12,11.2,2.1,3,0.0,0,0
-Yaroslav Khudchenko,yaroslav.khudchenko@gmail.com,0,0,2,1,2018-10-03 03:05:08,2018-10-03 03:05:08,0,0,0,0.0,0,0
-Babatunde Ogunfemi,ogunfemi.b@gmail.com,0,0,16,1,2018-10-03 09:52:36,2018-10-03 09:52:36,0,0,1,0.0,0,0
-Matthew Harris,rtpharry@hotmail.com,0,0,6,1,2018-10-07 00:23:33,2018-10-07 00:23:33,0,0,0,0.0,0,0
-sweerwen,475563418@qq.com,0,0,569,1,2018-10-09 19:03:01,2018-10-09 19:03:01,0,0,0,0.0,0,0
-Anders Hafreager,anders.hafreager@cognite.com,0,0,4,1,2018-10-09 13:41:47,2018-10-09 13:41:47,0,0,0,0.0,0,0
-Leven,475563418@qq.com,0,0,20,1,2018-10-10 01:57:48,2018-10-10 01:57:48,0,0,0,0.0,0,0
-zhangpeng26,zhangpeng26@baidu.com,0,0,1023,1,2018-10-11 01:09:00,2018-10-11 01:09:00,0,0,0,0.0,0,0
-zhaojunb,zhaojunb@gmail.com,0,0,7370,2,2018-10-12 01:12:16,2018-10-12 02:48:29,0,0,0,0.0,0,0
-nicholas-yangding,nicholas-yangding@users.noreply.github.com,0,0,32673,2,2018-10-12 02:49:06,2018-10-15 06:28:24,76237.0,4.666666666666667,0,0.0,0,0
-Ondřej Španěl,OndrejSpanel@users.noreply.github.com,0,0,16,1,2018-10-11 19:26:35,2018-10-11 19:26:35,0,0,1,0.0,0,0
-Michael Herzog,michael.herzog@human-interactive.org,0,0,16,1,2018-10-11 20:53:26,2018-10-11 20:53:26,0,0,2,0.0,0,0
-Xander Luciano,vipercodegames@gmail.com#xanderluciano@gmail.com,0,0,46,8,2018-10-11 18:38:50,2018-10-11 19:25:17,0,0,0,0.0,0,0
-Kai Salmen,myself@kaisalmen.de,0,0,4147,2,2018-10-16 00:26:16,2018-10-16 23:21:37,0,0,2,0.585635359116022,1,16
-橋本翔,kakeru@hashimotoshounoMacBook-puro.local,0,0,4,1,2018-10-17 21:44:35,2018-10-17 21:44:35,0,0,0,0.0,0,0
-Oscar Eriksson,oscar.eriksson@protonmail.com,0,0,1,1,2018-10-17 12:08:16,2018-10-17 12:08:16,0,0,1,0.0,0,0
-Nidin Vinayakan,01@01alchemist.com,0,0,4,1,2018-10-17 21:08:53,2018-10-17 21:08:53,0,0,0,0.0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+WestLangley,WestLangley@users.noreply.github.com,0,0,241724,19,2018-09-18 18:50:16,2018-10-17 20:17:00,58347.1724137931,4.586206896551723,14,6.299718007251242,7,-18,0.899959715321606,-0.9473684210526315
+wangyang65,wangyang65@baidu.com,0,0,4543,4,2018-09-19 19:19:00,2018-09-21 19:39:46,15900.5,14.0,0,0.0,0,0,0,0.0
+hucijiao,hucijiao@baidu.com,0,0,725,3,2018-09-19 19:24:16,2018-10-09 04:36:43,267.10526315789474,1.1052631578947367,0,0.0,0,0,0,0.0
+gogoend,gogoend@qq.com,0,0,24801,20,2018-09-19 21:15:11,2018-10-18 17:24:41,6200.25,5.0,1,0.0,0,0,0,0.0
+Mugen87,michael.herzog@human-interactive.org,0,0,1152,17,2018-09-19 13:02:02,2018-10-16 18:03:45,298.6666666666667,4.407407407407407,37,8.0,8,0,1.0,0.0
+Lewy Blue,looeee@gmail.com,0,0,12878,23,2018-09-19 15:40:33,2018-10-14 18:02:02,3605.8399999999997,6.4399999999999995,2,2.0,2,1,1.0,0.043478260869565216
+Mr.doob,info@mrdoob.com,0,0,50151,100,2018-09-19 06:21:05,2018-10-17 23:52:28,12537.75,25.0,14,6.545045045045045,8,8,0.8181306306306306,0.08
+yomboprime,yomboprime@users.noreply.github.com,0,0,442,7,2018-09-20 06:05:12,2018-10-06 13:36:14,193.375,3.0625,0,0.0,0,0,0,0.0
+Takahiro,hogehoge@gachapin.jp,1,0,253809,28,2018-09-21 09:14:10,2018-09-27 10:15:29,296110.5,32.66666666666667,5,4.666666666666666,5,0,0.9333333333333332,0.0
+duanjobs,duanjobs@gmail.com,0,0,247,6,2018-09-21 21:12:51,2018-09-21 21:12:51,0,0,0,0.0,0,0,0,0.0
+v_zhangfujin,v_zhangfujin@baidu.com,0,0,125,1,2018-09-21 22:56:44,2018-09-21 22:56:44,0,0,0,0.0,0,0,0,0.0
+Almar Klein,almar.klein@gmail.com,0,0,310,5,2018-09-21 18:07:44,2018-09-23 12:59:14,2170.0,35.0,1,0.0,0,0,0,0.0
+Jordan Santell,jordan@jsantell.com,0,0,209,1,2018-09-21 04:06:50,2018-09-21 04:06:50,0,0,3,1.0,1,4,1.0,4.0
+Dukuo,dilip.ramirez@gmail.com,0,0,7041,2,2018-09-24 14:06:52,2018-09-24 14:08:10,0,0,1,0.0,0,0,0,0.0
+shizhenlei,shizhenlei@baidu.com,0,0,333,1,2018-09-25 17:15:34,2018-09-25 17:15:34,0,0,0,0.0,0,0,0,0.0
+"Ji,Chang",jichang@baidu.com,0,0,435,1,2018-09-25 18:59:04,2018-09-25 18:59:04,0,0,0,0.0,0,0,0,0.0
+Don McCurdy,donmccurdy@google.com#don.r.mccurdy@gmail.com,0,0,80,4,2018-09-24 17:15:53,2018-10-09 10:01:06,40.0,2.0,1,0.0,0,0,0,0.0
+Felix Fontein,ff@dybuster.com,0,0,113,3,2018-09-25 17:00:58,2018-09-26 19:19:51,791.0,21.0,3,1.0,1,0,1.0,0.0
+Vlado Velichkovski,stormwin@users.noreply.github.com,0,0,2,1,2018-09-27 14:51:06,2018-09-27 14:51:06,0,0,1,0.0,0,0,0,0.0
+gero3,gero3@users.noreply.github.com,0,0,101,6,2018-09-27 20:55:42,2018-10-18 15:15:03,35.35,2.1,2,1.6,2,-1,0.8,-0.16666666666666666
+Thomas Knickman,jangoforhire@gmail.com,0,0,6,1,2018-09-27 15:19:17,2018-09-27 15:19:17,0,0,0,0.0,0,0,0,0.0
+James Baicoianu,james_github@baicoianu.com,0,0,16,3,2018-09-27 15:29:31,2018-10-08 15:24:12,11.2,2.1,3,0.0,0,0,0,0.0
+Yaroslav Khudchenko,yaroslav.khudchenko@gmail.com,0,0,2,1,2018-10-03 03:05:08,2018-10-03 03:05:08,0,0,0,0.0,0,0,0,0.0
+Babatunde Ogunfemi,ogunfemi.b@gmail.com,0,0,16,1,2018-10-03 09:52:36,2018-10-03 09:52:36,0,0,1,0.0,0,0,0,0.0
+Matthew Harris,rtpharry@hotmail.com,0,0,6,1,2018-10-07 00:23:33,2018-10-07 00:23:33,0,0,0,0.0,0,0,0,0.0
+sweerwen,475563418@qq.com,0,0,569,1,2018-10-09 19:03:01,2018-10-09 19:03:01,0,0,0,0.0,0,0,0,0.0
+Anders Hafreager,anders.hafreager@cognite.com,0,0,4,1,2018-10-09 13:41:47,2018-10-09 13:41:47,0,0,0,0.0,0,0,0,0.0
+Leven,475563418@qq.com,0,0,20,1,2018-10-10 01:57:48,2018-10-10 01:57:48,0,0,0,0.0,0,0,0,0.0
+zhangpeng26,zhangpeng26@baidu.com,0,0,1023,1,2018-10-11 01:09:00,2018-10-11 01:09:00,0,0,0,0.0,0,0,0,0.0
+zhaojunb,zhaojunb@gmail.com,0,0,7370,2,2018-10-12 01:12:16,2018-10-12 02:48:29,0,0,0,0.0,0,0,0,0.0
+nicholas-yangding,nicholas-yangding@users.noreply.github.com,0,0,32673,2,2018-10-12 02:49:06,2018-10-15 06:28:24,76237.0,4.666666666666667,0,0.0,0,0,0,0.0
+Ondřej Španěl,OndrejSpanel@users.noreply.github.com,0,0,16,1,2018-10-11 19:26:35,2018-10-11 19:26:35,0,0,1,0.0,0,0,0,0.0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,16,1,2018-10-11 20:53:26,2018-10-11 20:53:26,0,0,2,0.0,0,0,0,0.0
+Xander Luciano,vipercodegames@gmail.com#xanderluciano@gmail.com,0,0,46,8,2018-10-11 18:38:50,2018-10-11 19:25:17,0,0,0,0.0,0,0,0,0.0
+Kai Salmen,myself@kaisalmen.de,0,0,4147,2,2018-10-16 00:26:16,2018-10-16 23:21:37,0,0,2,0.585635359116022,1,16,0.585635359116022,8.0
+橋本翔,kakeru@hashimotoshounoMacBook-puro.local,0,0,4,1,2018-10-17 21:44:35,2018-10-17 21:44:35,0,0,0,0.0,0,0,0,0.0
+Oscar Eriksson,oscar.eriksson@protonmail.com,0,0,1,1,2018-10-17 12:08:16,2018-10-17 12:08:16,0,0,1,0.0,0,0,0,0.0
+Nidin Vinayakan,01@01alchemist.com,0,0,4,1,2018-10-17 21:08:53,2018-10-17 21:08:53,0,0,0,0.0,0,0,0,0.0

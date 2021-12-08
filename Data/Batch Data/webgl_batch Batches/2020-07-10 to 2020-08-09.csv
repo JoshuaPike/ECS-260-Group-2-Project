@@ -1,6 +1,6 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Gregg Tavares,['github@greggman.com'],0,0,203,1,2020-07-15 19:08:50,2020-07-15 19:08:50,0,0,0,0,0,0
-ShrekShao,['shrekshao@google.com'],0,0,234,4,2020-07-15 08:25:39,2020-07-31 11:09:44,102.375,1.75,0,0,0,0
-Ken Russell,['kbrussel@alum.mit.edu'],0,0,296,10,2020-07-17 05:31:22,2020-08-04 08:24:20,115.1111111111111,3.8888888888888884,2,0,0,5
-sugoi1,['sugoi@google.com'],0,0,18,1,2020-07-20 07:33:29,2020-07-20 07:33:29,0,0,1,0,0,0
-James Darpinian,['jdarpinian@chromium.org'],0,0,132,4,2020-07-24 03:56:33,2020-08-05 10:34:17,77.0,2.3333333333333335,0,0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Gregg Tavares,['github@greggman.com'],0,0,203,1,2020-07-15 19:08:50,2020-07-15 19:08:50,0,0,0,0,0,0,0,0.0
+ShrekShao,['shrekshao@google.com'],0,0,234,4,2020-07-15 08:25:39,2020-07-31 11:09:44,102.375,1.75,0,0,0,0,0,0.0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,296,10,2020-07-17 05:31:22,2020-08-04 08:24:20,115.1111111111111,3.8888888888888884,2,0,0,5,0,0.5
+sugoi1,['sugoi@google.com'],0,0,18,1,2020-07-20 07:33:29,2020-07-20 07:33:29,0,0,1,0,0,0,0,0.0
+James Darpinian,['jdarpinian@chromium.org'],0,0,132,4,2020-07-24 03:56:33,2020-08-05 10:34:17,77.0,2.3333333333333335,0,0,0,0,0,0.0

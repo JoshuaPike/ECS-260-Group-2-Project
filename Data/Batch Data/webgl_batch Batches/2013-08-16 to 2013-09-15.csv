@@ -1,6 +1,6 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Olli Etuaho,['oetuaho@nvidia.com'],0,0,125,8,2013-08-16 21:08:22,2013-09-13 14:21:10,32.407407407407405,2.074074074074074,6,0.0,0,0
-Ken Russell,['kbrussel@alum.mit.edu'],0,0,11559,24,2013-08-20 05:14:06,2013-09-13 00:13:34,3517.9565217391305,7.304347826086957,1,0.8,1,0
-Brandon Jones,"['bajones@google.com', 'tojiro@gmail.com']",0,0,141,3,2013-08-22 03:14:52,2013-08-23 08:59:39,987.0,21.0,0,0,0,0
-Zhenyao Mo,['zmo@chromium.org'],0,0,220,8,2013-08-23 06:29:29,2013-09-12 04:09:46,81.05263157894737,2.9473684210526314,0,0.0,0,0
-Dean Jackson,['dino@grorg.org'],0,0,19457,22,2013-08-31 21:16:07,2013-09-13 04:04:30,11349.916666666668,12.833333333333334,0,1.0,1,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,125,8,2013-08-16 21:08:22,2013-09-13 14:21:10,32.407407407407405,2.074074074074074,6,0.0,0,0,0,0.0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,11559,24,2013-08-20 05:14:06,2013-09-13 00:13:34,3517.9565217391305,7.304347826086957,1,0.8,1,0,0.8,0.0
+Brandon Jones,"['bajones@google.com', 'tojiro@gmail.com']",0,0,141,3,2013-08-22 03:14:52,2013-08-23 08:59:39,987.0,21.0,0,0,0,0,0,0.0
+Zhenyao Mo,['zmo@chromium.org'],0,0,220,8,2013-08-23 06:29:29,2013-09-12 04:09:46,81.05263157894737,2.9473684210526314,0,0.0,0,0,0,0.0
+Dean Jackson,['dino@grorg.org'],0,0,19457,22,2013-08-31 21:16:07,2013-09-13 04:04:30,11349.916666666668,12.833333333333334,0,1.0,1,0,1.0,0.0

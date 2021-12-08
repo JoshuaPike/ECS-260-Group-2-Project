@@ -1,16 +1,16 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-He Yunchao,['yunchao.he@intel.com'],0,0,353,14,2015-12-04 18:37:04,2016-01-01 01:50:36,91.51851851851852,3.6296296296296298,9,7.0,7,1
-xidachen,['xidachen@chromium.org'],0,0,285,1,2015-12-03 16:44:53,2015-12-03 16:44:53,0,0,0,0.0,0,0
-xinghua.cao,['xinghua.cao@intel.com'],0,0,2,1,2015-12-04 23:44:39,2015-12-04 23:44:39,0,0,1,0.0,0,0
-zhenyao,['zmo@chromium.org'],0,0,817,27,2015-12-04 03:18:38,2015-12-28 04:08:52,238.29166666666669,7.875,1,0.0,0,0
-Ken Russell,['kbrussel@alum.mit.edu'],0,0,862,19,2015-12-04 04:45:50,2015-12-30 03:36:50,241.35999999999999,5.319999999999999,0,0.0,0,0
-Zhenyao Mo,['zmo@chromium.org'],0,0,700,8,2015-12-04 06:42:36,2015-12-22 09:06:46,272.22222222222223,3.1111111111111107,0,0.0,0,0
-Brandon Jones,['tojiro@gmail.com'],0,0,287,6,2015-12-07 01:50:07,2015-12-14 08:22:41,287.0,6.0,0,0.0,0,-1
-Qiankun Miao,['qiankun.miao@intel.com'],0,0,522,13,2015-12-08 20:56:31,2016-01-01 03:57:48,158.8695652173913,3.956521739130435,4,4.0,4,-2
-renchenglei,['chenglei.ren@intel.com'],0,0,83,3,2015-12-09 00:02:48,2015-12-31 00:15:20,26.40909090909091,0.9545454545454546,1,0.0,0,0
-Olli Etuaho,['oetuaho@nvidia.com'],0,0,15,3,2015-12-10 17:46:36,2015-12-11 19:24:19,105.0,21.0,0,0.0,0,0
-Kenneth Russell,['kbrussel@alum.mit.edu'],0,0,160,2,2015-12-14 07:23:58,2015-12-28 04:03:23,86.15384615384615,1.0769230769230769,0,0.0,0,0
-Jeff Muizelaar,['jmuizelaar@mozilla.com'],0,0,4,1,2015-12-16 06:59:37,2015-12-16 06:59:37,0,0,1,0.0,0,0
-sugoi1,['sugoi@google.com'],0,0,2,1,2015-12-18 11:27:31,2015-12-18 11:27:31,0,0,0,0.0,0,0
-Olivia Lai,['xlai@chromium.org'],0,0,20,1,2015-12-23 06:37:19,2015-12-23 06:37:19,0,0,1,0.0,0,0
-Janusz Sobczak,['janusz.sobczak@mobica.com'],0,0,33,2,2015-12-28 07:44:47,2015-12-30 06:55:55,231.0,14.0,2,1.0,1,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+He Yunchao,['yunchao.he@intel.com'],0,0,353,14,2015-12-04 18:37:04,2016-01-01 01:50:36,91.51851851851852,3.6296296296296298,9,7.0,7,1,1.0,0.07142857142857142
+xidachen,['xidachen@chromium.org'],0,0,285,1,2015-12-03 16:44:53,2015-12-03 16:44:53,0,0,0,0.0,0,0,0,0.0
+xinghua.cao,['xinghua.cao@intel.com'],0,0,2,1,2015-12-04 23:44:39,2015-12-04 23:44:39,0,0,1,0.0,0,0,0,0.0
+zhenyao,['zmo@chromium.org'],0,0,817,27,2015-12-04 03:18:38,2015-12-28 04:08:52,238.29166666666669,7.875,1,0.0,0,0,0,0.0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,862,19,2015-12-04 04:45:50,2015-12-30 03:36:50,241.35999999999999,5.319999999999999,0,0.0,0,0,0,0.0
+Zhenyao Mo,['zmo@chromium.org'],0,0,700,8,2015-12-04 06:42:36,2015-12-22 09:06:46,272.22222222222223,3.1111111111111107,0,0.0,0,0,0,0.0
+Brandon Jones,['tojiro@gmail.com'],0,0,287,6,2015-12-07 01:50:07,2015-12-14 08:22:41,287.0,6.0,0,0.0,0,-1,0,-0.16666666666666666
+Qiankun Miao,['qiankun.miao@intel.com'],0,0,522,13,2015-12-08 20:56:31,2016-01-01 03:57:48,158.8695652173913,3.956521739130435,4,4.0,4,-2,1.0,-0.15384615384615385
+renchenglei,['chenglei.ren@intel.com'],0,0,83,3,2015-12-09 00:02:48,2015-12-31 00:15:20,26.40909090909091,0.9545454545454546,1,0.0,0,0,0,0.0
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,15,3,2015-12-10 17:46:36,2015-12-11 19:24:19,105.0,21.0,0,0.0,0,0,0,0.0
+Kenneth Russell,['kbrussel@alum.mit.edu'],0,0,160,2,2015-12-14 07:23:58,2015-12-28 04:03:23,86.15384615384615,1.0769230769230769,0,0.0,0,0,0,0.0
+Jeff Muizelaar,['jmuizelaar@mozilla.com'],0,0,4,1,2015-12-16 06:59:37,2015-12-16 06:59:37,0,0,1,0.0,0,0,0,0.0
+sugoi1,['sugoi@google.com'],0,0,2,1,2015-12-18 11:27:31,2015-12-18 11:27:31,0,0,0,0.0,0,0,0,0.0
+Olivia Lai,['xlai@chromium.org'],0,0,20,1,2015-12-23 06:37:19,2015-12-23 06:37:19,0,0,1,0.0,0,0,0,0.0
+Janusz Sobczak,['janusz.sobczak@mobica.com'],0,0,33,2,2015-12-28 07:44:47,2015-12-30 06:55:55,231.0,14.0,2,1.0,1,0,1.0,0.0

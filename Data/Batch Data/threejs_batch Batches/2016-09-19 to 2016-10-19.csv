@@ -1,34 +1,34 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Michael Herzog,michael.herzog@human-interactive.org,0,0,4710,14,2016-09-19 03:37:52,2016-10-18 01:40:21,1177.5,3.5,27,6.0,6,-17
-Brandon Jones,tojiro@gmail.com,0,0,112,2,2016-09-19 12:37:31,2016-09-20 04:04:25,0,0,1,0.4347826086956521,2,-6
-Mr.doob,info@mrdoob.com,1,1,62267,56,2016-09-19 12:44:44,2016-10-18 02:10:53,15566.75,14.0,22,15.984476097379323,18,20
-Rich Tibbett,rich.tibbett@gmail.com,0,0,2241,5,2016-09-20 03:27:09,2016-10-06 19:54:40,980.4375,2.1875,6,1.877560999462129,3,38
-Paul Masson,paulmasson@comcast.net,0,0,2,1,2016-09-20 03:33:08,2016-09-20 03:33:08,0,0,1,0.0,0,0
-Brian Chirls,brian@chirls.com,0,0,313,7,2016-09-21 08:57:57,2016-10-06 19:59:26,146.06666666666666,3.2666666666666666,3,2.0,2,18
-Eric Berberich,eric.berberich@gmail.com,0,0,70,1,2016-09-22 02:43:45,2016-09-22 02:43:45,0,0,4,0.0,0,0
-Abhishek Sharma,shaabhishek@users.noreply.github.com,0,0,2,1,2016-09-23 07:21:55,2016-09-23 07:21:55,0,0,0,0.0,0,0
-Aswin S,aswin-s@users.noreply.github.com,0,0,2,1,2016-09-23 07:24:38,2016-09-23 07:24:38,0,0,0,0.0,0,0
-gero3,gero3@users.noreply.github.com,0,0,2,1,2016-09-23 07:28:24,2016-09-23 07:28:24,0,0,0,0.0,0,0
-Jaume Sanchez,the.spite@gmail.com,0,0,94,4,2016-09-23 07:34:13,2016-09-27 00:45:29,219.33333333333334,9.333333333333334,0,0.0,0,0
-Verokster,verokster@gmail.com,0,0,1,1,2016-09-23 07:37:25,2016-09-23 07:37:25,0,0,1,1.0,1,0
-Dusan Bosnjak,citizens.arrest@gmail.com,0,0,8,1,2016-09-23 07:45:05,2016-09-23 07:45:05,0,0,1,1.0,1,0
-koolkap,ajitkohir@gmail.com,0,0,19,1,2016-09-25 12:29:41,2016-09-25 12:29:41,0,0,0,1.0,1,1
-Takahiro,hogehoge@gachapin.jp,0,0,3614,5,2016-09-26 16:19:42,2016-10-17 18:09:45,1204.6666666666667,1.6666666666666667,6,1.3710681475387356,2,14
-PaHae,p.haeusler@cadenas.de,0,0,4,1,2016-09-27 09:05:03,2016-09-27 09:05:03,0,0,0,1.0,1,0
-Gareth Morgan,gareth_morgan77@hotmail.com,0,0,1,1,2016-09-30 09:45:15,2016-09-30 09:45:15,0,0,0,1.0,1,1
-Michael Blix,mkeblx@gmail.com,0,0,21,1,2016-10-04 08:00:33,2016-10-04 08:00:33,0,0,0,0.0,0,0
-mlknz,rkdshe@gmail.com,0,0,6,1,2016-10-06 20:32:25,2016-10-06 20:32:25,0,0,1,0.0,0,0
-aardgoose,angus.sawyer@gmail.com,0,0,187,7,2016-10-06 20:36:16,2016-10-18 08:46:52,119.0,4.454545454545455,2,1.0,1,0
-Nick Powers,nickpowers43@gmail.com,0,0,2,1,2016-10-10 08:28:36,2016-10-10 08:28:36,0,0,0,0.0,0,0
-martinRenou,martin.renou@isae.fr,0,0,11,1,2016-10-10 09:48:14,2016-10-10 09:48:14,0,0,1,1.0,1,0
-fallenoak,github@fallenoak.me,0,0,8,1,2016-10-10 10:02:18,2016-10-10 10:02:18,0,0,0,0.0,0,0
-matthias-w,void15@web.de,0,0,6,1,2016-10-11 10:06:08,2016-10-11 10:06:08,0,0,3,1.0,1,0
-Joshua Koo,zz85nus@gmail.com,0,0,2,1,2016-10-11 10:32:07,2016-10-11 10:32:07,0,0,1,0.0,0,0
-Andreas Jeppsson,andreas@plan8.se,0,0,21,1,2016-10-12 11:37:45,2016-10-12 11:37:45,0,0,1,1.0,1,0
-Daniel Hritzkiv,daniel.hritzkiv@gmail.com,0,0,2,1,2016-10-12 08:31:50,2016-10-12 08:31:50,0,0,1,0.0,0,0
-Ludovic Bailly,ludovic.bailly@bionext.com,0,0,4,1,2016-10-14 13:15:24,2016-10-14 13:15:24,0,0,0,1.0,1,0
-mhalle,m@halle.us,0,0,12,1,2016-10-14 06:39:05,2016-10-14 06:39:05,0,0,1,0.0,0,0
-Jarosław Konik,jarkonik@users.noreply.github.com,0,0,6,1,2016-10-14 07:48:11,2016-10-14 07:48:11,0,0,1,1.0,1,0
-Peter Whidden,all.cows.like.to.moo@gmail.com,0,0,187,1,2016-10-14 09:32:30,2016-10-14 09:32:30,0,0,5,0.4444444444444444,1,0
-WestLangley,WestLangley@users.noreply.github.com,0,0,44,1,2016-10-14 11:50:31,2016-10-14 11:50:31,0,0,1,0.9523809523809524,1,0
-Tentone,tentone@outlook.com,0,0,761,1,2016-10-18 09:21:29,2016-10-18 09:21:29,0,0,2,0.8284734133790738,1,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Michael Herzog,michael.herzog@human-interactive.org,0,0,4710,14,2016-09-19 03:37:52,2016-10-18 01:40:21,1177.5,3.5,27,6.0,6,-17,1.0,-1.2142857142857142
+Brandon Jones,tojiro@gmail.com,0,0,112,2,2016-09-19 12:37:31,2016-09-20 04:04:25,0,0,1,0.4347826086956521,2,-6,0.21739130434782605,-3.0
+Mr.doob,info@mrdoob.com,1,1,62267,56,2016-09-19 12:44:44,2016-10-18 02:10:53,15566.75,14.0,22,15.984476097379323,18,20,0.8880264498544068,0.35714285714285715
+Rich Tibbett,rich.tibbett@gmail.com,0,0,2241,5,2016-09-20 03:27:09,2016-10-06 19:54:40,980.4375,2.1875,6,1.877560999462129,3,38,0.6258536664873763,7.6
+Paul Masson,paulmasson@comcast.net,0,0,2,1,2016-09-20 03:33:08,2016-09-20 03:33:08,0,0,1,0.0,0,0,0,0.0
+Brian Chirls,brian@chirls.com,0,0,313,7,2016-09-21 08:57:57,2016-10-06 19:59:26,146.06666666666666,3.2666666666666666,3,2.0,2,18,1.0,2.5714285714285716
+Eric Berberich,eric.berberich@gmail.com,0,0,70,1,2016-09-22 02:43:45,2016-09-22 02:43:45,0,0,4,0.0,0,0,0,0.0
+Abhishek Sharma,shaabhishek@users.noreply.github.com,0,0,2,1,2016-09-23 07:21:55,2016-09-23 07:21:55,0,0,0,0.0,0,0,0,0.0
+Aswin S,aswin-s@users.noreply.github.com,0,0,2,1,2016-09-23 07:24:38,2016-09-23 07:24:38,0,0,0,0.0,0,0,0,0.0
+gero3,gero3@users.noreply.github.com,0,0,2,1,2016-09-23 07:28:24,2016-09-23 07:28:24,0,0,0,0.0,0,0,0,0.0
+Jaume Sanchez,the.spite@gmail.com,0,0,94,4,2016-09-23 07:34:13,2016-09-27 00:45:29,219.33333333333334,9.333333333333334,0,0.0,0,0,0,0.0
+Verokster,verokster@gmail.com,0,0,1,1,2016-09-23 07:37:25,2016-09-23 07:37:25,0,0,1,1.0,1,0,1.0,0.0
+Dusan Bosnjak,citizens.arrest@gmail.com,0,0,8,1,2016-09-23 07:45:05,2016-09-23 07:45:05,0,0,1,1.0,1,0,1.0,0.0
+koolkap,ajitkohir@gmail.com,0,0,19,1,2016-09-25 12:29:41,2016-09-25 12:29:41,0,0,0,1.0,1,1,1.0,1.0
+Takahiro,hogehoge@gachapin.jp,0,0,3614,5,2016-09-26 16:19:42,2016-10-17 18:09:45,1204.6666666666667,1.6666666666666667,6,1.3710681475387356,2,14,0.6855340737693678,2.8
+PaHae,p.haeusler@cadenas.de,0,0,4,1,2016-09-27 09:05:03,2016-09-27 09:05:03,0,0,0,1.0,1,0,1.0,0.0
+Gareth Morgan,gareth_morgan77@hotmail.com,0,0,1,1,2016-09-30 09:45:15,2016-09-30 09:45:15,0,0,0,1.0,1,1,1.0,1.0
+Michael Blix,mkeblx@gmail.com,0,0,21,1,2016-10-04 08:00:33,2016-10-04 08:00:33,0,0,0,0.0,0,0,0,0.0
+mlknz,rkdshe@gmail.com,0,0,6,1,2016-10-06 20:32:25,2016-10-06 20:32:25,0,0,1,0.0,0,0,0,0.0
+aardgoose,angus.sawyer@gmail.com,0,0,187,7,2016-10-06 20:36:16,2016-10-18 08:46:52,119.0,4.454545454545455,2,1.0,1,0,1.0,0.0
+Nick Powers,nickpowers43@gmail.com,0,0,2,1,2016-10-10 08:28:36,2016-10-10 08:28:36,0,0,0,0.0,0,0,0,0.0
+martinRenou,martin.renou@isae.fr,0,0,11,1,2016-10-10 09:48:14,2016-10-10 09:48:14,0,0,1,1.0,1,0,1.0,0.0
+fallenoak,github@fallenoak.me,0,0,8,1,2016-10-10 10:02:18,2016-10-10 10:02:18,0,0,0,0.0,0,0,0,0.0
+matthias-w,void15@web.de,0,0,6,1,2016-10-11 10:06:08,2016-10-11 10:06:08,0,0,3,1.0,1,0,1.0,0.0
+Joshua Koo,zz85nus@gmail.com,0,0,2,1,2016-10-11 10:32:07,2016-10-11 10:32:07,0,0,1,0.0,0,0,0,0.0
+Andreas Jeppsson,andreas@plan8.se,0,0,21,1,2016-10-12 11:37:45,2016-10-12 11:37:45,0,0,1,1.0,1,0,1.0,0.0
+Daniel Hritzkiv,daniel.hritzkiv@gmail.com,0,0,2,1,2016-10-12 08:31:50,2016-10-12 08:31:50,0,0,1,0.0,0,0,0,0.0
+Ludovic Bailly,ludovic.bailly@bionext.com,0,0,4,1,2016-10-14 13:15:24,2016-10-14 13:15:24,0,0,0,1.0,1,0,1.0,0.0
+mhalle,m@halle.us,0,0,12,1,2016-10-14 06:39:05,2016-10-14 06:39:05,0,0,1,0.0,0,0,0,0.0
+Jarosław Konik,jarkonik@users.noreply.github.com,0,0,6,1,2016-10-14 07:48:11,2016-10-14 07:48:11,0,0,1,1.0,1,0,1.0,0.0
+Peter Whidden,all.cows.like.to.moo@gmail.com,0,0,187,1,2016-10-14 09:32:30,2016-10-14 09:32:30,0,0,5,0.4444444444444444,1,0,0.4444444444444444,0.0
+WestLangley,WestLangley@users.noreply.github.com,0,0,44,1,2016-10-14 11:50:31,2016-10-14 11:50:31,0,0,1,0.9523809523809524,1,0,0.9523809523809524,0.0
+Tentone,tentone@outlook.com,0,0,761,1,2016-10-18 09:21:29,2016-10-18 09:21:29,0,0,2,0.8284734133790738,1,0,0.8284734133790738,0.0

@@ -238,12 +238,12 @@ toolkit_total_filename = 'All Toolkit Data.csv'
 webgl_total_filename = 'All WebGL Data.csv'
 threejs_total_filename = 'All Threejs Data.csv'
 
-make_total_data_from_monthly(babylon_name, babylon_total_filename)
-make_total_data_from_monthly(pydriller_name, pydriller_total_filename)
-make_total_data_from_monthly(velocity_name, velocity_total_filename)
-make_total_data_from_monthly(toolkit_name, toolkit_total_filename)
-make_total_data_from_monthly(webgl_name, webgl_total_filename)
-make_total_data_from_monthly(threejs_name, threejs_total_filename)
+# make_total_data_from_monthly(babylon_name, babylon_total_filename)
+# make_total_data_from_monthly(pydriller_name, pydriller_total_filename)
+# make_total_data_from_monthly(velocity_name, velocity_total_filename)
+# make_total_data_from_monthly(toolkit_name, toolkit_total_filename)
+# make_total_data_from_monthly(webgl_name, webgl_total_filename)
+# make_total_data_from_monthly(threejs_name, threejs_total_filename)
 
 dir_fuck_you = 'Data/*.csv'
 file_list = glob.glob(dir_fuck_you)
@@ -267,3 +267,21 @@ print(str(len(names)))
 print('Number of 10x churn: ' + str(num_10x_churn))
 print('Number of 10x commits: ' + str(num_10x_commits))
 
+
+# --------------------------------------- ANALYSIS ---------------------------------------------------
+babylonData = pd.read_csv('Data/' + babylon_total_filename)
+pydrillerData = pd.read_csv('Data/' + pydriller_total_filename)
+threejsData = pd.read_csv('Data/' + threejs_total_filename)
+webGLData = pd.read_csv('Data/' + webgl_total_filename)
+velocityData = pd.read_csv('Data/' + velocity_total_filename)
+toolkitData = pd.read_csv('Data/' + toolkit_total_filename)
+
+df = pd.concat([pydrillerData, threejsData, webGLData, velocityData, toolkitData])
+print(df.keys())
+
+churn_labels = df['10x label churn']
+commit_labels = df['10x label commits']
+
+
+
+# print(babylonData)

@@ -1,9 +1,9 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Rafael Cintron,['rafael.cintron@outlook.com'],0,0,35,1,2017-06-26 08:28:57,2017-06-26 08:28:57,0,0,0,0,0,0
-zhenyao,['zmo@chromium.org'],0,0,123,2,2017-06-27 12:42:23,2017-07-13 10:28:20,57.4,0.9333333333333333,0,0,0,0
-Olli Etuaho,['oetuaho@nvidia.com'],0,0,987,9,2017-06-28 21:05:20,2017-07-21 17:41:27,314.04545454545456,2.8636363636363638,1,2.0,2,3
-Ken Russell,['kbrussel@alum.mit.edu'],0,0,2739,6,2017-06-29 06:33:48,2017-07-19 11:22:07,958.65,2.1,8,0.0,0,36
-Jeff Gilbert,['jdashg@gmail.com'],0,0,491,7,2017-06-29 09:28:27,2017-07-05 15:05:45,572.8333333333334,8.166666666666668,0,0,0,0
-Samuel Vargas,['svargas@mozilla.com'],0,0,9,1,2017-07-03 08:17:36,2017-07-03 08:17:36,0,0,0,0,0,0
-Tarek Sherif,['tsherif@gmail.com'],0,0,196,1,2017-07-10 06:44:01,2017-07-10 06:44:01,0,0,0,0,0,0
-Jiajia Qin,['jiajia.qin@intel.com'],0,0,14,1,2017-07-20 02:57:10,2017-07-20 02:57:10,0,0,1,0.0,0,2
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Rafael Cintron,['rafael.cintron@outlook.com'],0,0,35,1,2017-06-26 08:28:57,2017-06-26 08:28:57,0,0,0,0,0,0,0,0.0
+zhenyao,['zmo@chromium.org'],0,0,123,2,2017-06-27 12:42:23,2017-07-13 10:28:20,57.4,0.9333333333333333,0,0,0,0,0,0.0
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,987,9,2017-06-28 21:05:20,2017-07-21 17:41:27,314.04545454545456,2.8636363636363638,1,2.0,2,3,1.0,0.3333333333333333
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,2739,6,2017-06-29 06:33:48,2017-07-19 11:22:07,958.65,2.1,8,0.0,0,36,0,6.0
+Jeff Gilbert,['jdashg@gmail.com'],0,0,491,7,2017-06-29 09:28:27,2017-07-05 15:05:45,572.8333333333334,8.166666666666668,0,0,0,0,0,0.0
+Samuel Vargas,['svargas@mozilla.com'],0,0,9,1,2017-07-03 08:17:36,2017-07-03 08:17:36,0,0,0,0,0,0,0,0.0
+Tarek Sherif,['tsherif@gmail.com'],0,0,196,1,2017-07-10 06:44:01,2017-07-10 06:44:01,0,0,0,0,0,0,0,0.0
+Jiajia Qin,['jiajia.qin@intel.com'],0,0,14,1,2017-07-20 02:57:10,2017-07-20 02:57:10,0,0,1,0.0,0,2,0,2.0

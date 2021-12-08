@@ -1,3 +1,3 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Davide Spadini,['spadini.davide@gmail.com'],0,0,1,1,2020-12-07 12:07:15,2020-12-07 12:07:15,0,0,0,0,0,0
-butterl,['liuchao890@126.com'],0,0,60,6,2021-01-01 09:09:09,2021-01-03 09:58:10,210.0,21.0,2,3.0,3,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Davide Spadini,['spadini.davide@gmail.com'],0,0,1,1,2020-12-07 12:07:15,2020-12-07 12:07:15,0,0,0,0,0,0,0,0.0
+butterl,['liuchao890@126.com'],0,0,60,6,2021-01-01 09:09:09,2021-01-03 09:58:10,210.0,21.0,2,3.0,3,0,1.0,0.0

@@ -1,5 +1,5 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Kang Hong Jin,['kanghongjin@gmail.com'],0,0,45,3,2019-01-09 21:31:53,2019-01-14 21:55:35,63.0,4.2,3,0.7692307692307693,1,3
-Spadini Davide,['spadini.davide@gmail.com'],0,0,25,2,2019-01-09 17:15:50,2019-01-14 12:55:36,43.75,3.5,2,0.0,0,0
-ishepard,['spadini.davide@gmail.com'],0,0,66,7,2019-01-11 15:06:30,2019-01-14 15:57:46,154.0,16.333333333333336,0,1.0,1,2
-Christoph Gote,['cgote@ethz.ch'],0,0,23,3,2019-01-14 12:01:55,2019-01-14 12:19:35,0,0,1,1.0,1,2
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Kang Hong Jin,['kanghongjin@gmail.com'],0,0,45,3,2019-01-09 21:31:53,2019-01-14 21:55:35,63.0,4.2,3,0.7692307692307693,1,3,0.7692307692307693,1.0
+Spadini Davide,['spadini.davide@gmail.com'],0,0,25,2,2019-01-09 17:15:50,2019-01-14 12:55:36,43.75,3.5,2,0.0,0,0,0,0.0
+ishepard,['spadini.davide@gmail.com'],0,0,66,7,2019-01-11 15:06:30,2019-01-14 15:57:46,154.0,16.333333333333336,0,1.0,1,2,1.0,0.2857142857142857
+Christoph Gote,['cgote@ethz.ch'],0,0,23,3,2019-01-14 12:01:55,2019-01-14 12:19:35,0,0,1,1.0,1,2,1.0,0.6666666666666666

@@ -1,3 +1,3 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Davide Spadini,['spadini.davide@gmail.com'],0,0,105,7,2021-01-04 11:54:56,2021-01-28 10:33:14,31.956521739130437,2.130434782608696,3,2.0,2,0
-Felipe Ebert,['felipe.ebert@gmail.com'],0,0,2,1,2021-01-28 11:44:28,2021-01-28 11:44:28,0,0,0,0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Davide Spadini,['spadini.davide@gmail.com'],0,0,105,7,2021-01-04 11:54:56,2021-01-28 10:33:14,31.956521739130437,2.130434782608696,3,2.0,2,0,1.0,0.0
+Felipe Ebert,['felipe.ebert@gmail.com'],0,0,2,1,2021-01-28 11:44:28,2021-01-28 11:44:28,0,0,0,0,0,0,0,0.0

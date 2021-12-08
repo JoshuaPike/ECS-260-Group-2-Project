@@ -1,6 +1,6 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-ishepard,['spadini.davide@gmail.com'],0,0,659,7,2020-03-13 11:06:46,2020-03-19 12:00:52,768.8333333333334,8.166666666666668,8,2.125,3,-10
-Davide Spadini,['spadini.davide@gmail.com'],0,0,627,6,2020-03-16 11:33:02,2020-04-06 11:21:23,219.45,2.1,0,0.0,0,0
-stefanodallapalma,['stefano.dallapalma0@gmail.com'],0,0,376,4,2020-03-18 15:40:21,2020-03-20 13:54:02,2632.0,28.0,19,3.0,3,3
-Arie van Deursen,['arie.vandeursen@tudelft.nl'],0,0,23,3,2020-04-01 18:45:10,2020-04-01 18:45:11,0,0,1,1.0,1,-1
-Evan Casey,['evan.casey@allstacks.com'],0,0,58,2,2020-04-05 09:51:07,2020-04-05 11:12:47,0,0,2,1.25,2,6
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+ishepard,['spadini.davide@gmail.com'],0,0,659,7,2020-03-13 11:06:46,2020-03-19 12:00:52,768.8333333333334,8.166666666666668,8,2.125,3,-10,0.7083333333333334,-1.4285714285714286
+Davide Spadini,['spadini.davide@gmail.com'],0,0,627,6,2020-03-16 11:33:02,2020-04-06 11:21:23,219.45,2.1,0,0.0,0,0,0,0.0
+stefanodallapalma,['stefano.dallapalma0@gmail.com'],0,0,376,4,2020-03-18 15:40:21,2020-03-20 13:54:02,2632.0,28.0,19,3.0,3,3,1.0,0.75
+Arie van Deursen,['arie.vandeursen@tudelft.nl'],0,0,23,3,2020-04-01 18:45:10,2020-04-01 18:45:11,0,0,1,1.0,1,-1,1.0,-0.3333333333333333
+Evan Casey,['evan.casey@allstacks.com'],0,0,58,2,2020-04-05 09:51:07,2020-04-05 11:12:47,0,0,2,1.25,2,6,0.625,3.0

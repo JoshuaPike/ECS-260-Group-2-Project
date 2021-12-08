@@ -1,6 +1,6 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-stefanodallapalma,['stefano.dallapalma0@gmail.com'],0,0,771,10,2020-02-11 15:00:17,2020-03-06 16:16:57,224.875,2.916666666666667,25,4.647058823529412,5,0
-Davide Spadini,['spadini.davide@gmail.com'],0,0,1314,10,2020-02-11 15:35:04,2020-03-06 17:01:04,383.25,2.916666666666667,11,0.0,0,0
-ishepard,['spadini.davide@gmail.com'],0,0,1019,15,2020-02-27 14:04:11,2020-03-06 16:44:36,891.625,13.125,4,4.707516339869281,7,11
-NullConvergence,['a.serban@cs.ru.nl'],0,0,214,11,2020-02-28 18:21:28,2020-02-29 15:49:26,0,0,3,4.138888888888889,5,14
-Alex,['32632523+NullConvergence@users.noreply.github.com'],0,0,8,3,2020-02-28 19:09:20,2020-02-29 13:06:48,0,0,0,0.0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+stefanodallapalma,['stefano.dallapalma0@gmail.com'],0,0,771,10,2020-02-11 15:00:17,2020-03-06 16:16:57,224.875,2.916666666666667,25,4.647058823529412,5,0,0.9294117647058824,0.0
+Davide Spadini,['spadini.davide@gmail.com'],0,0,1314,10,2020-02-11 15:35:04,2020-03-06 17:01:04,383.25,2.916666666666667,11,0.0,0,0,0,0.0
+ishepard,['spadini.davide@gmail.com'],0,0,1019,15,2020-02-27 14:04:11,2020-03-06 16:44:36,891.625,13.125,4,4.707516339869281,7,11,0.6725023342670402,0.7333333333333333
+NullConvergence,['a.serban@cs.ru.nl'],0,0,214,11,2020-02-28 18:21:28,2020-02-29 15:49:26,0,0,3,4.138888888888889,5,14,0.8277777777777778,1.2727272727272727
+Alex,['32632523+NullConvergence@users.noreply.github.com'],0,0,8,3,2020-02-28 19:09:20,2020-02-29 13:06:48,0,0,0,0.0,0,0,0,0.0

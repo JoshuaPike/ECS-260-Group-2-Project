@@ -1,4 +1,4 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Ryc O'Chet,['rycochet@rycochet.com'],0,0,19346,33,2017-10-23 01:45:07,2017-11-18 17:37:10,5208.538461538461,8.884615384615385,14,10.55834244911368,17,158
-Alexandros Dorodoulis,['aldor94@gmail.com'],0,0,661,6,2017-10-31 15:01:10,2017-11-09 18:04:05,514.1111111111111,4.666666666666666,0,1.9545454545454544,2,0
-Duskfall,['cyber_andrew6@hotmail.com'],0,0,4654,6,2017-11-08 14:36:35,2017-11-14 19:24:40,5429.666666666667,7.0,0,4.048780487804878,5,10
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Ryc O'Chet,['rycochet@rycochet.com'],0,0,19346,33,2017-10-23 01:45:07,2017-11-18 17:37:10,5208.538461538461,8.884615384615385,14,10.55834244911368,17,158,0.6210789675949223,4.787878787878788
+Alexandros Dorodoulis,['aldor94@gmail.com'],0,0,661,6,2017-10-31 15:01:10,2017-11-09 18:04:05,514.1111111111111,4.666666666666666,0,1.9545454545454544,2,0,0.9772727272727272,0.0
+Duskfall,['cyber_andrew6@hotmail.com'],0,0,4654,6,2017-11-08 14:36:35,2017-11-14 19:24:40,5429.666666666667,7.0,0,4.048780487804878,5,10,0.8097560975609757,1.6666666666666667

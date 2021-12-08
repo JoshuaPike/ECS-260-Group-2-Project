@@ -1,9 +1,9 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Ken Russell,['kbrussel@alum.mit.edu'],0,0,1436,19,2012-12-18 08:23:36,2013-01-17 03:55:19,346.6206896551724,4.586206896551723,0,0.0,0,0
-Kenneth Russell,['kbr@chromium.org'],0,0,914,14,2012-12-19 10:06:14,2013-01-17 03:52:55,228.5,3.5,1,0.0,0,0
-Jasmine Kent,['jk@codeartemis.com'],0,0,106,8,2012-12-28 15:16:51,2012-12-28 18:02:34,0,0,0,0,0,0
-Gregg Tavares,['github@greggman.com'],0,0,4159,11,2012-12-29 10:02:58,2013-01-17 06:06:03,1617.3888888888887,4.277777777777778,9,3.7735733902960025,5,-108
-Greggman,['github@greggman.com'],0,0,4323,10,2012-12-28 00:03:26,2013-01-17 06:07:47,1513.05,3.5,0,0.0,0,0
-Al Patrick,['apatrick@google.com'],0,0,254,3,2013-01-04 08:55:44,2013-01-04 09:43:14,0,0,0,0,0,0
-John Bauman,['jbauman@chromium.org'],0,0,86,1,2013-01-14 03:47:04,2013-01-14 03:47:04,0,0,0,0.0,0,0
-Florian Boesch,['pyalot@gmail.com'],0,0,201,2,2013-01-15 21:01:49,2013-01-16 23:53:53,1407.0,14.0,0,0.0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,1436,19,2012-12-18 08:23:36,2013-01-17 03:55:19,346.6206896551724,4.586206896551723,0,0.0,0,0,0,0.0
+Kenneth Russell,['kbr@chromium.org'],0,0,914,14,2012-12-19 10:06:14,2013-01-17 03:52:55,228.5,3.5,1,0.0,0,0,0,0.0
+Jasmine Kent,['jk@codeartemis.com'],0,0,106,8,2012-12-28 15:16:51,2012-12-28 18:02:34,0,0,0,0,0,0,0,0.0
+Gregg Tavares,['github@greggman.com'],0,0,4159,11,2012-12-29 10:02:58,2013-01-17 06:06:03,1617.3888888888887,4.277777777777778,9,3.7735733902960025,5,-108,0.7547146780592005,-9.818181818181818
+Greggman,['github@greggman.com'],0,0,4323,10,2012-12-28 00:03:26,2013-01-17 06:07:47,1513.05,3.5,0,0.0,0,0,0,0.0
+Al Patrick,['apatrick@google.com'],0,0,254,3,2013-01-04 08:55:44,2013-01-04 09:43:14,0,0,0,0,0,0,0,0.0
+John Bauman,['jbauman@chromium.org'],0,0,86,1,2013-01-14 03:47:04,2013-01-14 03:47:04,0,0,0,0.0,0,0,0,0.0
+Florian Boesch,['pyalot@gmail.com'],0,0,201,2,2013-01-15 21:01:49,2013-01-16 23:53:53,1407.0,14.0,0,0.0,0,0,0,0.0

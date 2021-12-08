@@ -1,2 +1,2 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Julian Verdurmen,['304NotModified@users.noreply.github.com'],1,1,79,1,2016-07-26 21:11:28,2016-07-26 21:11:28,0,0,1,0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Julian Verdurmen,['304NotModified@users.noreply.github.com'],1,1,79,1,2016-07-26 21:11:28,2016-07-26 21:11:28,0,0,1,0,0,0,0,0.0

@@ -343,3 +343,32 @@ def write_to_csv(contributorDict, filename):
         writer = csv.DictWriter(csvfile, fieldnames=fields)
         writer.writeheader()
         writer.writerows(csvDict)
+
+def write_to_csv_with_average_DMM_and_comments(contributorDict, filename):
+    fields = ['name', 'emails', '10x label churn', '10x label commits', 'churn', 'num commits', 'first commit',
+              'last commit', 'churn productivity', 'commit productivity', 'num owned files', 'sum of dmm complexities',
+              'commits with dmm complexity present', 'num comments added/removed', 'average dmm', 'average comments']
+    csvDict = []
+
+    for name in contributorDict:
+        csvDict.append({'name': name,
+                        'emails': contributorDict[name][0],
+                        '10x label churn': contributorDict[name][1],
+                        '10x label commits': contributorDict[name][2],
+                        'churn': contributorDict[name][3],
+                        'num commits': contributorDict[name][4],
+                        'first commit': contributorDict[name][5],
+                        'last commit': contributorDict[name][6],
+                        'churn productivity': contributorDict[name][7],
+                        'commit productivity': contributorDict[name][8],
+                        'num owned files': contributorDict[name][9],
+                        'sum of dmm complexities': contributorDict[name][10],
+                        'commits with dmm complexity present': contributorDict[name][11],
+                        'num comments added/removed': contributorDict[name][12],
+                        'average dmm': contributorDict[name][13],
+                        'average comments': contributorDict[name][14]})
+
+    with open(filename, 'w+', encoding='utf-8') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=fields)
+        writer.writeheader()
+        writer.writerows(csvDict)

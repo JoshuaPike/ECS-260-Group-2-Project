@@ -1,7 +1,7 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Jeff Gilbert,['jdashg@gmail.com'],0,0,67,3,2020-11-13 08:50:26,2020-12-04 07:13:39,23.45,1.05,0,0.0,0,0
-Ken Russell,['kbrussel@alum.mit.edu'],0,0,163,3,2020-11-13 09:15:56,2020-11-17 10:17:18,285.25,5.25,0,0,0,0
-ShrekShao,['shrekshao@google.com'],0,0,13,2,2020-11-24 08:11:08,2020-12-04 07:04:29,10.11111111111111,1.5555555555555554,0,0.0,0,0
-James Darpinian,['jdarpinian@chromium.org'],0,0,102,1,2020-11-24 09:18:54,2020-11-24 09:18:54,0,0,0,0,0,0
-Jie Chen,['jie.a.chen@intel.com'],0,0,640,1,2020-12-04 07:12:28,2020-12-04 07:12:28,0,0,1,1.0,1,28
-Alexey Knyazev,['3479527+lexaknyazev@users.noreply.github.com'],0,0,228,2,2020-12-04 07:18:45,2020-12-04 07:21:55,0,0,0,0.0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Jeff Gilbert,['jdashg@gmail.com'],0,0,67,3,2020-11-13 08:50:26,2020-12-04 07:13:39,23.45,1.05,0,0.0,0,0,0,0.0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,163,3,2020-11-13 09:15:56,2020-11-17 10:17:18,285.25,5.25,0,0,0,0,0,0.0
+ShrekShao,['shrekshao@google.com'],0,0,13,2,2020-11-24 08:11:08,2020-12-04 07:04:29,10.11111111111111,1.5555555555555554,0,0.0,0,0,0,0.0
+James Darpinian,['jdarpinian@chromium.org'],0,0,102,1,2020-11-24 09:18:54,2020-11-24 09:18:54,0,0,0,0,0,0,0,0.0
+Jie Chen,['jie.a.chen@intel.com'],0,0,640,1,2020-12-04 07:12:28,2020-12-04 07:12:28,0,0,1,1.0,1,28,1.0,28.0
+Alexey Knyazev,['3479527+lexaknyazev@users.noreply.github.com'],0,0,228,2,2020-12-04 07:18:45,2020-12-04 07:21:55,0,0,0,0.0,0,0,0,0.0

@@ -1,35 +1,35 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Mr.doob,info@mrdoob.com,1,1,105497,94,2016-08-19 10:36:06,2016-09-16 07:22:54,27351.074074074073,24.37037037037037,85,21.093440619952634,24,0
-Pim Schreurs,pimschreurs@gmail.com,0,0,26,1,2016-08-20 03:02:36,2016-08-20 03:02:36,0,0,2,0.0,0,0
-gero3,gero3@users.noreply.github.com,0,0,744,1,2016-08-22 03:54:16,2016-08-22 03:54:16,0,0,3,0.0,0,0
-weiserhei,weiserhei@users.noreply.github.com,0,0,2,1,2016-08-22 16:09:51,2016-08-22 16:09:51,0,0,0,0.0,0,0
-MrRar,Mr.rar1998@gmail.com,0,0,2,1,2016-08-27 18:19:03,2016-08-27 18:19:03,0,0,1,0.0,0,0
-Giff Song,giff.song@gmail.com,0,0,2,1,2016-08-27 18:20:22,2016-08-27 18:20:22,0,0,0,0.0,0,0
-tschw,tschw@users.noreply.github.com,0,0,53,2,2016-08-28 01:23:54,2016-08-29 09:57:11,371.0,14.0,2,0.0,0,-1
-sunag,sunag@users.noreply.github.com,0,0,2130,3,2016-08-29 04:24:17,2016-09-13 00:53:51,1065.0,1.5,45,1.613953488372093,2,0
-SpiritBreaker,wanglei103751609@126.com,0,0,1,1,2016-08-31 01:30:47,2016-08-31 01:30:47,0,0,0,0.0,0,0
-Stewart,stewart@stewd.io,0,0,87,1,2016-08-30 09:15:21,2016-08-30 09:15:21,0,0,0,0.1219512195121951,1,4
-Tobias,schwinger@fielmann-ventures.com,0,0,14,1,2016-09-02 13:13:23,2016-09-02 13:13:23,0,0,0,0.0,0,0
-Joshua Koo,zz85nus@gmail.com,0,0,4,1,2016-09-02 10:44:42,2016-09-02 10:44:42,0,0,0,0.0,0,0
-Ludovic Bailly,Ludobaka@users.noreply.github.com,0,0,363,1,2016-09-06 02:07:12,2016-09-06 02:07:12,0,0,1,0.0,0,0
-aardgoose,angus.sawyer@gmail.com,0,0,37,2,2016-09-06 03:57:55,2016-09-14 07:58:42,32.375,1.75,3,0.0,0,1
-Josiah Konrad,Jozain@users.noreply.github.com,0,0,18,1,2016-09-06 04:09:51,2016-09-06 04:09:51,0,0,2,1.0,1,0
-Paul Masson,paulmasson@comcast.net,0,0,6,1,2016-09-06 04:14:24,2016-09-06 04:14:24,0,0,0,0.0,0,0
-Daniel Hritzkiv,daniel.hritzkiv@gmail.com,0,0,9,2,2016-09-06 08:17:52,2016-09-07 10:59:31,63.0,14.0,0,0.0,0,1
-Benjamin Dobell,benjamin.dobell+github@glassechidna.com.au,0,0,195,2,2016-09-06 13:45:15,2016-09-08 16:06:39,682.5,7.0,7,2.0,2,0
-Takahiro,hogehoge@gachapin.jp,0,0,197,6,2016-09-06 15:12:40,2016-09-15 08:36:06,172.375,5.25,3,0.6728971962616822,1,-2
-Greggman,github@greggman.com,0,0,84,1,2016-09-06 15:30:50,2016-09-06 15:30:50,0,0,1,1.0,1,0
-WestLangley,WestLangley@users.noreply.github.com,0,0,2,1,2016-09-06 15:44:58,2016-09-06 15:44:58,0,0,0,0.0,0,0
-Jonne Nauha,jonne.nauha@adminotech.com,0,0,38,2,2016-09-07 08:12:21,2016-09-07 08:22:16,0,0,1,0.0,0,1
-sunnystormy,michael.brodeur@unseen.is,0,0,2,1,2016-09-07 14:14:31,2016-09-07 14:14:31,0,0,0,0.0,0,0
-Juan Jose Luna Espinosa,yomboprime@users.noreply.github.com,0,0,2,1,2016-09-07 15:24:45,2016-09-07 15:24:45,0,0,1,0.1666666666666666,1,0
-Brandon Jones,tojiro@gmail.com,0,0,305,1,2016-09-08 16:09:19,2016-09-08 16:09:19,0,0,2,1.0,1,-5
-Roc,rocwind@gmail.com,0,0,8,1,2016-09-11 03:04:51,2016-09-11 03:04:51,0,0,0,1.0,1,0
-Alan Wu,alan.wu@auckland.ac.nz,0,0,7,1,2016-09-12 10:00:09,2016-09-12 10:00:09,0,0,0,0.0,0,0
-Michael Herzog,michael.herzog@human-interactive.org,0,0,314,4,2016-09-12 10:52:27,2016-09-17 04:47:37,549.5,7.0,4,2.0,2,0
-"Peter ""Coburn"" Fornari",minimalist37@gmail.com,0,0,2,1,2016-09-13 12:42:52,2016-09-13 12:42:52,0,0,0,0.0,0,0
-Nick Powers,nickpowers43@gmail.com,0,0,8,1,2016-09-14 02:31:35,2016-09-14 02:31:35,0,0,0,0.0,0,0
-Ian Kerr,ian.kerr@verold.com,0,0,39,1,2016-09-15 08:32:42,2016-09-15 08:32:42,0,0,1,0.0555555555555555,1,0
-michaldybizbanski,michal.dybizbanski@gmail.com,0,0,36,1,2016-09-15 08:35:31,2016-09-15 08:35:31,0,0,0,0.0,0,0
-Tiago Cardoso,tcardoso@nuxeo.com,0,0,6,1,2016-09-16 09:59:49,2016-09-16 09:59:49,0,0,1,0.0,0,0
-Martin Schuhfuss,m.schuhfuss@gmail.com,0,0,1,1,2016-09-16 14:43:19,2016-09-16 14:43:19,0,0,0,0.0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Mr.doob,info@mrdoob.com,1,1,105497,94,2016-08-19 10:36:06,2016-09-16 07:22:54,27351.074074074073,24.37037037037037,85,21.093440619952634,24,0,0.8788933591646931,0.0
+Pim Schreurs,pimschreurs@gmail.com,0,0,26,1,2016-08-20 03:02:36,2016-08-20 03:02:36,0,0,2,0.0,0,0,0,0.0
+gero3,gero3@users.noreply.github.com,0,0,744,1,2016-08-22 03:54:16,2016-08-22 03:54:16,0,0,3,0.0,0,0,0,0.0
+weiserhei,weiserhei@users.noreply.github.com,0,0,2,1,2016-08-22 16:09:51,2016-08-22 16:09:51,0,0,0,0.0,0,0,0,0.0
+MrRar,Mr.rar1998@gmail.com,0,0,2,1,2016-08-27 18:19:03,2016-08-27 18:19:03,0,0,1,0.0,0,0,0,0.0
+Giff Song,giff.song@gmail.com,0,0,2,1,2016-08-27 18:20:22,2016-08-27 18:20:22,0,0,0,0.0,0,0,0,0.0
+tschw,tschw@users.noreply.github.com,0,0,53,2,2016-08-28 01:23:54,2016-08-29 09:57:11,371.0,14.0,2,0.0,0,-1,0,-0.5
+sunag,sunag@users.noreply.github.com,0,0,2130,3,2016-08-29 04:24:17,2016-09-13 00:53:51,1065.0,1.5,45,1.613953488372093,2,0,0.8069767441860465,0.0
+SpiritBreaker,wanglei103751609@126.com,0,0,1,1,2016-08-31 01:30:47,2016-08-31 01:30:47,0,0,0,0.0,0,0,0,0.0
+Stewart,stewart@stewd.io,0,0,87,1,2016-08-30 09:15:21,2016-08-30 09:15:21,0,0,0,0.1219512195121951,1,4,0.1219512195121951,4.0
+Tobias,schwinger@fielmann-ventures.com,0,0,14,1,2016-09-02 13:13:23,2016-09-02 13:13:23,0,0,0,0.0,0,0,0,0.0
+Joshua Koo,zz85nus@gmail.com,0,0,4,1,2016-09-02 10:44:42,2016-09-02 10:44:42,0,0,0,0.0,0,0,0,0.0
+Ludovic Bailly,Ludobaka@users.noreply.github.com,0,0,363,1,2016-09-06 02:07:12,2016-09-06 02:07:12,0,0,1,0.0,0,0,0,0.0
+aardgoose,angus.sawyer@gmail.com,0,0,37,2,2016-09-06 03:57:55,2016-09-14 07:58:42,32.375,1.75,3,0.0,0,1,0,0.5
+Josiah Konrad,Jozain@users.noreply.github.com,0,0,18,1,2016-09-06 04:09:51,2016-09-06 04:09:51,0,0,2,1.0,1,0,1.0,0.0
+Paul Masson,paulmasson@comcast.net,0,0,6,1,2016-09-06 04:14:24,2016-09-06 04:14:24,0,0,0,0.0,0,0,0,0.0
+Daniel Hritzkiv,daniel.hritzkiv@gmail.com,0,0,9,2,2016-09-06 08:17:52,2016-09-07 10:59:31,63.0,14.0,0,0.0,0,1,0,0.5
+Benjamin Dobell,benjamin.dobell+github@glassechidna.com.au,0,0,195,2,2016-09-06 13:45:15,2016-09-08 16:06:39,682.5,7.0,7,2.0,2,0,1.0,0.0
+Takahiro,hogehoge@gachapin.jp,0,0,197,6,2016-09-06 15:12:40,2016-09-15 08:36:06,172.375,5.25,3,0.6728971962616822,1,-2,0.6728971962616822,-0.3333333333333333
+Greggman,github@greggman.com,0,0,84,1,2016-09-06 15:30:50,2016-09-06 15:30:50,0,0,1,1.0,1,0,1.0,0.0
+WestLangley,WestLangley@users.noreply.github.com,0,0,2,1,2016-09-06 15:44:58,2016-09-06 15:44:58,0,0,0,0.0,0,0,0,0.0
+Jonne Nauha,jonne.nauha@adminotech.com,0,0,38,2,2016-09-07 08:12:21,2016-09-07 08:22:16,0,0,1,0.0,0,1,0,0.5
+sunnystormy,michael.brodeur@unseen.is,0,0,2,1,2016-09-07 14:14:31,2016-09-07 14:14:31,0,0,0,0.0,0,0,0,0.0
+Juan Jose Luna Espinosa,yomboprime@users.noreply.github.com,0,0,2,1,2016-09-07 15:24:45,2016-09-07 15:24:45,0,0,1,0.1666666666666666,1,0,0.1666666666666666,0.0
+Brandon Jones,tojiro@gmail.com,0,0,305,1,2016-09-08 16:09:19,2016-09-08 16:09:19,0,0,2,1.0,1,-5,1.0,-5.0
+Roc,rocwind@gmail.com,0,0,8,1,2016-09-11 03:04:51,2016-09-11 03:04:51,0,0,0,1.0,1,0,1.0,0.0
+Alan Wu,alan.wu@auckland.ac.nz,0,0,7,1,2016-09-12 10:00:09,2016-09-12 10:00:09,0,0,0,0.0,0,0,0,0.0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,314,4,2016-09-12 10:52:27,2016-09-17 04:47:37,549.5,7.0,4,2.0,2,0,1.0,0.0
+"Peter ""Coburn"" Fornari",minimalist37@gmail.com,0,0,2,1,2016-09-13 12:42:52,2016-09-13 12:42:52,0,0,0,0.0,0,0,0,0.0
+Nick Powers,nickpowers43@gmail.com,0,0,8,1,2016-09-14 02:31:35,2016-09-14 02:31:35,0,0,0,0.0,0,0,0,0.0
+Ian Kerr,ian.kerr@verold.com,0,0,39,1,2016-09-15 08:32:42,2016-09-15 08:32:42,0,0,1,0.0555555555555555,1,0,0.0555555555555555,0.0
+michaldybizbanski,michal.dybizbanski@gmail.com,0,0,36,1,2016-09-15 08:35:31,2016-09-15 08:35:31,0,0,0,0.0,0,0,0,0.0
+Tiago Cardoso,tcardoso@nuxeo.com,0,0,6,1,2016-09-16 09:59:49,2016-09-16 09:59:49,0,0,1,0.0,0,0,0,0.0
+Martin Schuhfuss,m.schuhfuss@gmail.com,0,0,1,1,2016-09-16 14:43:19,2016-09-16 14:43:19,0,0,0,0.0,0,0,0,0.0

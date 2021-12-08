@@ -1,6 +1,6 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Gregg Tavares,['github@greggman.com'],0,0,1735,18,2013-04-17 11:34:21,2013-05-08 17:58:16,578.3333333333334,6.0,5,2.0,2,7
-Greggman,['github@greggman.com'],0,0,1735,15,2013-04-17 11:35:21,2013-05-08 18:00:57,578.3333333333334,5.0,0,0.0,0,0
-Kenneth Russell,['kbr@chromium.org'],0,0,5338,11,2013-04-23 07:51:43,2013-05-15 09:47:12,1698.4545454545455,3.5,0,1.0,1,0
-Ken Russell,['kbrussel@alum.mit.edu'],0,0,5608,11,2013-04-23 08:07:12,2013-05-15 09:48:45,1784.3636363636365,3.5,0,0.0,0,0
-Jun Jiang,['jun.a.jiang@intel.com'],0,0,286,1,2013-05-15 16:34:26,2013-05-15 16:34:26,0,0,1,0.2230769230769231,1,5
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Gregg Tavares,['github@greggman.com'],0,0,1735,18,2013-04-17 11:34:21,2013-05-08 17:58:16,578.3333333333334,6.0,5,2.0,2,7,1.0,0.3888888888888889
+Greggman,['github@greggman.com'],0,0,1735,15,2013-04-17 11:35:21,2013-05-08 18:00:57,578.3333333333334,5.0,0,0.0,0,0,0,0.0
+Kenneth Russell,['kbr@chromium.org'],0,0,5338,11,2013-04-23 07:51:43,2013-05-15 09:47:12,1698.4545454545455,3.5,0,1.0,1,0,1.0,0.0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,5608,11,2013-04-23 08:07:12,2013-05-15 09:48:45,1784.3636363636365,3.5,0,0.0,0,0,0,0.0
+Jun Jiang,['jun.a.jiang@intel.com'],0,0,286,1,2013-05-15 16:34:26,2013-05-15 16:34:26,0,0,1,0.2230769230769231,1,5,0.2230769230769231,5.0

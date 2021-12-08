@@ -1,27 +1,27 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Xavier Willemin,xavier@slashnet.ch,0,0,12,2,2021-06-16 13:22:09,2021-06-16 20:14:25,0,0,2,2.0,2,0
-Mr.doob,info@mrdoob.com,1,0,23928,50,2021-06-16 15:40:22,2021-07-13 16:51:28,6203.555555555556,12.962962962962962,63,16.113075335397316,20,1
-Michael Herzog,michael.herzog@human-interactive.org,0,0,1702,21,2021-06-16 13:48:17,2021-07-14 14:46:13,425.5,5.25,34,5.33943661971831,7,-9
-heqiang,531364804@qq.com,0,0,4,1,2021-06-16 13:52:15,2021-06-16 13:52:15,0,0,2,0.0,0,0
-developers-mirrorme3d,85569949+developers-mirrorme3d@users.noreply.github.com,0,0,175,1,2021-06-17 11:22:44,2021-06-17 11:22:44,0,0,3,0.109090909090909,1,3
-Martin Schuhfuss,m.schuhfuss@gmail.com,0,0,2,1,2021-06-18 10:12:34,2021-06-18 10:12:34,0,0,0,0.0,0,0
-Benjamin MICHEL,119354+SBRK@users.noreply.github.com,0,0,34,1,2021-06-18 18:30:56,2021-06-18 18:30:56,0,0,2,0.0,0,0
-WestLangley,WestLangley@users.noreply.github.com,0,0,194,7,2021-06-18 20:49:10,2021-07-07 18:38:44,75.44444444444444,2.722222222222222,3,1.0,1,0
-Luke Ingalls,45518011+lukeingalls@users.noreply.github.com,0,0,2,1,2021-06-19 10:14:07,2021-06-19 10:14:07,0,0,0,0.0,0,0
-Meli Harvey,harveydee87@gmail.com,0,0,42,1,2021-06-19 11:09:18,2021-06-19 11:09:18,0,0,1,0.25,1,0
-NNskelly,sean@nextnowagency.com,0,0,31,1,2021-06-25 21:57:37,2021-06-25 21:57:37,0,0,2,1.0,1,2
-inokawa,48897392+inokawa@users.noreply.github.com,0,0,2,1,2021-06-28 10:17:31,2021-06-28 10:17:31,0,0,0,0.0,0,0
-Renaud Rohlinger,renaud.rohlinger@gmail.com,0,0,4,1,2021-06-28 10:18:57,2021-06-28 10:18:57,0,0,0,0.0,0,0
-Akihiro Oyamada,admin@yomotsu.net,0,0,12,1,2021-06-29 17:19:52,2021-06-29 17:19:52,0,0,0,0.0,0,0
-Rik Cabanier,cabanier@gmail.com,0,0,343,3,2021-06-29 20:20:54,2021-07-14 11:26:18,171.5,1.5,3,1.0833333333333333,2,0
-Takahiro,hogehoge@gachapin.jp,0,0,179,4,2021-06-30 09:10:16,2021-07-13 10:43:26,96.38461538461539,2.1538461538461537,3,0.6909090909090909,1,0
-Zachary Capalbo,zach.geek@gmail.com,0,0,2,1,2021-06-30 09:23:52,2021-06-30 09:23:52,0,0,1,0.0,0,0
-puxiao,yangpuxiao@gmail.com,0,0,33,2,2021-07-04 09:19:17,2021-07-10 20:09:03,38.5,2.3333333333333335,1,0.0,0,0
-Paul Masson,paulmasson@analyticphysics.com,0,0,4,2,2021-07-05 11:53:05,2021-07-07 01:25:54,28.0,14.0,1,0.0,0,0
-SxP,sigmaxipi@users.noreply.github.com,0,0,94,1,2021-07-05 20:27:59,2021-07-05 20:27:59,0,0,0,0.0,0,0
-Adam Spindler,xmeadamx@gmail.com,0,0,34,1,2021-07-07 19:11:12,2021-07-07 19:11:12,0,0,0,1.0,1,0
-vsh,vsh426@gmail.com,0,0,20,1,2021-07-09 11:00:38,2021-07-09 11:00:38,0,0,0,0.0,0,0
-LeoShen,32362328+leoshenhh@users.noreply.github.com,0,0,6,1,2021-07-09 12:12:14,2021-07-09 12:12:14,0,0,0,1.0,1,0
-Antonio González Viegas,antoniogviegas@hotmail.com,0,0,1097,1,2021-07-12 18:00:03,2021-07-12 18:00:03,0,0,2,1.0,1,-1
-davehill00,59743491+davehill00@users.noreply.github.com,0,0,39,1,2021-07-13 12:03:21,2021-07-13 12:03:21,0,0,1,0.0,0,0
-Victor Nakoryakov,victor@amperka.ru,0,0,4,1,2021-07-13 12:40:00,2021-07-13 12:40:00,0,0,1,0.0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Xavier Willemin,xavier@slashnet.ch,0,0,12,2,2021-06-16 13:22:09,2021-06-16 20:14:25,0,0,2,2.0,2,0,1.0,0.0
+Mr.doob,info@mrdoob.com,1,0,23928,50,2021-06-16 15:40:22,2021-07-13 16:51:28,6203.555555555556,12.962962962962962,63,16.113075335397316,20,1,0.8056537667698658,0.02
+Michael Herzog,michael.herzog@human-interactive.org,0,0,1702,21,2021-06-16 13:48:17,2021-07-14 14:46:13,425.5,5.25,34,5.33943661971831,7,-9,0.7627766599597585,-0.42857142857142855
+heqiang,531364804@qq.com,0,0,4,1,2021-06-16 13:52:15,2021-06-16 13:52:15,0,0,2,0.0,0,0,0,0.0
+developers-mirrorme3d,85569949+developers-mirrorme3d@users.noreply.github.com,0,0,175,1,2021-06-17 11:22:44,2021-06-17 11:22:44,0,0,3,0.109090909090909,1,3,0.109090909090909,3.0
+Martin Schuhfuss,m.schuhfuss@gmail.com,0,0,2,1,2021-06-18 10:12:34,2021-06-18 10:12:34,0,0,0,0.0,0,0,0,0.0
+Benjamin MICHEL,119354+SBRK@users.noreply.github.com,0,0,34,1,2021-06-18 18:30:56,2021-06-18 18:30:56,0,0,2,0.0,0,0,0,0.0
+WestLangley,WestLangley@users.noreply.github.com,0,0,194,7,2021-06-18 20:49:10,2021-07-07 18:38:44,75.44444444444444,2.722222222222222,3,1.0,1,0,1.0,0.0
+Luke Ingalls,45518011+lukeingalls@users.noreply.github.com,0,0,2,1,2021-06-19 10:14:07,2021-06-19 10:14:07,0,0,0,0.0,0,0,0,0.0
+Meli Harvey,harveydee87@gmail.com,0,0,42,1,2021-06-19 11:09:18,2021-06-19 11:09:18,0,0,1,0.25,1,0,0.25,0.0
+NNskelly,sean@nextnowagency.com,0,0,31,1,2021-06-25 21:57:37,2021-06-25 21:57:37,0,0,2,1.0,1,2,1.0,2.0
+inokawa,48897392+inokawa@users.noreply.github.com,0,0,2,1,2021-06-28 10:17:31,2021-06-28 10:17:31,0,0,0,0.0,0,0,0,0.0
+Renaud Rohlinger,renaud.rohlinger@gmail.com,0,0,4,1,2021-06-28 10:18:57,2021-06-28 10:18:57,0,0,0,0.0,0,0,0,0.0
+Akihiro Oyamada,admin@yomotsu.net,0,0,12,1,2021-06-29 17:19:52,2021-06-29 17:19:52,0,0,0,0.0,0,0,0,0.0
+Rik Cabanier,cabanier@gmail.com,0,0,343,3,2021-06-29 20:20:54,2021-07-14 11:26:18,171.5,1.5,3,1.0833333333333333,2,0,0.5416666666666666,0.0
+Takahiro,hogehoge@gachapin.jp,0,0,179,4,2021-06-30 09:10:16,2021-07-13 10:43:26,96.38461538461539,2.1538461538461537,3,0.6909090909090909,1,0,0.6909090909090909,0.0
+Zachary Capalbo,zach.geek@gmail.com,0,0,2,1,2021-06-30 09:23:52,2021-06-30 09:23:52,0,0,1,0.0,0,0,0,0.0
+puxiao,yangpuxiao@gmail.com,0,0,33,2,2021-07-04 09:19:17,2021-07-10 20:09:03,38.5,2.3333333333333335,1,0.0,0,0,0,0.0
+Paul Masson,paulmasson@analyticphysics.com,0,0,4,2,2021-07-05 11:53:05,2021-07-07 01:25:54,28.0,14.0,1,0.0,0,0,0,0.0
+SxP,sigmaxipi@users.noreply.github.com,0,0,94,1,2021-07-05 20:27:59,2021-07-05 20:27:59,0,0,0,0.0,0,0,0,0.0
+Adam Spindler,xmeadamx@gmail.com,0,0,34,1,2021-07-07 19:11:12,2021-07-07 19:11:12,0,0,0,1.0,1,0,1.0,0.0
+vsh,vsh426@gmail.com,0,0,20,1,2021-07-09 11:00:38,2021-07-09 11:00:38,0,0,0,0.0,0,0,0,0.0
+LeoShen,32362328+leoshenhh@users.noreply.github.com,0,0,6,1,2021-07-09 12:12:14,2021-07-09 12:12:14,0,0,0,1.0,1,0,1.0,0.0
+Antonio González Viegas,antoniogviegas@hotmail.com,0,0,1097,1,2021-07-12 18:00:03,2021-07-12 18:00:03,0,0,2,1.0,1,-1,1.0,-1.0
+davehill00,59743491+davehill00@users.noreply.github.com,0,0,39,1,2021-07-13 12:03:21,2021-07-13 12:03:21,0,0,1,0.0,0,0,0,0.0
+Victor Nakoryakov,victor@amperka.ru,0,0,4,1,2021-07-13 12:40:00,2021-07-13 12:40:00,0,0,1,0.0,0,0,0,0.0

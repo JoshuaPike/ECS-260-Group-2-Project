@@ -1,14 +1,14 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-msc-hi,['callow.mark@artspark.co.jp'],0,0,1683,5,2012-11-22 00:25:56,2012-12-05 00:20:26,981.75,2.916666666666667,0,0.0,0,0
-pyalot,['pyalot@wintermute.(none)'],0,0,224,2,2012-11-22 11:44:38,2012-12-12 20:03:25,78.39999999999999,0.7,0,0.0,0,0
-Ken Russell,['kbrussel@alum.mit.edu'],0,0,2203,17,2012-11-26 09:52:42,2012-12-17 11:14:36,734.3333333333334,5.666666666666667,0,0.0,0,0
-Gregg Tavares,['github@greggman.com'],0,0,604,6,2012-11-27 23:28:00,2012-12-08 11:27:43,422.8,4.2,5,3.3225806451612905,4,0
-Greggman,['github@greggman.com'],0,0,647,9,2012-11-26 13:28:49,2012-12-07 01:27:20,452.9,6.3,0,0.0,0,0
-John Bauman,['jbauman@chromium.org'],0,0,104,1,2012-11-27 07:32:05,2012-11-27 07:32:05,0,0,0,0.0,0,0
-Brandon Jones,['bajones@chromium.org'],0,0,489,6,2012-11-27 08:24:30,2012-12-18 05:51:22,171.15,2.1,2,0.6029411764705882,1,4
-Kenneth Russell,['kbr@chromium.org'],0,0,413,6,2012-11-28 02:29:05,2012-12-17 11:13:25,152.1578947368421,2.2105263157894735,0,0.0,0,0
-Benoit Jacob,['bjacob@mozilla.com'],0,0,75,4,2012-11-29 11:59:51,2012-11-29 12:34:24,0,0,1,1.0,1,0
-David Sheets,['sheets@ashimaarts.com'],0,0,12,1,2012-12-10 07:56:28,2012-12-10 07:56:28,0,0,0,0,0,0
-Florian Boesch,['pyalot@gmail.com'],0,0,179,2,2012-12-12 22:09:59,2012-12-16 15:02:54,417.6666666666667,4.666666666666667,0,0,0,0
-janfre01,['jan-harald.fredriksen@arm.com'],0,0,20,1,2012-12-17 18:57:50,2012-12-17 18:57:50,0,0,0,0,0,0
-janharaldfredriksen,['jan-harald.fredriksen@arm.com'],0,0,124,1,2012-12-19 01:17:26,2012-12-19 01:17:26,0,0,0,0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+msc-hi,['callow.mark@artspark.co.jp'],0,0,1683,5,2012-11-22 00:25:56,2012-12-05 00:20:26,981.75,2.916666666666667,0,0.0,0,0,0,0.0
+pyalot,['pyalot@wintermute.(none)'],0,0,224,2,2012-11-22 11:44:38,2012-12-12 20:03:25,78.39999999999999,0.7,0,0.0,0,0,0,0.0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,2203,17,2012-11-26 09:52:42,2012-12-17 11:14:36,734.3333333333334,5.666666666666667,0,0.0,0,0,0,0.0
+Gregg Tavares,['github@greggman.com'],0,0,604,6,2012-11-27 23:28:00,2012-12-08 11:27:43,422.8,4.2,5,3.3225806451612905,4,0,0.8306451612903226,0.0
+Greggman,['github@greggman.com'],0,0,647,9,2012-11-26 13:28:49,2012-12-07 01:27:20,452.9,6.3,0,0.0,0,0,0,0.0
+John Bauman,['jbauman@chromium.org'],0,0,104,1,2012-11-27 07:32:05,2012-11-27 07:32:05,0,0,0,0.0,0,0,0,0.0
+Brandon Jones,['bajones@chromium.org'],0,0,489,6,2012-11-27 08:24:30,2012-12-18 05:51:22,171.15,2.1,2,0.6029411764705882,1,4,0.6029411764705882,0.6666666666666666
+Kenneth Russell,['kbr@chromium.org'],0,0,413,6,2012-11-28 02:29:05,2012-12-17 11:13:25,152.1578947368421,2.2105263157894735,0,0.0,0,0,0,0.0
+Benoit Jacob,['bjacob@mozilla.com'],0,0,75,4,2012-11-29 11:59:51,2012-11-29 12:34:24,0,0,1,1.0,1,0,1.0,0.0
+David Sheets,['sheets@ashimaarts.com'],0,0,12,1,2012-12-10 07:56:28,2012-12-10 07:56:28,0,0,0,0,0,0,0,0.0
+Florian Boesch,['pyalot@gmail.com'],0,0,179,2,2012-12-12 22:09:59,2012-12-16 15:02:54,417.6666666666667,4.666666666666667,0,0,0,0,0,0.0
+janfre01,['jan-harald.fredriksen@arm.com'],0,0,20,1,2012-12-17 18:57:50,2012-12-17 18:57:50,0,0,0,0,0,0,0,0.0
+janharaldfredriksen,['jan-harald.fredriksen@arm.com'],0,0,124,1,2012-12-19 01:17:26,2012-12-19 01:17:26,0,0,0,0,0,0,0,0.0

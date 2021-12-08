@@ -1,3 +1,3 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Ryc O'Chet,['rycochet@rycochet.com'],0,0,11084,13,2018-02-18 00:14:43,2018-03-15 20:07:21,3103.52,3.6399999999999997,12,3.399913453753595,5,-3
-Duskfall,['cyber_andrew6@hotmail.com'],0,0,14,1,2018-03-13 17:37:11,2018-03-13 17:37:11,0,0,0,1.0,1,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Ryc O'Chet,['rycochet@rycochet.com'],0,0,11084,13,2018-02-18 00:14:43,2018-03-15 20:07:21,3103.52,3.6399999999999997,12,3.399913453753595,5,-3,0.6799826907507189,-0.23076923076923078
+Duskfall,['cyber_andrew6@hotmail.com'],0,0,14,1,2018-03-13 17:37:11,2018-03-13 17:37:11,0,0,0,1.0,1,0,1.0,0.0

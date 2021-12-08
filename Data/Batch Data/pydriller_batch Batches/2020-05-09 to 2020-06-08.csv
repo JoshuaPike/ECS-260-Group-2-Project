@@ -1,4 +1,4 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-ishepard,['spadini.davide@gmail.com'],0,0,1017,13,2020-05-12 12:41:56,2020-05-28 17:03:54,444.9375,5.6875,6,4.390823211875843,5,44
-Davide Spadini,['spadini.davide@gmail.com'],0,0,138,3,2020-05-14 17:05:02,2020-05-28 16:59:27,74.3076923076923,1.6153846153846154,28,0.0,0,0
-Arie van Deursen,['arie.vandeursen@tudelft.nl'],0,0,44,1,2020-05-19 19:03:50,2020-05-19 19:03:50,0,0,0,0.0,0,-2
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+ishepard,['spadini.davide@gmail.com'],0,0,1017,13,2020-05-12 12:41:56,2020-05-28 17:03:54,444.9375,5.6875,6,4.390823211875843,5,44,0.8781646423751687,3.3846153846153846
+Davide Spadini,['spadini.davide@gmail.com'],0,0,138,3,2020-05-14 17:05:02,2020-05-28 16:59:27,74.3076923076923,1.6153846153846154,28,0.0,0,0,0,0.0
+Arie van Deursen,['arie.vandeursen@tudelft.nl'],0,0,44,1,2020-05-19 19:03:50,2020-05-19 19:03:50,0,0,0,0.0,0,-2,0,-2.0

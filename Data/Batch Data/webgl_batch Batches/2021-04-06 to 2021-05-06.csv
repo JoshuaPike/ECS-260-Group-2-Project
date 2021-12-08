@@ -1,4 +1,4 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Jeff Gilbert,['jdashg@gmail.com'],0,0,30,2,2021-04-06 02:47:02,2021-04-20 09:16:20,15.0,1.0,0,0.0,0,0
-Alexey Knyazev,['3479527+lexaknyazev@users.noreply.github.com'],0,0,173,1,2021-04-06 04:55:59,2021-04-06 04:55:59,0,0,1,1.0,1,0
-Ken Russell,['kbrussel@alum.mit.edu'],0,0,63,1,2021-05-04 08:53:42,2021-05-04 08:53:42,0,0,0,0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Jeff Gilbert,['jdashg@gmail.com'],0,0,30,2,2021-04-06 02:47:02,2021-04-20 09:16:20,15.0,1.0,0,0.0,0,0,0,0.0
+Alexey Knyazev,['3479527+lexaknyazev@users.noreply.github.com'],0,0,173,1,2021-04-06 04:55:59,2021-04-06 04:55:59,0,0,1,1.0,1,0,1.0,0.0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,63,1,2021-05-04 08:53:42,2021-05-04 08:53:42,0,0,0,0,0,0,0,0.0

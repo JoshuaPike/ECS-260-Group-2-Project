@@ -1,7 +1,7 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-James Riordon,['outofcontrol@users.noreply.github.com'],0,0,12,1,2021-01-06 04:21:37,2021-01-06 04:21:37,0,0,1,0,0,0
-nihohit,['nihohit@gmail.com'],0,0,141,1,2021-01-11 14:33:59,2021-01-11 14:33:59,0,0,0,0,0,0
-vednoc,['vednoc@protonmail.com'],0,0,2,1,2021-01-12 02:32:52,2021-01-12 02:32:52,0,0,0,0,0,0
-Jeff Gilbert,['jdashg@gmail.com'],0,0,331,2,2021-01-27 07:36:55,2021-02-03 06:03:54,386.1666666666667,2.3333333333333335,1,0,0,2
-Ken Russell,['kbrussel@alum.mit.edu'],0,0,597,6,2021-01-27 09:07:59,2021-02-01 09:39:25,835.8,8.4,0,0,0,0
-Richard Li,['richard.li@intel.com'],0,0,224,1,2021-01-29 07:20:09,2021-01-29 07:20:09,0,0,1,0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+James Riordon,['outofcontrol@users.noreply.github.com'],0,0,12,1,2021-01-06 04:21:37,2021-01-06 04:21:37,0,0,1,0,0,0,0,0.0
+nihohit,['nihohit@gmail.com'],0,0,141,1,2021-01-11 14:33:59,2021-01-11 14:33:59,0,0,0,0,0,0,0,0.0
+vednoc,['vednoc@protonmail.com'],0,0,2,1,2021-01-12 02:32:52,2021-01-12 02:32:52,0,0,0,0,0,0,0,0.0
+Jeff Gilbert,['jdashg@gmail.com'],0,0,331,2,2021-01-27 07:36:55,2021-02-03 06:03:54,386.1666666666667,2.3333333333333335,1,0,0,2,0,1.0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,597,6,2021-01-27 09:07:59,2021-02-01 09:39:25,835.8,8.4,0,0,0,0,0,0.0
+Richard Li,['richard.li@intel.com'],0,0,224,1,2021-01-29 07:20:09,2021-01-29 07:20:09,0,0,1,0,0,0,0,0.0

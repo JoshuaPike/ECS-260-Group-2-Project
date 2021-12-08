@@ -1,29 +1,29 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Julien Moreau-Mathis,moreau-mathis@intechinfo.fr,0,0,29,3,2017-12-15 19:59:51,2017-12-31 16:00:32,13.533333333333333,1.4000000000000001,0,0,0,0
-David Catuhe,david.catuhe@live.fr,0,0,1680598,87,2017-12-15 02:40:33,2018-01-12 02:58:52,420149.5,21.75,15,3.393880524526469,4,4
-Borut,bobalazek124@gmail.com,0,0,301650,4,2017-12-17 23:41:21,2017-12-19 16:48:12,2111550.0,28.0,0,0.0,0,0
-Raanan Weber,info@raananweber.com,0,0,325651,50,2017-12-18 10:41:55,2018-01-11 23:15:17,94981.54166666667,14.583333333333334,156,12.436307215944876,15,7110
-Carlos Landeras Martínez,clanderas@plainconcepts.com,0,0,331,16,2017-12-18 15:25:15,2018-01-11 19:44:42,96.54166666666667,4.666666666666667,2,5.194444444444445,6,0
-Carlos Landeras,carlos.landeras@gmail.com,0,0,19,4,2017-12-19 01:53:04,2018-01-08 13:19:13,6.6499999999999995,1.4,0,0.0,0,0
-David,david@gskinner.com,0,0,3533,4,2017-12-18 09:57:30,2018-01-11 19:27:51,1030.4583333333335,1.1666666666666667,0,2.0,2,0
-Gary Hsu,garyhsu@microsoft.com,0,0,253,12,2017-12-18 08:45:29,2018-01-10 07:29:05,80.5,3.8181818181818183,1,0.9423076923076923,2,0
-“Sebastien,“vandenberghe.sebastien@gmail.com”,0,0,3,1,2017-12-19 12:56:11,2017-12-19 12:56:11,0,0,0,0.0,0,0
-pierre,pierre.lespingal@gmail.com,0,0,44,4,2017-12-20 13:02:57,2017-12-27 16:29:59,44.0,4.0,0,0.0,0,0
-sebastien,vandenberghe.sebastien@gmail.com,0,0,115793,16,2017-12-22 12:03:37,2018-01-12 08:42:33,40527.549999999996,5.6,11,6.3273172905525845,7,58
-Jean Philippe,jeanphilippe02666592@outlook.fr,0,0,72636,11,2017-12-24 00:39:32,2018-01-09 23:01:43,31778.25,4.8125,18,3.0,5,0
-DESKTOP-QJU4N0L\mityh,ibraheem.osama@gmail.com,0,0,46053,3,2017-12-30 03:04:53,2018-01-04 06:33:09,64474.2,4.2,0,0,0,0
-Fabian Iwand,mootari@users.noreply.github.com,0,0,61,2,2017-12-29 20:45:36,2017-12-29 20:51:56,0,0,0,0,0,0
-Michael Schlotfeldt,michael@plaudit.com,0,0,23,2,2017-12-31 07:21:54,2017-12-31 08:53:14,0,0,0,0.0,0,0
-Jacob Ferrero,jacobaferrero@gmail.com,0,0,8,1,2018-01-01 07:34:06,2018-01-01 07:34:06,0,0,0,0.0,0,0
-Xu Chen,xuchen0323@126.com,0,0,51,5,2018-01-04 01:01:05,2018-01-06 17:00:00,178.5,17.5,0,0.0,0,0
-Ivan Repin,repin@alternativaplatform.com,0,0,14,2,2018-01-04 22:19:45,2018-01-06 07:36:08,98.0,14.0,0,1.0,1,0
-Kacey Coley,kcoley@users.noreply.github.com,0,0,1576,3,2018-01-04 03:20:29,2018-01-09 03:53:10,2206.4,4.2,0,3.0,3,0
-Trevor Baron,trbaron@microsoft.com,0,0,320465,23,2018-01-05 06:15:40,2018-01-09 14:26:30,560813.75,40.25,0,9.054575394024935,10,0
-Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,0,0,188,1,2018-01-05 07:51:02,2018-01-05 07:51:02,0,0,4,1.0,1,-13
-sebavan,vandenberghe.sebastien@gmail.com,0,0,52160,3,2018-01-05 07:58:06,2018-01-12 09:33:05,52160.0,3.0,0,0.0,0,0
-Adam Bowman,abowman@gmail.com,0,0,10,1,2018-01-07 05:15:44,2018-01-07 05:15:44,0,0,0,0.0,0,0
-MackeyK24,MackeyK24@gmail.com,1,0,596598,4,2018-01-07 05:21:32,2018-01-08 10:45:10,4176186.0,28.0,0,0.0,0,0
-Brian Zinn,github@wakeskate.com,0,0,61,4,2018-01-08 12:51:16,2018-01-09 01:45:54,0,0,0,1.0,1,0
-Drew,drew@wise-p.co.jp,0,0,27,1,2018-01-11 01:58:28,2018-01-11 01:58:28,0,0,0,0.0,0,0
-Michael Bond,mbond@adobe.com,0,0,188,1,2018-01-10 06:23:48,2018-01-10 06:23:48,0,0,0,0.0985915492957746,1,0
-jbousquie,jerome@bousquie.fr,0,0,4,1,2018-01-11 18:06:35,2018-01-11 18:06:35,0,0,0,0.0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Julien Moreau-Mathis,moreau-mathis@intechinfo.fr,0,0,29,3,2017-12-15 19:59:51,2017-12-31 16:00:32,13.533333333333333,1.4000000000000001,0,0,0,0,0,0.0
+David Catuhe,david.catuhe@live.fr,0,0,1680598,87,2017-12-15 02:40:33,2018-01-12 02:58:52,420149.5,21.75,15,3.393880524526469,4,4,0.8484701311316173,0.04597701149425287
+Borut,bobalazek124@gmail.com,0,0,301650,4,2017-12-17 23:41:21,2017-12-19 16:48:12,2111550.0,28.0,0,0.0,0,0,0,0.0
+Raanan Weber,info@raananweber.com,0,0,325651,50,2017-12-18 10:41:55,2018-01-11 23:15:17,94981.54166666667,14.583333333333334,156,12.436307215944876,15,7110,0.8290871477296584,142.2
+Carlos Landeras Martínez,clanderas@plainconcepts.com,0,0,331,16,2017-12-18 15:25:15,2018-01-11 19:44:42,96.54166666666667,4.666666666666667,2,5.194444444444445,6,0,0.8657407407407408,0.0
+Carlos Landeras,carlos.landeras@gmail.com,0,0,19,4,2017-12-19 01:53:04,2018-01-08 13:19:13,6.6499999999999995,1.4,0,0.0,0,0,0,0.0
+David,david@gskinner.com,0,0,3533,4,2017-12-18 09:57:30,2018-01-11 19:27:51,1030.4583333333335,1.1666666666666667,0,2.0,2,0,1.0,0.0
+Gary Hsu,garyhsu@microsoft.com,0,0,253,12,2017-12-18 08:45:29,2018-01-10 07:29:05,80.5,3.8181818181818183,1,0.9423076923076923,2,0,0.47115384615384615,0.0
+“Sebastien,“vandenberghe.sebastien@gmail.com”,0,0,3,1,2017-12-19 12:56:11,2017-12-19 12:56:11,0,0,0,0.0,0,0,0,0.0
+pierre,pierre.lespingal@gmail.com,0,0,44,4,2017-12-20 13:02:57,2017-12-27 16:29:59,44.0,4.0,0,0.0,0,0,0,0.0
+sebastien,vandenberghe.sebastien@gmail.com,0,0,115793,16,2017-12-22 12:03:37,2018-01-12 08:42:33,40527.549999999996,5.6,11,6.3273172905525845,7,58,0.9039024700789406,3.625
+Jean Philippe,jeanphilippe02666592@outlook.fr,0,0,72636,11,2017-12-24 00:39:32,2018-01-09 23:01:43,31778.25,4.8125,18,3.0,5,0,0.6,0.0
+DESKTOP-QJU4N0L\mityh,ibraheem.osama@gmail.com,0,0,46053,3,2017-12-30 03:04:53,2018-01-04 06:33:09,64474.2,4.2,0,0,0,0,0,0.0
+Fabian Iwand,mootari@users.noreply.github.com,0,0,61,2,2017-12-29 20:45:36,2017-12-29 20:51:56,0,0,0,0,0,0,0,0.0
+Michael Schlotfeldt,michael@plaudit.com,0,0,23,2,2017-12-31 07:21:54,2017-12-31 08:53:14,0,0,0,0.0,0,0,0,0.0
+Jacob Ferrero,jacobaferrero@gmail.com,0,0,8,1,2018-01-01 07:34:06,2018-01-01 07:34:06,0,0,0,0.0,0,0,0,0.0
+Xu Chen,xuchen0323@126.com,0,0,51,5,2018-01-04 01:01:05,2018-01-06 17:00:00,178.5,17.5,0,0.0,0,0,0,0.0
+Ivan Repin,repin@alternativaplatform.com,0,0,14,2,2018-01-04 22:19:45,2018-01-06 07:36:08,98.0,14.0,0,1.0,1,0,1.0,0.0
+Kacey Coley,kcoley@users.noreply.github.com,0,0,1576,3,2018-01-04 03:20:29,2018-01-09 03:53:10,2206.4,4.2,0,3.0,3,0,1.0,0.0
+Trevor Baron,trbaron@microsoft.com,0,0,320465,23,2018-01-05 06:15:40,2018-01-09 14:26:30,560813.75,40.25,0,9.054575394024935,10,0,0.9054575394024935,0.0
+Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,0,0,188,1,2018-01-05 07:51:02,2018-01-05 07:51:02,0,0,4,1.0,1,-13,1.0,-13.0
+sebavan,vandenberghe.sebastien@gmail.com,0,0,52160,3,2018-01-05 07:58:06,2018-01-12 09:33:05,52160.0,3.0,0,0.0,0,0,0,0.0
+Adam Bowman,abowman@gmail.com,0,0,10,1,2018-01-07 05:15:44,2018-01-07 05:15:44,0,0,0,0.0,0,0,0,0.0
+MackeyK24,MackeyK24@gmail.com,1,0,596598,4,2018-01-07 05:21:32,2018-01-08 10:45:10,4176186.0,28.0,0,0.0,0,0,0,0.0
+Brian Zinn,github@wakeskate.com,0,0,61,4,2018-01-08 12:51:16,2018-01-09 01:45:54,0,0,0,1.0,1,0,1.0,0.0
+Drew,drew@wise-p.co.jp,0,0,27,1,2018-01-11 01:58:28,2018-01-11 01:58:28,0,0,0,0.0,0,0,0,0.0
+Michael Bond,mbond@adobe.com,0,0,188,1,2018-01-10 06:23:48,2018-01-10 06:23:48,0,0,0,0.0985915492957746,1,0,0.0985915492957746,0.0
+jbousquie,jerome@bousquie.fr,0,0,4,1,2018-01-11 18:06:35,2018-01-11 18:06:35,0,0,0,0.0,0,0,0,0.0

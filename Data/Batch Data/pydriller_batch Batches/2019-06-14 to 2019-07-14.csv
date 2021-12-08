@@ -1,4 +1,4 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-ishepard,['spadini.davide@gmail.com'],0,0,271,9,2019-06-14 19:21:52,2019-06-26 12:04:46,172.45454545454547,5.7272727272727275,6,4.0,4,5
-Luca Pascarella,['luca.pascarella@gmail.com'],0,0,4,1,2019-06-25 16:49:02,2019-06-25 16:49:02,0,0,1,0,0,0
-Spadini Davide,['spadini.davide@gmail.com'],0,0,4,1,2019-06-25 16:53:00,2019-06-25 16:53:00,0,0,1,0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+ishepard,['spadini.davide@gmail.com'],0,0,271,9,2019-06-14 19:21:52,2019-06-26 12:04:46,172.45454545454547,5.7272727272727275,6,4.0,4,5,1.0,0.5555555555555556
+Luca Pascarella,['luca.pascarella@gmail.com'],0,0,4,1,2019-06-25 16:49:02,2019-06-25 16:49:02,0,0,1,0,0,0,0,0.0
+Spadini Davide,['spadini.davide@gmail.com'],0,0,4,1,2019-06-25 16:53:00,2019-06-25 16:53:00,0,0,1,0,0,0,0,0.0

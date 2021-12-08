@@ -1,2 +1,2 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Julian Shapiro,['julianshapiro@users.noreply.github.com'],0,0,7556,22,2014-09-05 13:38:04,2014-09-22 15:39:43,3111.294117647059,9.058823529411766,4,0.7288135593220338,1,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Julian Shapiro,['julianshapiro@users.noreply.github.com'],0,0,7556,22,2014-09-05 13:38:04,2014-09-22 15:39:43,3111.294117647059,9.058823529411766,4,0.7288135593220338,1,0,0.7288135593220338,0.0

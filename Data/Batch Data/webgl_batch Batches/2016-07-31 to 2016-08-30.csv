@@ -1,18 +1,18 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-He Yunchao,['yunchao.he@intel.com'],0,0,40,1,2016-08-01 23:32:45,2016-08-01 23:32:45,0,0,2,0.8421052631578947,1,-7
-Ken Russell,['kbrussel@alum.mit.edu'],0,0,3069,24,2016-08-03 04:07:20,2016-08-29 03:54:44,859.3199999999999,6.72,0,0.0,0,0
-zhenyao,['zmo@chromium.org'],0,0,1415,18,2016-08-04 03:57:00,2016-08-29 02:46:38,412.70833333333337,5.25,0,0.0,0,0
-jchen10,['jie.a.chen@intel.com'],0,0,203,3,2016-08-05 22:10:44,2016-08-27 16:41:49,67.66666666666667,1.0,0,0.0,0,0
-Qiankun Miao,['qiankun.miao@intel.com'],0,0,474,5,2016-08-06 15:36:42,2016-08-15 23:49:37,368.66666666666663,3.8888888888888884,6,1.0,1,20
-Gregg Tavares,['github@greggman.com'],0,0,85,1,2016-08-09 10:26:21,2016-08-09 10:26:21,0,0,0,0.0,0,0
-Kevin Gibbons,['bakkot@google.com'],0,0,455,1,2016-08-08 03:30:35,2016-08-08 03:30:35,0,0,0,0.0,0,0
-Yizhou Jiang,['yizhou.jiang@intel.com'],0,0,327,3,2016-08-09 16:55:23,2016-08-16 17:10:29,327.0,3.0,0,0.0,0,0
-Zhenyao Mo,['zmo@chromium.org'],0,0,1006,6,2016-08-10 10:59:06,2016-08-25 12:01:52,469.4666666666667,2.8000000000000003,3,1.5103092783505154,2,21
-jdashg,['jdashg@gmail.com'],0,0,746,1,2016-08-12 08:35:44,2016-08-12 08:35:44,0,0,0,0,0,0
-Shao,['jiawei.shao@intel.com'],0,0,295,1,2016-08-16 21:13:14,2016-08-16 21:13:14,0,0,0,0,0,0
-Dongseong Hwang,['dongseong.hwang@intel.com'],0,0,29,1,2016-08-23 17:03:32,2016-08-23 17:03:32,0,0,0,0.0,0,0
-Kai Ninomiya,['kainino@chromium.org'],0,0,224,2,2016-08-25 04:19:50,2016-08-29 03:51:45,522.6666666666667,4.666666666666667,0,0.0,0,0
-Geoff Lang,['geoff@vonture.net'],0,0,2,1,2016-08-25 10:20:02,2016-08-25 10:20:02,0,0,0,1.0,1,1
-Yang Gu,['yang.gu@intel.com'],0,0,25,1,2016-08-26 19:11:40,2016-08-26 19:11:40,0,0,0,0.0,0,0
-Kenneth Russell,['kbrussel@alum.mit.edu'],0,0,87,1,2016-08-26 13:28:15,2016-08-26 13:28:15,0,0,0,0.0,0,0
-Olli Etuaho,['oetuaho@nvidia.com'],0,0,69,1,2016-08-29 18:41:55,2016-08-29 18:41:55,0,0,0,0.0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+He Yunchao,['yunchao.he@intel.com'],0,0,40,1,2016-08-01 23:32:45,2016-08-01 23:32:45,0,0,2,0.8421052631578947,1,-7,0.8421052631578947,-7.0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,3069,24,2016-08-03 04:07:20,2016-08-29 03:54:44,859.3199999999999,6.72,0,0.0,0,0,0,0.0
+zhenyao,['zmo@chromium.org'],0,0,1415,18,2016-08-04 03:57:00,2016-08-29 02:46:38,412.70833333333337,5.25,0,0.0,0,0,0,0.0
+jchen10,['jie.a.chen@intel.com'],0,0,203,3,2016-08-05 22:10:44,2016-08-27 16:41:49,67.66666666666667,1.0,0,0.0,0,0,0,0.0
+Qiankun Miao,['qiankun.miao@intel.com'],0,0,474,5,2016-08-06 15:36:42,2016-08-15 23:49:37,368.66666666666663,3.8888888888888884,6,1.0,1,20,1.0,4.0
+Gregg Tavares,['github@greggman.com'],0,0,85,1,2016-08-09 10:26:21,2016-08-09 10:26:21,0,0,0,0.0,0,0,0,0.0
+Kevin Gibbons,['bakkot@google.com'],0,0,455,1,2016-08-08 03:30:35,2016-08-08 03:30:35,0,0,0,0.0,0,0,0,0.0
+Yizhou Jiang,['yizhou.jiang@intel.com'],0,0,327,3,2016-08-09 16:55:23,2016-08-16 17:10:29,327.0,3.0,0,0.0,0,0,0,0.0
+Zhenyao Mo,['zmo@chromium.org'],0,0,1006,6,2016-08-10 10:59:06,2016-08-25 12:01:52,469.4666666666667,2.8000000000000003,3,1.5103092783505154,2,21,0.7551546391752577,3.5
+jdashg,['jdashg@gmail.com'],0,0,746,1,2016-08-12 08:35:44,2016-08-12 08:35:44,0,0,0,0,0,0,0,0.0
+Shao,['jiawei.shao@intel.com'],0,0,295,1,2016-08-16 21:13:14,2016-08-16 21:13:14,0,0,0,0,0,0,0,0.0
+Dongseong Hwang,['dongseong.hwang@intel.com'],0,0,29,1,2016-08-23 17:03:32,2016-08-23 17:03:32,0,0,0,0.0,0,0,0,0.0
+Kai Ninomiya,['kainino@chromium.org'],0,0,224,2,2016-08-25 04:19:50,2016-08-29 03:51:45,522.6666666666667,4.666666666666667,0,0.0,0,0,0,0.0
+Geoff Lang,['geoff@vonture.net'],0,0,2,1,2016-08-25 10:20:02,2016-08-25 10:20:02,0,0,0,1.0,1,1,1.0,1.0
+Yang Gu,['yang.gu@intel.com'],0,0,25,1,2016-08-26 19:11:40,2016-08-26 19:11:40,0,0,0,0.0,0,0,0,0.0
+Kenneth Russell,['kbrussel@alum.mit.edu'],0,0,87,1,2016-08-26 13:28:15,2016-08-26 13:28:15,0,0,0,0.0,0,0,0,0.0
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,69,1,2016-08-29 18:41:55,2016-08-29 18:41:55,0,0,0,0.0,0,0,0,0.0

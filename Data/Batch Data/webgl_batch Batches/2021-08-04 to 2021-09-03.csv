@@ -1,9 +1,9 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Ken Russell,['kbrussel@alum.mit.edu'],0,0,691,3,2021-08-06 08:08:40,2021-08-17 18:04:40,439.72727272727275,1.9090909090909092,0,0.0,0,0
-Alexey Knyazev,['3479527+lexaknyazev@users.noreply.github.com'],0,0,173,3,2021-08-09 04:17:40,2021-08-11 07:23:38,605.5,10.5,0,0.0,0,0
-Jeff Gilbert,['jdashg@gmail.com'],0,0,666,9,2021-08-10 09:37:03,2021-09-02 09:54:12,202.69565217391306,2.739130434782609,5,2.0,2,-1
-chcunningham,['chcunningham@chromium.org'],0,0,3,1,2021-08-12 03:29:04,2021-08-12 03:29:04,0,0,0,0.0,0,0
-Greggman,['gman@chromium.org'],0,0,109,1,2021-08-18 08:25:41,2021-08-18 08:25:41,0,0,0,0.0,0,0
-Kimmo Kinnunen,['kkinnunen@apple.com'],0,0,48,1,2021-08-23 02:02:45,2021-08-23 02:02:45,0,0,1,0.0,0,0
-kkinnunen-apple,['89392548+kkinnunen-apple@users.noreply.github.com'],0,0,6,1,2021-08-23 03:51:39,2021-08-23 03:51:39,0,0,2,1.0,1,-2
-Jiawei Shao,['jiawei.shao@intel.com'],0,0,69,1,2021-08-23 16:48:21,2021-08-23 16:48:21,0,0,0,0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,691,3,2021-08-06 08:08:40,2021-08-17 18:04:40,439.72727272727275,1.9090909090909092,0,0.0,0,0,0,0.0
+Alexey Knyazev,['3479527+lexaknyazev@users.noreply.github.com'],0,0,173,3,2021-08-09 04:17:40,2021-08-11 07:23:38,605.5,10.5,0,0.0,0,0,0,0.0
+Jeff Gilbert,['jdashg@gmail.com'],0,0,666,9,2021-08-10 09:37:03,2021-09-02 09:54:12,202.69565217391306,2.739130434782609,5,2.0,2,-1,1.0,-0.1111111111111111
+chcunningham,['chcunningham@chromium.org'],0,0,3,1,2021-08-12 03:29:04,2021-08-12 03:29:04,0,0,0,0.0,0,0,0,0.0
+Greggman,['gman@chromium.org'],0,0,109,1,2021-08-18 08:25:41,2021-08-18 08:25:41,0,0,0,0.0,0,0,0,0.0
+Kimmo Kinnunen,['kkinnunen@apple.com'],0,0,48,1,2021-08-23 02:02:45,2021-08-23 02:02:45,0,0,1,0.0,0,0,0,0.0
+kkinnunen-apple,['89392548+kkinnunen-apple@users.noreply.github.com'],0,0,6,1,2021-08-23 03:51:39,2021-08-23 03:51:39,0,0,2,1.0,1,-2,1.0,-2.0
+Jiawei Shao,['jiawei.shao@intel.com'],0,0,69,1,2021-08-23 16:48:21,2021-08-23 16:48:21,0,0,0,0,0,0,0,0.0

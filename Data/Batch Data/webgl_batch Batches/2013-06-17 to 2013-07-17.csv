@@ -1,9 +1,9 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Brandon Jones,['bajones@chromium.org'],0,0,6,1,2013-06-17 03:48:15,2013-06-17 03:48:15,0,0,0,0,0,0
-Ken Russell,['kbrussel@alum.mit.edu'],0,0,3941,26,2013-06-17 03:58:21,2013-07-16 06:56:13,951.2758620689655,6.275862068965517,3,0.4507042253521127,1,12
-Gregg Tavares,['github@greggman.com'],0,0,875,2,2013-06-18 09:56:49,2013-06-19 16:21:09,6125.0,14.0,0,0,0,0
-Greggman,['github@greggman.com'],0,0,875,2,2013-06-18 09:57:48,2013-06-19 16:24:18,6125.0,14.0,0,0,0,0
-Olli Etuaho,['oetuaho@nvidia.com'],0,0,342,10,2013-06-24 19:23:30,2013-07-16 15:46:07,114.0,3.3333333333333335,5,1.0,1,45
-Guillaume Abadie,['gabadie@mozilla.com'],0,0,125,3,2013-06-28 14:02:43,2013-07-06 19:53:33,109.375,2.625,0,0.0,0,0
-msc-hi,['callow_mark@hicorp.co.jp'],0,0,207768,4,2013-07-09 01:33:22,2013-07-13 03:02:18,363594.0,7.0,0,0.0,0,0
-David Sheets,['sheets@alum.mit.edu'],0,0,50,1,2013-07-10 03:43:04,2013-07-10 03:43:04,0,0,0,0.0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Brandon Jones,['bajones@chromium.org'],0,0,6,1,2013-06-17 03:48:15,2013-06-17 03:48:15,0,0,0,0,0,0,0,0.0
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,3941,26,2013-06-17 03:58:21,2013-07-16 06:56:13,951.2758620689655,6.275862068965517,3,0.4507042253521127,1,12,0.4507042253521127,0.46153846153846156
+Gregg Tavares,['github@greggman.com'],0,0,875,2,2013-06-18 09:56:49,2013-06-19 16:21:09,6125.0,14.0,0,0,0,0,0,0.0
+Greggman,['github@greggman.com'],0,0,875,2,2013-06-18 09:57:48,2013-06-19 16:24:18,6125.0,14.0,0,0,0,0,0,0.0
+Olli Etuaho,['oetuaho@nvidia.com'],0,0,342,10,2013-06-24 19:23:30,2013-07-16 15:46:07,114.0,3.3333333333333335,5,1.0,1,45,1.0,4.5
+Guillaume Abadie,['gabadie@mozilla.com'],0,0,125,3,2013-06-28 14:02:43,2013-07-06 19:53:33,109.375,2.625,0,0.0,0,0,0,0.0
+msc-hi,['callow_mark@hicorp.co.jp'],0,0,207768,4,2013-07-09 01:33:22,2013-07-13 03:02:18,363594.0,7.0,0,0.0,0,0,0,0.0
+David Sheets,['sheets@alum.mit.edu'],0,0,50,1,2013-07-10 03:43:04,2013-07-10 03:43:04,0,0,0,0.0,0,0,0,0.0

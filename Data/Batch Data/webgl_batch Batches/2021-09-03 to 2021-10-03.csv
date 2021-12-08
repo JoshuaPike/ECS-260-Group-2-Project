@@ -1,5 +1,5 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Greggman,['gman@chromium.org'],1,1,170,1,2021-09-08 04:57:16,2021-09-08 04:57:16,0,0,1,0,0,0
-Alexey Knyazev,['3479527+lexaknyazev@users.noreply.github.com'],1,1,4,1,2021-09-09 06:17:36,2021-09-09 06:17:36,0,0,0,0,0,0
-Yang Gu,['yang.gu@intel.com'],1,1,16,1,2021-09-16 09:23:50,2021-09-16 09:23:50,0,0,0,0,0,0
-Jeff Gilbert,['jdashg@gmail.com'],1,1,61,1,2021-09-19 14:10:29,2021-09-19 14:10:29,0,0,0,0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Greggman,['gman@chromium.org'],1,1,170,1,2021-09-08 04:57:16,2021-09-08 04:57:16,0,0,1,0,0,0,0,0.0
+Alexey Knyazev,['3479527+lexaknyazev@users.noreply.github.com'],1,1,4,1,2021-09-09 06:17:36,2021-09-09 06:17:36,0,0,0,0,0,0,0,0.0
+Yang Gu,['yang.gu@intel.com'],1,1,16,1,2021-09-16 09:23:50,2021-09-16 09:23:50,0,0,0,0,0,0,0,0.0
+Jeff Gilbert,['jdashg@gmail.com'],1,1,61,1,2021-09-19 14:10:29,2021-09-19 14:10:29,0,0,0,0,0,0,0,0.0

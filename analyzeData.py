@@ -4,7 +4,7 @@ import statsmodels.api as sm
 import os
 import glob
 from datetime import datetime, timedelta
-from mineData import write_to_csv
+from mineData import write_to_csv,write_to_csv_with_average_DMM_and_comments
 
 
 # Takes batch data for batch sizes less than 30 and compiles it into monthly (30 days) data and stores monthly data in
@@ -66,7 +66,7 @@ def make_batch_data_monthly(nameOfRepo, batch_size, data_end_date):
             # and email not in monthly_email_to_name_dict
             if name not in monthly_contributor_dict:
                 monthly_contributor_dict[name] = [email, 0, 0, churn, num_commits, first_commit, last_commit, 0, 0,
-                                                  num_owned_files, dmm_comp_sum, commits_with_dmm, comments]
+                                                  num_owned_files, dmm_comp_sum, commits_with_dmm, comments, 0, 0]
             else:
                 monthly_contributor_dict[name][3] += churn
                 monthly_contributor_dict[name][4] += num_commits
@@ -88,7 +88,7 @@ def make_batch_data_monthly(nameOfRepo, batch_size, data_end_date):
         # print(str((file_end_date - monthly_batch_start_date).days))
         if not file_end_date < data_end_date or (file_end_date - monthly_batch_start_date).days >= 30:
             # Put data in csv
-            print('Making new csv')
+            # print('Making new csv')
             filename = dir_name_for_monthly_csv + monthly_batch_start_date.strftime("%Y-%m-%d") + ' to ' \
                        + file_end_date.strftime("%Y-%m-%d") + '.csv'
 
@@ -110,7 +110,15 @@ def make_batch_data_monthly(nameOfRepo, batch_size, data_end_date):
                 monthly_contributor_dict[name][8] = commit_prod
                 total_monthly_churn_prod += churn_prod
                 total_monthly_commit_prod += commit_prod
-
+                # Calculate average DMM and average commits
+                averageComments = 0
+                if monthly_contributor_dict[name][4] != 0:
+                    averageComments = monthly_contributor_dict[name][12] / monthly_contributor_dict[name][4]
+                averageDMM = 0
+                if monthly_contributor_dict[name][11] != 0:
+                    averageDMM = monthly_contributor_dict[name][10] / monthly_contributor_dict[name][11]
+                monthly_contributor_dict[name][13] = averageDMM
+                monthly_contributor_dict[name][14] = averageComments
             # NOW LABEL THE 10x ENGINEERS
             average_churn_prod = -1
             average_commit_prod = -1
@@ -125,11 +133,12 @@ def make_batch_data_monthly(nameOfRepo, batch_size, data_end_date):
                     monthly_contributor_dict[name][2] = 1
 
             # print(filename)
-            write_to_csv(monthly_contributor_dict, filename)
+            write_to_csv_with_average_DMM_and_comments(monthly_contributor_dict, filename)
             new_monthly_batch = True
 
 
 def make_total_data_from_monthly(nameOfRepo, filename):
+
     dir_of_monthly_data = 'Data/Batch Data/' + nameOfRepo + ' Batches/*.csv'
     file_list = glob.glob(dir_of_monthly_data)
     # Checking if file_list is sorted with print statement
@@ -156,7 +165,7 @@ def make_total_data_from_monthly(nameOfRepo, filename):
 
             if name not in total_contrib_dict:
                 total_contrib_dict[name] = [email, 0, 0, churn, num_commits, first_commit, last_commit, 0, 0,
-                                                  num_owned_files, dmm_comp_sum, commits_with_dmm, comments]
+                                                  num_owned_files, dmm_comp_sum, commits_with_dmm, comments, 0, 0]
             else:
                 total_contrib_dict[name][3] += churn
                 total_contrib_dict[name][4] += num_commits
@@ -184,6 +193,16 @@ def make_total_data_from_monthly(nameOfRepo, filename):
         total_contrib_dict[name][8] = commit_prod
         total_monthly_churn_prod += churn_prod
         total_monthly_commit_prod += commit_prod
+        # Calculate average DMM and average commits
+        averageComments = 0
+        if total_contrib_dict[name][4] != 0:
+            averageComments = total_contrib_dict[name][12]/total_contrib_dict[name][4]
+        averageDMM = 0
+        if total_contrib_dict[name][11] != 0:
+            averageDMM = total_contrib_dict[name][10]/total_contrib_dict[name][11]
+        total_contrib_dict[name][13] = averageDMM
+        total_contrib_dict[name][14] = averageComments
+
 
     # NOW LABEL THE 10x ENGINEERS
     average_churn_prod = -1
@@ -197,8 +216,9 @@ def make_total_data_from_monthly(nameOfRepo, filename):
             total_contrib_dict[name][1] = 1
         if total_contrib_dict[name][8] >= 10 * average_commit_prod:
             total_contrib_dict[name][2] = 1
+
     path = 'Data/' + filename
-    write_to_csv(total_contrib_dict, path)
+    write_to_csv_with_average_DMM_and_comments(total_contrib_dict, path)
 
 
 # Read in all data
@@ -216,12 +236,12 @@ def make_total_data_from_monthly(nameOfRepo, filename):
 # # Also determine how we are filtering out any extraneous data
 # # Also need to look at a 10x engineers contributions across projects and see if their label holds
 #
-# # Does simple linear regression on some independent and dependent variables
-# def simple_linear_regression(X, y):
-#     XX = X.to_numpy().reshape(-1, 1)
-#     ols = sm.OLS(y, X).fit()
-#     return ols, ols.summary()
-#
+# Does simple linear regression on some independent and dependent variables
+def simple_linear_regression(X, y):
+    XX = X.to_numpy().reshape(-1, 1)
+    ols = sm.OLS(y, X).fit()
+    return ols, ols.summary()
+
 # # --------------------- Linear regression on ownership ---------------------
 # X = df["num owned files"]
 # y = df["10x label churn"]

@@ -1,22 +1,22 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-David Catuhe,david.catuhe@live.fr,0,0,3054527,123,2018-06-13 09:30:32,2018-07-02 09:35:09,1125352.0526315789,45.315789473684205,33,17.74434845834337,27,-14256
-kalpesh.awathare,kalpesh@decorasystems.com,0,0,5,1,2018-06-14 18:46:30,2018-06-14 18:46:30,0,0,0,0,0,0
-Raanan Weber,info@raananweber.com#raananw+github@gmail.com,0,0,675095,66,2018-06-14 12:18:11,2018-07-02 16:59:27,262536.94444444444,25.666666666666664,1,12.333204672945293,15,9
-David Rousset,davrous@microsoft.com,0,0,36957,3,2018-06-14 16:44:20,2018-06-22 20:00:59,32337.375,2.625,0,0.0,0,0
-menduz,agustin.mz.92@gmail.com,0,0,55,2,2018-06-14 08:58:55,2018-06-14 08:58:53,385.0,14.0,0,0.0,0,0
-sebastien,vandenberghe.sebastien@gmail.com,0,0,439149,20,2018-06-14 02:30:10,2018-06-29 11:35:40,204936.2,9.333333333333334,8,4.5,5,0
-sebavan,vandenberghe.sebastien@gmail.com,0,0,555963,25,2018-06-14 06:52:28,2018-06-29 12:43:03,259449.4,11.666666666666668,0,0.0,0,0
-Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,0,0,776666,17,2018-06-14 07:06:58,2018-06-27 12:02:42,418204.7692307692,9.153846153846153,0,3.082505418292154,4,62
-Trevor Baron,trbaron@microsoft.com,0,0,124243,53,2018-06-14 08:23:47,2018-07-02 06:22:27,51158.88235294118,21.823529411764707,0,14.807748382234465,20,0
-ssaket,contact@saketsaurabh.me,0,0,336,2,2018-06-15 23:03:48,2018-06-19 04:03:25,784.0,4.666666666666667,0,1.0,1,0
-Agustin Mendez,agustin.mz.92@gmail.com,0,0,54592,3,2018-06-15 07:42:51,2018-06-15 08:13:03,0,0,0,0.0,0,0
-Kacey Coley,kcoley@users.noreply.github.com#kcoley@g.clemson.edu,0,0,3051,8,2018-06-15 03:58:23,2018-06-27 06:28:51,1779.75,4.666666666666667,1,3.206896551724138,4,0
-Deltakosh,david.catuhe@live.fr,0,0,50,1,2018-06-18 02:13:51,2018-06-18 02:13:51,0,0,0,0.0,0,0
-Gary Hsu,garyhsu@microsoft.com,0,0,482878,15,2018-06-18 07:15:26,2018-07-02 06:22:37,260011.23076923075,8.076923076923077,1,2.935064935064935,3,0
-Taton Sven,sven.taton@versusmind.eu,0,0,18,4,2018-06-20 12:10:05,2018-06-20 13:12:19,0,0,0,0.0,0,0
-Nicolas,buecher.nicolas@gmail.com,0,0,7,3,2018-06-20 21:52:27,2018-06-21 16:51:12,0,0,0,0.0,0,0
-Julien MOREAU-MATHIS,moreau-mathis@intechinfo.fr,0,0,31,2,2018-06-21 01:13:20,2018-06-21 01:23:02,0,0,0,0.0,0,0
-Kalpesh Deepak,kalpesh[dot]deepak@ymail.com,0,0,19,2,2018-06-21 19:08:55,2018-06-21 19:17:38,0,0,0,1.0,1,0
-Julien Hamaide,julien.hamaide@gmail.com,0,0,11,1,2018-06-27 01:50:41,2018-06-27 01:50:41,0,0,0,0.0,0,0
-quocsinh,quocsinh82@gmail.com,0,0,11,1,2018-06-28 06:38:14,2018-06-28 06:38:14,0,0,0,0.0,0,0
-fmmoret,fmmoret2@gmail.com,0,0,50,4,2018-06-29 14:45:46,2018-06-30 09:22:47,0,0,0,1.0,1,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+David Catuhe,david.catuhe@live.fr,0,0,3054527,123,2018-06-13 09:30:32,2018-07-02 09:35:09,1125352.0526315789,45.315789473684205,33,17.74434845834337,27,-14256,0.6571980910497545,-115.90243902439025
+kalpesh.awathare,kalpesh@decorasystems.com,0,0,5,1,2018-06-14 18:46:30,2018-06-14 18:46:30,0,0,0,0,0,0,0,0.0
+Raanan Weber,info@raananweber.com#raananw+github@gmail.com,0,0,675095,66,2018-06-14 12:18:11,2018-07-02 16:59:27,262536.94444444444,25.666666666666664,1,12.333204672945293,15,9,0.8222136448630195,0.13636363636363635
+David Rousset,davrous@microsoft.com,0,0,36957,3,2018-06-14 16:44:20,2018-06-22 20:00:59,32337.375,2.625,0,0.0,0,0,0,0.0
+menduz,agustin.mz.92@gmail.com,0,0,55,2,2018-06-14 08:58:55,2018-06-14 08:58:53,385.0,14.0,0,0.0,0,0,0,0.0
+sebastien,vandenberghe.sebastien@gmail.com,0,0,439149,20,2018-06-14 02:30:10,2018-06-29 11:35:40,204936.2,9.333333333333334,8,4.5,5,0,0.9,0.0
+sebavan,vandenberghe.sebastien@gmail.com,0,0,555963,25,2018-06-14 06:52:28,2018-06-29 12:43:03,259449.4,11.666666666666668,0,0.0,0,0,0,0.0
+Sebastien Vandenberghe,vandenberghe.sebastien@gmail.com,0,0,776666,17,2018-06-14 07:06:58,2018-06-27 12:02:42,418204.7692307692,9.153846153846153,0,3.082505418292154,4,62,0.7706263545730385,3.6470588235294117
+Trevor Baron,trbaron@microsoft.com,0,0,124243,53,2018-06-14 08:23:47,2018-07-02 06:22:27,51158.88235294118,21.823529411764707,0,14.807748382234465,20,0,0.7403874191117232,0.0
+ssaket,contact@saketsaurabh.me,0,0,336,2,2018-06-15 23:03:48,2018-06-19 04:03:25,784.0,4.666666666666667,0,1.0,1,0,1.0,0.0
+Agustin Mendez,agustin.mz.92@gmail.com,0,0,54592,3,2018-06-15 07:42:51,2018-06-15 08:13:03,0,0,0,0.0,0,0,0,0.0
+Kacey Coley,kcoley@users.noreply.github.com#kcoley@g.clemson.edu,0,0,3051,8,2018-06-15 03:58:23,2018-06-27 06:28:51,1779.75,4.666666666666667,1,3.206896551724138,4,0,0.8017241379310345,0.0
+Deltakosh,david.catuhe@live.fr,0,0,50,1,2018-06-18 02:13:51,2018-06-18 02:13:51,0,0,0,0.0,0,0,0,0.0
+Gary Hsu,garyhsu@microsoft.com,0,0,482878,15,2018-06-18 07:15:26,2018-07-02 06:22:37,260011.23076923075,8.076923076923077,1,2.935064935064935,3,0,0.9783549783549783,0.0
+Taton Sven,sven.taton@versusmind.eu,0,0,18,4,2018-06-20 12:10:05,2018-06-20 13:12:19,0,0,0,0.0,0,0,0,0.0
+Nicolas,buecher.nicolas@gmail.com,0,0,7,3,2018-06-20 21:52:27,2018-06-21 16:51:12,0,0,0,0.0,0,0,0,0.0
+Julien MOREAU-MATHIS,moreau-mathis@intechinfo.fr,0,0,31,2,2018-06-21 01:13:20,2018-06-21 01:23:02,0,0,0,0.0,0,0,0,0.0
+Kalpesh Deepak,kalpesh[dot]deepak@ymail.com,0,0,19,2,2018-06-21 19:08:55,2018-06-21 19:17:38,0,0,0,1.0,1,0,1.0,0.0
+Julien Hamaide,julien.hamaide@gmail.com,0,0,11,1,2018-06-27 01:50:41,2018-06-27 01:50:41,0,0,0,0.0,0,0,0,0.0
+quocsinh,quocsinh82@gmail.com,0,0,11,1,2018-06-28 06:38:14,2018-06-28 06:38:14,0,0,0,0.0,0,0,0,0.0
+fmmoret,fmmoret2@gmail.com,0,0,50,4,2018-06-29 14:45:46,2018-06-30 09:22:47,0,0,0,1.0,1,0,1.0,0.0

@@ -1,3 +1,3 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-ishepard,['spadini.davide@gmail.com'],0,0,1564,57,2018-10-19 18:46:05,2018-11-06 16:41:24,644.0,23.47058823529412,28,16.68888888888889,18,12
-Spadini Davide,['spadini.davide@gmail.com'],0,0,432,3,2018-10-22 16:13:31,2018-10-31 16:41:09,336.0,2.333333333333333,0,0.0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+ishepard,['spadini.davide@gmail.com'],0,0,1564,57,2018-10-19 18:46:05,2018-11-06 16:41:24,644.0,23.47058823529412,28,16.68888888888889,18,12,0.9271604938271606,0.21052631578947367
+Spadini Davide,['spadini.davide@gmail.com'],0,0,432,3,2018-10-22 16:13:31,2018-10-31 16:41:09,336.0,2.333333333333333,0,0.0,0,0,0,0.0

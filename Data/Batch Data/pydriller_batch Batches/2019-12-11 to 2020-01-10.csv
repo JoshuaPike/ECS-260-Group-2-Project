@@ -1,7 +1,7 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-stefanodallapalma,['stefano.dallapalma0@gmail.com'],0,0,785,7,2019-12-11 16:51:27,2019-12-12 13:08:24,0,0,6,2.5666666666666664,3,2
-ishepard,['spadini.davide@gmail.com'],0,0,1463,27,2019-12-12 12:14:11,2019-12-24 12:38:55,853.4166666666667,15.75,13,10.632352941176473,11,-16
-Davide Spadini,['spadini.davide@gmail.com'],0,0,1827,8,2019-12-12 12:25:03,2019-12-23 18:16:15,1162.6363636363637,5.090909090909091,0,0.0,0,0
-Yusuf Sulistyo Nugroho,['32761621+yusufsn@users.noreply.github.com'],0,0,13,1,2019-12-18 02:38:46,2019-12-18 02:38:46,0,0,0,0.0,0,0
-James Goodwin,['j.goodwin049@gmail.com'],0,0,49,3,2019-12-21 12:45:20,2019-12-21 16:12:26,0,0,1,1.6,2,0
-Marco Castelluccio,['mcastelluccio@mozilla.com'],0,0,358,1,2019-12-22 22:41:24,2019-12-22 22:41:24,0,0,3,0.2313432835820895,1,-45
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+stefanodallapalma,['stefano.dallapalma0@gmail.com'],0,0,785,7,2019-12-11 16:51:27,2019-12-12 13:08:24,0,0,6,2.5666666666666664,3,2,0.8555555555555555,0.2857142857142857
+ishepard,['spadini.davide@gmail.com'],0,0,1463,27,2019-12-12 12:14:11,2019-12-24 12:38:55,853.4166666666667,15.75,13,10.632352941176473,11,-16,0.9665775401069521,-0.5925925925925926
+Davide Spadini,['spadini.davide@gmail.com'],0,0,1827,8,2019-12-12 12:25:03,2019-12-23 18:16:15,1162.6363636363637,5.090909090909091,0,0.0,0,0,0,0.0
+Yusuf Sulistyo Nugroho,['32761621+yusufsn@users.noreply.github.com'],0,0,13,1,2019-12-18 02:38:46,2019-12-18 02:38:46,0,0,0,0.0,0,0,0,0.0
+James Goodwin,['j.goodwin049@gmail.com'],0,0,49,3,2019-12-21 12:45:20,2019-12-21 16:12:26,0,0,1,1.6,2,0,0.8,0.0
+Marco Castelluccio,['mcastelluccio@mozilla.com'],0,0,358,1,2019-12-22 22:41:24,2019-12-22 22:41:24,0,0,3,0.2313432835820895,1,-45,0.2313432835820895,-45.0

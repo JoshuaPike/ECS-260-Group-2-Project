@@ -1,49 +1,49 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Takahiro,hogehoge@gachapin.jp,0,0,182,5,2020-04-15 10:39:11,2020-05-11 04:32:06,50.959999999999994,1.4,4,2.0,2,0
-WestLangley,WestLangley@users.noreply.github.com,0,0,13720,15,2020-04-15 19:19:26,2020-05-15 12:59:10,3311.724137931034,3.6206896551724133,8,1.0769230769230769,2,14
-Maciek Jurczyk,thelairmail@gmail.com,0,0,128,5,2020-04-16 08:41:19,2020-04-17 15:42:55,896.0,35.0,3,2.708974358974359,4,2
-Mr.doob,info@mrdoob.com,0,0,23465,151,2020-04-17 00:57:17,2020-05-15 09:07:06,5866.25,37.75,21,10.618528823921306,12,8
-munrocket@pm.me,munrocket@pm.me,0,0,3776,7,2020-04-16 17:35:06,2020-05-15 18:57:52,911.4482758620688,1.689655172413793,10,0.0,0,1
-munrocket,munrocket@pm.me,0,0,52,2,2020-04-16 17:39:32,2020-05-15 02:09:16,13.0,0.5,0,0.0,0,0
-LeonYuanYao,yaoyuan@suitbim.com,0,0,12,1,2020-04-17 19:07:36,2020-04-17 19:07:36,0,0,2,0.0,0,0
-Marco Fugaro,marco.fugaro@gmail.com,0,0,494,3,2020-04-17 13:52:54,2020-04-17 17:03:38,0,0,5,2.0,2,-6
-Aki Rodic,rodic@adobe.com,0,0,175,3,2020-04-17 05:37:10,2020-04-19 07:30:49,612.5,10.5,2,1.0,1,0
-Mugen87,michael.herzog@human-interactive.org,0,0,5084,44,2020-04-19 13:23:07,2020-05-15 19:44:47,1368.7692307692307,11.846153846153845,125,11.718296192111758,13,56
-Peter Varga,peter.varga@xyicon.com,0,0,14,1,2020-04-20 14:47:02,2020-04-20 14:47:02,0,0,1,1.0,1,0
-Don McCurdy,donmccurdy@google.com,0,0,97,6,2020-04-20 15:32:12,2020-05-14 13:56:24,29.521739130434785,1.8260869565217392,3,1.8333333333333335,2,0
-Lewy Blue,looeee@gmail.com,0,0,6,2,2020-04-21 20:27:33,2020-04-22 00:10:11,0,0,0,0.0,0,0
-linbingquan,695601626@qq.com,0,0,794,15,2020-04-22 06:20:28,2020-05-01 23:01:21,617.5555555555555,11.666666666666666,3,0.0,0,0
-Senya Pugach,upisfree@outlook.com,0,0,2,1,2020-04-21 23:40:33,2020-04-21 23:40:33,0,0,0,0.0,0,0
-Marquizzo,marco@dyadstudios.com,0,0,123,2,2020-04-22 08:49:52,2020-04-23 06:01:44,0,0,2,0.0,0,2
-Jesper van den Ende,jespertheend@gmail.com,0,0,1,1,2020-04-23 22:21:03,2020-04-23 22:21:03,0,0,0,0.0,0,0
-Florent Coudret,florent.coudret@cstb.fr,0,0,130,2,2020-04-24 20:29:38,2020-04-24 21:54:57,0,0,1,0.0,0,0
-goechsler,github@oechsler.de,0,0,2,1,2020-04-25 14:21:45,2020-04-25 14:21:45,0,0,0,0.0,0,0
-Teja Swaroop Arukoti,tsarukoti@foyr.com,0,0,20,1,2020-04-26 04:16:04,2020-04-26 04:16:04,0,0,2,0.0,0,0
-Luis Blanco,luisblanco1337@gmail.com,1,1,202279,8,2020-04-26 16:21:55,2020-04-27 22:18:53,1415953.0,56.0,2,0.0,0,0
-Kurogoma4D,highdro0479@gmail.com,0,0,3,1,2020-04-27 11:34:19,2020-04-27 11:34:19,0,0,0,0.0,0,0
-Benjamin MICHEL,119354+SBRK@users.noreply.github.com#benjisbrk@gmail.com,0,0,66977,2,2020-04-29 15:58:41,2020-04-29 16:03:20,0,0,0,0.0,0,0
-Christine Morten,mortenc@amazon.com,0,0,15,4,2020-04-29 03:53:07,2020-05-13 05:40:32,7.5,2.0,1,1.0,1,0
-Michael Herzog,michael.herzog@human-interactive.org,0,0,5,2,2020-04-29 23:15:38,2020-05-07 01:37:23,5.0,2.0,0,0.0,0,0
-gonnavis,gonnavis@163.com,0,0,2,1,2020-05-01 01:59:01,2020-05-01 01:59:01,0,0,1,0.0,0,0
-Filipp Keks,filipp.keks@trimble.com,0,0,2452,13,2020-04-30 19:49:33,2020-05-06 14:15:11,3432.7999999999997,18.2,3,5.0,5,-1
-rvadhavk,rajeev22.18@gmail.com,0,0,4,2,2020-04-30 09:10:39,2020-04-30 09:29:26,0,0,0,0.0,0,0
-Kai Salmen,myself@kaisalmen.de,0,0,36,1,2020-05-01 01:51:22,2020-05-01 01:51:22,0,0,1,0.0,0,0
-Guilherme Avila,guilhermebav@gmail.com,0,0,184,4,2020-04-30 23:49:33,2020-05-13 09:04:04,107.33333333333334,2.3333333333333335,3,2.2580645161290325,3,3
-Nguyễn Hoàng Dương,you_create@protonmail.com,0,0,2,1,2020-05-02 00:33:05,2020-05-02 00:33:05,0,0,0,0.0,0,0
-Pim Schreurs,pimschreurs@gmail.com,0,0,2,1,2020-05-01 23:04:03,2020-05-01 23:04:03,0,0,0,0.0,0,0
-Jonathan Giroux (Koltes),KoltesDigital@users.noreply.github.com,0,0,2,2,2020-05-02 01:46:16,2020-05-02 03:47:11,0,0,2,2.0,2,0
-JeffCorp,46923496+JeffCorp@users.noreply.github.com,0,0,2,1,2020-05-03 11:42:57,2020-05-03 11:42:57,0,0,0,0.0,0,0
-Antony Bartlett,antony.bartlett@innovyze.com,0,0,4,1,2020-05-04 18:23:06,2020-05-04 18:23:06,0,0,0,0.0,0,0
-Nicolas Maréchal,nicolas.marechal@rhinov.fr,0,0,4,1,2020-05-06 11:53:59,2020-05-06 11:53:59,0,0,2,0.0,0,0
-santi,santi@proper-code.com,0,0,3307,6,2020-05-06 18:12:40,2020-05-09 04:57:51,11574.5,21.0,0,0.0,0,0
-Jonathan Giroux,giroux.jo@gmail.com,0,0,2,1,2020-05-08 23:05:35,2020-05-08 23:05:35,0,0,0,0.0,0,0
-Dusan Bosnjak,citizens.arrest@gmail.com,0,0,75,1,2020-05-08 10:41:11,2020-05-08 10:41:11,0,0,0,0.0,0,0
-Wouter Vanmontfort,git.wouter@vanmontfort.be,0,0,19,3,2020-05-10 00:53:59,2020-05-14 00:17:19,44.333333333333336,7.0,1,1.0,1,0
-CJ Bailey,cj.bailey@greedygoblingames.co.uk,0,0,7,2,2020-05-10 20:56:42,2020-05-10 22:35:01,0,0,0,0.0,0,0
-gogoend,gogoend@qq.com,0,0,895,1,2020-05-13 08:17:00,2020-05-13 08:17:00,0,0,0,0.0,0,0
-Len Boyette,kevlened@users.noreply.github.com,0,0,2,1,2020-05-12 09:11:16,2020-05-12 09:11:16,0,0,0,0.0,0,0
-Garrett Johnson,garrett.kjohnson@gmail.com,0,0,587,5,2020-05-12 03:46:07,2020-05-15 03:15:02,2054.5,17.5,2,3.0,3,0
-Jacob Bijani,jake@users.noreply.github.com#jacob.bijani@gmail.com,0,0,20,3,2020-05-14 12:36:21,2020-05-15 13:27:19,140.0,21.0,2,1.0,1,0
-Frédéric Sarron,sarron.f@sfeir.com,0,0,3,1,2020-05-15 01:52:29,2020-05-15 01:52:29,0,0,0,0.0,0,0
-Olli Etuaho,olli.etuaho@gmail.com,0,0,2,1,2020-05-15 21:53:51,2020-05-15 21:53:51,0,0,1,0.0,0,0
-Chris Joel,cdata@google.com,0,0,32,2,2020-05-15 03:02:52,2020-05-15 08:17:23,0,0,0,0.1,1,1
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Takahiro,hogehoge@gachapin.jp,0,0,182,5,2020-04-15 10:39:11,2020-05-11 04:32:06,50.959999999999994,1.4,4,2.0,2,0,1.0,0.0
+WestLangley,WestLangley@users.noreply.github.com,0,0,13720,15,2020-04-15 19:19:26,2020-05-15 12:59:10,3311.724137931034,3.6206896551724133,8,1.0769230769230769,2,14,0.5384615384615384,0.9333333333333333
+Maciek Jurczyk,thelairmail@gmail.com,0,0,128,5,2020-04-16 08:41:19,2020-04-17 15:42:55,896.0,35.0,3,2.708974358974359,4,2,0.6772435897435898,0.4
+Mr.doob,info@mrdoob.com,0,0,23465,151,2020-04-17 00:57:17,2020-05-15 09:07:06,5866.25,37.75,21,10.618528823921306,12,8,0.8848774019934421,0.052980132450331126
+munrocket@pm.me,munrocket@pm.me,0,0,3776,7,2020-04-16 17:35:06,2020-05-15 18:57:52,911.4482758620688,1.689655172413793,10,0.0,0,1,0,0.14285714285714285
+munrocket,munrocket@pm.me,0,0,52,2,2020-04-16 17:39:32,2020-05-15 02:09:16,13.0,0.5,0,0.0,0,0,0,0.0
+LeonYuanYao,yaoyuan@suitbim.com,0,0,12,1,2020-04-17 19:07:36,2020-04-17 19:07:36,0,0,2,0.0,0,0,0,0.0
+Marco Fugaro,marco.fugaro@gmail.com,0,0,494,3,2020-04-17 13:52:54,2020-04-17 17:03:38,0,0,5,2.0,2,-6,1.0,-2.0
+Aki Rodic,rodic@adobe.com,0,0,175,3,2020-04-17 05:37:10,2020-04-19 07:30:49,612.5,10.5,2,1.0,1,0,1.0,0.0
+Mugen87,michael.herzog@human-interactive.org,0,0,5084,44,2020-04-19 13:23:07,2020-05-15 19:44:47,1368.7692307692307,11.846153846153845,125,11.718296192111758,13,56,0.9014073993932121,1.2727272727272727
+Peter Varga,peter.varga@xyicon.com,0,0,14,1,2020-04-20 14:47:02,2020-04-20 14:47:02,0,0,1,1.0,1,0,1.0,0.0
+Don McCurdy,donmccurdy@google.com,0,0,97,6,2020-04-20 15:32:12,2020-05-14 13:56:24,29.521739130434785,1.8260869565217392,3,1.8333333333333335,2,0,0.9166666666666667,0.0
+Lewy Blue,looeee@gmail.com,0,0,6,2,2020-04-21 20:27:33,2020-04-22 00:10:11,0,0,0,0.0,0,0,0,0.0
+linbingquan,695601626@qq.com,0,0,794,15,2020-04-22 06:20:28,2020-05-01 23:01:21,617.5555555555555,11.666666666666666,3,0.0,0,0,0,0.0
+Senya Pugach,upisfree@outlook.com,0,0,2,1,2020-04-21 23:40:33,2020-04-21 23:40:33,0,0,0,0.0,0,0,0,0.0
+Marquizzo,marco@dyadstudios.com,0,0,123,2,2020-04-22 08:49:52,2020-04-23 06:01:44,0,0,2,0.0,0,2,0,1.0
+Jesper van den Ende,jespertheend@gmail.com,0,0,1,1,2020-04-23 22:21:03,2020-04-23 22:21:03,0,0,0,0.0,0,0,0,0.0
+Florent Coudret,florent.coudret@cstb.fr,0,0,130,2,2020-04-24 20:29:38,2020-04-24 21:54:57,0,0,1,0.0,0,0,0,0.0
+goechsler,github@oechsler.de,0,0,2,1,2020-04-25 14:21:45,2020-04-25 14:21:45,0,0,0,0.0,0,0,0,0.0
+Teja Swaroop Arukoti,tsarukoti@foyr.com,0,0,20,1,2020-04-26 04:16:04,2020-04-26 04:16:04,0,0,2,0.0,0,0,0,0.0
+Luis Blanco,luisblanco1337@gmail.com,1,1,202279,8,2020-04-26 16:21:55,2020-04-27 22:18:53,1415953.0,56.0,2,0.0,0,0,0,0.0
+Kurogoma4D,highdro0479@gmail.com,0,0,3,1,2020-04-27 11:34:19,2020-04-27 11:34:19,0,0,0,0.0,0,0,0,0.0
+Benjamin MICHEL,119354+SBRK@users.noreply.github.com#benjisbrk@gmail.com,0,0,66977,2,2020-04-29 15:58:41,2020-04-29 16:03:20,0,0,0,0.0,0,0,0,0.0
+Christine Morten,mortenc@amazon.com,0,0,15,4,2020-04-29 03:53:07,2020-05-13 05:40:32,7.5,2.0,1,1.0,1,0,1.0,0.0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,5,2,2020-04-29 23:15:38,2020-05-07 01:37:23,5.0,2.0,0,0.0,0,0,0,0.0
+gonnavis,gonnavis@163.com,0,0,2,1,2020-05-01 01:59:01,2020-05-01 01:59:01,0,0,1,0.0,0,0,0,0.0
+Filipp Keks,filipp.keks@trimble.com,0,0,2452,13,2020-04-30 19:49:33,2020-05-06 14:15:11,3432.7999999999997,18.2,3,5.0,5,-1,1.0,-0.07692307692307693
+rvadhavk,rajeev22.18@gmail.com,0,0,4,2,2020-04-30 09:10:39,2020-04-30 09:29:26,0,0,0,0.0,0,0,0,0.0
+Kai Salmen,myself@kaisalmen.de,0,0,36,1,2020-05-01 01:51:22,2020-05-01 01:51:22,0,0,1,0.0,0,0,0,0.0
+Guilherme Avila,guilhermebav@gmail.com,0,0,184,4,2020-04-30 23:49:33,2020-05-13 09:04:04,107.33333333333334,2.3333333333333335,3,2.2580645161290325,3,3,0.7526881720430109,0.75
+Nguyễn Hoàng Dương,you_create@protonmail.com,0,0,2,1,2020-05-02 00:33:05,2020-05-02 00:33:05,0,0,0,0.0,0,0,0,0.0
+Pim Schreurs,pimschreurs@gmail.com,0,0,2,1,2020-05-01 23:04:03,2020-05-01 23:04:03,0,0,0,0.0,0,0,0,0.0
+Jonathan Giroux (Koltes),KoltesDigital@users.noreply.github.com,0,0,2,2,2020-05-02 01:46:16,2020-05-02 03:47:11,0,0,2,2.0,2,0,1.0,0.0
+JeffCorp,46923496+JeffCorp@users.noreply.github.com,0,0,2,1,2020-05-03 11:42:57,2020-05-03 11:42:57,0,0,0,0.0,0,0,0,0.0
+Antony Bartlett,antony.bartlett@innovyze.com,0,0,4,1,2020-05-04 18:23:06,2020-05-04 18:23:06,0,0,0,0.0,0,0,0,0.0
+Nicolas Maréchal,nicolas.marechal@rhinov.fr,0,0,4,1,2020-05-06 11:53:59,2020-05-06 11:53:59,0,0,2,0.0,0,0,0,0.0
+santi,santi@proper-code.com,0,0,3307,6,2020-05-06 18:12:40,2020-05-09 04:57:51,11574.5,21.0,0,0.0,0,0,0,0.0
+Jonathan Giroux,giroux.jo@gmail.com,0,0,2,1,2020-05-08 23:05:35,2020-05-08 23:05:35,0,0,0,0.0,0,0,0,0.0
+Dusan Bosnjak,citizens.arrest@gmail.com,0,0,75,1,2020-05-08 10:41:11,2020-05-08 10:41:11,0,0,0,0.0,0,0,0,0.0
+Wouter Vanmontfort,git.wouter@vanmontfort.be,0,0,19,3,2020-05-10 00:53:59,2020-05-14 00:17:19,44.333333333333336,7.0,1,1.0,1,0,1.0,0.0
+CJ Bailey,cj.bailey@greedygoblingames.co.uk,0,0,7,2,2020-05-10 20:56:42,2020-05-10 22:35:01,0,0,0,0.0,0,0,0,0.0
+gogoend,gogoend@qq.com,0,0,895,1,2020-05-13 08:17:00,2020-05-13 08:17:00,0,0,0,0.0,0,0,0,0.0
+Len Boyette,kevlened@users.noreply.github.com,0,0,2,1,2020-05-12 09:11:16,2020-05-12 09:11:16,0,0,0,0.0,0,0,0,0.0
+Garrett Johnson,garrett.kjohnson@gmail.com,0,0,587,5,2020-05-12 03:46:07,2020-05-15 03:15:02,2054.5,17.5,2,3.0,3,0,1.0,0.0
+Jacob Bijani,jake@users.noreply.github.com#jacob.bijani@gmail.com,0,0,20,3,2020-05-14 12:36:21,2020-05-15 13:27:19,140.0,21.0,2,1.0,1,0,1.0,0.0
+Frédéric Sarron,sarron.f@sfeir.com,0,0,3,1,2020-05-15 01:52:29,2020-05-15 01:52:29,0,0,0,0.0,0,0,0,0.0
+Olli Etuaho,olli.etuaho@gmail.com,0,0,2,1,2020-05-15 21:53:51,2020-05-15 21:53:51,0,0,1,0.0,0,0,0,0.0
+Chris Joel,cdata@google.com,0,0,32,2,2020-05-15 03:02:52,2020-05-15 08:17:23,0,0,0,0.1,1,1,0.1,0.5

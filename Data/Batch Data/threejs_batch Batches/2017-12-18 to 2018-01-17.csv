@@ -1,37 +1,37 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Mr.doob,info@mrdoob.com,1,0,310771,153,2017-12-17 08:32:23,2018-01-16 07:29:20,75013.6896551724,36.93103448275862,20,10.245135746606335,13,-50
-Don McCurdy,don.r.mccurdy@gmail.com#donmccurdy@google.com,0,0,2120,18,2017-12-17 12:08:39,2018-01-16 03:17:54,511.7241379310344,4.344827586206896,14,5.0,5,6
-Tentone,tentone@outlook.com,0,0,435,10,2017-12-18 09:01:42,2017-12-18 22:18:19,0,0,1,1.5982142857142856,3,0
-Kai Salmen,myself@kaisalmen.de,0,0,2,1,2017-12-18 11:36:30,2017-12-18 11:36:30,0,0,1,0.0,0,0
-Mugen87,michael.herzog@human-interactive.org,0,0,8019,41,2017-12-18 21:42:47,2018-01-16 14:23:45,2004.75,10.25,16,6.570860077021823,8,-14
-Takahiro,hogehoge@gachapin.jp,0,0,3011,20,2017-12-19 19:20:40,2018-01-16 08:33:55,780.6296296296296,5.185185185185185,12,3.0,3,16
-Remus M,RemusMar@users.noreply.github.com,0,0,462899,4,2017-12-19 16:10:02,2017-12-19 19:43:11,0,0,3,0.0,0,233
-WestLangley,dat1234@gmail.com,0,0,804,12,2017-12-19 17:38:50,2018-01-16 06:52:18,208.44444444444443,3.111111111111111,12,2.799145299145299,5,-3
-Lewy Blue,looeee@gmail.com,1,0,289373,27,2017-12-21 01:51:22,2018-01-12 02:29:29,92073.22727272728,8.590909090909092,7,5.101118359739049,6,-16
-Bryan Wong,bryanw0ng@ucla.edu,0,0,586,13,2017-12-20 07:02:42,2017-12-22 10:01:06,2051.0,45.5,1,1.0,1,0
-hazed,hazed@syneforge.com,0,0,48,2,2017-12-21 18:30:15,2017-12-22 10:29:38,0,0,1,0.0,0,0
-agackakan,34688843+agackakan@users.noreply.github.com,0,0,6,1,2017-12-22 01:35:15,2017-12-22 01:35:15,0,0,0,0.0,0,0
-amakaseev,aleksey.makaseev@gmail.com,0,0,1998,6,2017-12-22 12:20:35,2017-12-25 13:41:48,4662.0,14.0,3,0.4583333333333333,1,34
-Tristan VALCKE,valcketristan@gmail.com,0,0,50,5,2017-12-22 20:42:47,2017-12-22 22:17:44,0,0,2,2.0,2,0
-Michael Herzog,michael.herzog@human-interactive.org,0,0,25,7,2017-12-24 12:53:24,2018-01-13 17:14:59,8.75,2.4499999999999997,12,0.0,0,0
-Magnuz Binder,MagnuzBinder@users.noreply.github.com,0,0,18,5,2017-12-25 10:36:54,2017-12-25 22:08:21,0,0,2,0.0,0,0
-sunag,contact@sunag.com.br,0,0,3567,8,2017-12-27 18:24:57,2018-01-09 14:31:43,2080.75,4.666666666666667,58,2.6978830470241197,4,7
-gero3,gero3@users.noreply.github.com#jeroen-876@hotmail.com,0,0,1528,28,2017-12-28 15:23:19,2018-01-05 10:58:34,1528.0,28.0,10,15.0,15,2
-Steven Lu (PuTTY Win10 on Centos 7 hydra1[tmux]),stevenlu443+hydra1@gmail.com,0,0,2,1,2017-12-28 19:00:29,2017-12-28 19:00:29,0,0,1,0.0,0,0
-Harold Iedema,harold@iedema.me,0,0,2,1,2017-12-29 20:03:33,2017-12-29 20:03:33,0,0,0,0.0,0,0
-Paul Masson,paulmasson@comcast.net,0,0,2,1,2017-12-30 05:54:49,2017-12-30 05:54:49,0,0,0,0.0,0,0
-Matt57,Matt_Webster57@yahoo.com,0,0,2,2,2017-12-30 19:07:05,2017-12-30 19:10:29,0,0,0,0.0,0,0
-Daniel Hritzkiv,daniel.hritzkiv@gmail.com,0,0,159,8,2018-01-03 06:20:38,2018-01-03 09:50:53,0,0,2,2.0,2,0
-Yannis Gravezas,wizgrav@gmail.com,0,0,347,1,2018-01-05 23:39:43,2018-01-05 23:39:43,0,0,0,0.0,0,0
-Richard Monette,richard.monette@shopify.com,0,0,106,1,2018-01-08 09:03:00,2018-01-08 09:03:00,0,0,1,0.3414634146341463,1,0
-Alexander Buzin,alexbuzin88@gmail.com,0,0,2,1,2018-01-09 19:02:02,2018-01-09 19:02:02,0,0,0,0.0,0,0
-matthias-w,void15@web.de,0,0,165,3,2018-01-10 10:18:00,2018-01-12 17:45:47,577.5,10.5,4,2.0,2,16
-Jürgen Ebert,juergen.ebert@exedio.com,0,0,32991,1,2018-01-11 11:43:26,2018-01-11 11:43:26,0,0,32,0.0,0,-252
-Pascal Häusler,p.haeusler@cadenas.de,0,0,13,1,2018-01-11 16:10:44,2018-01-11 16:10:44,0,0,1,0.0,0,0
-makc,makc.the.great@gmail.com,0,0,3,1,2018-01-11 20:01:30,2018-01-11 20:01:30,0,0,1,0.0,0,-1
-aardgoose,angus.sawyer@gmail.com,0,0,23,1,2018-01-12 21:24:04,2018-01-12 21:24:04,0,0,2,0.0,0,0
-James D. Morris,jamesdavidmorris@gmail.com,0,0,4,1,2018-01-13 02:18:40,2018-01-13 02:18:40,0,0,0,0.0,0,0
-John Marinelli,john.marinelli.dev@gmail.com,0,0,28,1,2018-01-14 14:46:10,2018-01-14 14:46:10,0,0,0,0.0,0,0
-eastpiger,lvwt@shanghaitech.edu.cn,0,0,15,1,2018-01-17 01:20:20,2018-01-17 01:20:20,0,0,1,0.0,0,0
-Pelle Johnsen,p.johnsen@globalscanning.com,0,0,21,1,2018-01-16 15:15:29,2018-01-16 15:15:29,0,0,0,0.6,1,0
-Sneha Belkhale,sbelkhale@yahoo.com,0,0,511,1,2018-01-16 03:56:27,2018-01-16 03:56:27,0,0,0,0.0,0,0
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Mr.doob,info@mrdoob.com,1,0,310771,153,2017-12-17 08:32:23,2018-01-16 07:29:20,75013.6896551724,36.93103448275862,20,10.245135746606335,13,-50,0.7880873651235643,-0.32679738562091504
+Don McCurdy,don.r.mccurdy@gmail.com#donmccurdy@google.com,0,0,2120,18,2017-12-17 12:08:39,2018-01-16 03:17:54,511.7241379310344,4.344827586206896,14,5.0,5,6,1.0,0.3333333333333333
+Tentone,tentone@outlook.com,0,0,435,10,2017-12-18 09:01:42,2017-12-18 22:18:19,0,0,1,1.5982142857142856,3,0,0.5327380952380952,0.0
+Kai Salmen,myself@kaisalmen.de,0,0,2,1,2017-12-18 11:36:30,2017-12-18 11:36:30,0,0,1,0.0,0,0,0,0.0
+Mugen87,michael.herzog@human-interactive.org,0,0,8019,41,2017-12-18 21:42:47,2018-01-16 14:23:45,2004.75,10.25,16,6.570860077021823,8,-14,0.8213575096277279,-0.34146341463414637
+Takahiro,hogehoge@gachapin.jp,0,0,3011,20,2017-12-19 19:20:40,2018-01-16 08:33:55,780.6296296296296,5.185185185185185,12,3.0,3,16,1.0,0.8
+Remus M,RemusMar@users.noreply.github.com,0,0,462899,4,2017-12-19 16:10:02,2017-12-19 19:43:11,0,0,3,0.0,0,233,0,58.25
+WestLangley,dat1234@gmail.com,0,0,804,12,2017-12-19 17:38:50,2018-01-16 06:52:18,208.44444444444443,3.111111111111111,12,2.799145299145299,5,-3,0.5598290598290598,-0.25
+Lewy Blue,looeee@gmail.com,1,0,289373,27,2017-12-21 01:51:22,2018-01-12 02:29:29,92073.22727272728,8.590909090909092,7,5.101118359739049,6,-16,0.8501863932898415,-0.5925925925925926
+Bryan Wong,bryanw0ng@ucla.edu,0,0,586,13,2017-12-20 07:02:42,2017-12-22 10:01:06,2051.0,45.5,1,1.0,1,0,1.0,0.0
+hazed,hazed@syneforge.com,0,0,48,2,2017-12-21 18:30:15,2017-12-22 10:29:38,0,0,1,0.0,0,0,0,0.0
+agackakan,34688843+agackakan@users.noreply.github.com,0,0,6,1,2017-12-22 01:35:15,2017-12-22 01:35:15,0,0,0,0.0,0,0,0,0.0
+amakaseev,aleksey.makaseev@gmail.com,0,0,1998,6,2017-12-22 12:20:35,2017-12-25 13:41:48,4662.0,14.0,3,0.4583333333333333,1,34,0.4583333333333333,5.666666666666667
+Tristan VALCKE,valcketristan@gmail.com,0,0,50,5,2017-12-22 20:42:47,2017-12-22 22:17:44,0,0,2,2.0,2,0,1.0,0.0
+Michael Herzog,michael.herzog@human-interactive.org,0,0,25,7,2017-12-24 12:53:24,2018-01-13 17:14:59,8.75,2.4499999999999997,12,0.0,0,0,0,0.0
+Magnuz Binder,MagnuzBinder@users.noreply.github.com,0,0,18,5,2017-12-25 10:36:54,2017-12-25 22:08:21,0,0,2,0.0,0,0,0,0.0
+sunag,contact@sunag.com.br,0,0,3567,8,2017-12-27 18:24:57,2018-01-09 14:31:43,2080.75,4.666666666666667,58,2.6978830470241197,4,7,0.6744707617560299,0.875
+gero3,gero3@users.noreply.github.com#jeroen-876@hotmail.com,0,0,1528,28,2017-12-28 15:23:19,2018-01-05 10:58:34,1528.0,28.0,10,15.0,15,2,1.0,0.07142857142857142
+Steven Lu (PuTTY Win10 on Centos 7 hydra1[tmux]),stevenlu443+hydra1@gmail.com,0,0,2,1,2017-12-28 19:00:29,2017-12-28 19:00:29,0,0,1,0.0,0,0,0,0.0
+Harold Iedema,harold@iedema.me,0,0,2,1,2017-12-29 20:03:33,2017-12-29 20:03:33,0,0,0,0.0,0,0,0,0.0
+Paul Masson,paulmasson@comcast.net,0,0,2,1,2017-12-30 05:54:49,2017-12-30 05:54:49,0,0,0,0.0,0,0,0,0.0
+Matt57,Matt_Webster57@yahoo.com,0,0,2,2,2017-12-30 19:07:05,2017-12-30 19:10:29,0,0,0,0.0,0,0,0,0.0
+Daniel Hritzkiv,daniel.hritzkiv@gmail.com,0,0,159,8,2018-01-03 06:20:38,2018-01-03 09:50:53,0,0,2,2.0,2,0,1.0,0.0
+Yannis Gravezas,wizgrav@gmail.com,0,0,347,1,2018-01-05 23:39:43,2018-01-05 23:39:43,0,0,0,0.0,0,0,0,0.0
+Richard Monette,richard.monette@shopify.com,0,0,106,1,2018-01-08 09:03:00,2018-01-08 09:03:00,0,0,1,0.3414634146341463,1,0,0.3414634146341463,0.0
+Alexander Buzin,alexbuzin88@gmail.com,0,0,2,1,2018-01-09 19:02:02,2018-01-09 19:02:02,0,0,0,0.0,0,0,0,0.0
+matthias-w,void15@web.de,0,0,165,3,2018-01-10 10:18:00,2018-01-12 17:45:47,577.5,10.5,4,2.0,2,16,1.0,5.333333333333333
+Jürgen Ebert,juergen.ebert@exedio.com,0,0,32991,1,2018-01-11 11:43:26,2018-01-11 11:43:26,0,0,32,0.0,0,-252,0,-252.0
+Pascal Häusler,p.haeusler@cadenas.de,0,0,13,1,2018-01-11 16:10:44,2018-01-11 16:10:44,0,0,1,0.0,0,0,0,0.0
+makc,makc.the.great@gmail.com,0,0,3,1,2018-01-11 20:01:30,2018-01-11 20:01:30,0,0,1,0.0,0,-1,0,-1.0
+aardgoose,angus.sawyer@gmail.com,0,0,23,1,2018-01-12 21:24:04,2018-01-12 21:24:04,0,0,2,0.0,0,0,0,0.0
+James D. Morris,jamesdavidmorris@gmail.com,0,0,4,1,2018-01-13 02:18:40,2018-01-13 02:18:40,0,0,0,0.0,0,0,0,0.0
+John Marinelli,john.marinelli.dev@gmail.com,0,0,28,1,2018-01-14 14:46:10,2018-01-14 14:46:10,0,0,0,0.0,0,0,0,0.0
+eastpiger,lvwt@shanghaitech.edu.cn,0,0,15,1,2018-01-17 01:20:20,2018-01-17 01:20:20,0,0,1,0.0,0,0,0,0.0
+Pelle Johnsen,p.johnsen@globalscanning.com,0,0,21,1,2018-01-16 15:15:29,2018-01-16 15:15:29,0,0,0,0.6,1,0,0.6,0.0
+Sneha Belkhale,sbelkhale@yahoo.com,0,0,511,1,2018-01-16 03:56:27,2018-01-16 03:56:27,0,0,0,0.0,0,0,0,0.0

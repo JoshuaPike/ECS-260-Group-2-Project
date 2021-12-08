@@ -1,2 +1,2 @@
-name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed
-Ken Russell,['kbrussel@alum.mit.edu'],0,0,10,2,2019-07-16 09:03:36,2019-07-24 10:02:38,8.75,1.75,1,1.0,1,1
+name,emails,10x label churn,10x label commits,churn,num commits,first commit,last commit,churn productivity,commit productivity,num owned files,sum of dmm complexities,commits with dmm complexity present,num comments added/removed,average dmm,average comments
+Ken Russell,['kbrussel@alum.mit.edu'],0,0,10,2,2019-07-16 09:03:36,2019-07-24 10:02:38,8.75,1.75,1,1.0,1,1,1.0,0.5
